@@ -1,0 +1,9 @@
+[
+  {
+    "id": "income_rate",
+    "name": "所得率データ",
+    "file": "IncomeRate.csv",
+    "description": "年度ごとの所得率をまとめたデータ",
+    "xKey": "year"
+  }
+]

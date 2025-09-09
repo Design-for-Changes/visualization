@@ -1,0 +1,106 @@
+[
+  {
+    "grade": 4193000,
+    "remuneration_min": 4193000,
+    "remuneration_max": null,
+    "standard_month": 4193000,
+    "health": {
+      "rate_no_care": 0.0991,
+      "rate_with_care": 0.115
+    },
+    "pension": {
+      "rate_total": 0.183
+    }
+  },
+  {
+    "grade": 3532635000,
+    "remuneration_min": 3532635000,
+    "remuneration_max": null,
+    "standard_month": 3532635000,
+    "health": {
+      "rate_no_care": 0.0991,
+      "rate_with_care": 0.115
+    },
+    "pension": {
+      "rate_total": 0.183
+    }
+  },
+  {
+    "grade": 7320000,
+    "remuneration_min": 7320000,
+    "remuneration_max": null,
+    "standard_month": 7320000,
+    "health": {
+      "rate_no_care": 0.0991,
+      "rate_with_care": 0.115
+    },
+    "pension": {
+      "rate_total": 0.183
+    }
+  },
+  {
+    "grade": 50501,
+    "remuneration_min": 50501,
+    "remuneration_max": null,
+    "standard_month": 50501,
+    "health": {
+      "rate_no_care": 0.0991,
+      "rate_with_care": 0.115
+    },
+    "pension": {
+      "rate_total": 0.183
+    }
+  },
+  {
+    "grade": 50501,
+    "remuneration_min": 50501,
+    "remuneration_max": null,
+    "standard_month": 50501,
+    "health": {
+      "rate_no_care": 0.0991,
+      "rate_with_care": 0.115
+    },
+    "pension": {
+      "rate_total": 0.183
+    }
+  },
+  {
+    "grade": 1000,
+    "remuneration_min": 1000,
+    "remuneration_max": null,
+    "standard_month": 1000,
+    "health": {
+      "rate_no_care": 0.0991,
+      "rate_with_care": 0.115
+    },
+    "pension": {
+      "rate_total": 0.183
+    }
+  },
+  {
+    "grade": 57341331,
+    "remuneration_min": 57341331,
+    "remuneration_max": null,
+    "standard_month": 57341331,
+    "health": {
+      "rate_no_care": 0.0991,
+      "rate_with_care": 0.115
+    },
+    "pension": {
+      "rate_total": 0.183
+    }
+  },
+  {
+    "grade": 150,
+    "remuneration_min": 150,
+    "remuneration_max": null,
+    "standard_month": 150,
+    "health": {
+      "rate_no_care": 0.0991,
+      "rate_with_care": 0.115
+    },
+    "pension": {
+      "rate_total": 0.183
+    }
+  }
+]
