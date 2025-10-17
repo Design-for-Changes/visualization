@@ -187,8 +187,8 @@ function updateSizes(k) {
   gEdges.selectAll("line.edge")
     .attr("stroke-width", d => (d._w || 0.15));
 
-  // テキストは見かけサイズを一定にする（1/kで補正）
-  const denom = k || 1;
+  // テキストは見かけサイズをほぼ一定に（ズームしても極端に小さくならないよう補正）
+  const denom = Math.pow(k, 0.6); // 小さめのスケーリング補正（完全固定より自然）
   gPlot.selectAll("text.sample-label").attr("font-size", 12 / denom);
   gPlot.selectAll("text.cat-label").attr("font-size", 10 / denom);
 }
