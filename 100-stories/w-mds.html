@@ -1,0 +1,69 @@
+<!doctype html>
+<meta charset="utf-8" />
+<style>
+  body { font-family: -apple-system, "Hiragino Sans", "Noto Sans CJK JP", sans-serif; }
+  #uploader { margin: 12px 0; }
+</style>
+<div id="uploader">
+  <label>Samples CSV: <input type="file" id="samplesFile" accept=".csv"></label>
+  <label>Categories CSV: <input type="file" id="catsFile" accept=".csv"></label>
+  <button id="drawBtn">描画</button>
+</div>
+<svg id="chart" width="800" height="600"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script>
+const svg = d3.select("#chart");
+const width = +svg.attr("width"), height = +svg.attr("height");
+
+function readFileAsText(file) {
+  return new Promise((resolve, reject) => {
+    const r = new FileReader();
+    r.onload = () => resolve(r.result);
+    r.onerror = reject;
+    r.readAsText(file, "utf-8");
+  });
+}
+
+document.getElementById("drawBtn").addEventListener("click", async () => {
+  const sFile = document.getElementById("samplesFile").files[0];
+  const cFile = document.getElementById("catsFile").files[0];
+  if (!sFile || !cFile) { alert("両方のCSVを選んでください"); return; }
+
+  const [sText, cText] = await Promise.all([readFileAsText(sFile), readFileAsText(cFile)]);
+  const samples = d3.csvParse(sText, d3.autoType);
+  const categories = d3.csvParse(cText, d3.autoType);
+
+  const all = samples.concat(categories);
+  const x = d3.scaleLinear().domain(d3.extent(all, d => d.x)).nice().range([40, width-20]);
+  const y = d3.scaleLinear().domain(d3.extent(all, d => d.y)).nice().range([height-30, 20]);
+
+  svg.selectAll("*").remove();
+  svg.append("g").attr("transform", `translate(0,${height-30})`).call(d3.axisBottom(x));
+  svg.append("g").attr("transform", `translate(40,0)`).call(d3.axisLeft(y));
+
+  svg.append("g")
+    .selectAll("circle.sample")
+    .data(samples)
+    .join("circle")
+      .attr("class", "sample")
+      .attr("cx", d => x(d.x))
+      .attr("cy", d => y(d.y))
+      .attr("r", 3)
+      .attr("fill", "#444")
+      .attr("opacity", 0.85)
+    .append("title").text(d => d.id);
+
+  svg.append("g")
+    .selectAll("circle.cat")
+    .data(categories)
+    .join("circle")
+      .attr("class", "cat")
+      .attr("cx", d => x(d.x))
+      .attr("cy", d => y(d.y))
+      .attr("r", d => Math.max(2, Math.sqrt(d.size ?? 0))) // wmds.pyのsize列を想定
+      .attr("fill", "steelblue")
+      .attr("opacity", 0.35)
+      .attr("stroke", "steelblue")
+    .append("title").text(d => `${d.label}\nhits:${d.hit_count}`);
+});
+</script>
