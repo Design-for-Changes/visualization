@@ -271,7 +271,7 @@ function render() {
       .attr("y", d => y(d.y))
       .attr("text-anchor", "middle")
       .attr("dominant-baseline", "central")
-      .attr("font-size", 8)
+      .attr("font-size", 12)
       .attr("fill", d => (d.category ? colorScale(d.category) : "#444"))
       .text(d => formatSampleId(d.id ?? d.ID ?? d.Id));
 
@@ -296,7 +296,7 @@ function render() {
       .attr("y", d => y(d.y))
       .attr("text-anchor", "middle")
       .attr("dominant-baseline", "central")
-      .attr("font-size", 7)
+      .attr("font-size", 12)
       .attr("fill", d => colorScale(d.category))
       .attr("opacity", 0.95)
       .text(d => d.label ?? "");
