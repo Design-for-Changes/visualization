@@ -177,21 +177,20 @@ async function handleFilesInput(inputEl) {
 // scaleResp.addEventListener("input", (e) => { sizeResponse = +e.target.value; scaleRespVal.textContent = (+sizeResponse).toFixed(2); updateSizes(currentK); });
 
 function updateSizes(k) {
-  const denom = Math.pow(k, sizeResponse);
+  // 円・エッジはズームにそのまま追従（補正しない）
   gPlot.selectAll("circle.sample")
-    .attr("r", d => (d._r || 3) / denom)
-    .attr("stroke-width", 0.4 / denom);
+    .attr("r", d => (d._r || 3));
 
   gPlot.selectAll("circle.cat")
-    .attr("r", d => (d._r || 6) / denom)
-    .attr("stroke-width", 0.6 / denom);
+    .attr("r", d => (d._r || 6));
 
   gEdges.selectAll("line.edge")
-    .attr("stroke-width", d => (d._w || 0.15) / denom);
+    .attr("stroke-width", d => (d._w || 0.15));
 
-  // テキストはサイズ固定
-  gPlot.selectAll("text.sample-label").attr("font-size", 12);
-  gPlot.selectAll("text.cat-label").attr("font-size", 10);
+  // テキストは見かけサイズを一定にする（1/kで補正）
+  const denom = k || 1;
+  gPlot.selectAll("text.sample-label").attr("font-size", 12 / denom);
+  gPlot.selectAll("text.cat-label").attr("font-size", 10 / denom);
 }
 
 function render() {
