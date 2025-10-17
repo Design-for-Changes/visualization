@@ -53,6 +53,14 @@ document.getElementById("drawBtn").addEventListener("click", async () => {
       .attr("opacity", 0.85)
     .append("title").text(d => d.id);
 
+  // Define color scale for category prefixes
+  const catPrefixes = Array.from(new Set(categories.map(d => d.label.split(" / ")[0].trim())));
+  // Use fixed order for legend, or use detected ones
+  const prefixOrder = ["主題", "願い・願望", "その他"];
+  const colorScale = d3.scaleOrdinal()
+    .domain(prefixOrder.concat(catPrefixes.filter(p => !prefixOrder.includes(p))))
+    .range(["#e41a1c", "#377eb8", "#4daf4a", "#984ea3", "#ff7f00", "#a65628"]); // add more colors if needed
+
   svg.append("g")
     .selectAll("circle.cat")
     .data(categories)
@@ -61,9 +69,32 @@ document.getElementById("drawBtn").addEventListener("click", async () => {
       .attr("cx", d => x(d.x))
       .attr("cy", d => y(d.y))
       .attr("r", d => Math.max(2, Math.sqrt(d.size ?? 0))) // wmds.pyのsize列を想定
-      .attr("fill", "steelblue")
+      .attr("fill", d => colorScale(d.label.split(" / ")[0].trim()))
       .attr("opacity", 0.35)
-      .attr("stroke", "steelblue")
+      .attr("stroke", d => colorScale(d.label.split(" / ")[0].trim()))
     .append("title").text(d => `${d.label}\nhits:${d.hit_count}`);
+
+  // Add legend for category types
+  const legendData = colorScale.domain();
+  const legend = svg.append("g")
+    .attr("class", "legend")
+    .attr("transform", `translate(${width - 160}, 40)`);
+  legend.selectAll("rect")
+    .data(legendData)
+    .join("rect")
+      .attr("x", 0)
+      .attr("y", (d, i) => i * 22)
+      .attr("width", 18)
+      .attr("height", 18)
+      .attr("fill", d => colorScale(d))
+      .attr("opacity", 0.7);
+  legend.selectAll("text")
+    .data(legendData)
+    .join("text")
+      .attr("x", 24)
+      .attr("y", (d, i) => i * 22 + 13)
+      .text(d => d)
+      .attr("font-size", 14)
+      .attr("fill", "#222");
 });
 </script>
