@@ -170,7 +170,7 @@ async function handleFilesInput(inputEl) {
 // document.getElementById("netFile").addEventListener("change", (e) => handleFilesInput(e.target));
 // Removed search input event listener as per instructions
 // document.getElementById("search").addEventListener("input", (e) => { searchText = (e.target.value || "").trim(); render(); });
-document.getElementById("resetZoom").addEventListener("click", () => { svg.transition().duration(300).call(zoom.transform, d3.zoomIdentity); });
+
 // Removed scaleResp and scaleRespVal event listener and references
 // const scaleResp = document.getElementById("scaleResp");
 // const scaleRespVal = document.getElementById("scaleRespVal");
@@ -304,5 +304,7 @@ function render() {
   updateSizes(currentK);
 }
 </script>
+<script>
 // ページ読み込み時に固定ファイルを読み込む
 loadFixed();
+</script>
