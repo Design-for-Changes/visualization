@@ -1,19 +1,133 @@
 <!doctype html>
 <meta charset="utf-8" />
 <style>
+  html, body { height: 100%; margin: 0; }
   body { font-family: -apple-system, "Hiragino Sans", "Noto Sans CJK JP", sans-serif; }
-  #uploader { margin: 12px 0; }
+  #controls {
+    position: fixed;
+    top: 10px; left: 12px;
+    display: flex; gap: 8px; align-items: center;
+    background: rgba(255,255,255,0.9);
+    border: 1px solid #ddd; border-radius: 6px;
+    padding: 6px 10px; z-index: 10;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    backdrop-filter: blur(2px);
+  }
+  #controls input[type="file"] { max-width: 220px; }
+  #controls input[type="text"] {
+    padding: 4px 8px; border: 1px solid #ccc; border-radius: 4px;
+  }
+  #controls button {
+    padding: 4px 8px; border: 1px solid #ccc; border-radius: 4px;
+    background: #f6f6f6; cursor: pointer;
+  }
+  #controls button:hover { background: #eee; }
+  #hint {
+    position: fixed; right: 12px; top: 10px; z-index: 10;
+    font-size: 12px; color: #555; background: rgba(255,255,255,0.85);
+    padding: 6px 10px; border-radius: 6px; border: 1px solid #ddd;
+  }
+  svg { width: 100vw; height: 100vh; display: block; background: #fff; }
+  .legend-root { pointer-events: none; }
+  .legend-item { pointer-events: all; cursor: pointer; }
+  .legend-item.inactive { opacity: 0.35; text-decoration: line-through; }
 </style>
-<div id="uploader">
+
+<div id="controls">
   <label>Samples CSV: <input type="file" id="samplesFile" accept=".csv"></label>
   <label>Categories CSV: <input type="file" id="catsFile" accept=".csv"></label>
-  <button id="drawBtn">描画</button>
+  <label>Network JSON: <input type="file" id="netFile" accept=".json"></label>
+  <button id="resetZoom">ズームリセット</button>
 </div>
-<svg id="chart" width="800" height="600"></svg>
+
+<svg id="chart"></svg>
 <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
 <script>
 const svg = d3.select("#chart");
-const width = +svg.attr("width"), height = +svg.attr("height");
+let width = window.innerWidth, height = window.innerHeight;
+
+const gPlot = svg.append("g").attr("class", "plot");
+const gLegend = svg.append("g").attr("class", "legend-root");
+const gEdges = gPlot.append("g").attr("class", "edges");
+
+const tooltip = d3.select("body").append("div")
+  .style("position", "absolute")
+  .style("padding", "6px 10px")
+  .style("background", "rgba(0,0,0,0.75)")
+  .style("color", "white")
+  .style("border-radius", "4px")
+  .style("font-size", "12px")
+  .style("pointer-events", "none")
+  .style("opacity", 0);
+
+let samples = [];
+let categories = [];
+let network = { nodes: [], edges: [] };
+let activeCategories = new Set();
+// let searchText = ""; // removed as per instructions
+
+let x = d3.scaleLinear(), y = d3.scaleLinear();
+let colorScale = d3.scaleOrdinal();
+let rScale = d3.scaleSqrt();
+let currentK = 1;
+const sizeResponse = 1.0; // fixed value
+let edgeWidthScale = d3.scaleSqrt();
+
+const zoom = d3.zoom()
+  .scaleExtent([0.5, 12])
+  .on("zoom", (event) => {
+    currentK = event.transform.k;
+    gPlot.attr("transform", event.transform);
+    updateSizes(currentK);
+  });
+svg.call(zoom);
+
+function formatSampleId(v) {
+  const n = +v;
+  if (Number.isFinite(n)) {
+    const adj = (n >= 1000 ? n - 1000 : n);
+    return String(Math.max(0, Math.trunc(adj))).padStart(3, "0");
+  }
+  return v ?? "(idなし)";
+}
+function normalizeColumns(rows) {
+  const trimmed = rows.map(r => {
+    const o = {};
+    for (const k of rows.columns) {
+      const key = String(k).trim();
+      o[key] = r[k];
+    }
+    return o;
+  });
+  trimmed.columns = rows.columns.map(c => String(c).trim());
+  return trimmed;
+}
+
+// 固定ファイル読込関数
+async function loadFixed(){
+  try{
+    const [sRows, cRows, net] = await Promise.all([
+      d3.csv("d3_samples.csv", d3.autoType),
+      d3.csv("d3_categories.csv", d3.autoType),
+      d3.json("network_data.json")
+    ]);
+    samples = normalizeColumns(sRows);
+    categories = normalizeColumns(cRows);
+    network = (net && Array.isArray(net.edges)) ? net : {nodes:[], edges:[]};
+    activeCategories = new Set(categories.map(d => d.category));
+    render();
+  } catch(e) {
+    console.error("固定ファイル読込エラー", e);
+  }
+}
+
+function fitToWindow() {
+  width = window.innerWidth; height = window.innerHeight;
+  svg.attr("width", width).attr("height", height);
+  gLegend.attr("transform", `translate(${width - 180}, 20)`);
+}
+fitToWindow();
+window.addEventListener("resize", () => { fitToWindow(); render(); });
 
 function readFileAsText(file) {
   return new Promise((resolve, reject) => {
@@ -24,77 +138,178 @@ function readFileAsText(file) {
   });
 }
 
-document.getElementById("drawBtn").addEventListener("click", async () => {
-  const sFile = document.getElementById("samplesFile").files[0];
-  const cFile = document.getElementById("catsFile").files[0];
-  if (!sFile || !cFile) { alert("両方のCSVを選んでください"); return; }
+function ingestFile(name, text) {
+  const lower = (name || "").toLowerCase();
+  if (lower.endsWith(".json")) {
+    try {
+      const obj = JSON.parse(text);
+      if (obj && Array.isArray(obj.nodes) && Array.isArray(obj.edges)) {
+        network = obj;
+        return "network";
+      }
+    } catch (e) {}
+    return "unknown";
+  }
+  const rows = d3.csvParse(text, d3.autoType);
+  const norm = normalizeColumns(rows);
+  const headers = norm.columns.map(String);
+  const isCats = headers.includes("category") && headers.includes("x") && headers.includes("y");
+  const isSamples = headers.includes("id") && headers.includes("x") && headers.includes("y");
+  if (isCats) { categories = norm; activeCategories = new Set(categories.map(d => d.category)); return "categories"; }
+  else if (isSamples) { samples = norm; return "samples"; }
+  return "unknown";
+}
 
-  const [sText, cText] = await Promise.all([readFileAsText(sFile), readFileAsText(cFile)]);
-  const samples = d3.csvParse(sText, d3.autoType);
-  const categories = d3.csvParse(cText, d3.autoType);
+async function handleFilesInput(inputEl) {
+  const file = inputEl.files[0];
+  if (!file) return;
+  const text = await readFileAsText(file);
+  ingestFile(file.name, text);
+  render();
+}
+// Drag & drop は無効化（固定ファイル読込に変更）
+// window.addEventListener("dragover", (e) => e.preventDefault());
+// window.addEventListener("drop", async (e) => { /* disabled */ });
 
+// 入力UIは使わず固定ロードに変更
+// document.getElementById("samplesFile").addEventListener("change", (e) => handleFilesInput(e.target));
+// document.getElementById("catsFile").addEventListener("change", (e) => handleFilesInput(e.target));
+// document.getElementById("netFile").addEventListener("change", (e) => handleFilesInput(e.target));
+// Removed search input event listener as per instructions
+// document.getElementById("search").addEventListener("input", (e) => { searchText = (e.target.value || "").trim(); render(); });
+document.getElementById("resetZoom").addEventListener("click", () => { svg.transition().duration(300).call(zoom.transform, d3.zoomIdentity); });
+// Removed scaleResp and scaleRespVal event listener and references
+// const scaleResp = document.getElementById("scaleResp");
+// const scaleRespVal = document.getElementById("scaleRespVal");
+// scaleResp.addEventListener("input", (e) => { sizeResponse = +e.target.value; scaleRespVal.textContent = (+sizeResponse).toFixed(2); updateSizes(currentK); });
+
+function updateSizes(k) {
+  const denom = Math.pow(k, sizeResponse);
+  gPlot.selectAll("circle.sample").attr("r", d => (d._r || 3) / denom).attr("stroke-width", 0.4 / denom);
+  gPlot.selectAll("circle.cat").attr("r", d => (d._r || 6) / denom).attr("stroke-width", 0.6 / denom);
+  gEdges.selectAll("line.edge").attr("stroke-width", d => (d._w || 0.15) / denom);
+  gPlot.selectAll("text.sample-label").attr("font-size", 8 / denom);
+  gPlot.selectAll("text.cat-label").attr("font-size", 7 / denom);
+}
+
+function render() {
+  if (!categories.length && !samples.length) return;
   const all = samples.concat(categories);
-  const x = d3.scaleLinear().domain(d3.extent(all, d => d.x)).nice().range([40, width-20]);
-  const y = d3.scaleLinear().domain(d3.extent(all, d => d.y)).nice().range([height-30, 20]);
+  const xExtent = d3.extent(all, d => d.x);
+  const yExtent = d3.extent(all, d => d.y);
+  x = d3.scaleLinear().domain(xExtent).nice().range([60, width - 60]);
+  y = d3.scaleLinear().domain(yExtent).nice().range([height - 60, 60]);
+  const cats = Array.from(new Set(categories.map(d => d.category)));
+  colorScale = d3.scaleOrdinal().domain(cats).range(d3.schemeTableau10);
+  const hitExtent = d3.extent(categories, d => (d.hit_count ?? 0));
+  rScale = d3.scaleSqrt().domain(hitExtent).range([4, 26]);
+  const edgeExtent = d3.extent((network.edges || []).map(e => +e.totalCount || 0));
+  edgeWidthScale = d3.scaleSqrt().domain(edgeExtent[0] == null ? [0,1] : edgeExtent).range([0.15, 0.8]);
 
-  svg.selectAll("*").remove();
-  svg.append("g").attr("transform", `translate(0,${height-30})`).call(d3.axisBottom(x));
-  svg.append("g").attr("transform", `translate(40,0)`).call(d3.axisLeft(y));
+  // const searchLower = searchText.toLowerCase(); // removed as per instructions
+  const catsFiltered = categories.filter(d => {
+    const catOK = activeCategories.size ? activeCategories.has(d.category) : true;
+    // const textOK = !searchLower ? true : String(d.label || "").toLowerCase().includes(searchLower); // removed
+    // return catOK && textOK;
+    return catOK;
+  });
 
-  svg.append("g")
-    .selectAll("circle.sample")
+  gPlot.selectAll("*").remove();
+  const gEdgesLocal = gPlot.append("g").attr("class", "edges");
+  const gSamples = gPlot.append("g").attr("class", "samples");
+  const gCats = gPlot.append("g").attr("class", "categories");
+
+  const catByLabel = new Map();
+  for (const d of catsFiltered) catByLabel.set(String(d.label), d);
+
+  const edgeData = (network.edges || []).filter(e => catByLabel.has(String(e.source)) && catByLabel.has(String(e.target)));
+  gEdgesLocal.selectAll("line.edge")
+    .data(edgeData)
+    .join("line")
+      .attr("class", "edge")
+      .each(d => {
+        const s = catByLabel.get(String(d.source));
+        const t = catByLabel.get(String(d.target));
+        d._sx = x(s.x); d._sy = y(s.y);
+        d._tx = x(t.x); d._ty = y(t.y);
+        d._w = Math.max(0.1, edgeWidthScale(+d.totalCount || 0));
+      })
+      .attr("x1", d => d._sx)
+      .attr("y1", d => d._sy)
+      .attr("x2", d => d._tx)
+      .attr("y2", d => d._ty)
+      .attr("stroke", "#666")
+      .attr("stroke-opacity", 0.08)
+      .attr("stroke-width", d => d._w);
+
+  gSamples.selectAll("circle.sample")
     .data(samples)
     .join("circle")
       .attr("class", "sample")
       .attr("cx", d => x(d.x))
       .attr("cy", d => y(d.y))
-      .attr("r", 3)
-      .attr("fill", "#444")
-      .attr("opacity", 0.85)
-    .append("title").text(d => d.id);
+      .each(d => d._r = 3)
+      .attr("r", d => d._r)
+      .attr("fill", "#666")
+      .attr("opacity", 0.35) // より薄く
+      .attr("stroke", "none"); // ストロークを消去
 
-  // Define color scale for category prefixes
-  const catPrefixes = Array.from(new Set(categories.map(d => d.label.split(" / ")[0].trim())));
-  // Use fixed order for legend, or use detected ones
-  const prefixOrder = ["主題", "願い・願望", "その他"];
-  const colorScale = d3.scaleOrdinal()
-    .domain(prefixOrder.concat(catPrefixes.filter(p => !prefixOrder.includes(p))))
-    .range(["#e41a1c", "#377eb8", "#4daf4a", "#984ea3", "#ff7f00", "#a65628"]); // add more colors if needed
+  // gSamples.selectAll("text.sample-label")
+  //   .data(samples)
+  //   .join("text")
+  //     .attr("class", "sample-label")
+  //     .attr("x", d => x(d.x))
+  //     .attr("y", d => y(d.y))
+  //     .attr("text-anchor", "middle")
+  //     .attr("dominant-baseline", "central")
+  //     .attr("font-size", 8)
+  //     .attr("fill", d => (d.category ? colorScale(d.category) : "#444"))
+  //     .text(d => formatSampleId(d.id ?? d.ID ?? d.Id));
 
-  svg.append("g")
-    .selectAll("circle.cat")
-    .data(categories)
+  gSamples.selectAll("a.sample-link")
+    .data(samples)
+    .join("a")
+      .attr("class", "sample-link")
+      .attr("xlink:href", d => `https://dfchanges.site/100stories/${formatSampleId(d.id ?? d.ID ?? d.Id)}`)
+      .attr("target", "_blank")
+    .append("text")
+      .attr("class", "sample-label")
+      .attr("x", d => x(d.x))
+      .attr("y", d => y(d.y))
+      .attr("text-anchor", "middle")
+      .attr("dominant-baseline", "central")
+      .attr("font-size", 8)
+      .attr("fill", d => (d.category ? colorScale(d.category) : "#444"))
+      .text(d => formatSampleId(d.id ?? d.ID ?? d.Id));
+
+  gCats.selectAll("circle.cat")
+    .data(catsFiltered)
     .join("circle")
       .attr("class", "cat")
       .attr("cx", d => x(d.x))
       .attr("cy", d => y(d.y))
-      .attr("r", d => Math.max(2, Math.sqrt(d.size ?? 0))) // wmds.pyのsize列を想定
-      .attr("fill", d => colorScale(d.label.split(" / ")[0].trim()))
-      .attr("opacity", 0.35)
-      .attr("stroke", d => colorScale(d.label.split(" / ")[0].trim()))
-    .append("title").text(d => `${d.label}\nhits:${d.hit_count}`);
+      .each(d => d._r = (d.size != null ? Math.max(2, Math.sqrt(d.size)) : rScale(d.hit_count ?? 0)))
+      .attr("r", d => d._r)
+      .attr("fill", d => colorScale(d.category))
+      .attr("stroke", d => colorScale(d.category))
+      .attr("opacity", 0.2)
+      .attr("stroke-width", 0.6);
 
-  // Add legend for category types
-  const legendData = colorScale.domain();
-  const legend = svg.append("g")
-    .attr("class", "legend")
-    .attr("transform", `translate(${width - 160}, 40)`);
-  legend.selectAll("rect")
-    .data(legendData)
-    .join("rect")
-      .attr("x", 0)
-      .attr("y", (d, i) => i * 22)
-      .attr("width", 18)
-      .attr("height", 18)
-      .attr("fill", d => colorScale(d))
-      .attr("opacity", 0.7);
-  legend.selectAll("text")
-    .data(legendData)
+  gCats.selectAll("text.cat-label")
+    .data(catsFiltered)
     .join("text")
-      .attr("x", 24)
-      .attr("y", (d, i) => i * 22 + 13)
-      .text(d => d)
-      .attr("font-size", 14)
-      .attr("fill", "#222");
-});
+      .attr("class", "cat-label")
+      .attr("x", d => x(d.x))
+      .attr("y", d => y(d.y))
+      .attr("text-anchor", "middle")
+      .attr("dominant-baseline", "central")
+      .attr("font-size", 7)
+      .attr("fill", d => colorScale(d.category))
+      .attr("opacity", 0.95)
+      .text(d => d.label ?? "");
+
+  updateSizes(currentK);
+}
 </script>
+// ページ読み込み時に固定ファイルを読み込む
+loadFixed();
