@@ -3,56 +3,88 @@
 <style>
   html, body { height: 100%; margin: 0; }
   body { font-family: -apple-system, "Hiragino Sans", "Noto Sans CJK JP", sans-serif; }
-  #controls {
+  #ui-ribbon {
     position: fixed;
-    top: 10px; left: 12px;
-    display: flex; gap: 8px; align-items: center;
-    background: rgba(255,255,255,0.9);
-    border: 1px solid #ddd; border-radius: 6px;
-    padding: 6px 10px; z-index: 10;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-    backdrop-filter: blur(2px);
+    top: 0; left: 0; right: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 12px 12px 0;
+    z-index: 30;
+    pointer-events: none;
   }
-  #controls input[type="file"] { max-width: 220px; }
-  #controls input[type="text"] {
-    padding: 4px 8px; border: 1px solid #ccc; border-radius: 4px;
-  }
-  #controls button {
-    padding: 4px 8px; border: 1px solid #ccc; border-radius: 4px;
-    background: #f6f6f6; cursor: pointer;
-  }
-  #controls button:hover { background: #eee; }
-  #hint {
-    position: fixed; right: 12px; top: 10px; z-index: 10;
-    font-size: 12px; color: #555; background: rgba(255,255,255,0.85);
-    padding: 6px 10px; border-radius: 6px; border: 1px solid #ddd;
+  #ui-ribbon > * {
+    pointer-events: auto;
   }
   #view-tabs {
-    position: fixed;
-    top: 12px; left: 12px;
-    display: flex; gap: 8px;
-    z-index: 20;
+    display: flex;
+    gap: 12px;
+    border-radius: 16px;
+    background: rgba(255,255,255,0.95);
+    border: 1px solid rgba(0,0,0,0.08);
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    padding: 8px;
   }
   #view-tabs .tab-button {
-    padding: 10px 18px;
-    border: 1px solid #ccc;
-    border-radius: 999px;
-    background: rgba(255,255,255,0.92);
-    font-size: 16px;
+    flex: 1 1 0;
+    padding: 14px 18px;
+    border: 1px solid transparent;
+    border-radius: 12px;
+    background: transparent;
+    font-size: 18px;
+    font-weight: 600;
     cursor: pointer;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-    min-height: 44px;
-    min-width: 110px;
+    transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  }
+  #view-tabs .tab-button:hover {
+    border-color: rgba(10,124,255,0.35);
+    background: rgba(10,124,255,0.08);
   }
   #view-tabs .tab-button.active {
     background: #0a7cff;
     border-color: #0a7cff;
     color: #fff;
+    box-shadow: 0 6px 16px rgba(10,124,255,0.25);
+  }
+  #category-toggle-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 0 4px 12px;
+  }
+  .category-toggle {
+    flex: 1 1 160px;
+    min-width: 140px;
+    padding: 12px 14px;
+    border-radius: 12px;
+    border: 1px solid rgba(0,0,0,0.12);
+    background: rgba(255,255,255,0.94);
+    font-size: 16px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease, opacity 0.15s ease;
+  }
+  .category-toggle:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  }
+  .category-toggle .swatch {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: 2px solid rgba(255,255,255,0.9);
+    box-shadow: 0 0 0 1px rgba(0,0,0,0.12);
+  }
+  .category-toggle.inactive {
+    opacity: 0.5;
+    background: rgba(245,245,245,0.95);
+    border-style: dashed;
   }
   svg { width: 100vw; height: 100vh; display: block; background: #fff; }
-  .legend-root { pointer-events: none; }
-  .legend-item { pointer-events: all; cursor: pointer; }
-  .legend-item.inactive { opacity: 0.35; text-decoration: line-through; }
   #summary-view {
     display: none;
     width: 100vw;
@@ -60,16 +92,18 @@
     overflow-y: auto;
     box-sizing: border-box;
     background: #fff;
-    padding: 72px 18px 40px;
-    font-size: 14px;
+    padding: 148px 22px 48px;
+    font-size: 16px;
+    line-height: 1.7;
   }
   #summary-view h2 {
-    margin: 0 0 16px;
-    font-size: 20px;
+    margin: 0 0 18px;
+    font-size: 26px;
+    letter-spacing: 0.03em;
   }
   #summary-view h3 {
-    margin: 24px 0 8px;
-    font-size: 16px;
+    margin: 26px 0 10px;
+    font-size: 20px;
   }
   #summary-view ol {
     margin: 0 0 12px 20px;
@@ -89,7 +123,7 @@
     border-radius: 999px;
     border: 1px solid #ccd3dd;
     background: rgba(245,248,255,0.92);
-    font-size: 15px;
+    font-size: 16px;
     cursor: pointer;
     box-shadow: 0 1px 2px rgba(0,0,0,0.05);
   }
@@ -98,11 +132,56 @@
     border-color: #0a7cff;
     color: #fff;
   }
+  @media (max-width: 960px) {
+    #view-tabs .tab-button {
+      font-size: 17px;
+      padding: 12px 16px;
+    }
+    .category-toggle {
+      flex: 1 1 calc(50% - 10px);
+    }
+    #summary-view {
+      padding: 138px 18px 40px;
+      font-size: 15px;
+    }
+  }
+  @media (max-width: 720px) {
+    #ui-ribbon {
+      gap: 12px;
+      padding: 10px 10px 0;
+    }
+    #view-tabs {
+      padding: 6px;
+    }
+    #view-tabs .tab-button {
+      font-size: 18px;
+      padding: 14px 10px;
+    }
+    #category-toggle-row {
+      gap: 8px;
+    }
+    .category-toggle {
+      flex: 1 1 100%;
+      min-width: 0;
+      font-size: 17px;
+      padding: 14px;
+    }
+    svg {
+      margin-top: 128px;
+    }
+    #summary-view {
+      padding-top: 160px;
+      font-size: 16px;
+    }
+  }
 </style>
 
-<div id="view-tabs">
-  <button type="button" class="tab-button active" data-view="network">ネットワーク</button>
-  <button type="button" class="tab-button" data-view="summary">単純集計</button>
+<div id="ui-ribbon">
+  <div id="view-tabs">
+    <button type="button" class="tab-button active" data-view="network">ネットワーク</button>
+    <button type="button" class="tab-button" data-view="summary">単純集計</button>
+  </div>
+  <div id="category-toggle-row"></div>
 </div>
 <svg id="chart"></svg>
 <div id="summary-view"></div>
@@ -113,6 +192,7 @@ const svgNode = document.getElementById("chart");
 const summaryViewEl = document.getElementById("summary-view");
 const summaryContent = d3.select("#summary-view");
 const tabButtons = Array.from(document.querySelectorAll("#view-tabs .tab-button"));
+const categoryToggleRow = document.getElementById("category-toggle-row");
 let currentView = "network";
 const MARGIN = { top: 60, right: 10, bottom: 10, left: 10 };
 let width = window.innerWidth, height = window.innerHeight;
@@ -122,8 +202,6 @@ tabButtons.forEach(btn => {
 });
 
 const gPlot = svg.append("g").attr("class", "plot");
-const gLegend = svg.append("g").attr("class", "legend-root");
-const gEdges = gPlot.append("g").attr("class", "edges");
 
 const tooltip = d3.select("body").append("div")
   .style("position", "absolute")
@@ -138,7 +216,7 @@ const tooltip = d3.select("body").append("div")
 let samples = [];
 let categories = [];
 let network = { nodes: [], edges: [] };
-let activeCategories = new Set();
+let activeCategories = null;
 // let searchText = ""; // removed as per instructions
 
 let x = d3.scaleLinear(), y = d3.scaleLinear();
@@ -190,6 +268,32 @@ function normalizeColumns(rows) {
 
 function clamp(value, min, max) {
   return Math.min(max, Math.max(min, value));
+}
+
+function getAllCategoryNames() {
+  return Array.from(new Set(categories.map(d => d.category)));
+}
+
+function toggleCategorySelection(cat, { exclusive = false } = {}) {
+  if (cat == null) return;
+  const allCats = getAllCategoryNames();
+  if (!allCats.length) return;
+  if (!(activeCategories instanceof Set) || activeCategories === null) {
+    activeCategories = new Set(allCats);
+  }
+  let next = new Set(activeCategories);
+  if (exclusive) {
+    const onlySelected = next.size === 1 && next.has(cat);
+    next = onlySelected ? new Set(allCats) : new Set([cat]);
+  } else {
+    if (next.has(cat)) {
+      next.delete(cat);
+    } else {
+      next.add(cat);
+    }
+  }
+  activeCategories = next;
+  render();
 }
 
 function applyForceRelaxation(catNodes, xScale, yScale) {
@@ -383,12 +487,17 @@ function renderSummary() {
   summaryContent.selectAll("*").remove();
   if (!categories.length) return;
 
-  const cats = Array.from(new Set(categories.map(d => d.category)));
+  const filteredCategories = activeCategories instanceof Set
+    ? (activeCategories.size === 0
+      ? []
+      : categories.filter(d => activeCategories.has(d.category)))
+    : categories;
+  const cats = Array.from(new Set(filteredCategories.map(d => d.category)));
   if (summaryCategoryFilter !== "all" && !cats.includes(summaryCategoryFilter)) {
     summaryCategoryFilter = "all";
   }
 
-  const grouped = d3.group(categories, d => d.category);
+  const grouped = d3.group(filteredCategories, d => d.category);
 
   summaryContent.append("h2").text("単純集計ビュー");
   summaryContent.append("p")
@@ -408,6 +517,13 @@ function renderSummary() {
         summaryCategoryFilter = d;
         renderSummary();
       });
+
+  if (!filteredCategories.length) {
+    summaryContent.append("p")
+      .attr("class", "summary-empty")
+      .text("表示中のカテゴリーがありません。凡例でカテゴリーを選択してください。");
+    return;
+  }
 
   const sectionsWrap = summaryContent.append("div").attr("class", "summary-sections");
   const catsToRender = summaryCategoryFilter === "all" ? cats : [summaryCategoryFilter];
@@ -571,7 +687,6 @@ async function loadFixed(){
 function fitToWindow() {
   width = window.innerWidth; height = window.innerHeight;
   svg.attr("width", width).attr("height", height);
-  gLegend.attr("transform", `translate(${width - MARGIN.right - 200}, ${MARGIN.top})`);
 }
 fitToWindow();
 window.addEventListener("resize", () => { fitToWindow(); render(); });
@@ -656,36 +771,56 @@ function render() {
   x = d3.scaleLinear().domain(xExtent).nice().range([MARGIN.left, width - MARGIN.right]);
   y = d3.scaleLinear().domain(yExtent).nice().range([height - MARGIN.bottom, MARGIN.top]);
   const cats = Array.from(new Set(categories.map(d => d.category)));
+  if (!(activeCategories instanceof Set) || activeCategories === null) {
+    activeCategories = new Set(cats);
+  } else {
+    const availableCats = new Set(cats);
+    const nextActive = new Set();
+    activeCategories.forEach(cat => {
+      if (availableCats.has(cat)) nextActive.add(cat);
+    });
+    activeCategories = nextActive;
+  }
   colorScale = d3.scaleOrdinal().domain(cats).range(d3.schemeTableau10);
   const hitExtent = d3.extent(categories, d => (d.hit_count ?? 0));
   rScale = d3.scaleSqrt().domain(hitExtent).range([4, 26]);
   const edgeExtent = d3.extent((network.edges || []).map(e => +e.totalCount || 0));
   edgeWidthScale = d3.scaleSqrt().domain(edgeExtent[0] == null ? [0,1] : edgeExtent).range([0.15, 0.8]);
 
-  // 凡例を描画
-  gLegend.selectAll("*").remove();
-  const legendItem = gLegend.selectAll("g.legend-item")
-    .data(cats)
-    .join(enter => {
-      const g = enter.append("g")
-        .attr("class", "legend-item")
-        .attr("transform", (d, i) => `translate(0, ${i * 30})`);
-      g.append("text")
-        .attr("x", 0)
-        .attr("y", 0)
-        .attr("alignment-baseline", "middle")
-        .attr("font-size", 18)
-        .attr("fill", d => colorScale(d) || "#333")
-        .text(d => d);
-      return g;
-    });
+  if (categoryToggleRow) {
+    const toggleButtons = d3.select(categoryToggleRow)
+      .selectAll("button.category-toggle")
+      .data(cats, d => d)
+      .join(
+        enter => {
+          const btn = enter.append("button")
+            .attr("type", "button")
+            .attr("class", "category-toggle");
+          btn.append("span").attr("class", "swatch");
+          btn.append("span").attr("class", "label");
+          return btn;
+        },
+        update => update,
+        exit => exit.remove()
+      );
+    toggleButtons
+      .classed("inactive", d => activeCategories instanceof Set && (activeCategories.size === 0 || !activeCategories.has(d)))
+      .on("click", (event, cat) => {
+        event.stopPropagation();
+        const exclusive = event.metaKey || event.ctrlKey || event.shiftKey;
+        toggleCategorySelection(cat, { exclusive });
+      });
+    toggleButtons.select("span.swatch")
+      .style("background", d => colorScale(d) || "#333");
+    toggleButtons.select("span.label")
+      .text(d => d);
+  }
 
   // const searchLower = searchText.toLowerCase(); // removed as per instructions
   const catsFiltered = categories.filter(d => {
-    const catOK = activeCategories.size ? activeCategories.has(d.category) : true;
-    // const textOK = !searchLower ? true : String(d.label || "").toLowerCase().includes(searchLower); // removed
-    // return catOK && textOK;
-    return catOK;
+    if (!(activeCategories instanceof Set)) return true;
+    if (activeCategories.size === 0) return false;
+    return activeCategories.has(d.category);
   });
 
   gPlot.selectAll("*").remove();
