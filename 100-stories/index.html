@@ -368,12 +368,12 @@ function render() {
     .join(enter => {
       const g = enter.append("g")
         .attr("class", "legend-item")
-        .attr("transform", (d, i) => `translate(0, ${i * 26})`);
+        .attr("transform", (d, i) => `translate(0, ${i * 30})`);
       g.append("text")
         .attr("x", 0)
         .attr("y", 0)
         .attr("alignment-baseline", "middle")
-        .attr("font-size", 15)
+        .attr("font-size", 18)
         .attr("fill", d => colorScale(d) || "#333")
         .text(d => d);
       return g;
