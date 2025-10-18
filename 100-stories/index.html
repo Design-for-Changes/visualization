@@ -37,6 +37,7 @@
 <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
 <script>
 const svg = d3.select("#chart");
+const MARGIN = { top: 60, right: 10, bottom: 10, left: 10 };
 let width = window.innerWidth, height = window.innerHeight;
 
 const gPlot = svg.append("g").attr("class", "plot");
@@ -269,7 +270,7 @@ async function loadFixed(){
 function fitToWindow() {
   width = window.innerWidth; height = window.innerHeight;
   svg.attr("width", width).attr("height", height);
-  gLegend.attr("transform", `translate(${width - 180}, 20)`);
+  gLegend.attr("transform", `translate(${width - MARGIN.right - 200}, ${MARGIN.top})`);
 }
 fitToWindow();
 window.addEventListener("resize", () => { fitToWindow(); render(); });
@@ -351,14 +352,32 @@ function render() {
   const all = samples.concat(categories);
   const xExtent = d3.extent(all, d => d.x);
   const yExtent = d3.extent(all, d => d.y);
-  x = d3.scaleLinear().domain(xExtent).nice().range([60, width - 60]);
-  y = d3.scaleLinear().domain(yExtent).nice().range([height - 60, 60]);
+  x = d3.scaleLinear().domain(xExtent).nice().range([MARGIN.left, width - MARGIN.right]);
+  y = d3.scaleLinear().domain(yExtent).nice().range([height - MARGIN.bottom, MARGIN.top]);
   const cats = Array.from(new Set(categories.map(d => d.category)));
   colorScale = d3.scaleOrdinal().domain(cats).range(d3.schemeTableau10);
   const hitExtent = d3.extent(categories, d => (d.hit_count ?? 0));
   rScale = d3.scaleSqrt().domain(hitExtent).range([4, 26]);
   const edgeExtent = d3.extent((network.edges || []).map(e => +e.totalCount || 0));
   edgeWidthScale = d3.scaleSqrt().domain(edgeExtent[0] == null ? [0,1] : edgeExtent).range([0.15, 0.8]);
+
+  // 凡例を描画
+  gLegend.selectAll("*").remove();
+  const legendItem = gLegend.selectAll("g.legend-item")
+    .data(cats)
+    .join(enter => {
+      const g = enter.append("g")
+        .attr("class", "legend-item")
+        .attr("transform", (d, i) => `translate(0, ${i * 26})`);
+      g.append("text")
+        .attr("x", 0)
+        .attr("y", 0)
+        .attr("alignment-baseline", "middle")
+        .attr("font-size", 15)
+        .attr("fill", d => colorScale(d) || "#333")
+        .text(d => d);
+      return g;
+    });
 
   // const searchLower = searchText.toLowerCase(); // removed as per instructions
   const catsFiltered = categories.filter(d => {
