@@ -34,13 +34,15 @@
     z-index: 20;
   }
   #view-tabs .tab-button {
-    padding: 6px 12px;
+    padding: 10px 18px;
     border: 1px solid #ccc;
     border-radius: 999px;
     background: rgba(255,255,255,0.92);
-    font-size: 13px;
+    font-size: 16px;
     cursor: pointer;
     box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    min-height: 44px;
+    min-width: 110px;
   }
   #view-tabs .tab-button.active {
     background: #0a7cff;
@@ -75,6 +77,26 @@
   }
   #summary-view li {
     margin-bottom: 6px;
+  }
+  #summary-category-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 12px 0 18px;
+  }
+  #summary-category-tabs .summary-tab {
+    padding: 10px 16px;
+    border-radius: 999px;
+    border: 1px solid #ccd3dd;
+    background: rgba(245,248,255,0.92);
+    font-size: 15px;
+    cursor: pointer;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+  }
+  #summary-category-tabs .summary-tab.active {
+    background: #0a7cff;
+    border-color: #0a7cff;
+    color: #fff;
   }
 </style>
 
@@ -130,6 +152,7 @@ let selectedCategoryLabel = null;
 let categorySampleMap = new Map();
 let categoryByLabel = new Map();
 let sampleById = new Map();
+let summaryCategoryFilter = "all";
 
 const zoom = d3.zoom()
   .scaleExtent([0.5, 12])
@@ -360,24 +383,49 @@ function renderSummary() {
   summaryContent.selectAll("*").remove();
   if (!categories.length) return;
 
+  const cats = Array.from(new Set(categories.map(d => d.category)));
+  if (summaryCategoryFilter !== "all" && !cats.includes(summaryCategoryFilter)) {
+    summaryCategoryFilter = "all";
+  }
+
+  const grouped = d3.group(categories, d => d.category);
+
   summaryContent.append("h2").text("単純集計ビュー");
   summaryContent.append("p")
     .attr("class", "summary-total")
     .text(`サンプル数：${samples.length}`);
 
-  const grouped = d3.group(categories, d => d.category);
-  for (const [cat, items] of grouped) {
-    const section = summaryContent.append("section").attr("class", "summary-section");
+  const catTabs = summaryContent.append("div").attr("id", "summary-category-tabs");
+  const tabData = ["all", ...cats];
+  catTabs.selectAll("button.summary-tab")
+    .data(tabData)
+    .join("button")
+      .attr("type", "button")
+      .attr("class", d => `summary-tab${summaryCategoryFilter === d ? " active" : ""}`)
+      .text(d => d === "all" ? "すべて" : d)
+      .on("click", (event, d) => {
+        if (summaryCategoryFilter === d) return;
+        summaryCategoryFilter = d;
+        renderSummary();
+      });
+
+  const sectionsWrap = summaryContent.append("div").attr("class", "summary-sections");
+  const catsToRender = summaryCategoryFilter === "all" ? cats : [summaryCategoryFilter];
+
+  catsToRender.forEach(cat => {
+    const items = grouped.get(cat);
+    if (!items || !items.length) return;
+    const section = sectionsWrap.append("section").attr("class", "summary-section");
     section.append("h3")
       .text(cat)
       .style("color", colorScale(cat));
-    const topItems = items.slice().sort((a, b) => (b.hit_count ?? 0) - (a.hit_count ?? 0)).slice(0, 10);
+    const sortedItems = items.slice().sort((a, b) => (b.hit_count ?? 0) - (a.hit_count ?? 0));
     const list = section.append("ol");
     list.selectAll("li")
-      .data(topItems)
+      .data(sortedItems)
       .join("li")
       .text(d => `${d.label}（${d.hit_count ?? 0}）`);
-  }
+  });
 }
 
 function setView(view) {
@@ -402,6 +450,12 @@ function setSelectedCategory(label) {
 
 function applyHighlights(animated = false) {
   const hasSelection = !!selectedCategoryLabel;
+  const edgesGroup = gPlot.select("g.edges");
+  if (!hasSelection) {
+    edgesGroup.style("display", "none");
+  } else {
+    edgesGroup.style("display", "block");
+  }
   const linkedSamples = hasSelection ? categorySampleMap.get(selectedCategoryLabel) : null;
   const connectedLabels = new Set();
   if (hasSelection) {
@@ -416,6 +470,15 @@ function applyHighlights(animated = false) {
   const transition = animated ? d3.transition().duration(650).ease(d3.easeCubicOut) : null;
 
   const edgeSel = updateEdgeGeometry(transition);
+
+  if (!hasSelection) {
+    edgeSel.style("display", "none");
+  } else {
+    edgeSel.style("display", (d) => {
+      const isActive = d._sourceLabel === selectedCategoryLabel || d._targetLabel === selectedCategoryLabel;
+      return isActive ? "block" : "none";
+    });
+  }
 
   const catCircleSelection = transition ? gPlot.selectAll("circle.cat").transition(transition) : gPlot.selectAll("circle.cat");
   catCircleSelection
@@ -626,7 +689,7 @@ function render() {
   });
 
   gPlot.selectAll("*").remove();
-  const gEdgesLocal = gPlot.append("g").attr("class", "edges");
+  const gEdgesLocal = gPlot.append("g").attr("class", "edges").style("display", "none");
   const gSamples = gPlot.append("g").attr("class", "samples");
   const gCats = gPlot.append("g").attr("class", "categories");
 
