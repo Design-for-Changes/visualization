@@ -27,18 +27,77 @@
     font-size: 12px; color: #555; background: rgba(255,255,255,0.85);
     padding: 6px 10px; border-radius: 6px; border: 1px solid #ddd;
   }
+  #view-tabs {
+    position: fixed;
+    top: 12px; left: 12px;
+    display: flex; gap: 8px;
+    z-index: 20;
+  }
+  #view-tabs .tab-button {
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-radius: 999px;
+    background: rgba(255,255,255,0.92);
+    font-size: 13px;
+    cursor: pointer;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  #view-tabs .tab-button.active {
+    background: #0a7cff;
+    border-color: #0a7cff;
+    color: #fff;
+  }
   svg { width: 100vw; height: 100vh; display: block; background: #fff; }
   .legend-root { pointer-events: none; }
   .legend-item { pointer-events: all; cursor: pointer; }
   .legend-item.inactive { opacity: 0.35; text-decoration: line-through; }
+  #summary-view {
+    display: none;
+    width: 100vw;
+    height: 100vh;
+    overflow-y: auto;
+    box-sizing: border-box;
+    background: #fff;
+    padding: 72px 18px 40px;
+    font-size: 14px;
+  }
+  #summary-view h2 {
+    margin: 0 0 16px;
+    font-size: 20px;
+  }
+  #summary-view h3 {
+    margin: 24px 0 8px;
+    font-size: 16px;
+  }
+  #summary-view ol {
+    margin: 0 0 12px 20px;
+    padding: 0;
+  }
+  #summary-view li {
+    margin-bottom: 6px;
+  }
 </style>
 
+<div id="view-tabs">
+  <button type="button" class="tab-button active" data-view="network">ネットワーク</button>
+  <button type="button" class="tab-button" data-view="summary">単純集計</button>
+</div>
 <svg id="chart"></svg>
+<div id="summary-view"></div>
 <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
 <script>
 const svg = d3.select("#chart");
+const svgNode = document.getElementById("chart");
+const summaryViewEl = document.getElementById("summary-view");
+const summaryContent = d3.select("#summary-view");
+const tabButtons = Array.from(document.querySelectorAll("#view-tabs .tab-button"));
+let currentView = "network";
 const MARGIN = { top: 60, right: 10, bottom: 10, left: 10 };
 let width = window.innerWidth, height = window.innerHeight;
+
+tabButtons.forEach(btn => {
+  btn.addEventListener("click", () => setView(btn.dataset.view));
+});
 
 const gPlot = svg.append("g").attr("class", "plot");
 const gLegend = svg.append("g").attr("class", "legend-root");
@@ -69,6 +128,8 @@ let edgeWidthScale = d3.scaleSqrt();
 let edgeOpacityScale = d3.scaleSqrt();
 let selectedCategoryLabel = null;
 let categorySampleMap = new Map();
+let categoryByLabel = new Map();
+let sampleById = new Map();
 
 const zoom = d3.zoom()
   .scaleExtent([0.5, 12])
@@ -76,7 +137,7 @@ const zoom = d3.zoom()
     currentK = event.transform.k;
     gPlot.attr("transform", event.transform);
     updateSizes(currentK);
-    applyHighlights();
+    applyHighlights(false);
   });
 svg.call(zoom);
 svg.on("click.highlight", () => {
@@ -140,15 +201,41 @@ function applyForceRelaxation(catNodes, xScale, yScale) {
     n.ref._layoutY = invY(n.y);
     n.ref._offsetX = n.x - n.targetX;
     n.ref._offsetY = n.y - n.targetY;
+    const baseX = n.ref._layoutX != null ? n.ref._layoutX : n.ref.x;
+    const baseY = n.ref._layoutY != null ? n.ref._layoutY : n.ref.y;
+    n.ref._baseX = baseX;
+    n.ref._baseY = baseY;
+    if (n.ref._dispX == null) n.ref._dispX = baseX;
+    if (n.ref._dispY == null) n.ref._dispY = baseY;
   });
 }
 
 function resolveCatX(d, scale) {
-  return scale(d._layoutX != null ? d._layoutX : d.x);
+  const domX = d._dispX != null ? d._dispX : (d._layoutX != null ? d._layoutX : d.x);
+  return scale(domX);
 }
 
 function resolveCatY(d, scale) {
-  return scale(d._layoutY != null ? d._layoutY : d.y);
+  const domY = d._dispY != null ? d._dispY : (d._layoutY != null ? d._layoutY : d.y);
+  return scale(domY);
+}
+
+function categoryScreenX(d) {
+  return resolveCatX(d, x);
+}
+
+function categoryScreenY(d) {
+  return resolveCatY(d, y);
+}
+
+function sampleScreenX(d) {
+  const domX = d._dispX != null ? d._dispX : d.x;
+  return x(domX);
+}
+
+function sampleScreenY(d) {
+  const domY = d._dispY != null ? d._dispY : d.y;
+  return y(domY);
 }
 
 function edgeOpacity(base, zoomK) {
@@ -177,13 +264,143 @@ function buildEdgePath(d) {
   return `M${sx},${sy} Q${cx},${cy} ${tx},${ty}`;
 }
 
+function applyFocusPositions(hasSelection, connectedLabels, linkedSamples) {
+  const focusLabels = new Set();
+  if (hasSelection) {
+    focusLabels.add(selectedCategoryLabel);
+    for (const lbl of connectedLabels) focusLabels.add(lbl);
+  }
+
+  const allCats = categories || [];
+  for (const d of allCats) {
+    const baseX = d._baseX ?? d._layoutX ?? d.x;
+    const baseY = d._baseY ?? d._layoutY ?? d.y;
+    d._baseX = baseX;
+    d._baseY = baseY;
+  }
+  const allSamples = samples || [];
+  for (const s of allSamples) {
+    s._baseX = s.x;
+    s._baseY = s.y;
+  }
+
+  if (!hasSelection || focusLabels.size === 0) {
+    for (const d of allCats) {
+      const baseX = d._baseX ?? d.x;
+      const baseY = d._baseY ?? d.y;
+      d._dispX = baseX;
+      d._dispY = baseY;
+    }
+    for (const s of allSamples) {
+      s._dispX = s._baseX ?? s.x;
+      s._dispY = s._baseY ?? s.y;
+    }
+    return;
+  }
+
+  const focusCats = allCats.filter(d => focusLabels.has(d.label));
+  const centerX = focusCats.length ? d3.mean(focusCats, d => d._baseX ?? d.x) : null;
+  const centerY = focusCats.length ? d3.mean(focusCats, d => d._baseY ?? d.y) : null;
+
+  for (const d of allCats) {
+    const baseX = d._baseX ?? d.x;
+    const baseY = d._baseY ?? d.y;
+    if (focusLabels.has(d.label) && centerX != null && centerY != null) {
+      d._dispX = baseX + (centerX - baseX) * 0.35;
+      d._dispY = baseY + (centerY - baseY) * 0.35;
+    } else {
+      d._dispX = baseX;
+      d._dispY = baseY;
+    }
+  }
+
+  const focusSampleIds = new Set();
+  if (linkedSamples instanceof Set) {
+    for (const id of linkedSamples) focusSampleIds.add(id);
+  }
+  const focusSamples = [];
+  focusSampleIds.forEach(id => {
+    const sample = sampleById.get(id);
+    if (sample) focusSamples.push(sample);
+  });
+  const sampleCenterX = focusSamples.length ? d3.mean(focusSamples, s => s._baseX ?? s.x) : centerX;
+  const sampleCenterY = focusSamples.length ? d3.mean(focusSamples, s => s._baseY ?? s.y) : centerY;
+
+  for (const s of allSamples) {
+    const baseX = s._baseX ?? s.x;
+    const baseY = s._baseY ?? s.y;
+    if (focusSampleIds.has(getSampleKey(s)) && sampleCenterX != null && sampleCenterY != null) {
+      s._dispX = baseX + (sampleCenterX - baseX) * 0.45;
+      s._dispY = baseY + (sampleCenterY - baseY) * 0.45;
+    } else {
+      s._dispX = baseX;
+      s._dispY = baseY;
+    }
+  }
+}
+
+function updateEdgeGeometry(transition = null) {
+  const selection = gPlot.selectAll("path.edge");
+  selection.each(function(d) {
+    const s = categoryByLabel.get(d._sourceLabel);
+    const t = categoryByLabel.get(d._targetLabel);
+    if (!s || !t) return;
+    d._sx = categoryScreenX(s);
+    d._sy = categoryScreenY(s);
+    d._tx = categoryScreenX(t);
+    d._ty = categoryScreenY(t);
+  });
+  const target = transition ? selection.transition(transition) : selection;
+  target.attr("d", d => buildEdgePath(d));
+  return target;
+}
+
+function renderSummary() {
+  if (!summaryContent.node()) return;
+  summaryContent.selectAll("*").remove();
+  if (!categories.length) return;
+
+  summaryContent.append("h2").text("単純集計ビュー");
+  summaryContent.append("p")
+    .attr("class", "summary-total")
+    .text(`サンプル数：${samples.length}`);
+
+  const grouped = d3.group(categories, d => d.category);
+  for (const [cat, items] of grouped) {
+    const section = summaryContent.append("section").attr("class", "summary-section");
+    section.append("h3")
+      .text(cat)
+      .style("color", colorScale(cat));
+    const topItems = items.slice().sort((a, b) => (b.hit_count ?? 0) - (a.hit_count ?? 0)).slice(0, 10);
+    const list = section.append("ol");
+    list.selectAll("li")
+      .data(topItems)
+      .join("li")
+      .text(d => `${d.label}（${d.hit_count ?? 0}）`);
+  }
+}
+
+function setView(view) {
+  const target = view === "summary" ? "summary" : "network";
+  currentView = target;
+  if (svgNode) svgNode.style.display = target === "network" ? "block" : "none";
+  if (summaryViewEl) {
+    summaryViewEl.style.display = target === "summary" ? "block" : "none";
+    if (target === "summary") summaryViewEl.scrollTop = 0;
+  }
+  tabButtons.forEach(btn => btn.classList.toggle("active", btn.dataset.view === target));
+  if (target === "network") {
+    applyHighlights(false);
+  }
+}
+
 function setSelectedCategory(label) {
   const next = label && String(label);
   selectedCategoryLabel = selectedCategoryLabel === next ? null : next;
-  applyHighlights();
+  applyHighlights(true);
 }
 
-function applyHighlights() {
+function applyHighlights(animated = false) {
   const hasSelection = !!selectedCategoryLabel;
   const linkedSamples = hasSelection ? categorySampleMap.get(selectedCategoryLabel) : null;
   const connectedLabels = new Set();
@@ -194,23 +411,16 @@ function applyHighlights() {
         else if (d._targetLabel === selectedCategoryLabel) connectedLabels.add(d._sourceLabel);
       });
   }
-  gPlot.selectAll("path.edge")
-    .each(function(d) {
-      const isActive = hasSelection && (d._sourceLabel === selectedCategoryLabel || d._targetLabel === selectedCategoryLabel);
-      const baseOpacity = d._opacityBase || 0.015;
-      const width = d._w || 0.15;
-      let strokeColor = "#999";
-      if (isActive) {
-        const cat = (d._sourceLabel === selectedCategoryLabel ? d._sourceCategory : d._targetCategory) || d._sourceCategory;
-        strokeColor = colorScale(cat) || "#666";
-      }
-      d3.select(this)
-        .attr("stroke-opacity", isActive ? clamp(baseOpacity * 7, 0.08, 0.85) : edgeOpacity(baseOpacity, currentK))
-        .attr("stroke-width", isActive ? width * 1.8 : width)
-        .attr("stroke", strokeColor);
-    });
+  applyFocusPositions(hasSelection, connectedLabels, linkedSamples);
 
-  gPlot.selectAll("circle.cat")
+  const transition = animated ? d3.transition().duration(650).ease(d3.easeCubicOut) : null;
+
+  const edgeSel = updateEdgeGeometry(transition);
+
+  const catCircleSelection = transition ? gPlot.selectAll("circle.cat").transition(transition) : gPlot.selectAll("circle.cat");
+  catCircleSelection
+    .attr("cx", categoryScreenX)
+    .attr("cy", categoryScreenY)
     .attr("opacity", d => {
       if (!hasSelection) return 0.2;
       if (d.label === selectedCategoryLabel) return 0.36;
@@ -224,7 +434,10 @@ function applyHighlights() {
       return 0.4;
     });
 
-  gPlot.selectAll("text.cat-label")
+  const catLabelSelection = transition ? gPlot.selectAll("text.cat-label").transition(transition) : gPlot.selectAll("text.cat-label");
+  catLabelSelection
+    .attr("x", d => resolveCatX(d, x) + (d._offsetX || 0) * 0.18)
+    .attr("y", d => resolveCatY(d, y) + (d._offsetY || 0) * 0.18)
     .attr("opacity", d => {
       if (!hasSelection) return 0.95;
       if (d.label === selectedCategoryLabel) return 1;
@@ -232,7 +445,10 @@ function applyHighlights() {
       return 0.2;
     });
 
-  gPlot.selectAll("circle.sample")
+  const sampleCircleSelection = transition ? gPlot.selectAll("circle.sample").transition(transition) : gPlot.selectAll("circle.sample");
+  sampleCircleSelection
+    .attr("cx", sampleScreenX)
+    .attr("cy", sampleScreenY)
     .attr("opacity", d => {
       if (!hasSelection) return 0.35;
       return linkedSamples && linkedSamples.has(getSampleKey(d)) ? 0.58 : 0.06;
@@ -242,10 +458,32 @@ function applyHighlights() {
       return linkedSamples && linkedSamples.has(getSampleKey(d)) ? "#2c2c2c" : "#bfbfbf";
     });
 
-  gPlot.selectAll("text.sample-label")
+  const sampleLabelSelection = transition ? gPlot.selectAll("text.sample-label").transition(transition) : gPlot.selectAll("text.sample-label");
+  sampleLabelSelection
+    .attr("x", sampleScreenX)
+    .attr("y", sampleScreenY)
     .attr("fill-opacity", d => {
       if (!hasSelection) return 1;
       return linkedSamples && linkedSamples.has(getSampleKey(d)) ? 1 : 0.08;
+    });
+
+  edgeSel
+    .attr("stroke-opacity", function(d) {
+      const baseOpacity = d._opacityBase || 0.015;
+      const isActive = hasSelection && (d._sourceLabel === selectedCategoryLabel || d._targetLabel === selectedCategoryLabel);
+      return isActive ? clamp(baseOpacity * 7, 0.08, 0.85) : edgeOpacity(baseOpacity, currentK);
+    })
+    .attr("stroke-width", function(d) {
+      const width = d._w || 0.15;
+      const isActive = hasSelection && (d._sourceLabel === selectedCategoryLabel || d._targetLabel === selectedCategoryLabel);
+      return isActive ? width * 1.8 : width;
+    })
+    .attr("stroke", function(d) {
+      if (!hasSelection) return "#999";
+      const isActive = d._sourceLabel === selectedCategoryLabel || d._targetLabel === selectedCategoryLabel;
+      if (!isActive) return "#999";
+      const cat = (d._sourceLabel === selectedCategoryLabel ? d._sourceCategory : d._targetCategory) || d._sourceCategory;
+      return colorScale(cat) || "#666";
     });
 }
 
@@ -396,6 +634,25 @@ function render() {
   for (const d of catsFiltered) catByLabel.set(String(d.label), d);
 
   applyForceRelaxation(catsFiltered, x, y);
+  for (const d of catsFiltered) {
+    const baseX = d._baseX ?? d._layoutX ?? d.x;
+    const baseY = d._baseY ?? d._layoutY ?? d.y;
+    d._baseX = baseX;
+    d._baseY = baseY;
+    d._dispX = baseX;
+    d._dispY = baseY;
+  }
+  categoryByLabel = new Map(catByLabel);
+
+  sampleById = new Map();
+  for (const s of samples) {
+    const key = getSampleKey(s);
+    if (key) sampleById.set(key, s);
+    s._baseX = s.x;
+    s._baseY = s.y;
+    if (s._dispX == null) s._dispX = s.x;
+    if (s._dispY == null) s._dispY = s.y;
+  }
 
   categorySampleMap = new Map();
   if (Array.isArray(network.sampleLinks)) {
@@ -441,8 +698,8 @@ function render() {
     .data(samples)
     .join("circle")
       .attr("class", "sample")
-      .attr("cx", d => x(d.x))
-      .attr("cy", d => y(d.y))
+      .attr("cx", sampleScreenX)
+      .attr("cy", sampleScreenY)
       .each(d => d._r = 3)
       .attr("r", d => d._r)
       .attr("fill", "#666")
@@ -470,8 +727,8 @@ function render() {
       .on("click", (event) => event.stopPropagation())
     .append("text")
       .attr("class", "sample-label")
-      .attr("x", d => x(d.x))
-      .attr("y", d => y(d.y))
+      .attr("x", sampleScreenX)
+      .attr("y", sampleScreenY)
       .attr("text-anchor", "middle")
       .attr("dominant-baseline", "central")
       .attr("font-size", 12)
@@ -515,11 +772,13 @@ function render() {
         setSelectedCategory(d.label);
       });
 
+  renderSummary();
   updateSizes(currentK);
-  applyHighlights();
+  applyHighlights(false);
 }
 </script>
 <script>
 // ページ読み込み時に固定ファイルを読み込む
+setView("network");
 loadFixed();
 </script>
