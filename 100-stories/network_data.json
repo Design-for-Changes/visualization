@@ -16151,5 +16151,7947 @@
       "targetCategory": "願い・願望",
       "count": 1
     }
+  ],
+  "sampleLinks": [
+    {
+      "sampleId": "001",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "001",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "001",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "001",
+      "category": "症状",
+      "label": "感覚過敏"
+    },
+    {
+      "sampleId": "001",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "001",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "001",
+      "category": "感情",
+      "label": "罪悪感"
+    },
+    {
+      "sampleId": "001",
+      "category": "感情",
+      "label": "恐怖・トラウマ"
+    },
+    {
+      "sampleId": "001",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "001",
+      "category": "主題",
+      "label": "安全リスクと監視負担"
+    },
+    {
+      "sampleId": "001",
+      "category": "主題",
+      "label": "社会的孤立"
+    },
+    {
+      "sampleId": "001",
+      "category": "主題",
+      "label": "家族内の負担不均衡と関係不和"
+    },
+    {
+      "sampleId": "001",
+      "category": "主題",
+      "label": "感覚過敏と生活困難"
+    },
+    {
+      "sampleId": "001",
+      "category": "願い・願望",
+      "label": "在宅・訪問支援体制の強化"
+    },
+    {
+      "sampleId": "001",
+      "category": "願い・願望",
+      "label": "レスパイト支援の強化"
+    },
+    {
+      "sampleId": "001",
+      "category": "願い・願望",
+      "label": "家族の孤立防止と共生の推進"
+    },
+    {
+      "sampleId": "001",
+      "category": "願い・願望",
+      "label": "経済負担の軽減と手当拡充"
+    },
+    {
+      "sampleId": "002",
+      "category": "立場",
+      "label": "親族"
+    },
+    {
+      "sampleId": "002",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "002",
+      "category": "症状",
+      "label": "脳障害"
+    },
+    {
+      "sampleId": "002",
+      "category": "症状",
+      "label": "言語障害"
+    },
+    {
+      "sampleId": "002",
+      "category": "症状",
+      "label": "排泄障害"
+    },
+    {
+      "sampleId": "002",
+      "category": "感情",
+      "label": "悲しみ・切なさ"
+    },
+    {
+      "sampleId": "002",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "002",
+      "category": "感情",
+      "label": "無力感・徒労感"
+    },
+    {
+      "sampleId": "002",
+      "category": "主題",
+      "label": "家族内の負担不均衡と関係不和"
+    },
+    {
+      "sampleId": "002",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "002",
+      "category": "願い・願望",
+      "label": "レスパイト支援の強化"
+    },
+    {
+      "sampleId": "002",
+      "category": "願い・願望",
+      "label": "役所や介護職員の専門性向上と処遇改善"
+    },
+    {
+      "sampleId": "003",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "003",
+      "category": "症状",
+      "label": "運動障害"
+    },
+    {
+      "sampleId": "003",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "003",
+      "category": "症状",
+      "label": "難病"
+    },
+    {
+      "sampleId": "003",
+      "category": "感情",
+      "label": "葛藤・迷い"
+    },
+    {
+      "sampleId": "003",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "003",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "003",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "003",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "003",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "003",
+      "category": "主題",
+      "label": "きょうだい児支援と教育格差"
+    },
+    {
+      "sampleId": "003",
+      "category": "主題",
+      "label": "医療的ケア支援の不足と制度遅れ"
+    },
+    {
+      "sampleId": "003",
+      "category": "主題",
+      "label": "情報格差と申請手続・窓口相談の複雑さ"
+    },
+    {
+      "sampleId": "003",
+      "category": "主題",
+      "label": "家族内の負担不均衡と関係不和"
+    },
+    {
+      "sampleId": "003",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "003",
+      "category": "願い・願望",
+      "label": "在宅・訪問支援体制の強化"
+    },
+    {
+      "sampleId": "003",
+      "category": "願い・願望",
+      "label": "リハビリの継続利用安定化"
+    },
+    {
+      "sampleId": "003",
+      "category": "願い・願望",
+      "label": "経済負担の軽減と手当拡充"
+    },
+    {
+      "sampleId": "003",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "004",
+      "category": "立場",
+      "label": "きょうだい"
+    },
+    {
+      "sampleId": "004",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "004",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "004",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "004",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "004",
+      "category": "感情",
+      "label": "安堵・安心"
+    },
+    {
+      "sampleId": "004",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "004",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "004",
+      "category": "感情",
+      "label": "悲しみ・切なさ"
+    },
+    {
+      "sampleId": "004",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "004",
+      "category": "主題",
+      "label": "家族内の負担不均衡と関係不和"
+    },
+    {
+      "sampleId": "004",
+      "category": "主題",
+      "label": "社会的孤立"
+    },
+    {
+      "sampleId": "004",
+      "category": "主題",
+      "label": "社会的認知の進展への期待"
+    },
+    {
+      "sampleId": "004",
+      "category": "主題",
+      "label": "行動問題・他害/自傷への対応困難"
+    },
+    {
+      "sampleId": "004",
+      "category": "願い・願望",
+      "label": "家族の孤立防止と共生の推進"
+    },
+    {
+      "sampleId": "005",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "005",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "005",
+      "category": "症状",
+      "label": "重症心身障害"
+    },
+    {
+      "sampleId": "005",
+      "category": "症状",
+      "label": "難病"
+    },
+    {
+      "sampleId": "005",
+      "category": "感情",
+      "label": "悲しみ・切なさ"
+    },
+    {
+      "sampleId": "005",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "005",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "005",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "005",
+      "category": "主題",
+      "label": "制度悪用に対する疑問"
+    },
+    {
+      "sampleId": "005",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "005",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "005",
+      "category": "願い・願望",
+      "label": "コンプライアンス遵守"
+    },
+    {
+      "sampleId": "005",
+      "category": "願い・願望",
+      "label": "年齢によらない継続的支援の確保"
+    },
+    {
+      "sampleId": "005",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "006",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "006",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "006",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "006",
+      "category": "症状",
+      "label": "感覚過敏"
+    },
+    {
+      "sampleId": "006",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "006",
+      "category": "症状",
+      "label": "学習障害"
+    },
+    {
+      "sampleId": "006",
+      "category": "症状",
+      "label": "睡眠障害"
+    },
+    {
+      "sampleId": "006",
+      "category": "感情",
+      "label": "悲しみ・切なさ"
+    },
+    {
+      "sampleId": "006",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "006",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "006",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "006",
+      "category": "主題",
+      "label": "安全リスクと監視負担"
+    },
+    {
+      "sampleId": "006",
+      "category": "主題",
+      "label": "夜間行動・睡眠障害・生活破綻"
+    },
+    {
+      "sampleId": "006",
+      "category": "主題",
+      "label": "支援への感謝"
+    },
+    {
+      "sampleId": "006",
+      "category": "主題",
+      "label": "通学・送迎・外出困難"
+    },
+    {
+      "sampleId": "006",
+      "category": "願い・願望",
+      "label": "家族の孤立防止と共生の推進"
+    },
+    {
+      "sampleId": "006",
+      "category": "願い・願望",
+      "label": "レスパイト支援の強化"
+    },
+    {
+      "sampleId": "006",
+      "category": "願い・願望",
+      "label": "介護者の就労継続と両立支援"
+    },
+    {
+      "sampleId": "006",
+      "category": "願い・願望",
+      "label": "住まい・入所施設の拡充"
+    },
+    {
+      "sampleId": "007",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "007",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "007",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "007",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "007",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "007",
+      "category": "症状",
+      "label": "脳性麻痺"
+    },
+    {
+      "sampleId": "007",
+      "category": "症状",
+      "label": "てんかん"
+    },
+    {
+      "sampleId": "007",
+      "category": "感情",
+      "label": "葛藤・迷い"
+    },
+    {
+      "sampleId": "007",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "007",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "007",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "007",
+      "category": "感情",
+      "label": "負担・プレッシャー"
+    },
+    {
+      "sampleId": "007",
+      "category": "主題",
+      "label": "予想外の出費と家計圧迫"
+    },
+    {
+      "sampleId": "007",
+      "category": "主題",
+      "label": "「18歳の壁」問題"
+    },
+    {
+      "sampleId": "007",
+      "category": "主題",
+      "label": "家庭内ケア・身体的負担・介護の現実"
+    },
+    {
+      "sampleId": "007",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "007",
+      "category": "願い・願望",
+      "label": "レスパイト支援の強化"
+    },
+    {
+      "sampleId": "007",
+      "category": "願い・願望",
+      "label": "将来不安軽減に向けた設計と貯蓄の支援拡充"
+    },
+    {
+      "sampleId": "007",
+      "category": "願い・願望",
+      "label": "経済負担の軽減と手当拡充"
+    },
+    {
+      "sampleId": "007",
+      "category": "願い・願望",
+      "label": "住まい・入所施設の拡充"
+    },
+    {
+      "sampleId": "008",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "008",
+      "category": "症状",
+      "label": "言語障害"
+    },
+    {
+      "sampleId": "008",
+      "category": "症状",
+      "label": "運動障害"
+    },
+    {
+      "sampleId": "008",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "008",
+      "category": "症状",
+      "label": "遺伝性疾患"
+    },
+    {
+      "sampleId": "008",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "008",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "008",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "008",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "008",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "008",
+      "category": "感情",
+      "label": "抑うつ感"
+    },
+    {
+      "sampleId": "008",
+      "category": "主題",
+      "label": "社会的認知の進展への期待"
+    },
+    {
+      "sampleId": "008",
+      "category": "主題",
+      "label": "社会的孤立"
+    },
+    {
+      "sampleId": "008",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "008",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "008",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "008",
+      "category": "願い・願望",
+      "label": "介護者の就労継続と両立支援"
+    },
+    {
+      "sampleId": "008",
+      "category": "願い・願望",
+      "label": "年齢によらない継続的支援の確保"
+    },
+    {
+      "sampleId": "008",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "009",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "009",
+      "category": "症状",
+      "label": "脳性麻痺"
+    },
+    {
+      "sampleId": "009",
+      "category": "感情",
+      "label": "悲しみ・切なさ"
+    },
+    {
+      "sampleId": "009",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "009",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "009",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "009",
+      "category": "感情",
+      "label": "苛立ち・焦燥"
+    },
+    {
+      "sampleId": "009",
+      "category": "主題",
+      "label": "予想外の出費と家計圧迫"
+    },
+    {
+      "sampleId": "009",
+      "category": "主題",
+      "label": "夜間行動・睡眠障害・生活破綻"
+    },
+    {
+      "sampleId": "009",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "009",
+      "category": "願い・願望",
+      "label": "レスパイト支援の強化"
+    },
+    {
+      "sampleId": "009",
+      "category": "願い・願望",
+      "label": "経済負担の軽減と手当拡充"
+    },
+    {
+      "sampleId": "009",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "010",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "010",
+      "category": "症状",
+      "label": "運動障害"
+    },
+    {
+      "sampleId": "010",
+      "category": "症状",
+      "label": "マラン症候群"
+    },
+    {
+      "sampleId": "010",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "010",
+      "category": "症状",
+      "label": "言語障害"
+    },
+    {
+      "sampleId": "010",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "010",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "010",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "010",
+      "category": "感情",
+      "label": "罪悪感"
+    },
+    {
+      "sampleId": "010",
+      "category": "主題",
+      "label": "支援への感謝"
+    },
+    {
+      "sampleId": "010",
+      "category": "主題",
+      "label": "社会的認知の進展への期待"
+    },
+    {
+      "sampleId": "010",
+      "category": "主題",
+      "label": "医療的ケア支援の不足と制度遅れ"
+    },
+    {
+      "sampleId": "010",
+      "category": "主題",
+      "label": "行政対応・制度運用への不信"
+    },
+    {
+      "sampleId": "010",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "010",
+      "category": "願い・願望",
+      "label": "家族の孤立防止と共生の推進"
+    },
+    {
+      "sampleId": "010",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "011",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "011",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "011",
+      "category": "症状",
+      "label": "ダウン症"
+    },
+    {
+      "sampleId": "011",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "011",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "011",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "011",
+      "category": "感情",
+      "label": "負担・プレッシャー"
+    },
+    {
+      "sampleId": "011",
+      "category": "主題",
+      "label": "予想外の出費と家計圧迫"
+    },
+    {
+      "sampleId": "011",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "011",
+      "category": "主題",
+      "label": "家庭内ケア・身体的負担・介護の現実"
+    },
+    {
+      "sampleId": "011",
+      "category": "主題",
+      "label": "行政対応・制度運用への不信"
+    },
+    {
+      "sampleId": "011",
+      "category": "願い・願望",
+      "label": "統一的な障害判定基準の整備"
+    },
+    {
+      "sampleId": "011",
+      "category": "願い・願望",
+      "label": "放課後等デイ等の預かり支援拡充と負担軽減"
+    },
+    {
+      "sampleId": "011",
+      "category": "願い・願望",
+      "label": "役所や介護職員の専門性向上と処遇改善"
+    },
+    {
+      "sampleId": "012",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "012",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "012",
+      "category": "症状",
+      "label": "ダウン症"
+    },
+    {
+      "sampleId": "012",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "012",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "012",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "012",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "012",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "012",
+      "category": "主題",
+      "label": "通学・送役・外出困難"
+    },
+    {
+      "sampleId": "012",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "012",
+      "category": "主題",
+      "label": "制度設計に対する疑問"
+    },
+    {
+      "sampleId": "012",
+      "category": "願い・願望",
+      "label": "複数障害児世帯を前提にした支援設計"
+    },
+    {
+      "sampleId": "012",
+      "category": "願い・願望",
+      "label": "放課後等デイ等の預かり支援拡充と負担軽減"
+    },
+    {
+      "sampleId": "012",
+      "category": "願い・願望",
+      "label": "経済負担の軽減と手当拡充"
+    },
+    {
+      "sampleId": "013",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "013",
+      "category": "症状",
+      "label": "口唇口蓋裂"
+    },
+    {
+      "sampleId": "013",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "013",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "013",
+      "category": "症状",
+      "label": "心疾患"
+    },
+    {
+      "sampleId": "013",
+      "category": "症状",
+      "label": "視覚障害"
+    },
+    {
+      "sampleId": "013",
+      "category": "感情",
+      "label": "諦め・受容"
+    },
+    {
+      "sampleId": "013",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "013",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "013",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "013",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "013",
+      "category": "主題",
+      "label": "親亡き後の生活保障と居場所不安"
+    },
+    {
+      "sampleId": "013",
+      "category": "主題",
+      "label": "教育環境・進路格差"
+    },
+    {
+      "sampleId": "013",
+      "category": "主題",
+      "label": "制度設計に対する疑問"
+    },
+    {
+      "sampleId": "013",
+      "category": "主題",
+      "label": "重度児・医療的ケア児の受け皿不足"
+    },
+    {
+      "sampleId": "013",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "013",
+      "category": "願い・願望",
+      "label": "教育・学び支援の強化"
+    },
+    {
+      "sampleId": "013",
+      "category": "願い・願望",
+      "label": "医療的ケア児・重度児支援の拡充"
+    },
+    {
+      "sampleId": "014",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "014",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "014",
+      "category": "症状",
+      "label": "運動障害"
+    },
+    {
+      "sampleId": "014",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "014",
+      "category": "症状",
+      "label": "脳障害"
+    },
+    {
+      "sampleId": "014",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "014",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "014",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "014",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "014",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "014",
+      "category": "主題",
+      "label": "ヘルパー・通所・入所施設の不足"
+    },
+    {
+      "sampleId": "014",
+      "category": "主題",
+      "label": "重度児・医療的ケア児の受け皿不足"
+    },
+    {
+      "sampleId": "014",
+      "category": "願い・願望",
+      "label": "家族の孤立防止と共生の推進"
+    },
+    {
+      "sampleId": "014",
+      "category": "願い・願望",
+      "label": "地域格差の是正と平等な支援"
+    },
+    {
+      "sampleId": "014",
+      "category": "願い・願望",
+      "label": "在宅介護の重度障害家庭に対する支援拡充"
+    },
+    {
+      "sampleId": "015",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "015",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "015",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "015",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "015",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "015",
+      "category": "感情",
+      "label": "苛立ち・焦燥"
+    },
+    {
+      "sampleId": "015",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "015",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "015",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "015",
+      "category": "主題",
+      "label": "行政対応・制度運用への不信"
+    },
+    {
+      "sampleId": "015",
+      "category": "願い・願望",
+      "label": "在宅・訪問支援体制の強化"
+    },
+    {
+      "sampleId": "015",
+      "category": "願い・願望",
+      "label": "放課後等デイ等の預かり支援拡充と負担軽減"
+    },
+    {
+      "sampleId": "015",
+      "category": "願い・願望",
+      "label": "役所や介護職員の専門性向上と処遇改善"
+    },
+    {
+      "sampleId": "016",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "016",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "016",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "016",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "016",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "016",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "016",
+      "category": "感情",
+      "label": "苛立ち・焦燥"
+    },
+    {
+      "sampleId": "016",
+      "category": "主題",
+      "label": "きょうだい児支援と教育格差"
+    },
+    {
+      "sampleId": "016",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "016",
+      "category": "主題",
+      "label": "行政対応・制度運用への不信"
+    },
+    {
+      "sampleId": "016",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "016",
+      "category": "願い・願望",
+      "label": "地域格差の是正と平等な支援"
+    },
+    {
+      "sampleId": "016",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "017",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "017",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "017",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "017",
+      "category": "症状",
+      "label": "難病"
+    },
+    {
+      "sampleId": "017",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "017",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "017",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "017",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "017",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "017",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "017",
+      "category": "主題",
+      "label": "医療的ケア支援の不足と制度遅れ"
+    },
+    {
+      "sampleId": "017",
+      "category": "主題",
+      "label": "行政対応・制度運用への不信"
+    },
+    {
+      "sampleId": "017",
+      "category": "願い・願望",
+      "label": "放課後等デイ等の預かり支援拡充と負担軽減"
+    },
+    {
+      "sampleId": "017",
+      "category": "願い・願望",
+      "label": "将来不安軽減に向けた設計と貯蓄の支援拡充"
+    },
+    {
+      "sampleId": "017",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "018",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "018",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "018",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "018",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "018",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "018",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "018",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "018",
+      "category": "主題",
+      "label": "予想外の出費と家計圧迫"
+    },
+    {
+      "sampleId": "018",
+      "category": "主題",
+      "label": "教育環境・進路格差"
+    },
+    {
+      "sampleId": "018",
+      "category": "主題",
+      "label": "グレーゾーンならではの困難"
+    },
+    {
+      "sampleId": "018",
+      "category": "願い・願望",
+      "label": "役所や介護職員の専門性向上と処遇改善"
+    },
+    {
+      "sampleId": "018",
+      "category": "願い・願望",
+      "label": "地域格差の是正と平等な支援"
+    },
+    {
+      "sampleId": "018",
+      "category": "願い・願望",
+      "label": "経済負担の軽減と手当拡充"
+    },
+    {
+      "sampleId": "019",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "019",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "019",
+      "category": "症状",
+      "label": "ダウン症"
+    },
+    {
+      "sampleId": "019",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "019",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "019",
+      "category": "感情",
+      "label": "葛藤・迷い"
+    },
+    {
+      "sampleId": "019",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "019",
+      "category": "主題",
+      "label": "きょうだい児支援と教育格差"
+    },
+    {
+      "sampleId": "019",
+      "category": "主題",
+      "label": "地域間格差と自治体裁量"
+    },
+    {
+      "sampleId": "019",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "019",
+      "category": "願い・願望",
+      "label": "地域格差の是正と平等な支援"
+    },
+    {
+      "sampleId": "019",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "020",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "020",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "020",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "020",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "020",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "020",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "020",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "020",
+      "category": "感情",
+      "label": "負担・プレッシャー"
+    },
+    {
+      "sampleId": "020",
+      "category": "主題",
+      "label": "ヘルパー・通所・入所施設の不足"
+    },
+    {
+      "sampleId": "020",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "020",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "020",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "021",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "021",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "021",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "021",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "021",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "021",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "021",
+      "category": "主題",
+      "label": "制度設計に対する疑問"
+    },
+    {
+      "sampleId": "021",
+      "category": "主題",
+      "label": "長期的な見通しに対する不安"
+    },
+    {
+      "sampleId": "021",
+      "category": "願い・願望",
+      "label": "サービス価格の均等化"
+    },
+    {
+      "sampleId": "021",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "022",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "022",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "022",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "022",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "022",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "022",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "022",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "022",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "022",
+      "category": "主題",
+      "label": "事業所の質・継続性・処遇"
+    },
+    {
+      "sampleId": "022",
+      "category": "主題",
+      "label": "情報格差と申請手続・窓口相談の複雑さ"
+    },
+    {
+      "sampleId": "022",
+      "category": "主題",
+      "label": "通学・送迎・外出困難"
+    },
+    {
+      "sampleId": "022",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "022",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "022",
+      "category": "願い・願望",
+      "label": "役所や介護職員の専門性向上と処遇改善"
+    },
+    {
+      "sampleId": "023",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "023",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "023",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "023",
+      "category": "症状",
+      "label": "排泄障害"
+    },
+    {
+      "sampleId": "023",
+      "category": "感情",
+      "label": "諦め・受容"
+    },
+    {
+      "sampleId": "023",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "023",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "023",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "023",
+      "category": "感情",
+      "label": "罪悪感"
+    },
+    {
+      "sampleId": "023",
+      "category": "主題",
+      "label": "予想外の出費と家計圧迫"
+    },
+    {
+      "sampleId": "023",
+      "category": "主題",
+      "label": "きょうだい児支援と教育格差"
+    },
+    {
+      "sampleId": "023",
+      "category": "主題",
+      "label": "家族内の負担不均衡と関係不和"
+    },
+    {
+      "sampleId": "023",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "023",
+      "category": "願い・願望",
+      "label": "放課後等デイ等の預かり支援拡充と負担軽減"
+    },
+    {
+      "sampleId": "023",
+      "category": "願い・願望",
+      "label": "経済負担の軽減と手当拡充"
+    },
+    {
+      "sampleId": "023",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "024",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "024",
+      "category": "症状",
+      "label": "言語障害"
+    },
+    {
+      "sampleId": "024",
+      "category": "症状",
+      "label": "視覚障害"
+    },
+    {
+      "sampleId": "024",
+      "category": "症状",
+      "label": "難病"
+    },
+    {
+      "sampleId": "024",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "024",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "024",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "024",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "024",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "024",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "024",
+      "category": "主題",
+      "label": "医療的ケア支援の不足と制度遅れ"
+    },
+    {
+      "sampleId": "024",
+      "category": "主題",
+      "label": "制度設計に対する疑問"
+    },
+    {
+      "sampleId": "024",
+      "category": "願い・願望",
+      "label": "優良事業所に対する処遇改善"
+    },
+    {
+      "sampleId": "024",
+      "category": "願い・願望",
+      "label": "在宅介護の重度障害家庭に対する支援拡充"
+    },
+    {
+      "sampleId": "024",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "025",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "025",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "025",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "025",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "025",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "025",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "025",
+      "category": "主題",
+      "label": "親亡き後の生活保障と居場所不安"
+    },
+    {
+      "sampleId": "025",
+      "category": "主題",
+      "label": "長期的な見通しに対する不安"
+    },
+    {
+      "sampleId": "025",
+      "category": "願い・願望",
+      "label": "将来不安軽減に向けた設計と貯蓄の支援拡充"
+    },
+    {
+      "sampleId": "025",
+      "category": "願い・願望",
+      "label": "住まい・入所施設の拡充"
+    },
+    {
+      "sampleId": "026",
+      "category": "立場",
+      "label": "きょうだい"
+    },
+    {
+      "sampleId": "026",
+      "category": "症状",
+      "label": "学習障害"
+    },
+    {
+      "sampleId": "026",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "026",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "026",
+      "category": "感情",
+      "label": "恐怖・トラウマ"
+    },
+    {
+      "sampleId": "026",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "026",
+      "category": "感情",
+      "label": "負担・プレッシャー"
+    },
+    {
+      "sampleId": "026",
+      "category": "主題",
+      "label": "情報格差と申請手続・窓口相談の複雑さ"
+    },
+    {
+      "sampleId": "026",
+      "category": "主題",
+      "label": "家庭内ケア・身体的負担・介護の現実"
+    },
+    {
+      "sampleId": "026",
+      "category": "主題",
+      "label": "行動問題・他害/自傷への対応困難"
+    },
+    {
+      "sampleId": "026",
+      "category": "願い・願望",
+      "label": "早期相談・支援体制の拡充"
+    },
+    {
+      "sampleId": "026",
+      "category": "願い・願望",
+      "label": "きょうだい児への支援拡大"
+    },
+    {
+      "sampleId": "026",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "027",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "027",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "027",
+      "category": "症状",
+      "label": "難病"
+    },
+    {
+      "sampleId": "027",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "027",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "027",
+      "category": "感情",
+      "label": "葛藤・迷い"
+    },
+    {
+      "sampleId": "027",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "027",
+      "category": "主題",
+      "label": "地域間格差と自治体裁量"
+    },
+    {
+      "sampleId": "027",
+      "category": "主題",
+      "label": "医療的ケア支援の不足と制度遅れ"
+    },
+    {
+      "sampleId": "027",
+      "category": "主題",
+      "label": "重度児・医療的ケア児の受け皿不足"
+    },
+    {
+      "sampleId": "027",
+      "category": "願い・願望",
+      "label": "統一的な障害判定基準の整備"
+    },
+    {
+      "sampleId": "027",
+      "category": "願い・願望",
+      "label": "医療的ケア児・重度児支援の拡充"
+    },
+    {
+      "sampleId": "028",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "028",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "028",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "028",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "028",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "028",
+      "category": "感情",
+      "label": "諦め・受容"
+    },
+    {
+      "sampleId": "028",
+      "category": "主題",
+      "label": "ヘルパー・通所・入所施設の不足"
+    },
+    {
+      "sampleId": "028",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "028",
+      "category": "主題",
+      "label": "家庭内ケア・身体的負担・介護の現実"
+    },
+    {
+      "sampleId": "028",
+      "category": "願い・願望",
+      "label": "レスパイト支援の強化"
+    },
+    {
+      "sampleId": "028",
+      "category": "願い・願望",
+      "label": "家族の孤立防止と共生の推進"
+    },
+    {
+      "sampleId": "028",
+      "category": "願い・願望",
+      "label": "介護者の就労継続と両立支援"
+    },
+    {
+      "sampleId": "029",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "029",
+      "category": "症状",
+      "label": "呼吸障害"
+    },
+    {
+      "sampleId": "029",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "029",
+      "category": "症状",
+      "label": "ダウン症"
+    },
+    {
+      "sampleId": "029",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "029",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "029",
+      "category": "感情",
+      "label": "諦め・受容"
+    },
+    {
+      "sampleId": "029",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "029",
+      "category": "主題",
+      "label": "社会通念との摩擦"
+    },
+    {
+      "sampleId": "029",
+      "category": "主題",
+      "label": "教育環境・進路格差"
+    },
+    {
+      "sampleId": "029",
+      "category": "主題",
+      "label": "家庭内ケア・身体的負担・介護の現実"
+    },
+    {
+      "sampleId": "029",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "029",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "029",
+      "category": "願い・願望",
+      "label": "教育・学び支援の強化"
+    },
+    {
+      "sampleId": "030",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "030",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "030",
+      "category": "症状",
+      "label": "脳性麻痺"
+    },
+    {
+      "sampleId": "030",
+      "category": "症状",
+      "label": "てんかん"
+    },
+    {
+      "sampleId": "030",
+      "category": "感情",
+      "label": "無力感・徒労感"
+    },
+    {
+      "sampleId": "030",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "030",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "030",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "030",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "030",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "030",
+      "category": "主題",
+      "label": "家庭内ケア・身体的負担・介護の現実"
+    },
+    {
+      "sampleId": "030",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "030",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "031",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "031",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "031",
+      "category": "症状",
+      "label": "皮膚疾患"
+    },
+    {
+      "sampleId": "031",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "031",
+      "category": "症状",
+      "label": "感覚過敏"
+    },
+    {
+      "sampleId": "031",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "031",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "031",
+      "category": "症状",
+      "label": "排泄障害"
+    },
+    {
+      "sampleId": "031",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "031",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "031",
+      "category": "感情",
+      "label": "悲しみ・切なさ"
+    },
+    {
+      "sampleId": "031",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "031",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "031",
+      "category": "感情",
+      "label": "罪悪感"
+    },
+    {
+      "sampleId": "031",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "031",
+      "category": "主題",
+      "label": "感情理解・コミュニケーション困難"
+    },
+    {
+      "sampleId": "031",
+      "category": "主題",
+      "label": "医療的ケア支援の不足と制度遅れ"
+    },
+    {
+      "sampleId": "031",
+      "category": "主題",
+      "label": "家族内の負担不均衡と関係不和"
+    },
+    {
+      "sampleId": "031",
+      "category": "主題",
+      "label": "予想外の出費と家計圧迫"
+    },
+    {
+      "sampleId": "031",
+      "category": "主題",
+      "label": "家庭内の負担不均衡と関係不和"
+    },
+    {
+      "sampleId": "031",
+      "category": "願い・願望",
+      "label": "在宅・訪問支援体制の強化"
+    },
+    {
+      "sampleId": "031",
+      "category": "願い・願望",
+      "label": "レスパイト支援の強化"
+    },
+    {
+      "sampleId": "031",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "031",
+      "category": "願い・願望",
+      "label": "役所や介護職員の専門性向上と処遇改善"
+    },
+    {
+      "sampleId": "032",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "032",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "032",
+      "category": "症状",
+      "label": "脳性麻痺"
+    },
+    {
+      "sampleId": "032",
+      "category": "感情",
+      "label": "悲しみ・切なさ"
+    },
+    {
+      "sampleId": "032",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "032",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "032",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "032",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "032",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "032",
+      "category": "願い・願望",
+      "label": "きょうだい児への支援拡大"
+    },
+    {
+      "sampleId": "032",
+      "category": "願い・願望",
+      "label": "介護者の就労継続と両立支援"
+    },
+    {
+      "sampleId": "032",
+      "category": "願い・願望",
+      "label": "経済負担の軽減と手当拡充"
+    },
+    {
+      "sampleId": "033",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "033",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "033",
+      "category": "感情",
+      "label": "悲しみ・切なさ"
+    },
+    {
+      "sampleId": "033",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "033",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "033",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "033",
+      "category": "主題",
+      "label": "家族内の負担不均衡と関係不和"
+    },
+    {
+      "sampleId": "033",
+      "category": "主題",
+      "label": "社会的孤立"
+    },
+    {
+      "sampleId": "033",
+      "category": "主題",
+      "label": "通学・送迎・外出困難"
+    },
+    {
+      "sampleId": "033",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "033",
+      "category": "願い・願望",
+      "label": "介護者の就労継続と両立支援"
+    },
+    {
+      "sampleId": "034",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "034",
+      "category": "症状",
+      "label": "重症心身障害"
+    },
+    {
+      "sampleId": "034",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "034",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "034",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "034",
+      "category": "主題",
+      "label": "地域間格差と自治体裁量"
+    },
+    {
+      "sampleId": "034",
+      "category": "主題",
+      "label": "制度設計に対する疑問"
+    },
+    {
+      "sampleId": "034",
+      "category": "願い・願望",
+      "label": "放課後等デイ等の預かり支援拡充と負担軽減"
+    },
+    {
+      "sampleId": "034",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "034",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "035",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "035",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "035",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "035",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "035",
+      "category": "感情",
+      "label": "安堵・安心"
+    },
+    {
+      "sampleId": "035",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "035",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "035",
+      "category": "主題",
+      "label": "感情理解・コミュニケーション困難"
+    },
+    {
+      "sampleId": "035",
+      "category": "主題",
+      "label": "社会的孤立"
+    },
+    {
+      "sampleId": "035",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "035",
+      "category": "願い・願望",
+      "label": "家族の孤立防止と共生の推進"
+    },
+    {
+      "sampleId": "035",
+      "category": "願い・願望",
+      "label": "住まい・入所施設の拡充"
+    },
+    {
+      "sampleId": "036",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "036",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "036",
+      "category": "症状",
+      "label": "ダウン症"
+    },
+    {
+      "sampleId": "036",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "036",
+      "category": "主題",
+      "label": "事業所の質・継続性・処遇"
+    },
+    {
+      "sampleId": "036",
+      "category": "主題",
+      "label": "ヘルパー・通所・入所施設の不足"
+    },
+    {
+      "sampleId": "036",
+      "category": "願い・願望",
+      "label": "優良事業所に対する処遇改善"
+    },
+    {
+      "sampleId": "036",
+      "category": "願い・願望",
+      "label": "住まい・入所施設の拡充"
+    },
+    {
+      "sampleId": "037",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "037",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "037",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "037",
+      "category": "症状",
+      "label": "ダウン症"
+    },
+    {
+      "sampleId": "037",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "037",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "037",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "037",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "037",
+      "category": "主題",
+      "label": "予想外の出費と家計圧迫"
+    },
+    {
+      "sampleId": "037",
+      "category": "主題",
+      "label": "情報格差と申請手続・窓口相談の複雑さ"
+    },
+    {
+      "sampleId": "037",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "037",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "037",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "037",
+      "category": "願い・願望",
+      "label": "経済負担の軽減と手当拡充"
+    },
+    {
+      "sampleId": "038",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "038",
+      "category": "症状",
+      "label": "言語障害"
+    },
+    {
+      "sampleId": "038",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "038",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "038",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "038",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "038",
+      "category": "感情",
+      "label": "戸惑い・困惑"
+    },
+    {
+      "sampleId": "038",
+      "category": "主題",
+      "label": "感情理解・コミュニケーション困難"
+    },
+    {
+      "sampleId": "038",
+      "category": "主題",
+      "label": "感情・精神的疲弊とメンタル不調"
+    },
+    {
+      "sampleId": "038",
+      "category": "願い・願望",
+      "label": "家族の孤立防止と共生の推進"
+    },
+    {
+      "sampleId": "038",
+      "category": "願い・願望",
+      "label": "役所や介護職員の専門性向上と処遇改善"
+    },
+    {
+      "sampleId": "039",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "039",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "039",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "039",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "039",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "039",
+      "category": "主題",
+      "label": "「18歳の壁」問題"
+    },
+    {
+      "sampleId": "039",
+      "category": "主題",
+      "label": "事業所の質・継続性・処遇"
+    },
+    {
+      "sampleId": "039",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "039",
+      "category": "願い・願望",
+      "label": "きょうだい児への支援拡大"
+    },
+    {
+      "sampleId": "039",
+      "category": "願い・願望",
+      "label": "介護者の就労継続と両立支援"
+    },
+    {
+      "sampleId": "039",
+      "category": "願い・願望",
+      "label": "住まい・入所施設の拡充"
+    },
+    {
+      "sampleId": "040",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "040",
+      "category": "症状",
+      "label": "睡眠障害"
+    },
+    {
+      "sampleId": "040",
+      "category": "症状",
+      "label": "水頭症"
+    },
+    {
+      "sampleId": "040",
+      "category": "症状",
+      "label": "滑脳症"
+    },
+    {
+      "sampleId": "040",
+      "category": "感情",
+      "label": "恐怖・トラウマ"
+    },
+    {
+      "sampleId": "040",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "040",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "040",
+      "category": "感情",
+      "label": "罪悪感"
+    },
+    {
+      "sampleId": "040",
+      "category": "主題",
+      "label": "きょうだい児支援と教育格差"
+    },
+    {
+      "sampleId": "040",
+      "category": "主題",
+      "label": "夜間行動・睡眠障害・生活破綻"
+    },
+    {
+      "sampleId": "040",
+      "category": "主題",
+      "label": "ヘルパー・通所・入所施設の不足"
+    },
+    {
+      "sampleId": "040",
+      "category": "願い・願望",
+      "label": "レスパイト支援の強化"
+    },
+    {
+      "sampleId": "041",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "041",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "041",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "041",
+      "category": "症状",
+      "label": "言語障害"
+    },
+    {
+      "sampleId": "041",
+      "category": "症状",
+      "label": "重症心身障害"
+    },
+    {
+      "sampleId": "041",
+      "category": "症状",
+      "label": "難病"
+    },
+    {
+      "sampleId": "041",
+      "category": "感情",
+      "label": "諦め・受容"
+    },
+    {
+      "sampleId": "041",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "041",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "041",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "041",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "041",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "041",
+      "category": "主題",
+      "label": "ヘルパー・通所・入所施設の不足"
+    },
+    {
+      "sampleId": "041",
+      "category": "主題",
+      "label": "きょうだい児支援と教育格差"
+    },
+    {
+      "sampleId": "041",
+      "category": "主題",
+      "label": "地域間格差と自治体裁量"
+    },
+    {
+      "sampleId": "041",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "041",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "041",
+      "category": "願い・願望",
+      "label": "年齢によらない継続的支援の確保"
+    },
+    {
+      "sampleId": "042",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "042",
+      "category": "症状",
+      "label": "言語障害"
+    },
+    {
+      "sampleId": "042",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "042",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "042",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "042",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "042",
+      "category": "感情",
+      "label": "負担・プレッシャー"
+    },
+    {
+      "sampleId": "042",
+      "category": "感情",
+      "label": "恐怖・トラウマ"
+    },
+    {
+      "sampleId": "042",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "042",
+      "category": "主題",
+      "label": "レスパイトの効果"
+    },
+    {
+      "sampleId": "042",
+      "category": "主題",
+      "label": "通学・送迎・外出困難"
+    },
+    {
+      "sampleId": "042",
+      "category": "主題",
+      "label": "「18歳の壁」問題"
+    },
+    {
+      "sampleId": "042",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "042",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "043",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "043",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "043",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "043",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "043",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "043",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "043",
+      "category": "主題",
+      "label": "事業所の質・継続性・処遇"
+    },
+    {
+      "sampleId": "043",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "043",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "044",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "044",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "044",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "044",
+      "category": "症状",
+      "label": "感覚過敏"
+    },
+    {
+      "sampleId": "044",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "044",
+      "category": "症状",
+      "label": "摂食障害"
+    },
+    {
+      "sampleId": "044",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "044",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "044",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "044",
+      "category": "感情",
+      "label": "戸惑い・困惑"
+    },
+    {
+      "sampleId": "044",
+      "category": "主題",
+      "label": "感覚過敏と生活困難"
+    },
+    {
+      "sampleId": "044",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "044",
+      "category": "主題",
+      "label": "通学・送迎・外出困難"
+    },
+    {
+      "sampleId": "044",
+      "category": "主題",
+      "label": "行動問題・他害/自傷への対応困難"
+    },
+    {
+      "sampleId": "044",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "044",
+      "category": "願い・願望",
+      "label": "家族の孤立防止と共生の推進"
+    },
+    {
+      "sampleId": "045",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "045",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "045",
+      "category": "症状",
+      "label": "感覚過敏"
+    },
+    {
+      "sampleId": "045",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "045",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "045",
+      "category": "症状",
+      "label": "トゥレット症"
+    },
+    {
+      "sampleId": "045",
+      "category": "症状",
+      "label": "てんかん"
+    },
+    {
+      "sampleId": "045",
+      "category": "感情",
+      "label": "安堵・安心"
+    },
+    {
+      "sampleId": "045",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "045",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "045",
+      "category": "主題",
+      "label": "事業所の質・継続性・処遇"
+    },
+    {
+      "sampleId": "045",
+      "category": "主題",
+      "label": "重度児・医療的ケア児の受け皿不足"
+    },
+    {
+      "sampleId": "045",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "045",
+      "category": "願い・願望",
+      "label": "役所や介護職員の専門性向上と処遇改善"
+    },
+    {
+      "sampleId": "045",
+      "category": "願い・願望",
+      "label": "住まい・入所施設の拡充"
+    },
+    {
+      "sampleId": "046",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "046",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "046",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "046",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "046",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "046",
+      "category": "主題",
+      "label": "親亡き後の生活保障と居場所不安"
+    },
+    {
+      "sampleId": "046",
+      "category": "願い・願望",
+      "label": "将来不安軽減に向けた設計と貯蓄の支援拡充"
+    },
+    {
+      "sampleId": "047",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "047",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "047",
+      "category": "感情",
+      "label": "安堵・安心"
+    },
+    {
+      "sampleId": "047",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "047",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "047",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "048",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "048",
+      "category": "症状",
+      "label": "脳性麻痺"
+    },
+    {
+      "sampleId": "048",
+      "category": "感情",
+      "label": "悲しみ・切なさ"
+    },
+    {
+      "sampleId": "048",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "048",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "048",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "048",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "048",
+      "category": "主題",
+      "label": "制度設計に対する疑問"
+    },
+    {
+      "sampleId": "048",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "048",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "048",
+      "category": "願い・願望",
+      "label": "家族の孤立防止と共生の推進"
+    },
+    {
+      "sampleId": "049",
+      "category": "立場",
+      "label": "きょうだい"
+    },
+    {
+      "sampleId": "049",
+      "category": "症状",
+      "label": "統合失調症"
+    },
+    {
+      "sampleId": "049",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "049",
+      "category": "主題",
+      "label": "障がい者自身の就労と待遇"
+    },
+    {
+      "sampleId": "049",
+      "category": "願い・願望",
+      "label": "障害者の就労支援の適正化"
+    },
+    {
+      "sampleId": "050",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "050",
+      "category": "症状",
+      "label": "脳障害"
+    },
+    {
+      "sampleId": "050",
+      "category": "感情",
+      "label": "諦め・受容"
+    },
+    {
+      "sampleId": "050",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "050",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "050",
+      "category": "感情",
+      "label": "恐怖・トラウマ"
+    },
+    {
+      "sampleId": "050",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "050",
+      "category": "主題",
+      "label": "安全リスクと監視負担"
+    },
+    {
+      "sampleId": "050",
+      "category": "主題",
+      "label": "医療的ケア支援の不足と制度遅れ"
+    },
+    {
+      "sampleId": "050",
+      "category": "主題",
+      "label": "制度設計に対する疑問"
+    },
+    {
+      "sampleId": "050",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "050",
+      "category": "願い・願望",
+      "label": "レスパイト支援の強化"
+    },
+    {
+      "sampleId": "051",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "051",
+      "category": "症状",
+      "label": "言語障害"
+    },
+    {
+      "sampleId": "051",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "051",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "051",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "051",
+      "category": "主題",
+      "label": "感情理解・コミュニケーション困難"
+    },
+    {
+      "sampleId": "051",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "051",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "051",
+      "category": "願い・願望",
+      "label": "役所や介護職員の専門性向上と処遇改善"
+    },
+    {
+      "sampleId": "051",
+      "category": "願い・願望",
+      "label": "教育・学び支援の強化"
+    },
+    {
+      "sampleId": "052",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "052",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "052",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "052",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "052",
+      "category": "感情",
+      "label": "羨ましさ"
+    },
+    {
+      "sampleId": "052",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "052",
+      "category": "主題",
+      "label": "家族内の負担不均衡と関係不和"
+    },
+    {
+      "sampleId": "052",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "052",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "052",
+      "category": "願い・願望",
+      "label": "放課後等デイ等の預かり支援拡充と負担軽減"
+    },
+    {
+      "sampleId": "052",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "053",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "053",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "053",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "053",
+      "category": "症状",
+      "label": "感覚過敏"
+    },
+    {
+      "sampleId": "053",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "053",
+      "category": "症状",
+      "label": "睡眠障害"
+    },
+    {
+      "sampleId": "053",
+      "category": "症状",
+      "label": "摂食障害"
+    },
+    {
+      "sampleId": "053",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "053",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "053",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "053",
+      "category": "主題",
+      "label": "地域間格差と自治体裁量"
+    },
+    {
+      "sampleId": "053",
+      "category": "主題",
+      "label": "感情・精神的疲弊とメンタル不調"
+    },
+    {
+      "sampleId": "053",
+      "category": "主題",
+      "label": "行動問題・他害/自傷への対応困難"
+    },
+    {
+      "sampleId": "053",
+      "category": "願い・願望",
+      "label": "きょうだい児への支援拡大"
+    },
+    {
+      "sampleId": "053",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "054",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "054",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "054",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "054",
+      "category": "感情",
+      "label": "安堵・安心"
+    },
+    {
+      "sampleId": "054",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "054",
+      "category": "感情",
+      "label": "負担・プレッシャー"
+    },
+    {
+      "sampleId": "054",
+      "category": "主題",
+      "label": "ヘルパー・通所・入所施設の不足"
+    },
+    {
+      "sampleId": "054",
+      "category": "主題",
+      "label": "感情・精神的疲弊とメンタル不調"
+    },
+    {
+      "sampleId": "054",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "055",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "055",
+      "category": "症状",
+      "label": "言語障害"
+    },
+    {
+      "sampleId": "055",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "055",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "055",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "055",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "055",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "055",
+      "category": "感情",
+      "label": "罪悪感"
+    },
+    {
+      "sampleId": "055",
+      "category": "主題",
+      "label": "家族内の負担不均衡と関係不和"
+    },
+    {
+      "sampleId": "055",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "055",
+      "category": "願い・願望",
+      "label": "放課後等デイ等の預かり支援拡充と負担軽減"
+    },
+    {
+      "sampleId": "055",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "056",
+      "category": "立場",
+      "label": "きょうだい"
+    },
+    {
+      "sampleId": "056",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "056",
+      "category": "症状",
+      "label": "感覚過敏"
+    },
+    {
+      "sampleId": "056",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "056",
+      "category": "症状",
+      "label": "言語障害"
+    },
+    {
+      "sampleId": "056",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "056",
+      "category": "症状",
+      "label": "排泄障害"
+    },
+    {
+      "sampleId": "056",
+      "category": "感情",
+      "label": "安堵・安心"
+    },
+    {
+      "sampleId": "056",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "056",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "056",
+      "category": "感情",
+      "label": "恐怖・トラウマ"
+    },
+    {
+      "sampleId": "056",
+      "category": "感情",
+      "label": "負担・プレッシャー"
+    },
+    {
+      "sampleId": "056",
+      "category": "主題",
+      "label": "きょうだい児支援と教育格差"
+    },
+    {
+      "sampleId": "056",
+      "category": "主題",
+      "label": "レスパイトの効果"
+    },
+    {
+      "sampleId": "056",
+      "category": "主題",
+      "label": "行動問題・他害/自傷への対応困難"
+    },
+    {
+      "sampleId": "056",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "056",
+      "category": "願い・願望",
+      "label": "レスパイト支援の強化"
+    },
+    {
+      "sampleId": "057",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "057",
+      "category": "主題",
+      "label": "社会通念との摩擦"
+    },
+    {
+      "sampleId": "057",
+      "category": "主題",
+      "label": "家庭内ケア・身体的負担・介護の現実"
+    },
+    {
+      "sampleId": "057",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "058",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "058",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "058",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "058",
+      "category": "症状",
+      "label": "摂食障害"
+    },
+    {
+      "sampleId": "058",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "058",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "058",
+      "category": "主題",
+      "label": "きょうだい児支援と教育格差"
+    },
+    {
+      "sampleId": "058",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "058",
+      "category": "主題",
+      "label": "長期的な見通しに対する不安"
+    },
+    {
+      "sampleId": "058",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "058",
+      "category": "願い・願望",
+      "label": "将来不安軽減に向けた設計と貯蓄の支援拡充"
+    },
+    {
+      "sampleId": "059",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "059",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "059",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "059",
+      "category": "症状",
+      "label": "感覚過敏"
+    },
+    {
+      "sampleId": "059",
+      "category": "症状",
+      "label": "学習障害"
+    },
+    {
+      "sampleId": "059",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "059",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "059",
+      "category": "感情",
+      "label": "苛立ち・焦燥"
+    },
+    {
+      "sampleId": "059",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "059",
+      "category": "主題",
+      "label": "感覚過敏と生活困難"
+    },
+    {
+      "sampleId": "059",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "059",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "059",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "060",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "060",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "060",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "060",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "060",
+      "category": "症状",
+      "label": "学習障害"
+    },
+    {
+      "sampleId": "060",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "060",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "060",
+      "category": "感情",
+      "label": "戸惑い・困惑"
+    },
+    {
+      "sampleId": "060",
+      "category": "主題",
+      "label": "きょうだい児支援と教育格差"
+    },
+    {
+      "sampleId": "060",
+      "category": "主題",
+      "label": "教育環境・進路格差"
+    },
+    {
+      "sampleId": "060",
+      "category": "主題",
+      "label": "支援員・行政職員・教員のスキル不足"
+    },
+    {
+      "sampleId": "060",
+      "category": "願い・願望",
+      "label": "役所や介護職員の専門性向上と処遇改善"
+    },
+    {
+      "sampleId": "061",
+      "category": "立場",
+      "label": "支援職・教員"
+    },
+    {
+      "sampleId": "061",
+      "category": "主題",
+      "label": "感情理解・コミュニケーション困難"
+    },
+    {
+      "sampleId": "061",
+      "category": "主題",
+      "label": "社会的認知の進展への期待"
+    },
+    {
+      "sampleId": "061",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "062",
+      "category": "立場",
+      "label": "親族"
+    },
+    {
+      "sampleId": "062",
+      "category": "症状",
+      "label": "運動障害"
+    },
+    {
+      "sampleId": "062",
+      "category": "症状",
+      "label": "パーキンソン病"
+    },
+    {
+      "sampleId": "062",
+      "category": "症状",
+      "label": "排泄障害"
+    },
+    {
+      "sampleId": "062",
+      "category": "感情",
+      "label": "罪悪感"
+    },
+    {
+      "sampleId": "062",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "062",
+      "category": "主題",
+      "label": "社会的認知の進展への期待"
+    },
+    {
+      "sampleId": "062",
+      "category": "主題",
+      "label": "感情・精神的疲弊とメンタル不調"
+    },
+    {
+      "sampleId": "062",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "063",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "063",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "063",
+      "category": "症状",
+      "label": "脳障害"
+    },
+    {
+      "sampleId": "063",
+      "category": "感情",
+      "label": "悲しみ・切なさ"
+    },
+    {
+      "sampleId": "063",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "063",
+      "category": "感情",
+      "label": "葛藤・迷い"
+    },
+    {
+      "sampleId": "063",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "063",
+      "category": "主題",
+      "label": "家庭内ケア・身体的負担・介護の現実"
+    },
+    {
+      "sampleId": "063",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "064",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "064",
+      "category": "症状",
+      "label": "言語障害"
+    },
+    {
+      "sampleId": "064",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "064",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "064",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "064",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "064",
+      "category": "主題",
+      "label": "通学・送迎・外出困難"
+    },
+    {
+      "sampleId": "064",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "064",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "065",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "065",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "065",
+      "category": "症状",
+      "label": "運動障害"
+    },
+    {
+      "sampleId": "065",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "065",
+      "category": "症状",
+      "label": "感覚過敏"
+    },
+    {
+      "sampleId": "065",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "065",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "065",
+      "category": "主題",
+      "label": "教育環境・進路格差"
+    },
+    {
+      "sampleId": "065",
+      "category": "主題",
+      "label": "感情・精神的疲弊とメンタル不調"
+    },
+    {
+      "sampleId": "065",
+      "category": "主題",
+      "label": "行政対応・制度運用への不信"
+    },
+    {
+      "sampleId": "065",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "066",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "066",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "066",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "066",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "066",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "066",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "067",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "067",
+      "category": "症状",
+      "label": "化学物質過敏症"
+    },
+    {
+      "sampleId": "067",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "067",
+      "category": "症状",
+      "label": "ダウン症"
+    },
+    {
+      "sampleId": "067",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "067",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "067",
+      "category": "感情",
+      "label": "葛藤・迷い"
+    },
+    {
+      "sampleId": "067",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "067",
+      "category": "主題",
+      "label": "社会的孤立"
+    },
+    {
+      "sampleId": "067",
+      "category": "主題",
+      "label": "感覚過敏と生活困難"
+    },
+    {
+      "sampleId": "067",
+      "category": "主題",
+      "label": "行政対応・制度運用への不信"
+    },
+    {
+      "sampleId": "067",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "067",
+      "category": "願い・願望",
+      "label": "香害問題の周知と合理的配慮の拡充"
+    },
+    {
+      "sampleId": "068",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "068",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "068",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "068",
+      "category": "症状",
+      "label": "感覚過敏"
+    },
+    {
+      "sampleId": "068",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "068",
+      "category": "症状",
+      "label": "睡眠障害"
+    },
+    {
+      "sampleId": "068",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "068",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "068",
+      "category": "感情",
+      "label": "抑うつ感"
+    },
+    {
+      "sampleId": "068",
+      "category": "主題",
+      "label": "感情・精神的疲弊とメンタル不調"
+    },
+    {
+      "sampleId": "068",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "068",
+      "category": "主題",
+      "label": "行動問題・他害/自傷への対応困難"
+    },
+    {
+      "sampleId": "068",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "069",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "069",
+      "category": "症状",
+      "label": "全前脳胞症"
+    },
+    {
+      "sampleId": "069",
+      "category": "症状",
+      "label": "運動障害"
+    },
+    {
+      "sampleId": "069",
+      "category": "症状",
+      "label": "内分泌障害"
+    },
+    {
+      "sampleId": "069",
+      "category": "症状",
+      "label": "言語障害"
+    },
+    {
+      "sampleId": "069",
+      "category": "症状",
+      "label": "睡眠障害"
+    },
+    {
+      "sampleId": "069",
+      "category": "症状",
+      "label": "てんかん"
+    },
+    {
+      "sampleId": "069",
+      "category": "症状",
+      "label": "重症心身障害"
+    },
+    {
+      "sampleId": "069",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "069",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "069",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "069",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "069",
+      "category": "主題",
+      "label": "支援への感謝"
+    },
+    {
+      "sampleId": "069",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "069",
+      "category": "主題",
+      "label": "災害・非常時の医療リスク"
+    },
+    {
+      "sampleId": "069",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "069",
+      "category": "願い・願望",
+      "label": "医療的ケア児・重度児支援の拡充"
+    },
+    {
+      "sampleId": "070",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "070",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "070",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "070",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "070",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "070",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "070",
+      "category": "感情",
+      "label": "戸惑い・困惑"
+    },
+    {
+      "sampleId": "070",
+      "category": "主題",
+      "label": "「18歳の壁」問題"
+    },
+    {
+      "sampleId": "070",
+      "category": "主題",
+      "label": "教育環境・進路格差"
+    },
+    {
+      "sampleId": "070",
+      "category": "願い・願望",
+      "label": "役所や介護職員の専門性向上と処遇改善"
+    },
+    {
+      "sampleId": "071",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "071",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "071",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "071",
+      "category": "主題",
+      "label": "所得制限への肯定"
+    },
+    {
+      "sampleId": "071",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "072",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "072",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "072",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "072",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "072",
+      "category": "主題",
+      "label": "通学・送迎・外出困難"
+    },
+    {
+      "sampleId": "072",
+      "category": "主題",
+      "label": "長期的な見通しに対する不安"
+    },
+    {
+      "sampleId": "072",
+      "category": "願い・願望",
+      "label": "将来不安軽減に向けた設計と貯蓄の支援拡充"
+    },
+    {
+      "sampleId": "073",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "073",
+      "category": "症状",
+      "label": "視覚障害"
+    },
+    {
+      "sampleId": "073",
+      "category": "感情",
+      "label": "安堵・安心"
+    },
+    {
+      "sampleId": "073",
+      "category": "主題",
+      "label": "感情理解・コミュニケーション困難"
+    },
+    {
+      "sampleId": "073",
+      "category": "主題",
+      "label": "グレーゾーンならではの困難"
+    },
+    {
+      "sampleId": "073",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "074",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "074",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "074",
+      "category": "症状",
+      "label": "呼吸障害"
+    },
+    {
+      "sampleId": "074",
+      "category": "症状",
+      "label": "聴覚障害"
+    },
+    {
+      "sampleId": "074",
+      "category": "症状",
+      "label": "脊髄損傷"
+    },
+    {
+      "sampleId": "074",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "074",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "074",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "074",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "074",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "074",
+      "category": "主題",
+      "label": "制度設計に対する疑問"
+    },
+    {
+      "sampleId": "074",
+      "category": "主題",
+      "label": "行政対応・制度運用への不信"
+    },
+    {
+      "sampleId": "074",
+      "category": "願い・願望",
+      "label": "医療的ケア児・重度児支援の拡充"
+    },
+    {
+      "sampleId": "075",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "075",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "075",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "075",
+      "category": "感情",
+      "label": "苛立ち・焦燥"
+    },
+    {
+      "sampleId": "075",
+      "category": "感情",
+      "label": "戸惑い・困惑"
+    },
+    {
+      "sampleId": "075",
+      "category": "主題",
+      "label": "家族内の負担不均衡と関係不和"
+    },
+    {
+      "sampleId": "075",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "075",
+      "category": "主題",
+      "label": "制度設計に対する疑問"
+    },
+    {
+      "sampleId": "075",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "076",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "076",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "076",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "076",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "076",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "076",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "076",
+      "category": "主題",
+      "label": "感情・精神的疲弊とメンタル不調"
+    },
+    {
+      "sampleId": "076",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "076",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "077",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "077",
+      "category": "症状",
+      "label": "運動障害"
+    },
+    {
+      "sampleId": "077",
+      "category": "症状",
+      "label": "視覚障害"
+    },
+    {
+      "sampleId": "077",
+      "category": "症状",
+      "label": "脳障害"
+    },
+    {
+      "sampleId": "077",
+      "category": "症状",
+      "label": "発達遅滞"
+    },
+    {
+      "sampleId": "077",
+      "category": "主題",
+      "label": "家庭内ケア・身体的負担・介護の現実"
+    },
+    {
+      "sampleId": "077",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "078",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "078",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "078",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "078",
+      "category": "症状",
+      "label": "運動障害"
+    },
+    {
+      "sampleId": "078",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "078",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "078",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "078",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "078",
+      "category": "主題",
+      "label": "教育環境・進路格差"
+    },
+    {
+      "sampleId": "078",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "078",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "079",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "079",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "079",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "079",
+      "category": "感情",
+      "label": "悲しみ・切なさ"
+    },
+    {
+      "sampleId": "079",
+      "category": "主題",
+      "label": "感情理解・コミュニケーション困難"
+    },
+    {
+      "sampleId": "079",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "080",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "080",
+      "category": "症状",
+      "label": "言語障害"
+    },
+    {
+      "sampleId": "080",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "080",
+      "category": "症状",
+      "label": "ダウン症"
+    },
+    {
+      "sampleId": "080",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "080",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "080",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "080",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "080",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "080",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "081",
+      "category": "立場",
+      "label": "障がい当事者"
+    },
+    {
+      "sampleId": "081",
+      "category": "症状",
+      "label": "発達障害"
+    },
+    {
+      "sampleId": "081",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "081",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "081",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "081",
+      "category": "感情",
+      "label": "無力感・徒労感"
+    },
+    {
+      "sampleId": "081",
+      "category": "主題",
+      "label": "障がい者自身の就労と待遇"
+    },
+    {
+      "sampleId": "081",
+      "category": "主題",
+      "label": "家族内の負担不均衡と関係不和"
+    },
+    {
+      "sampleId": "081",
+      "category": "主題",
+      "label": "長期的な見通しに対する不安"
+    },
+    {
+      "sampleId": "081",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "081",
+      "category": "願い・願望",
+      "label": "障害者の就労支援の適正化"
+    },
+    {
+      "sampleId": "082",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "082",
+      "category": "症状",
+      "label": "発達遅滞"
+    },
+    {
+      "sampleId": "082",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "082",
+      "category": "感情",
+      "label": "苛立ち・焦燥"
+    },
+    {
+      "sampleId": "082",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "082",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "082",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "083",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "083",
+      "category": "症状",
+      "label": "側弯症"
+    },
+    {
+      "sampleId": "083",
+      "category": "症状",
+      "label": "脳性麻痺"
+    },
+    {
+      "sampleId": "083",
+      "category": "症状",
+      "label": "排泄障害"
+    },
+    {
+      "sampleId": "083",
+      "category": "症状",
+      "label": "てんかん"
+    },
+    {
+      "sampleId": "083",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "083",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "083",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "083",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "083",
+      "category": "主題",
+      "label": "家庭内ケア・身体的負担・介護の現実"
+    },
+    {
+      "sampleId": "083",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "083",
+      "category": "願い・願望",
+      "label": "レスパイト支援の強化"
+    },
+    {
+      "sampleId": "084",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "084",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "084",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "084",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "084",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "085",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "085",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "085",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "085",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "085",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "085",
+      "category": "感情",
+      "label": "悲しみ・切なさ"
+    },
+    {
+      "sampleId": "085",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "085",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "085",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "086",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "086",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "086",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "086",
+      "category": "感情",
+      "label": "やるせなさ"
+    },
+    {
+      "sampleId": "086",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "086",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "086",
+      "category": "主題",
+      "label": "グレーゾーンならではの困難"
+    },
+    {
+      "sampleId": "086",
+      "category": "願い・願望",
+      "label": "グレー層への金銭的・制度的支援の拡充"
+    },
+    {
+      "sampleId": "087",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "087",
+      "category": "症状",
+      "label": "発達遅滞"
+    },
+    {
+      "sampleId": "087",
+      "category": "症状",
+      "label": "遺伝性疾患"
+    },
+    {
+      "sampleId": "087",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "087",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "087",
+      "category": "主題",
+      "label": "長期的な見通しに対する不安"
+    },
+    {
+      "sampleId": "087",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "088",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "088",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "088",
+      "category": "症状",
+      "label": "排泄障害"
+    },
+    {
+      "sampleId": "088",
+      "category": "症状",
+      "label": "ダウン症"
+    },
+    {
+      "sampleId": "088",
+      "category": "症状",
+      "label": "発達遅滞"
+    },
+    {
+      "sampleId": "088",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "088",
+      "category": "感情",
+      "label": "苛立ち・焦燥"
+    },
+    {
+      "sampleId": "088",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "088",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "088",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "088",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "089",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "089",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "089",
+      "category": "症状",
+      "label": "ダウン症"
+    },
+    {
+      "sampleId": "089",
+      "category": "症状",
+      "label": "発達遅滞"
+    },
+    {
+      "sampleId": "089",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "089",
+      "category": "感情",
+      "label": "葛藤・迷い"
+    },
+    {
+      "sampleId": "089",
+      "category": "感情",
+      "label": "無力感・徒労感"
+    },
+    {
+      "sampleId": "089",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "089",
+      "category": "願い・願望",
+      "label": "介護者の就労継続と両立支援"
+    },
+    {
+      "sampleId": "090",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "090",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "090",
+      "category": "主題",
+      "label": "感情理解・コミュニケーション困難"
+    },
+    {
+      "sampleId": "090",
+      "category": "願い・願望",
+      "label": "家族の孤立防止と共生の推進"
+    },
+    {
+      "sampleId": "091",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "091",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "091",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "091",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "091",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "091",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "091",
+      "category": "主題",
+      "label": "「18歳の壁」問題"
+    },
+    {
+      "sampleId": "091",
+      "category": "主題",
+      "label": "社会的認知の進展への期待"
+    },
+    {
+      "sampleId": "091",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "091",
+      "category": "主題",
+      "label": "家庭内ケア・身体的負担・介護の現実"
+    },
+    {
+      "sampleId": "091",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "091",
+      "category": "願い・願望",
+      "label": "介護者の就労継続と両立支援"
+    },
+    {
+      "sampleId": "091",
+      "category": "願い・願望",
+      "label": "将来不安軽減に向けた設計と貯蓄の支援拡充"
+    },
+    {
+      "sampleId": "092",
+      "category": "立場",
+      "label": "障がい当事者"
+    },
+    {
+      "sampleId": "092",
+      "category": "症状",
+      "label": "脊髄損傷"
+    },
+    {
+      "sampleId": "092",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "092",
+      "category": "主題",
+      "label": "事業所の質・継続性・処遇"
+    },
+    {
+      "sampleId": "092",
+      "category": "主題",
+      "label": "地域間格差と自治体裁量"
+    },
+    {
+      "sampleId": "092",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "093",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "093",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "093",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "093",
+      "category": "症状",
+      "label": "感覚過敏"
+    },
+    {
+      "sampleId": "093",
+      "category": "感情",
+      "label": "安堵・安心"
+    },
+    {
+      "sampleId": "093",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "093",
+      "category": "主題",
+      "label": "教育環境・進路格差"
+    },
+    {
+      "sampleId": "093",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "093",
+      "category": "願い・願望",
+      "label": "サービス価格の均等化"
+    },
+    {
+      "sampleId": "094",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "094",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "094",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "094",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "094",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "094",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "094",
+      "category": "願い・願望",
+      "label": "きょうだい児への支援拡大"
+    },
+    {
+      "sampleId": "095",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "095",
+      "category": "症状",
+      "label": "ダウン症"
+    },
+    {
+      "sampleId": "095",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "095",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "095",
+      "category": "感情",
+      "label": "戸惑い・困惑"
+    },
+    {
+      "sampleId": "095",
+      "category": "主題",
+      "label": "情報格差と申請手続・窓口相談の複雑さ"
+    },
+    {
+      "sampleId": "095",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "095",
+      "category": "主題",
+      "label": "行政対応・制度運用への不信"
+    },
+    {
+      "sampleId": "095",
+      "category": "願い・願望",
+      "label": "早期相談・支援体制の拡充"
+    },
+    {
+      "sampleId": "096",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "096",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "096",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "096",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "096",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "096",
+      "category": "感情",
+      "label": "抑うつ感"
+    },
+    {
+      "sampleId": "096",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "096",
+      "category": "主題",
+      "label": "安全リスクと監視負担"
+    },
+    {
+      "sampleId": "096",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "096",
+      "category": "主題",
+      "label": "通学・送迎・外出困難"
+    },
+    {
+      "sampleId": "096",
+      "category": "願い・願望",
+      "label": "介護者の就労継続と両立支援"
+    },
+    {
+      "sampleId": "096",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "097",
+      "category": "立場",
+      "label": "障がい当事者"
+    },
+    {
+      "sampleId": "097",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "097",
+      "category": "感情",
+      "label": "苛立ち・焦燥"
+    },
+    {
+      "sampleId": "097",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "097",
+      "category": "主題",
+      "label": "きょうだい児支援と教育格差"
+    },
+    {
+      "sampleId": "097",
+      "category": "主題",
+      "label": "社会通念との摩擦"
+    },
+    {
+      "sampleId": "097",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "098",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "098",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "098",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "098",
+      "category": "主題",
+      "label": "社会的孤立"
+    },
+    {
+      "sampleId": "098",
+      "category": "主題",
+      "label": "通学・送迎・外出困難"
+    },
+    {
+      "sampleId": "098",
+      "category": "願い・願望",
+      "label": "家族の孤立防止と共生の推進"
+    },
+    {
+      "sampleId": "099",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "099",
+      "category": "症状",
+      "label": "言語障害"
+    },
+    {
+      "sampleId": "099",
+      "category": "症状",
+      "label": "重症心身障害"
+    },
+    {
+      "sampleId": "099",
+      "category": "症状",
+      "label": "化学物質過敏症"
+    },
+    {
+      "sampleId": "099",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "099",
+      "category": "感情",
+      "label": "諦め・受容"
+    },
+    {
+      "sampleId": "099",
+      "category": "主題",
+      "label": "ヘルパー・通所・入所施設の不足"
+    },
+    {
+      "sampleId": "099",
+      "category": "主題",
+      "label": "感覚過敏と生活困難"
+    },
+    {
+      "sampleId": "099",
+      "category": "願い・願望",
+      "label": "香害問題の周知と合理的配慮の拡充"
+    },
+    {
+      "sampleId": "100",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "100",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "100",
+      "category": "症状",
+      "label": "睡眠障害"
+    },
+    {
+      "sampleId": "100",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "100",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "100",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "100",
+      "category": "感情",
+      "label": "悲しみ・切なさ"
+    },
+    {
+      "sampleId": "100",
+      "category": "主題",
+      "label": "夜間行動・睡眠障害・生活破綻"
+    },
+    {
+      "sampleId": "100",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "100",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "100",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "101",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "101",
+      "category": "症状",
+      "label": "聴覚障害"
+    },
+    {
+      "sampleId": "101",
+      "category": "感情",
+      "label": "諦め・受容"
+    },
+    {
+      "sampleId": "101",
+      "category": "感情",
+      "label": "恐怖・トラウマ"
+    },
+    {
+      "sampleId": "101",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "101",
+      "category": "感情",
+      "label": "葛藤・迷い"
+    },
+    {
+      "sampleId": "101",
+      "category": "主題",
+      "label": "情報格差と申請手続・窓口相談の複雑さ"
+    },
+    {
+      "sampleId": "101",
+      "category": "主題",
+      "label": "感情・精神的疲弊とメンタル不調"
+    },
+    {
+      "sampleId": "101",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "101",
+      "category": "願い・願望",
+      "label": "介護者の就労継続と両立支援"
+    },
+    {
+      "sampleId": "101",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "102",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "102",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "102",
+      "category": "症状",
+      "label": "脳性麻痺"
+    },
+    {
+      "sampleId": "102",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "102",
+      "category": "感情",
+      "label": "恐怖・トラウマ"
+    },
+    {
+      "sampleId": "102",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "102",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "102",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "102",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "103",
+      "category": "立場",
+      "label": "障がい当事者"
+    },
+    {
+      "sampleId": "103",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "103",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "103",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "103",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "103",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "103",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "104",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "104",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "104",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "104",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "104",
+      "category": "主題",
+      "label": "行政対応・制度運用への不信"
+    },
+    {
+      "sampleId": "104",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "104",
+      "category": "願い・願望",
+      "label": "放課後等デイ等の預かり支援拡充と負担軽減"
+    },
+    {
+      "sampleId": "105",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "105",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "105",
+      "category": "症状",
+      "label": "睡眠障害"
+    },
+    {
+      "sampleId": "105",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "105",
+      "category": "感情",
+      "label": "悲しみ・切なさ"
+    },
+    {
+      "sampleId": "105",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "105",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "105",
+      "category": "主題",
+      "label": "夜間行動・睡眠障害・生活破綻"
+    },
+    {
+      "sampleId": "105",
+      "category": "主題",
+      "label": "長期的な見通しに対する不安"
+    },
+    {
+      "sampleId": "105",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "106",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "106",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "106",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "106",
+      "category": "感情",
+      "label": "安堵・安心"
+    },
+    {
+      "sampleId": "106",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "106",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "106",
+      "category": "主題",
+      "label": "行政対応・制度運用への不信"
+    },
+    {
+      "sampleId": "106",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "107",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "107",
+      "category": "症状",
+      "label": "ダウン症"
+    },
+    {
+      "sampleId": "107",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "107",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "107",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "107",
+      "category": "症状",
+      "label": "睡眠障害"
+    },
+    {
+      "sampleId": "107",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "107",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "107",
+      "category": "感情",
+      "label": "諦め・受容"
+    },
+    {
+      "sampleId": "107",
+      "category": "主題",
+      "label": "地域間格差と自治体裁量"
+    },
+    {
+      "sampleId": "107",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "107",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "108",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "108",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "108",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "108",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "108",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "108",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "108",
+      "category": "主題",
+      "label": "制度悪用に対する疑問"
+    },
+    {
+      "sampleId": "108",
+      "category": "主題",
+      "label": "通学・送迎・外出困難"
+    },
+    {
+      "sampleId": "108",
+      "category": "願い・願望",
+      "label": "将来不安軽減に向けた設計と貯蓄の支援拡充"
+    },
+    {
+      "sampleId": "109",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "109",
+      "category": "症状",
+      "label": "腎疾患"
+    },
+    {
+      "sampleId": "109",
+      "category": "症状",
+      "label": "重症心身障害"
+    },
+    {
+      "sampleId": "109",
+      "category": "症状",
+      "label": "脳性麻痺"
+    },
+    {
+      "sampleId": "109",
+      "category": "症状",
+      "label": "てんかん"
+    },
+    {
+      "sampleId": "109",
+      "category": "感情",
+      "label": "恐怖・トラウマ"
+    },
+    {
+      "sampleId": "109",
+      "category": "感情",
+      "label": "やるせなさ"
+    },
+    {
+      "sampleId": "109",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "109",
+      "category": "感情",
+      "label": "諦め・受容"
+    },
+    {
+      "sampleId": "109",
+      "category": "主題",
+      "label": "きょうだい児支援と教育格差"
+    },
+    {
+      "sampleId": "109",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "109",
+      "category": "願い・願望",
+      "label": "リハビリの継続利用安定化"
+    },
+    {
+      "sampleId": "109",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "110",
+      "category": "立場",
+      "label": "きょうだい"
+    },
+    {
+      "sampleId": "110",
+      "category": "症状",
+      "label": "統合失調症"
+    },
+    {
+      "sampleId": "110",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "110",
+      "category": "主題",
+      "label": "家族内の負担不均衡と関係不和"
+    },
+    {
+      "sampleId": "110",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "110",
+      "category": "主題",
+      "label": "長期的な見通しに対する不安"
+    },
+    {
+      "sampleId": "110",
+      "category": "願い・願望",
+      "label": "将来不安軽減に向けた設計と貯蓄の支援拡充"
+    },
+    {
+      "sampleId": "111",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "111",
+      "category": "症状",
+      "label": "言語障害"
+    },
+    {
+      "sampleId": "111",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "111",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "111",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "111",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "111",
+      "category": "感情",
+      "label": "安堵・安心"
+    },
+    {
+      "sampleId": "111",
+      "category": "感情",
+      "label": "苛立ち・焦燥"
+    },
+    {
+      "sampleId": "111",
+      "category": "感情",
+      "label": "負担・プレッシャー"
+    },
+    {
+      "sampleId": "111",
+      "category": "主題",
+      "label": "支援員・行政職員・教員のスキル不足"
+    },
+    {
+      "sampleId": "111",
+      "category": "主題",
+      "label": "制度設計に対する疑問"
+    },
+    {
+      "sampleId": "111",
+      "category": "主題",
+      "label": "重度児・医療的ケア児の受け皿不足"
+    },
+    {
+      "sampleId": "111",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "111",
+      "category": "願い・願望",
+      "label": "役所や介護職員の専門性向上と処遇改善"
+    },
+    {
+      "sampleId": "112",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "112",
+      "category": "症状",
+      "label": "側弯症"
+    },
+    {
+      "sampleId": "112",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "112",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "112",
+      "category": "感情",
+      "label": "戸惑い・困惑"
+    },
+    {
+      "sampleId": "112",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "112",
+      "category": "主題",
+      "label": "行政対応・制度運用への不信"
+    },
+    {
+      "sampleId": "112",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "113",
+      "category": "立場",
+      "label": "きょうだい"
+    },
+    {
+      "sampleId": "113",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "113",
+      "category": "感情",
+      "label": "無力感・徒労感"
+    },
+    {
+      "sampleId": "113",
+      "category": "主題",
+      "label": "家族内の負担不均衡と関係不和"
+    },
+    {
+      "sampleId": "113",
+      "category": "主題",
+      "label": "虐待への懸念"
+    },
+    {
+      "sampleId": "113",
+      "category": "願い・願望",
+      "label": "早期相談・支援体制の拡充"
+    },
+    {
+      "sampleId": "114",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "114",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "114",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "114",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "114",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "114",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "114",
+      "category": "主題",
+      "label": "親亡き後の生活保障と居場所不安"
+    },
+    {
+      "sampleId": "114",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "114",
+      "category": "願い・願望",
+      "label": "将来不安軽減に向けた設計と貯蓄の支援拡充"
+    },
+    {
+      "sampleId": "115",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "115",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "115",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "115",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "115",
+      "category": "感情",
+      "label": "諦め・受容"
+    },
+    {
+      "sampleId": "115",
+      "category": "感情",
+      "label": "無力感・徒労感"
+    },
+    {
+      "sampleId": "115",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "115",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "115",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "115",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "116",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "116",
+      "category": "症状",
+      "label": "視覚障害"
+    },
+    {
+      "sampleId": "116",
+      "category": "感情",
+      "label": "葛藤・迷い"
+    },
+    {
+      "sampleId": "116",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "116",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "116",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "117",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "117",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "117",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "117",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "117",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "117",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "117",
+      "category": "主題",
+      "label": "安全リスクと監視負担"
+    },
+    {
+      "sampleId": "117",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "117",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "117",
+      "category": "願い・願望",
+      "label": "将来不安軽減に向けた設計と貯蓄の支援拡充"
+    },
+    {
+      "sampleId": "118",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "118",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "118",
+      "category": "症状",
+      "label": "発達遅滞"
+    },
+    {
+      "sampleId": "118",
+      "category": "感情",
+      "label": "安堵・安心"
+    },
+    {
+      "sampleId": "118",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "118",
+      "category": "感情",
+      "label": "罪悪感"
+    },
+    {
+      "sampleId": "118",
+      "category": "主題",
+      "label": "きょうだい児支援と教育格差"
+    },
+    {
+      "sampleId": "118",
+      "category": "主題",
+      "label": "夜間行動・睡眠障害・生活破綻"
+    },
+    {
+      "sampleId": "118",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "118",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "119",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "119",
+      "category": "症状",
+      "label": "重症心身障害"
+    },
+    {
+      "sampleId": "119",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "119",
+      "category": "感情",
+      "label": "負担・プレッシャー"
+    },
+    {
+      "sampleId": "119",
+      "category": "主題",
+      "label": "障がい者自身の就労と待遇"
+    },
+    {
+      "sampleId": "119",
+      "category": "主題",
+      "label": "重度児・医療的ケア児の受け皿不足"
+    },
+    {
+      "sampleId": "119",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "120",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "120",
+      "category": "症状",
+      "label": "聴覚障害"
+    },
+    {
+      "sampleId": "120",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "120",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "120",
+      "category": "症状",
+      "label": "摂食障害"
+    },
+    {
+      "sampleId": "120",
+      "category": "症状",
+      "label": "てんかん"
+    },
+    {
+      "sampleId": "120",
+      "category": "症状",
+      "label": "視覚障害"
+    },
+    {
+      "sampleId": "120",
+      "category": "感情",
+      "label": "葛藤・迷い"
+    },
+    {
+      "sampleId": "120",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "120",
+      "category": "感情",
+      "label": "諦め・受容"
+    },
+    {
+      "sampleId": "120",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "120",
+      "category": "主題",
+      "label": "虐待への懸念"
+    },
+    {
+      "sampleId": "120",
+      "category": "主題",
+      "label": "感覚過敏と生活困難"
+    },
+    {
+      "sampleId": "120",
+      "category": "主題",
+      "label": "制度設計に対する疑問"
+    },
+    {
+      "sampleId": "120",
+      "category": "願い・願望",
+      "label": "住まい・入所施設の拡充"
+    },
+    {
+      "sampleId": "120",
+      "category": "願い・願望",
+      "label": "虐待防止の実効的仕組みの整備"
+    },
+    {
+      "sampleId": "120",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "121",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "121",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "121",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "121",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "121",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "121",
+      "category": "感情",
+      "label": "諦め・受容"
+    },
+    {
+      "sampleId": "121",
+      "category": "主題",
+      "label": "教育環境・進路格差"
+    },
+    {
+      "sampleId": "121",
+      "category": "主題",
+      "label": "制度設計に対する疑問"
+    },
+    {
+      "sampleId": "121",
+      "category": "主題",
+      "label": "長期的な見通しに対する不安"
+    },
+    {
+      "sampleId": "121",
+      "category": "願い・願望",
+      "label": "統一的な障害判定基準の整備"
+    },
+    {
+      "sampleId": "121",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "122",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "122",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "122",
+      "category": "症状",
+      "label": "遺伝性疾患"
+    },
+    {
+      "sampleId": "122",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "122",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "122",
+      "category": "感情",
+      "label": "負担・プレッシャー"
+    },
+    {
+      "sampleId": "122",
+      "category": "主題",
+      "label": "支援への感謝"
+    },
+    {
+      "sampleId": "122",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "122",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "123",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "123",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "123",
+      "category": "症状",
+      "label": "スミスマギニス症候群"
+    },
+    {
+      "sampleId": "123",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "123",
+      "category": "症状",
+      "label": "心疾患"
+    },
+    {
+      "sampleId": "123",
+      "category": "症状",
+      "label": "睡眠障害"
+    },
+    {
+      "sampleId": "123",
+      "category": "症状",
+      "label": "視覚障害"
+    },
+    {
+      "sampleId": "123",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "123",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "123",
+      "category": "主題",
+      "label": "ヘルパー・通所・入所施設の不足"
+    },
+    {
+      "sampleId": "123",
+      "category": "主題",
+      "label": "制度設計に対する疑問"
+    },
+    {
+      "sampleId": "123",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "123",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "124",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "124",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "124",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "124",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "124",
+      "category": "症状",
+      "label": "呼吸障害"
+    },
+    {
+      "sampleId": "124",
+      "category": "症状",
+      "label": "排泄障害"
+    },
+    {
+      "sampleId": "124",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "124",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "124",
+      "category": "感情",
+      "label": "諦め・受容"
+    },
+    {
+      "sampleId": "124",
+      "category": "主題",
+      "label": "家庭内ケア・身体的負担・介護の現実"
+    },
+    {
+      "sampleId": "124",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "124",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "125",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "125",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "125",
+      "category": "感情",
+      "label": "負担・プレッシャー"
+    },
+    {
+      "sampleId": "125",
+      "category": "主題",
+      "label": "安全リスクと監視負担"
+    },
+    {
+      "sampleId": "125",
+      "category": "主題",
+      "label": "教育環境・進路格差"
+    },
+    {
+      "sampleId": "125",
+      "category": "願い・願望",
+      "label": "きょうだい児への支援拡大"
+    },
+    {
+      "sampleId": "126",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "126",
+      "category": "症状",
+      "label": "スミスマギニス症候群"
+    },
+    {
+      "sampleId": "126",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "126",
+      "category": "症状",
+      "label": "睡眠障害"
+    },
+    {
+      "sampleId": "126",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "126",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "126",
+      "category": "感情",
+      "label": "苛立ち・焦燥"
+    },
+    {
+      "sampleId": "126",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "126",
+      "category": "主題",
+      "label": "感情理解・コミュニケーション困難"
+    },
+    {
+      "sampleId": "126",
+      "category": "主題",
+      "label": "行動問題・他害/自傷への対応困難"
+    },
+    {
+      "sampleId": "126",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "127",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "127",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "127",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "127",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "127",
+      "category": "症状",
+      "label": "感覚過敏"
+    },
+    {
+      "sampleId": "127",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "127",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "127",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "127",
+      "category": "主題",
+      "label": "行動問題・他害/自傷への対応困難"
+    },
+    {
+      "sampleId": "127",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "128",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "128",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "128",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "128",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "128",
+      "category": "感情",
+      "label": "葛藤・迷い"
+    },
+    {
+      "sampleId": "128",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "128",
+      "category": "主題",
+      "label": "教育環境・進路格差"
+    },
+    {
+      "sampleId": "128",
+      "category": "主題",
+      "label": "グレーゾーンならではの困難"
+    },
+    {
+      "sampleId": "128",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "129",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "129",
+      "category": "症状",
+      "label": "スミスマギニス症候群"
+    },
+    {
+      "sampleId": "129",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "129",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "129",
+      "category": "症状",
+      "label": "睡眠障害"
+    },
+    {
+      "sampleId": "129",
+      "category": "感情",
+      "label": "安堵・安心"
+    },
+    {
+      "sampleId": "129",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "129",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "129",
+      "category": "主題",
+      "label": "感情理解・コミュニケーション困難"
+    },
+    {
+      "sampleId": "129",
+      "category": "主題",
+      "label": "通学・送迎・外出困難"
+    },
+    {
+      "sampleId": "129",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "130",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "130",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "130",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "130",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "130",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "130",
+      "category": "主題",
+      "label": "通学・送迎・外出困難"
+    },
+    {
+      "sampleId": "130",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "130",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "131",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "131",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "131",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "131",
+      "category": "症状",
+      "label": "てんかん"
+    },
+    {
+      "sampleId": "131",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "131",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "131",
+      "category": "主題",
+      "label": "安全リスクと監視負担"
+    },
+    {
+      "sampleId": "131",
+      "category": "主題",
+      "label": "地域間格差と自治体裁量"
+    },
+    {
+      "sampleId": "131",
+      "category": "主題",
+      "label": "通学・送迎・外出困難"
+    },
+    {
+      "sampleId": "131",
+      "category": "願い・願望",
+      "label": "地域格差の是正と平等な支援"
+    },
+    {
+      "sampleId": "132",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "132",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "132",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "132",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "132",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "132",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "132",
+      "category": "主題",
+      "label": "感情・精神的疲弊とメンタル不調"
+    },
+    {
+      "sampleId": "132",
+      "category": "主題",
+      "label": "医療的ケア支援の不足と制度遅れ"
+    },
+    {
+      "sampleId": "132",
+      "category": "主題",
+      "label": "行動問題・他害/自傷への対応困難"
+    },
+    {
+      "sampleId": "132",
+      "category": "願い・願望",
+      "label": "経済負担の軽減と手当拡充"
+    },
+    {
+      "sampleId": "133",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "133",
+      "category": "症状",
+      "label": "ダウン症"
+    },
+    {
+      "sampleId": "133",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "133",
+      "category": "感情",
+      "label": "葛藤・迷い"
+    },
+    {
+      "sampleId": "133",
+      "category": "主題",
+      "label": "きょうだい児支援と教育格差"
+    },
+    {
+      "sampleId": "133",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "133",
+      "category": "願い・願望",
+      "label": "介護者の就労継続と両立支援"
+    },
+    {
+      "sampleId": "134",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "134",
+      "category": "症状",
+      "label": "脳障害"
+    },
+    {
+      "sampleId": "134",
+      "category": "症状",
+      "label": "脳性麻痺"
+    },
+    {
+      "sampleId": "134",
+      "category": "症状",
+      "label": "てんかん"
+    },
+    {
+      "sampleId": "134",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "134",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "134",
+      "category": "主題",
+      "label": "就労継続困難とキャリア制約"
+    },
+    {
+      "sampleId": "134",
+      "category": "主題",
+      "label": "ヘルパー・通所・入所施設の不足"
+    },
+    {
+      "sampleId": "134",
+      "category": "主題",
+      "label": "「18歳の壁」問題"
+    },
+    {
+      "sampleId": "134",
+      "category": "願い・願望",
+      "label": "役所や介護職員の専門性向上と処遇改善"
+    },
+    {
+      "sampleId": "135",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "135",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "135",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "135",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "135",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "135",
+      "category": "主題",
+      "label": "安全リスクと監視負担"
+    },
+    {
+      "sampleId": "135",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "135",
+      "category": "主題",
+      "label": "長期的な見通しに対する不安"
+    },
+    {
+      "sampleId": "135",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "136",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "136",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "136",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "136",
+      "category": "症状",
+      "label": "てんかん"
+    },
+    {
+      "sampleId": "136",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "136",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "136",
+      "category": "主題",
+      "label": "親亡き後の生活保障と居場所不安"
+    },
+    {
+      "sampleId": "136",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "136",
+      "category": "主題",
+      "label": "制度設計に対する疑問"
+    },
+    {
+      "sampleId": "136",
+      "category": "願い・願望",
+      "label": "支援制度の公平性と実効性の確保"
+    },
+    {
+      "sampleId": "136",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "137",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "137",
+      "category": "症状",
+      "label": "言語障害"
+    },
+    {
+      "sampleId": "137",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "137",
+      "category": "症状",
+      "label": "睡眠障害"
+    },
+    {
+      "sampleId": "137",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "137",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "137",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "137",
+      "category": "主題",
+      "label": "家庭内の負担不均衡と関係不和"
+    },
+    {
+      "sampleId": "137",
+      "category": "主題",
+      "label": "夜間行動・睡眠障害・生活破綻"
+    },
+    {
+      "sampleId": "137",
+      "category": "願い・願望",
+      "label": "レスパイト支援の強化"
+    },
+    {
+      "sampleId": "138",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "138",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "138",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "138",
+      "category": "症状",
+      "label": "自閉スペクトラム症"
+    },
+    {
+      "sampleId": "138",
+      "category": "症状",
+      "label": "感覚過敏"
+    },
+    {
+      "sampleId": "138",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "138",
+      "category": "感情",
+      "label": "恐怖・トラウマ"
+    },
+    {
+      "sampleId": "138",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "138",
+      "category": "主題",
+      "label": "支援への感謝"
+    },
+    {
+      "sampleId": "138",
+      "category": "主題",
+      "label": "通学・送迎・外出困難"
+    },
+    {
+      "sampleId": "138",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "139",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "139",
+      "category": "症状",
+      "label": "ダウン症"
+    },
+    {
+      "sampleId": "139",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "139",
+      "category": "感情",
+      "label": "疲労・疲弊"
+    },
+    {
+      "sampleId": "139",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "139",
+      "category": "主題",
+      "label": "支援員・行政職員・教員のスキル不足"
+    },
+    {
+      "sampleId": "139",
+      "category": "主題",
+      "label": "社会的視線・差別・偏見へのストレス"
+    },
+    {
+      "sampleId": "139",
+      "category": "主題",
+      "label": "行政対応・制度運用への不信"
+    },
+    {
+      "sampleId": "139",
+      "category": "願い・願望",
+      "label": "統一的な障害判定基準の整備"
+    },
+    {
+      "sampleId": "139",
+      "category": "願い・願望",
+      "label": "役所や介護職員の専門性向上と処遇改善"
+    },
+    {
+      "sampleId": "140",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "140",
+      "category": "症状",
+      "label": "スミスマギニス症候群"
+    },
+    {
+      "sampleId": "140",
+      "category": "症状",
+      "label": "運動障害"
+    },
+    {
+      "sampleId": "140",
+      "category": "症状",
+      "label": "行動障害"
+    },
+    {
+      "sampleId": "140",
+      "category": "症状",
+      "label": "血液疾患"
+    },
+    {
+      "sampleId": "140",
+      "category": "感情",
+      "label": "愛情・喜び"
+    },
+    {
+      "sampleId": "140",
+      "category": "感情",
+      "label": "安堵・安心"
+    },
+    {
+      "sampleId": "140",
+      "category": "主題",
+      "label": "支援への感謝"
+    },
+    {
+      "sampleId": "140",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "141",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "141",
+      "category": "症状",
+      "label": "脳障害"
+    },
+    {
+      "sampleId": "141",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "141",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "141",
+      "category": "主題",
+      "label": "情報格差と申請手続・窓口相談の複雑さ"
+    },
+    {
+      "sampleId": "141",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "141",
+      "category": "主題",
+      "label": "制度設計に対する疑問"
+    },
+    {
+      "sampleId": "141",
+      "category": "願い・願望",
+      "label": "早期相談・支援体制の拡充"
+    },
+    {
+      "sampleId": "142",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "142",
+      "category": "症状",
+      "label": "運動障害"
+    },
+    {
+      "sampleId": "142",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "142",
+      "category": "症状",
+      "label": "ダウン症"
+    },
+    {
+      "sampleId": "142",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "142",
+      "category": "主題",
+      "label": "事業所の質・継続性・処遇"
+    },
+    {
+      "sampleId": "142",
+      "category": "主題",
+      "label": "所得制限と経済的負担・格差"
+    },
+    {
+      "sampleId": "142",
+      "category": "主題",
+      "label": "通学・送迎・外出困難"
+    },
+    {
+      "sampleId": "142",
+      "category": "願い・願望",
+      "label": "放課後等デイ等の預かり支援拡充と負担軽減"
+    },
+    {
+      "sampleId": "142",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "143",
+      "category": "立場",
+      "label": "配偶者"
+    },
+    {
+      "sampleId": "143",
+      "category": "症状",
+      "label": "注意欠如多動症"
+    },
+    {
+      "sampleId": "143",
+      "category": "感情",
+      "label": "無力感・徒労感"
+    },
+    {
+      "sampleId": "143",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "143",
+      "category": "感情",
+      "label": "絶望・虚無感"
+    },
+    {
+      "sampleId": "143",
+      "category": "主題",
+      "label": "予想外の出費と家計圧迫"
+    },
+    {
+      "sampleId": "143",
+      "category": "主題",
+      "label": "制度設計に対する疑問"
+    },
+    {
+      "sampleId": "143",
+      "category": "願い・願望",
+      "label": "所得制限の撤廃・見直し"
+    },
+    {
+      "sampleId": "144",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "144",
+      "category": "症状",
+      "label": "運動障害"
+    },
+    {
+      "sampleId": "144",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "144",
+      "category": "症状",
+      "label": "重症心身障害"
+    },
+    {
+      "sampleId": "144",
+      "category": "感情",
+      "label": "怒り・憤り"
+    },
+    {
+      "sampleId": "144",
+      "category": "感情",
+      "label": "諦め・受容"
+    },
+    {
+      "sampleId": "144",
+      "category": "感情",
+      "label": "不公平・不信感"
+    },
+    {
+      "sampleId": "144",
+      "category": "主題",
+      "label": "社会的孤立"
+    },
+    {
+      "sampleId": "144",
+      "category": "主題",
+      "label": "家庭内ケア・身体的負担・介護の現実"
+    },
+    {
+      "sampleId": "144",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "145",
+      "category": "立場",
+      "label": "きょうだい"
+    },
+    {
+      "sampleId": "145",
+      "category": "症状",
+      "label": "脳性麻痺"
+    },
+    {
+      "sampleId": "145",
+      "category": "症状",
+      "label": "重度身体知的障害"
+    },
+    {
+      "sampleId": "145",
+      "category": "感情",
+      "label": "悲しみ・切なさ"
+    },
+    {
+      "sampleId": "145",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "145",
+      "category": "感情",
+      "label": "孤立・孤独"
+    },
+    {
+      "sampleId": "145",
+      "category": "感情",
+      "label": "罪悪感"
+    },
+    {
+      "sampleId": "145",
+      "category": "主題",
+      "label": "きょうだい児支援と教育格差"
+    },
+    {
+      "sampleId": "145",
+      "category": "主題",
+      "label": "家族内の負担不均衡と関係不和"
+    },
+    {
+      "sampleId": "145",
+      "category": "主題",
+      "label": "社会的孤立"
+    },
+    {
+      "sampleId": "145",
+      "category": "願い・願望",
+      "label": "きょうだい児への支援拡大"
+    },
+    {
+      "sampleId": "145",
+      "category": "願い・願望",
+      "label": "家族の孤立防止と共生の推進"
+    },
+    {
+      "sampleId": "146",
+      "category": "立場",
+      "label": "親"
+    },
+    {
+      "sampleId": "146",
+      "category": "症状",
+      "label": "肢体不自由"
+    },
+    {
+      "sampleId": "146",
+      "category": "症状",
+      "label": "知的障害"
+    },
+    {
+      "sampleId": "146",
+      "category": "症状",
+      "label": "重症心身障害"
+    },
+    {
+      "sampleId": "146",
+      "category": "症状",
+      "label": "脳性麻痺"
+    },
+    {
+      "sampleId": "146",
+      "category": "感情",
+      "label": "悲しみ・切なさ"
+    },
+    {
+      "sampleId": "146",
+      "category": "感情",
+      "label": "心配・不安"
+    },
+    {
+      "sampleId": "146",
+      "category": "感情",
+      "label": "感謝・救い"
+    },
+    {
+      "sampleId": "146",
+      "category": "感情",
+      "label": "希望・再起"
+    },
+    {
+      "sampleId": "146",
+      "category": "主題",
+      "label": "社会的偏見・差別によるストレス"
+    },
+    {
+      "sampleId": "146",
+      "category": "主題",
+      "label": "ポジティブな変化・成長の芽"
+    },
+    {
+      "sampleId": "146",
+      "category": "願い・願望",
+      "label": "障害に対する理解促進と社会的受容の拡大"
+    },
+    {
+      "sampleId": "146",
+      "category": "願い・願望",
+      "label": "家族の孤立防止と共生の推進"
+    }
   ]
 }

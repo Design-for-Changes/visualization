@@ -65,6 +65,9 @@ let rScale = d3.scaleSqrt();
 let currentK = 1;
 const sizeResponse = 1.0; // fixed value
 let edgeWidthScale = d3.scaleSqrt();
+let edgeOpacityScale = d3.scaleSqrt();
+let selectedCategoryLabel = null;
+let categorySampleMap = new Map();
 
 const zoom = d3.zoom()
   .scaleExtent([0.5, 12])
@@ -72,8 +75,12 @@ const zoom = d3.zoom()
     currentK = event.transform.k;
     gPlot.attr("transform", event.transform);
     updateSizes(currentK);
+    applyHighlights();
   });
 svg.call(zoom);
+svg.on("click.highlight", () => {
+  setSelectedCategory(null);
+});
 
 function formatSampleId(v) {
   const n = +v;
@@ -94,6 +101,134 @@ function normalizeColumns(rows) {
   });
   trimmed.columns = rows.columns.map(c => String(c).trim());
   return trimmed;
+}
+
+function clamp(value, min, max) {
+  return Math.min(max, Math.max(min, value));
+}
+
+function applyForceRelaxation(catNodes, xScale, yScale) {
+  if (!catNodes.length) return;
+  const simNodes = catNodes.map(d => {
+    const px = xScale(d.x);
+    const py = yScale(d.y);
+    const radius = Math.max(10, Math.sqrt(Math.abs(d.size || 0)) * 0.8 + 10);
+    return {
+      ref: d,
+      x: px,
+      y: py,
+      targetX: px,
+      targetY: py,
+      radius,
+    };
+  });
+
+  const simulation = d3.forceSimulation(simNodes)
+    .force("x", d3.forceX(n => n.targetX).strength(0.18))
+    .force("y", d3.forceY(n => n.targetY).strength(0.18))
+    .force("collide", d3.forceCollide(n => n.radius).strength(0.9))
+    .stop();
+
+  const iterations = clamp(20 + simNodes.length, 30, 120);
+  for (let i = 0; i < iterations; i++) simulation.tick();
+
+  const invX = xScale.invert.bind(xScale);
+  const invY = yScale.invert.bind(yScale);
+  simNodes.forEach(n => {
+    n.ref._layoutX = invX(n.x);
+    n.ref._layoutY = invY(n.y);
+    n.ref._offsetX = n.x - n.targetX;
+    n.ref._offsetY = n.y - n.targetY;
+  });
+}
+
+function resolveCatX(d, scale) {
+  return scale(d._layoutX != null ? d._layoutX : d.x);
+}
+
+function resolveCatY(d, scale) {
+  return scale(d._layoutY != null ? d._layoutY : d.y);
+}
+
+function edgeOpacity(base, zoomK) {
+  const k = clamp(zoomK, 0.7, 3.0);
+  const adjust = k <= 1 ? 0.55 + 0.1 * (k - 0.7) / 0.3 : 0.65 + 0.2 * (k - 1);
+  return clamp(base * adjust, 0.02, 0.5);
+}
+
+function getSampleKey(d) {
+  return String(d.id ?? d.ID ?? d.Id ?? "");
+}
+
+function buildEdgePath(d) {
+  const sx = d._sx;
+  const sy = d._sy;
+  const tx = d._tx;
+  const ty = d._ty;
+  const dx = tx - sx;
+  const dy = ty - sy;
+  const dist = Math.sqrt(dx * dx + dy * dy);
+  if (!dist) return `M${sx},${sy}`;
+  const norm = 1 / dist;
+  const offset = Math.min(42, dist * 0.3);
+  const cx = (sx + tx) / 2 - dy * norm * offset * 0.3;
+  const cy = (sy + ty) / 2 + dx * norm * offset * 0.3;
+  return `M${sx},${sy} Q${cx},${cy} ${tx},${ty}`;
+}
+
+function setSelectedCategory(label) {
+  const next = label && String(label);
+  selectedCategoryLabel = selectedCategoryLabel === next ? null : next;
+  applyHighlights();
+}
+
+function applyHighlights() {
+  const hasSelection = !!selectedCategoryLabel;
+  const linkedSamples = hasSelection ? categorySampleMap.get(selectedCategoryLabel) : null;
+  gPlot.selectAll("path.edge")
+    .each(function(d) {
+      const isActive = hasSelection && (d._sourceLabel === selectedCategoryLabel || d._targetLabel === selectedCategoryLabel);
+      const baseOpacity = d._opacityBase || 0.015;
+      const width = d._w || 0.15;
+      let strokeColor = "#999";
+      if (isActive) {
+        const cat = (d._sourceLabel === selectedCategoryLabel ? d._sourceCategory : d._targetCategory) || d._sourceCategory;
+        strokeColor = colorScale(cat) || "#666";
+      }
+      d3.select(this)
+        .attr("stroke-opacity", isActive ? clamp(baseOpacity * 7, 0.08, 0.85) : edgeOpacity(baseOpacity, currentK))
+        .attr("stroke-width", isActive ? width * 1.8 : width)
+        .attr("stroke", strokeColor);
+    });
+
+  gPlot.selectAll("circle.cat")
+    .attr("opacity", d => {
+      if (!hasSelection) return 0.2;
+      return d.label === selectedCategoryLabel ? 0.36 : 0.08;
+    })
+    .attr("stroke-width", d => (hasSelection && d.label === selectedCategoryLabel) ? 1.4 : 0.6);
+
+  gPlot.selectAll("text.cat-label")
+    .attr("opacity", d => {
+      if (!hasSelection) return 0.95;
+      return d.label === selectedCategoryLabel ? 1 : 0.25;
+    });
+
+  gPlot.selectAll("circle.sample")
+    .attr("opacity", d => {
+      if (!hasSelection) return 0.35;
+      return linkedSamples && linkedSamples.has(getSampleKey(d)) ? 0.58 : 0.06;
+    })
+    .attr("fill", d => {
+      if (!hasSelection) return "#666";
+      return linkedSamples && linkedSamples.has(getSampleKey(d)) ? "#2c2c2c" : "#bfbfbf";
+    });
+
+  gPlot.selectAll("text.sample-label")
+    .attr("fill-opacity", d => {
+      if (!hasSelection) return 1;
+      return linkedSamples && linkedSamples.has(getSampleKey(d)) ? 1 : 0.08;
+    });
 }
 
 // 固定ファイル読込関数
@@ -184,8 +319,9 @@ function updateSizes(k) {
   gPlot.selectAll("circle.cat")
     .attr("r", d => (d._r || 6));
 
-  gEdges.selectAll("line.edge")
-    .attr("stroke-width", d => (d._w || 0.15));
+  gPlot.selectAll("path.edge")
+    .attr("stroke-width", d => (d._w || 0.15))
+    .attr("stroke-opacity", d => edgeOpacity(d._opacityBase || 0.015, k));
 
   // テキストは見かけサイズをほぼ一定に（ズームしても極端に小さくならないよう補正）
   const denom = Math.pow(k, 0.6); // 小さめのスケーリング補正（完全固定より自然）
@@ -223,25 +359,47 @@ function render() {
   const catByLabel = new Map();
   for (const d of catsFiltered) catByLabel.set(String(d.label), d);
 
+  applyForceRelaxation(catsFiltered, x, y);
+
+  categorySampleMap = new Map();
+  if (Array.isArray(network.sampleLinks)) {
+    for (const link of network.sampleLinks) {
+      const label = String(link.label);
+      if (!catByLabel.has(label)) continue;
+      const bucket = categorySampleMap.get(label) || new Set();
+      bucket.add(String(link.sampleId));
+      categorySampleMap.set(label, bucket);
+    }
+  }
+  if (selectedCategoryLabel && !categorySampleMap.has(selectedCategoryLabel)) {
+    selectedCategoryLabel = null;
+  }
+
+  const baseEdgeOpacity = 0.015;
   const edgeData = (network.edges || []).filter(e => catByLabel.has(String(e.source)) && catByLabel.has(String(e.target)));
-  gEdgesLocal.selectAll("line.edge")
+  gEdgesLocal.selectAll("path.edge")
     .data(edgeData)
-    .join("line")
+    .join("path")
       .attr("class", "edge")
       .each(d => {
         const s = catByLabel.get(String(d.source));
         const t = catByLabel.get(String(d.target));
-        d._sx = x(s.x); d._sy = y(s.y);
-        d._tx = x(t.x); d._ty = y(t.y);
+        d._sourceLabel = s.label;
+        d._targetLabel = t.label;
+        d._sourceCategory = s.category;
+        d._targetCategory = t.category;
+        d._sx = resolveCatX(s, x);
+        d._sy = resolveCatY(s, y);
+        d._tx = resolveCatX(t, x);
+        d._ty = resolveCatY(t, y);
         d._w = Math.max(0.1, edgeWidthScale(+d.totalCount || 0));
+        d._opacityBase = baseEdgeOpacity;
       })
-      .attr("x1", d => d._sx)
-      .attr("y1", d => d._sy)
-      .attr("x2", d => d._tx)
-      .attr("y2", d => d._ty)
+      .attr("d", d => buildEdgePath(d))
       .attr("stroke", "#999")
-      .attr("stroke-opacity", 0.08)
-      .attr("stroke-width", d => d._w);
+      .attr("stroke-opacity", baseEdgeOpacity)
+      .attr("stroke-width", d => d._w)
+      .attr("fill", "none");
 
   gSamples.selectAll("circle.sample")
     .data(samples)
@@ -273,6 +431,7 @@ function render() {
       .attr("class", "sample-link")
       .attr("xlink:href", d => `https://dfchanges.site/100stories/${formatSampleId(d.id ?? d.ID ?? d.Id)}`)
       .attr("target", "_blank")
+      .on("click", (event) => event.stopPropagation())
     .append("text")
       .attr("class", "sample-label")
       .attr("x", d => x(d.x))
@@ -287,29 +446,41 @@ function render() {
     .data(catsFiltered)
     .join("circle")
       .attr("class", "cat")
-      .attr("cx", d => x(d.x))
-      .attr("cy", d => y(d.y))
+      .attr("cx", d => resolveCatX(d, x))
+      .attr("cy", d => resolveCatY(d, y))
       .each(d => d._r = (d.size != null ? Math.max(2, Math.sqrt(d.size)) : rScale(d.hit_count ?? 0)))
       .attr("r", d => d._r)
       .attr("fill", d => colorScale(d.category))
       .attr("stroke", d => colorScale(d.category))
       .attr("opacity", 0.2)
-      .attr("stroke-width", 0.6);
+      .attr("stroke-width", 0.6)
+      .style("cursor", "pointer")
+      .on("click", (event, d) => {
+        event.stopPropagation();
+        setSelectedCategory(d.label);
+      });
 
   gCats.selectAll("text.cat-label")
     .data(catsFiltered)
     .join("text")
       .attr("class", "cat-label")
-      .attr("x", d => x(d.x))
-      .attr("y", d => y(d.y))
+      .attr("x", d => resolveCatX(d, x) + (d._offsetX || 0) * 0.18)
+      .attr("y", d => resolveCatY(d, y) + (d._offsetY || 0) * 0.18)
       .attr("text-anchor", "middle")
       .attr("dominant-baseline", "central")
       .attr("font-size", 12)
       .attr("fill", d => colorScale(d.category))
       .attr("opacity", 0.95)
-      .text(d => d.label ?? "");
+      .text(d => d.label ?? "")
+      .style("pointer-events", "auto")
+      .style("cursor", "pointer")
+      .on("click", (event, d) => {
+        event.stopPropagation();
+        setSelectedCategory(d.label);
+      });
 
   updateSizes(currentK);
+  applyHighlights();
 }
 </script>
 <script>
