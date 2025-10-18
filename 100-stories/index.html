@@ -185,6 +185,14 @@ function setSelectedCategory(label) {
 function applyHighlights() {
   const hasSelection = !!selectedCategoryLabel;
   const linkedSamples = hasSelection ? categorySampleMap.get(selectedCategoryLabel) : null;
+  const connectedLabels = new Set();
+  if (hasSelection) {
+    gPlot.selectAll("path.edge")
+      .each(d => {
+        if (d._sourceLabel === selectedCategoryLabel) connectedLabels.add(d._targetLabel);
+        else if (d._targetLabel === selectedCategoryLabel) connectedLabels.add(d._sourceLabel);
+      });
+  }
   gPlot.selectAll("path.edge")
     .each(function(d) {
       const isActive = hasSelection && (d._sourceLabel === selectedCategoryLabel || d._targetLabel === selectedCategoryLabel);
@@ -204,14 +212,23 @@ function applyHighlights() {
   gPlot.selectAll("circle.cat")
     .attr("opacity", d => {
       if (!hasSelection) return 0.2;
-      return d.label === selectedCategoryLabel ? 0.36 : 0.08;
+      if (d.label === selectedCategoryLabel) return 0.36;
+      if (connectedLabels.has(d.label)) return 0.24;
+      return 0.08;
     })
-    .attr("stroke-width", d => (hasSelection && d.label === selectedCategoryLabel) ? 1.4 : 0.6);
+    .attr("stroke-width", d => {
+      if (!hasSelection) return 0.6;
+      if (d.label === selectedCategoryLabel) return 1.4;
+      if (connectedLabels.has(d.label)) return 1.0;
+      return 0.4;
+    });
 
   gPlot.selectAll("text.cat-label")
     .attr("opacity", d => {
       if (!hasSelection) return 0.95;
-      return d.label === selectedCategoryLabel ? 1 : 0.25;
+      if (d.label === selectedCategoryLabel) return 1;
+      if (connectedLabels.has(d.label)) return 0.75;
+      return 0.2;
     });
 
   gPlot.selectAll("circle.sample")
