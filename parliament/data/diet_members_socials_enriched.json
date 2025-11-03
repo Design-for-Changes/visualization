@@ -17,7 +17,8 @@
           "platform": "facebook",
           "url": "http://www.facebook.com/IchiroAISAWA"
         }
-      ]
+      ],
+      "slug": "aisawa_ichirou"
     },
     {
       "chamber": "衆議院",
@@ -39,7 +40,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/aoyagi117"
         }
-      ]
+      ],
+      "slug": "aoyagi_hitoshi"
     },
     {
       "chamber": "衆議院",
@@ -69,7 +71,8 @@
           "platform": "note_blog",
           "url": "https://note.com/aoyagy/"
         }
-      ]
+      ],
+      "slug": "aoyagi_youichirou"
     },
     {
       "chamber": "衆議院",
@@ -95,7 +98,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC4fzQ0P-MdVNNcWUuE6Eyww"
         }
-      ]
+      ],
+      "slug": "aoyama_yamato"
     },
     {
       "chamber": "衆議院",
@@ -125,7 +129,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/ryosei-akazawa/"
         }
-      ]
+      ],
+      "slug": "akazawa_ryousei"
     },
     {
       "chamber": "衆議院",
@@ -147,7 +152,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/akabakazuyoshi"
         }
-      ]
+      ],
+      "slug": "akaba_kazuyoshi"
     },
     {
       "chamber": "衆議院",
@@ -169,7 +175,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/jiroakama"
         }
-      ]
+      ],
+      "slug": "akama_jirou"
     },
     {
       "chamber": "衆議院",
@@ -195,7 +202,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCfZ63nNr_Q1jElEvmSzbawQ"
         }
-      ]
+      ],
+      "slug": "akamine_seiken"
     },
     {
       "chamber": "衆議院",
@@ -221,7 +229,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC4BTyoosV8KoCiwnmm9ehPQ"
         }
-      ]
+      ],
+      "slug": "akutsu_yukihiko"
     },
     {
       "chamber": "衆議院",
@@ -247,7 +256,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCPyFaCFzmr4UXlJmg4RJBnQ"
         }
-      ]
+      ],
+      "slug": "asano_satoshi"
     },
     {
       "chamber": "衆議院",
@@ -265,7 +275,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/katsuya.azuma1/"
         }
-      ]
+      ],
+      "slug": "azuma_katsuya"
     },
     {
       "chamber": "衆議院",
@@ -283,7 +294,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCt-6CGA7j55i0MHyvpz3GCA/videos"
         }
-      ]
+      ],
+      "slug": "azuma_kuniyoshi"
     },
     {
       "chamber": "衆議院",
@@ -309,7 +321,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCnY4oJHrrEDr2jej7WkTaGQ"
         }
-      ]
+      ],
+      "slug": "azuma_tooru"
     },
     {
       "chamber": "衆議院",
@@ -327,7 +340,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E5%AE%89%E4%BD%8F%E6%B7%B3miyagi/shorts"
         }
-      ]
+      ],
+      "slug": "azumi_jun"
     },
     {
       "chamber": "衆議院",
@@ -336,7 +350,8 @@
       "party": "自由民主党",
       "profile_url": "https://www.shugiin.go.jp/Internet/itdb_giinprof.nsf/html/profile/017.html",
       "homepage": "http://www.aso-taro.jp/",
-      "socials": []
+      "socials": [],
+      "slug": "asou_tarou"
     },
     {
       "chamber": "衆議院",
@@ -362,7 +377,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@abekeishi/videos"
         }
-      ]
+      ],
+      "slug": "abe_keishi"
     },
     {
       "chamber": "衆議院",
@@ -388,7 +404,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/abeccho/featured"
         }
-      ]
+      ],
+      "slug": "abe_tsukasa"
     },
     {
       "chamber": "衆議院",
@@ -414,7 +431,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UClLgtbLp2opWJyWx9V1ayow/featured"
         }
-      ]
+      ],
+      "slug": "abe_toshiko"
     },
     {
       "chamber": "衆議院",
@@ -436,7 +454,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCcEHxICi4OyutnJkPbqEQng"
         }
-      ]
+      ],
+      "slug": "abe_tomoko"
     },
     {
       "chamber": "衆議院",
@@ -454,7 +473,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/hirokiabe.kouhou/"
         }
-      ]
+      ],
+      "slug": "abe_hiroki"
     },
     {
       "chamber": "衆議院",
@@ -484,7 +504,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/abe-yumiko/entry-12863974878.html"
         }
-      ]
+      ],
+      "slug": "abe_yumiko"
     },
     {
       "chamber": "衆議院",
@@ -514,7 +535,8 @@
           "platform": "note_blog",
           "url": "https://note.com/yutax55"
         }
-      ]
+      ],
+      "slug": "arai_yutaka"
     },
     {
       "chamber": "衆議院",
@@ -536,7 +558,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCcEOIMZCe2shFMLGqQx7h4Q"
         }
-      ]
+      ],
+      "slug": "arakaki_kunio"
     },
     {
       "chamber": "衆議院",
@@ -558,7 +581,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/arita__yoshifu"
         }
-      ]
+      ],
+      "slug": "arita_yoshifu"
     },
     {
       "chamber": "衆議院",
@@ -572,7 +596,8 @@
           "platform": "x",
           "url": "https://twitter.com/andojunko"
         }
-      ]
+      ],
+      "slug": "andou_junko"
     },
     {
       "chamber": "衆議院",
@@ -598,7 +623,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/ando-takao/"
         }
-      ]
+      ],
+      "slug": "andou_takao"
     },
     {
       "chamber": "衆議院",
@@ -624,7 +650,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E4%BA%94%E5%8D%81%E5%B5%90%E3%81%88%E3%82%8A%E6%9D%B1%E4%BA%AC30%E5%8C%BA/videos"
         }
-      ]
+      ],
+      "slug": "igarashi_eri"
     },
     {
       "chamber": "衆議院",
@@ -642,7 +669,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/igarashi_kiyoshi_kouennkai/"
         }
-      ]
+      ],
+      "slug": "igarashi_kiyoshi"
     },
     {
       "chamber": "衆議院",
@@ -668,7 +696,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/ikeshitataku"
         }
-      ]
+      ],
+      "slug": "ikeshita_taku"
     },
     {
       "chamber": "衆議院",
@@ -694,7 +723,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCf1rg6Z0Sv1y4KzJDb3SeCg"
         }
-      ]
+      ],
+      "slug": "ikeda_maki"
     },
     {
       "chamber": "衆議院",
@@ -720,7 +750,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCkWhwvLI7gJF-mK6WQBycpw"
         }
-      ]
+      ],
+      "slug": "ikehata_koutarou"
     },
     {
       "chamber": "衆議院",
@@ -742,7 +773,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/isakanobuhiko"
         }
-      ]
+      ],
+      "slug": "isaka_nobuhiko"
     },
     {
       "chamber": "衆議院",
@@ -772,7 +804,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/kakudatomoe-net/entry-12782428849.html"
         }
-      ]
+      ],
+      "slug": "ishii_tomoe"
     },
     {
       "chamber": "衆議院",
@@ -798,7 +831,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/https://www.youtube.com/channel/UCSS0paeMmthzsSL21vg_xaQ"
         }
-      ]
+      ],
+      "slug": "ishikawa_kaori"
     },
     {
       "chamber": "衆議院",
@@ -816,7 +850,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@ishidamasatoshinet/videos"
         }
-      ]
+      ],
+      "slug": "ishida_masatoshi"
     },
     {
       "chamber": "衆議院",
@@ -842,7 +877,8 @@
           "platform": "note_blog",
           "url": "https://note.com/shigeru_ishiba"
         }
-      ]
+      ],
+      "slug": "ishiba_shigeru"
     },
     {
       "chamber": "衆議院",
@@ -864,7 +900,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/ishibashi_rintaro/"
         }
-      ]
+      ],
+      "slug": "ishibashi_rintarou"
     },
     {
       "chamber": "衆議院",
@@ -890,7 +927,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCQRJEdctWgbmISiy5GsQjqQ"
         }
-      ]
+      ],
+      "slug": "ishihara_hirotaka"
     },
     {
       "chamber": "衆議院",
@@ -916,7 +954,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC4dlW6tAnbFpCgwataaZs2w"
         }
-      ]
+      ],
+      "slug": "izumi_kenta"
     },
     {
       "chamber": "衆議院",
@@ -942,7 +981,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCDh0FHkmXCpEV74dR1S57qg"
         }
-      ]
+      ],
+      "slug": "ichiki_tomoko"
     },
     {
       "chamber": "衆議院",
@@ -960,7 +1000,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/watch?v=Uj8DD_342OM"
         }
-      ]
+      ],
+      "slug": "ichimura_kouichirou"
     },
     {
       "chamber": "衆議院",
@@ -986,7 +1027,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCronM5XeLu1gzGL32ofPAMg"
         }
-      ]
+      ],
+      "slug": "ide_yousei"
     },
     {
       "chamber": "衆議院",
@@ -1012,7 +1054,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCapjaAjyiIePuRFnIhdeJ9g"
         }
-      ]
+      ],
+      "slug": "itou_shunsuke"
     },
     {
       "chamber": "衆議院",
@@ -1034,7 +1077,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/tadahiko_itoh/?hl=ja"
         }
-      ]
+      ],
+      "slug": "itou_tadahiko"
     },
     {
       "chamber": "衆議院",
@@ -1060,7 +1104,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/c/TATSUYAIT0"
         }
-      ]
+      ],
+      "slug": "itou_tatsuya"
     },
     {
       "chamber": "衆議院",
@@ -1086,7 +1131,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCl_GWYTp_tqfLEuXvbYmL6Q"
         }
-      ]
+      ],
+      "slug": "itou_nobuhisa"
     },
     {
       "chamber": "衆議院",
@@ -1112,7 +1158,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/i-yoshitaka-blog/"
         }
-      ]
+      ],
+      "slug": "itou_yoshitaka"
     },
     {
       "chamber": "衆議院",
@@ -1138,7 +1185,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@inadatomomi-p1h"
         }
-      ]
+      ],
+      "slug": "inada_tomomi"
     },
     {
       "chamber": "衆議院",
@@ -1164,7 +1212,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCBib4uZvP0hVsXil87cVQpA"
         }
-      ]
+      ],
+      "slug": "inatomi_shuuji"
     },
     {
       "chamber": "衆議院",
@@ -1186,7 +1235,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCzPcvC2j1wJAEtX3zYsTdew"
         }
-      ]
+      ],
+      "slug": "ino_toshirou"
     },
     {
       "chamber": "衆議院",
@@ -1208,7 +1258,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E5%85%9A%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AC%AC%E4%BA%8C"
         }
-      ]
+      ],
+      "slug": "inoue_shinji"
     },
     {
       "chamber": "衆議院",
@@ -1226,7 +1277,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCK6prAR8UM8vrvJiz1RaWZg"
         }
-      ]
+      ],
+      "slug": "inoue_takahiro"
     },
     {
       "chamber": "衆議院",
@@ -1252,7 +1304,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCYG3c2sEkQLbqt9xBTvWE4w"
         }
-      ]
+      ],
+      "slug": "inoue_hidetaka"
     },
     {
       "chamber": "衆議院",
@@ -1270,7 +1323,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/inokuchisachiko"
         }
-      ]
+      ],
+      "slug": "inokuchi_sachiko"
     },
     {
       "chamber": "衆議院",
@@ -1300,7 +1354,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/ibayashitatsunori/"
         }
-      ]
+      ],
+      "slug": "ibayashi_tatsunori"
     },
     {
       "chamber": "衆議院",
@@ -1322,7 +1377,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/masatoimai_gifu4ku"
         }
-      ]
+      ],
+      "slug": "imai_masato"
     },
     {
       "chamber": "衆議院",
@@ -1348,7 +1404,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCdd3RR3bnRZlEJAm0EZ9_Gg"
         }
-      ]
+      ],
+      "slug": "imaeda_souichirou"
     },
     {
       "chamber": "衆議院",
@@ -1374,7 +1431,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCpF7zKgWkHKANPYNylw6gNQ"
         }
-      ]
+      ],
+      "slug": "iwata_kazuchika"
     },
     {
       "chamber": "衆議院",
@@ -1400,7 +1458,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCwb430D-YHysbWvXVhXVCFA"
         }
-      ]
+      ],
+      "slug": "iwatani_ryouhei"
     },
     {
       "chamber": "衆議院",
@@ -1422,7 +1481,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/c/TAKESHICHANNEL"
         }
-      ]
+      ],
+      "slug": "iwaya_takeshi"
     },
     {
       "chamber": "衆議院",
@@ -1436,7 +1496,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/profile.php?id=100065656187649"
         }
-      ]
+      ],
+      "slug": "ueda_eishun"
     },
     {
       "chamber": "衆議院",
@@ -1462,7 +1523,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/UenoKenichiro"
         }
-      ]
+      ],
+      "slug": "ueno_kenichirou"
     },
     {
       "chamber": "衆議院",
@@ -1484,7 +1546,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@hidepon-reiwa"
         }
-      ]
+      ],
+      "slug": "uemura_hideaki"
     },
     {
       "chamber": "衆議院",
@@ -1502,7 +1565,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/ukishimatomoko/"
         }
-      ]
+      ],
+      "slug": "ukishima_tomoko"
     },
     {
       "chamber": "衆議院",
@@ -1524,7 +1588,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@user-cm3xw2ku9k"
         }
-      ]
+      ],
+      "slug": "usuki_hidetake"
     },
     {
       "chamber": "衆議院",
@@ -1546,7 +1611,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/umetanimamoru/"
         }
-      ]
+      ],
+      "slug": "umetani_mamoru"
     },
     {
       "chamber": "衆議院",
@@ -1568,7 +1634,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCfVlgBHDtL3bs3Z_jAlkv7g"
         }
-      ]
+      ],
+      "slug": "umemura_satoshi"
     },
     {
       "chamber": "衆議院",
@@ -1590,7 +1657,8 @@
           "platform": "youtube",
           "url": "http://www.youtube.com/user/uranoyasutooffice"
         }
-      ]
+      ],
+      "slug": "urano_yasuto"
     },
     {
       "chamber": "衆議院",
@@ -1612,7 +1680,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/urumageorge/"
         }
-      ]
+      ],
+      "slug": "uruma_jouji"
     },
     {
       "chamber": "衆議院",
@@ -1638,7 +1707,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCsYU2vPg8KXiRR-imqXOYSg"
         }
-      ]
+      ],
+      "slug": "eda_kenji"
     },
     {
       "chamber": "衆議院",
@@ -1664,7 +1734,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC--p4szEtFbOQnmItCHO17A"
         }
-      ]
+      ],
+      "slug": "edano_yukio"
     },
     {
       "chamber": "衆議院",
@@ -1678,7 +1749,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/playlist"
         }
-      ]
+      ],
+      "slug": "eto_akinori"
     },
     {
       "chamber": "衆議院",
@@ -1696,7 +1768,8 @@
           "platform": "note_blog",
           "url": "https://etotaku.exblog.jp/"
         }
-      ]
+      ],
+      "slug": "etou_taku"
     },
     {
       "chamber": "衆議院",
@@ -1722,7 +1795,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCZjbBRUN5Ego8VXAddv8ftw"
         }
-      ]
+      ],
+      "slug": "eri_arufuiya"
     },
     {
       "chamber": "衆議院",
@@ -1740,7 +1814,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/watch?v=CWkHA-mPrao"
         }
-      ]
+      ],
+      "slug": "endou_takashi"
     },
     {
       "chamber": "衆議院",
@@ -1762,7 +1837,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/team_toshiaki/"
         }
-      ]
+      ],
+      "slug": "endou_toshiaki"
     },
     {
       "chamber": "衆議院",
@@ -1788,7 +1864,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC7WTGZV5NNPCLJH9wc8e0xQ"
         }
-      ]
+      ],
+      "slug": "ooishi_akiko"
     },
     {
       "chamber": "衆議院",
@@ -1814,7 +1891,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/jiminshiga1"
         }
-      ]
+      ],
+      "slug": "oooka_toshitaka"
     },
     {
       "chamber": "衆議院",
@@ -1840,7 +1918,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCTh3aNfjSfu2IXa66i3o_Wg"
         }
-      ]
+      ],
+      "slug": "ookawara_masako"
     },
     {
       "chamber": "衆議院",
@@ -1866,7 +1945,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCCVSwKf65A8JHRTYf01P8QQ"
         }
-      ]
+      ],
+      "slug": "oogushi_hiroshi"
     },
     {
       "chamber": "衆議院",
@@ -1896,7 +1976,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/m-ogushi/"
         }
-      ]
+      ],
+      "slug": "oogushi_masaki"
     },
     {
       "chamber": "衆議院",
@@ -1926,7 +2007,8 @@
           "platform": "note_blog",
           "url": "https://note.com/ohsakaseiji"
         }
-      ]
+      ],
+      "slug": "oosaka_seiji"
     },
     {
       "chamber": "衆議院",
@@ -1935,7 +2017,8 @@
       "party": "立憲民主党",
       "profile_url": "https://www.shugiin.go.jp/Internet/itdb_giinprof.nsf/html/profile/085.html",
       "homepage": "http://www.oshimaatsushi.com",
-      "socials": []
+      "socials": [],
+      "slug": "ooshima_atsushi"
     },
     {
       "chamber": "衆議院",
@@ -1953,7 +2036,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/ozora_koki?igsh=MTF0ZjFyM2w4ZjJnaQ%3D%3D"
         }
-      ]
+      ],
+      "slug": "oozora_kouki"
     },
     {
       "chamber": "衆議院",
@@ -1979,7 +2063,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCEPtu8qVpC1xzu2sy8kbVEA"
         }
-      ]
+      ],
+      "slug": "ootake_rie"
     },
     {
       "chamber": "衆議院",
@@ -2005,7 +2090,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UClhDDwxQrV_jhI_sRrUdW7w"
         }
-      ]
+      ],
+      "slug": "ootsuka_sayuri"
     },
     {
       "chamber": "衆議院",
@@ -2031,7 +2117,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/ch-dp8qn"
         }
-      ]
+      ],
+      "slug": "ootsuki_kureha"
     },
     {
       "chamber": "衆議院",
@@ -2053,7 +2140,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UChT9pfYcWhec_vWghS7xUUA"
         }
-      ]
+      ],
+      "slug": "oonishi_kensuke"
     },
     {
       "chamber": "衆議院",
@@ -2079,7 +2167,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E5%A4%A7%E8%A5%BF%E6%B4%8B%E5%B9%B3-r5g"
         }
-      ]
+      ],
+      "slug": "oonishi_youhei"
     },
     {
       "chamber": "衆議院",
@@ -2105,7 +2194,8 @@
           "platform": "youtube",
           "url": "http://www.youtube.com/user/keitaroohno?feature=watch"
         }
-      ]
+      ],
+      "slug": "oono_keitarou"
     },
     {
       "chamber": "衆議院",
@@ -2114,7 +2204,17 @@
       "party": "公明党",
       "profile_url": "https://www.shugiin.go.jp/Internet/itdb_giinprof.nsf/html/profile/093.html",
       "homepage": null,
-      "socials": []
+      "socials": [
+        {
+          "platform": "x",
+          "url": "https://x.com/eriko_omori"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/eriko_omori/"
+        }
+      ],
+      "slug": "oomori_eriko"
     },
     {
       "chamber": "衆議院",
@@ -2132,7 +2232,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/kazumasa.okajima"
         }
-      ]
+      ],
+      "slug": "okajima_kazumasa"
     },
     {
       "chamber": "衆議院",
@@ -2154,7 +2255,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCkptORYZrRq8KqpASgtkcaQ"
         }
-      ]
+      ],
+      "slug": "okada_katsuya"
     },
     {
       "chamber": "衆議院",
@@ -2172,7 +2274,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/satoru.okada.79"
         }
-      ]
+      ],
+      "slug": "okada_satoru"
     },
     {
       "chamber": "衆議院",
@@ -2198,7 +2301,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E5%B2%A1%E7%94%B0%E3%81%AF%E3%81%AA%E3%81%93%E5%BE%8C%E6%8F%B4%E4%BC%9A"
         }
-      ]
+      ],
+      "slug": "okada_hanako"
     },
     {
       "chamber": "衆議院",
@@ -2220,7 +2324,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/rintaro-o/entry-12818333238.html"
         }
-      ]
+      ],
+      "slug": "ogata_rintarou"
     },
     {
       "chamber": "衆議院",
@@ -2246,7 +2351,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@DPFPokano"
         }
-      ]
+      ],
+      "slug": "okano_junko"
     },
     {
       "chamber": "衆議院",
@@ -2272,7 +2378,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCpKyauucewbcxyQfArItCAw"
         }
-      ]
+      ],
+      "slug": "okamoto_akiko"
     },
     {
       "chamber": "衆議院",
@@ -2298,7 +2405,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCU09evAyoTH4HYC4e1S5qtA"
         }
-      ]
+      ],
+      "slug": "okamoto_mitsunari"
     },
     {
       "chamber": "衆議院",
@@ -2324,7 +2432,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCqIw1zp47Yj8YuLZ34wXrog"
         }
-      ]
+      ],
+      "slug": "okamoto_mitsunori"
     },
     {
       "chamber": "衆議院",
@@ -2350,7 +2459,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC7ygJQhloSmSbNxNTbGbgSg"
         }
-      ]
+      ],
+      "slug": "ogawa_junya"
     },
     {
       "chamber": "衆議院",
@@ -2376,7 +2486,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E5%A5%A5%E4%B8%8B%E5%89%9B%E5%85%89"
         }
-      ]
+      ],
+      "slug": "okushita_takemitsu"
     },
     {
       "chamber": "衆議院",
@@ -2402,7 +2513,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCIndgPQpWXoar7TcWnajxZA/videos"
         }
-      ]
+      ],
+      "slug": "okuno_souichirou"
     },
     {
       "chamber": "衆議院",
@@ -2428,7 +2540,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCr4kSJwaadiEEq4L_Ifm9-g"
         }
-      ]
+      ],
+      "slug": "oguma_shinji"
     },
     {
       "chamber": "衆議院",
@@ -2454,7 +2567,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCXfow9FB1swsXnpjfxzVOSg"
         }
-      ]
+      ],
+      "slug": "ozaki_masanao"
     },
     {
       "chamber": "衆議院",
@@ -2480,7 +2594,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@ozawa-ichiro"
         }
-      ]
+      ],
+      "slug": "ozawa_ichirou"
     },
     {
       "chamber": "衆議院",
@@ -2506,7 +2621,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@odake_kokumin"
         }
-      ]
+      ],
+      "slug": "odake_kai"
     },
     {
       "chamber": "衆議院",
@@ -2532,7 +2648,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/ochiaitakayuki/"
         }
-      ]
+      ],
+      "slug": "ochiai_takayuki"
     },
     {
       "chamber": "衆議院",
@@ -2554,7 +2671,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@otsujikanako"
         }
-      ]
+      ],
+      "slug": "otsuji_kanako"
     },
     {
       "chamber": "衆議院",
@@ -2580,7 +2698,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCDxTXT-q9NJ7qSshzR9NoLw"
         }
-      ]
+      ],
+      "slug": "oniki_makoto"
     },
     {
       "chamber": "衆議院",
@@ -2594,7 +2713,8 @@
           "platform": "x",
           "url": "https://twitter.com/itsunori510"
         }
-      ]
+      ],
+      "slug": "onodera_itsunori"
     },
     {
       "chamber": "衆議院",
@@ -2616,7 +2736,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/obuchiyuko/entry-12940860804.html"
         }
-      ]
+      ],
+      "slug": "obuchi_yuuko"
     },
     {
       "chamber": "衆議院",
@@ -2642,7 +2763,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC12HrKEYXP-iBQsEqlZ9ZcAA"
         }
-      ]
+      ],
+      "slug": "kaieda_banri"
     },
     {
       "chamber": "衆議院",
@@ -2664,7 +2786,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/c/Newkomeito_komei"
         }
-      ]
+      ],
+      "slug": "kasai_kouichi"
     },
     {
       "chamber": "衆議院",
@@ -2690,7 +2813,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/kajiyama-hiroshi/"
         }
-      ]
+      ],
+      "slug": "kajiyama_hiroshi"
     },
     {
       "chamber": "衆議院",
@@ -2716,7 +2840,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/t-katsumata/"
         }
-      ]
+      ],
+      "slug": "katsumata_takaaki"
     },
     {
       "chamber": "衆議院",
@@ -2738,7 +2863,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/katsume_yasushi/"
         }
-      ]
+      ],
+      "slug": "katsume_yasushi"
     },
     {
       "chamber": "衆議院",
@@ -2760,7 +2886,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCr-BPYAyXheHFtRHYaCLBMw/"
         }
-      ]
+      ],
+      "slug": "katou_ayuko"
     },
     {
       "chamber": "衆議院",
@@ -2786,7 +2913,8 @@
           "platform": "youtube",
           "url": "http://www.youtube.com/user/katokatsunobu"
         }
-      ]
+      ],
+      "slug": "katou_katsunobu"
     },
     {
       "chamber": "衆議院",
@@ -2804,7 +2932,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/kato_ryusho/"
         }
-      ]
+      ],
+      "slug": "katou_ryuushou"
     },
     {
       "chamber": "衆議院",
@@ -2826,7 +2955,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC5DNrBuKPPyYwZjIhtvOcuA"
         }
-      ]
+      ],
+      "slug": "kaneko_emi"
     },
     {
       "chamber": "衆議院",
@@ -2848,7 +2978,8 @@
           "platform": "youtube",
           "url": "http://www.youtube.com/user/kanekoyasushi"
         }
-      ]
+      ],
+      "slug": "kaneko_yasushi"
     },
     {
       "chamber": "衆議院",
@@ -2870,7 +3001,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@kanekoyozo/featured"
         }
-      ]
+      ],
+      "slug": "kaneko_youzou"
     },
     {
       "chamber": "衆議院",
@@ -2896,7 +3028,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCvxwfNfkfmrGIkOnxztyKXA"
         }
-      ]
+      ],
+      "slug": "kanemura_ryuuna"
     },
     {
       "chamber": "衆議院",
@@ -2926,7 +3059,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/kamatasayuri/"
         }
-      ]
+      ],
+      "slug": "kamata_sayuri"
     },
     {
       "chamber": "衆議院",
@@ -2952,7 +3086,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/himawari439"
         }
-      ]
+      ],
+      "slug": "kamikawa_youko"
     },
     {
       "chamber": "衆議院",
@@ -2974,7 +3109,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@hokkaido10"
         }
-      ]
+      ],
+      "slug": "kamiya_hiroshi"
     },
     {
       "chamber": "衆議院",
@@ -3000,7 +3136,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCKsvywZF47i_2sVZTUgNaRw"
         }
-      ]
+      ],
+      "slug": "kamei_akiko"
     },
     {
       "chamber": "衆議院",
@@ -3018,7 +3155,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC0mZwjggpxR-AfliJDxYSzw"
         }
-      ]
+      ],
+      "slug": "kawauchi_hiroshi"
     },
     {
       "chamber": "衆議院",
@@ -3040,7 +3178,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/kawasakihideto_mie/"
         }
-      ]
+      ],
+      "slug": "kawasaki_hideto"
     },
     {
       "chamber": "衆議院",
@@ -3066,7 +3205,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCZDDjB-0p2Mkl704eVFasxQ"
         }
-      ]
+      ],
+      "slug": "kawaharada_eisei"
     },
     {
       "chamber": "衆議院",
@@ -3088,7 +3228,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/kawamura.takashi/"
         }
-      ]
+      ],
+      "slug": "kawamura_takashi"
     },
     {
       "chamber": "衆議院",
@@ -3118,7 +3259,8 @@
           "platform": "note_blog",
           "url": "https://note.com/jun1_kanda/"
         }
-      ]
+      ],
+      "slug": "kanda_junichi"
     },
     {
       "chamber": "衆議院",
@@ -3144,7 +3286,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCRBVKNl9IOBM2BoJrObmFiA"
         }
-      ]
+      ],
+      "slug": "kii_takashi"
     },
     {
       "chamber": "衆議院",
@@ -3170,7 +3313,8 @@
           "platform": "youtube",
           "url": "http://www.youtube.com/user/kiuchichannel"
         }
-      ]
+      ],
+      "slug": "kiuchi_minoru"
     },
     {
       "chamber": "衆議院",
@@ -3196,7 +3340,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/kikawadahitoshi"
         }
-      ]
+      ],
+      "slug": "kikawada_hitoshi"
     },
     {
       "chamber": "衆議院",
@@ -3218,7 +3363,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCGbIg8UGrihQFPEsbhJUn_g"
         }
-      ]
+      ],
+      "slug": "kikuta_makiko"
     },
     {
       "chamber": "衆議院",
@@ -3244,7 +3390,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@kikuchi_daijiro/videos"
         }
-      ]
+      ],
+      "slug": "kikuchi_daijirou"
     },
     {
       "chamber": "衆議院",
@@ -3266,7 +3413,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E5%B2%B8%E3%81%AE%E3%81%B6%E3%81%A1%E3%82%88%E5%85%AC%E5%BC%8FYouTube"
         }
-      ]
+      ],
+      "slug": "kishi_nobuchiyo"
     },
     {
       "chamber": "衆議院",
@@ -3292,7 +3440,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/c/kishidafumio230"
         }
-      ]
+      ],
+      "slug": "kishida_fumio"
     },
     {
       "chamber": "衆議院",
@@ -3318,7 +3467,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E5%B2%B8%E7%94%B0%E5%85%89%E5%BA%83%E4%BA%8B%E5%8B%99%E6%89%80"
         }
-      ]
+      ],
+      "slug": "kishida_mitsuhiro"
     },
     {
       "chamber": "衆議院",
@@ -3348,7 +3498,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/kitagami-keirou/"
         }
-      ]
+      ],
+      "slug": "kitagami_keirou"
     },
     {
       "chamber": "衆議院",
@@ -3370,7 +3521,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/yuko_kitano123/"
         }
-      ]
+      ],
+      "slug": "kitano_yuuko"
     },
     {
       "chamber": "衆議院",
@@ -3396,7 +3548,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC75VnUqJ8C9q4jP3s2lbl9Q"
         }
-      ]
+      ],
+      "slug": "kihara_seiji"
     },
     {
       "chamber": "衆議院",
@@ -3422,7 +3575,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/kiharaminoruTV"
         }
-      ]
+      ],
+      "slug": "kihara_minoru"
     },
     {
       "chamber": "衆議院",
@@ -3440,7 +3594,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCz_14IEQjYzNBTDd1bwyclQ"
         }
-      ]
+      ],
+      "slug": "kira_shuuji"
     },
     {
       "chamber": "衆議院",
@@ -3454,7 +3609,8 @@
           "platform": "x",
           "url": "https://x.com/yasukunikinjou"
         }
-      ]
+      ],
+      "slug": "kinjou_yasukuni"
     },
     {
       "chamber": "衆議院",
@@ -3480,7 +3636,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCW4wzWKUjSLuxGl1dieBeGg"
         }
-      ]
+      ],
+      "slug": "kusama_tsuyoshi"
     },
     {
       "chamber": "衆議院",
@@ -3502,7 +3659,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCYuARnJ2OzbXKwUYF4ncVTA"
         }
-      ]
+      ],
+      "slug": "kushibuchi_mari"
     },
     {
       "chamber": "衆議院",
@@ -3528,7 +3686,8 @@
           "platform": "youtube",
           "url": "https://youtube.com/user/MrKudoshozo"
         }
-      ]
+      ],
+      "slug": "kudou_shouzou"
     },
     {
       "chamber": "衆議院",
@@ -3554,7 +3713,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCDEmtjdAPBB4VEQ-x-nCGTQ"
         }
-      ]
+      ],
+      "slug": "kunisada_isato"
     },
     {
       "chamber": "衆議院",
@@ -3580,7 +3740,8 @@
           "platform": "youtube",
           "url": "https://youtube.com/channel/UCj4y0SUunhSm-y64qcyxxNg?si=dWU4UBqEFD1JIcov"
         }
-      ]
+      ],
+      "slug": "kunimitsu_ayano"
     },
     {
       "chamber": "衆議院",
@@ -3598,7 +3759,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/kurihara.info/"
         }
-      ]
+      ],
+      "slug": "kurihara_wataru"
     },
     {
       "chamber": "衆議院",
@@ -3612,7 +3774,8 @@
           "platform": "x",
           "url": "https://twitter.com/kuroiwatakahir1"
         }
-      ]
+      ],
+      "slug": "kuroiwa_takahiro"
     },
     {
       "chamber": "衆議院",
@@ -3638,7 +3801,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E9%BB%92%E7%94%B0%E3%81%BE%E3%81%95%E3%81%8D%E7%B6%AD%E6%96%B0"
         }
-      ]
+      ],
+      "slug": "kuroda_masaki"
     },
     {
       "chamber": "衆議院",
@@ -3652,7 +3816,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/gembakoichiro/"
         }
-      ]
+      ],
+      "slug": "genba_kouichirou"
     },
     {
       "chamber": "衆議院",
@@ -3678,7 +3843,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCuRaZqdWXWp0J3_fHsbBs6Q"
         }
-      ]
+      ],
+      "slug": "genma_kentarou"
     },
     {
       "chamber": "衆議院",
@@ -3700,7 +3866,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/masaaki_koike?igsh=a3FmdjF6eTI2Y25p"
         }
-      ]
+      ],
+      "slug": "koike_masaaki"
     },
     {
       "chamber": "衆議院",
@@ -3726,7 +3893,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@shinjiro.koizumi"
         }
-      ]
+      ],
+      "slug": "koizumi_shinjirou"
     },
     {
       "chamber": "衆議院",
@@ -3748,7 +3916,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC3AQwo0vj5ufnTh22mfIvmg"
         }
-      ]
+      ],
+      "slug": "koizumi_ryuuji"
     },
     {
       "chamber": "衆議院",
@@ -3766,7 +3935,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/takeshi.kozu.7"
         }
-      ]
+      ],
+      "slug": "kouzu_takeshi"
     },
     {
       "chamber": "衆議院",
@@ -3792,7 +3962,8 @@
           "platform": "youtube",
           "url": "http://www.youtube.com/user/KonoTaroGomame"
         }
-      ]
+      ],
+      "slug": "kouno_tarou"
     },
     {
       "chamber": "衆議院",
@@ -3806,7 +3977,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/masahiro.kohmura"
         }
-      ]
+      ],
+      "slug": "koumura_masahiro"
     },
     {
       "chamber": "衆議院",
@@ -3832,7 +4004,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC7ma3t1ROAdicCppJF4o14w"
         }
-      ]
+      ],
+      "slug": "koga_atsushi"
     },
     {
       "chamber": "衆議院",
@@ -3858,7 +4031,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC-KRP8OvUT9v8iCpIcdB20Q"
         }
-      ]
+      ],
+      "slug": "kokuba_kounosuke"
     },
     {
       "chamber": "衆議院",
@@ -3876,7 +4050,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/sharer.php"
         }
-      ]
+      ],
+      "slug": "koshimizu_keiichi"
     },
     {
       "chamber": "衆議院",
@@ -3894,7 +4069,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCvI3DGyLsuB47UuwA24Tg8Q/videos"
         }
-      ]
+      ],
+      "slug": "kotera_hiroo"
     },
     {
       "chamber": "衆議院",
@@ -3916,7 +4092,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/smileman510/"
         }
-      ]
+      ],
+      "slug": "gotou_shigeyuki"
     },
     {
       "chamber": "衆議院",
@@ -3938,7 +4115,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCvUMYxmOlBXgHzCO5XuA6qA/videos"
         }
-      ]
+      ],
+      "slug": "gotou_yuuichi"
     },
     {
       "chamber": "衆議院",
@@ -3964,7 +4142,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCygovtgiO0z4_5vROAXV5hw"
         }
-      ]
+      ],
+      "slug": "konomi_ryoutarou"
     },
     {
       "chamber": "衆議院",
@@ -3990,7 +4169,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/results?search_query=%E5%B0%8F%E6%9E%97%E3%81%97%E3%81%92%E3%81%8D"
         }
-      ]
+      ],
+      "slug": "kobayashi_shigeki"
     },
     {
       "chamber": "衆議院",
@@ -4012,7 +4192,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCT-yxxeAApALZV2YUlVsMBQ"
         }
-      ]
+      ],
+      "slug": "kobayashi_takayuki"
     },
     {
       "chamber": "衆議院",
@@ -4038,7 +4219,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCScsif_vy-O4CQGj7ZxzQgg?feature=emb_ch_name_ex"
         }
-      ]
+      ],
+      "slug": "kobayashi_fumiaki"
     },
     {
       "chamber": "衆議院",
@@ -4060,7 +4242,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/yaskokomiyama"
         }
-      ]
+      ],
+      "slug": "komiyama_yasuko"
     },
     {
       "chamber": "衆議院",
@@ -4086,7 +4269,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCJKKjSjMta3lFNcMkg_rhtw"
         }
-      ]
+      ],
+      "slug": "komori_takuo"
     },
     {
       "chamber": "衆議院",
@@ -4116,7 +4300,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/koyamachiho2024"
         }
-      ]
+      ],
+      "slug": "koyama_chiho"
     },
     {
       "chamber": "衆議院",
@@ -4142,7 +4327,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCOsRDSydjU7UrrsjdjSOsIQ?view_as=subscriber"
         }
-      ]
+      ],
+      "slug": "koyama_nobuhiro"
     },
     {
       "chamber": "衆議院",
@@ -4164,7 +4350,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCebrw7LGF0EXMzmU-INoMqA"
         }
-      ]
+      ],
+      "slug": "kondou_kazuya"
     },
     {
       "chamber": "衆議院",
@@ -4190,7 +4377,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCpY9x7tQARIsdbn7EPMdB9A"
         }
-      ]
+      ],
+      "slug": "kondou_shouichi"
     },
     {
       "chamber": "衆議院",
@@ -4216,7 +4404,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCD-EpHwdJz3tJC4BHKntHdQ"
         }
-      ]
+      ],
+      "slug": "saiki_takeshi"
     },
     {
       "chamber": "衆議院",
@@ -4242,7 +4431,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCCMRYg5aiE3w0-5-bRV1DXQ"
         }
-      ]
+      ],
+      "slug": "saitou_arekkusu"
     },
     {
       "chamber": "衆議院",
@@ -4260,7 +4450,8 @@
           "platform": "youtube",
           "url": "http://www.youtube.com/saitokenoffice"
         }
-      ]
+      ],
+      "slug": "saitou_ken"
     },
     {
       "chamber": "衆議院",
@@ -4274,7 +4465,8 @@
           "platform": "x",
           "url": "https://x.com/saitotetsuo"
         }
-      ]
+      ],
+      "slug": "saitou_tetsuo"
     },
     {
       "chamber": "衆議院",
@@ -4292,7 +4484,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/hiroaki_s03/"
         }
-      ]
+      ],
+      "slug": "saitou_hiroaki"
     },
     {
       "chamber": "衆議院",
@@ -4310,7 +4503,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/yuki.saito.96387189"
         }
-      ]
+      ],
+      "slug": "saitou_yuuki"
     },
     {
       "chamber": "衆議院",
@@ -4340,7 +4534,8 @@
           "platform": "note_blog",
           "url": "https://note.com/sakainatsumi/"
         }
-      ]
+      ],
+      "slug": "sakai_natsumi"
     },
     {
       "chamber": "衆議院",
@@ -4370,7 +4565,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/sakaimanabu/"
         }
-      ]
+      ],
+      "slug": "sakai_manabu"
     },
     {
       "chamber": "衆議院",
@@ -4396,7 +4592,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC6MrKj7_ABe3Oep2XU8KC1Q"
         }
-      ]
+      ],
+      "slug": "sakaguchi_naoto"
     },
     {
       "chamber": "衆議院",
@@ -4418,7 +4615,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/tetusiman-katudou/"
         }
-      ]
+      ],
+      "slug": "sakamoto_tetsushi"
     },
     {
       "chamber": "衆議院",
@@ -4444,7 +4642,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCRR2M0mrpuzv8bE1KO0W6cQ"
         }
-      ]
+      ],
+      "slug": "sakamoto_yuunosuke"
     },
     {
       "chamber": "衆議院",
@@ -4462,7 +4661,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/sakamoto.ryutaro.supporters/"
         }
-      ]
+      ],
+      "slug": "sakamoto_ryuutarou"
     },
     {
       "chamber": "衆議院",
@@ -4492,7 +4692,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/sakuraishu/"
         }
-      ]
+      ],
+      "slug": "sakurai_shuu"
     },
     {
       "chamber": "衆議院",
@@ -4514,7 +4715,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC-Vu1YqVelhOijcJ6m6TU3A"
         }
-      ]
+      ],
+      "slug": "sasagawa_hiroyoshi"
     },
     {
       "chamber": "衆議院",
@@ -4540,7 +4742,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCZb6tHWIQ0pSVbW88QMan1A"
         }
-      ]
+      ],
+      "slug": "sasaki_naomi"
     },
     {
       "chamber": "衆議院",
@@ -4566,7 +4769,8 @@
           "platform": "youtube",
           "url": "http://www.youtube.com/channel/UCUg7gtBkqWlbs_5ALA6mb4Q"
         }
-      ]
+      ],
+      "slug": "sasaki_hajime"
     },
     {
       "chamber": "衆議院",
@@ -4588,7 +4792,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/embed/gNilWLzmXSQ"
         }
-      ]
+      ],
+      "slug": "satou_kouji"
     },
     {
       "chamber": "衆議院",
@@ -4606,7 +4811,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/satotsutomujimusho"
         }
-      ]
+      ],
+      "slug": "satou_tsutomu"
     },
     {
       "chamber": "衆議院",
@@ -4620,7 +4826,8 @@
           "platform": "x",
           "url": "https://x.com/hidemichisato"
         }
-      ]
+      ],
+      "slug": "satou_hidemichi"
     },
     {
       "chamber": "衆議院",
@@ -4642,7 +4849,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@user-td7uu8sb7u"
         }
-      ]
+      ],
+      "slug": "sawara_wakako"
     },
     {
       "chamber": "衆議院",
@@ -4660,7 +4868,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/watch?v=kz0IM_Ck4wQ"
         }
-      ]
+      ],
+      "slug": "shii_kazuo"
     },
     {
       "chamber": "衆議院",
@@ -4682,7 +4891,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCPVtzQ2R7KOqY_Zj7FzjaqQ"
         }
-      ]
+      ],
+      "slug": "shiokawa_tetsuya"
     },
     {
       "chamber": "衆議院",
@@ -4712,7 +4922,8 @@
           "platform": "note_blog",
           "url": "https://note.com/akihisa_shiozaki"
         }
-      ]
+      ],
+      "slug": "shiozaki_akihisa"
     },
     {
       "chamber": "衆議院",
@@ -4738,7 +4949,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCapUotmv4csSGrw-7yaGinQ"
         }
-      ]
+      ],
+      "slug": "shigetoku_kazuhiko"
     },
     {
       "chamber": "衆議院",
@@ -4760,7 +4972,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/takeshishina/"
         }
-      ]
+      ],
+      "slug": "shina_takeshi"
     },
     {
       "chamber": "衆議院",
@@ -4786,7 +4999,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCs_9Ufbf3Bo7DES8TQZzPYw"
         }
-      ]
+      ],
+      "slug": "shinoda_naoko"
     },
     {
       "chamber": "衆議院",
@@ -4804,7 +5018,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/Go.Shinohara.Go"
         }
-      ]
+      ],
+      "slug": "shinohara_gou"
     },
     {
       "chamber": "衆議院",
@@ -4813,7 +5028,8 @@
       "party": "立憲民主党",
       "profile_url": "https://www.shugiin.go.jp/Internet/itdb_giinprof.nsf/html/profile/208.html",
       "homepage": "http://www.shinohara21.com/blog/",
-      "socials": []
+      "socials": [],
+      "slug": "shinohara_takashi"
     },
     {
       "chamber": "衆議院",
@@ -4839,7 +5055,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@k-shibata"
         }
-      ]
+      ],
+      "slug": "shibata_katsuyuki"
     },
     {
       "chamber": "衆議院",
@@ -4865,7 +5082,8 @@
           "platform": "note_blog",
           "url": "https://shibamasa.blogspot.com/"
         }
-      ]
+      ],
+      "slug": "shibayama_masahiko"
     },
     {
       "chamber": "衆議院",
@@ -4891,7 +5109,8 @@
           "platform": "youtube",
           "url": "https://youtube.com/channel/UChdIWgpTHaiGg916tiMo7Pw"
         }
-      ]
+      ],
+      "slug": "shimajiri_aiko"
     },
     {
       "chamber": "衆議院",
@@ -4921,7 +5140,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/tomoaki-shimada/"
         }
-      ]
+      ],
+      "slug": "shimada_tomoaki"
     },
     {
       "chamber": "衆議院",
@@ -4935,7 +5155,8 @@
           "platform": "x",
           "url": "https://x.com/ProfShimada"
         }
-      ]
+      ],
+      "slug": "shimada_youichi"
     },
     {
       "chamber": "衆議院",
@@ -4957,7 +5178,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/mitsushimojo/"
         }
-      ]
+      ],
+      "slug": "shimojou_mitsu"
     },
     {
       "chamber": "衆議院",
@@ -4979,7 +5201,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/shimonokosuke/"
         }
-      ]
+      ],
+      "slug": "shimono_kousuke"
     },
     {
       "chamber": "衆議院",
@@ -5001,7 +5224,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/newkomeito"
         }
-      ]
+      ],
+      "slug": "shouji_kenichi"
     },
     {
       "chamber": "衆議院",
@@ -5027,7 +5251,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCheqozwZ_-ly2bU2m6DDwMw"
         }
-      ]
+      ],
+      "slug": "shiraishi_youichi"
     },
     {
       "chamber": "衆議院",
@@ -5053,7 +5278,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCR1OMxiXLRzmSnZUKBBDcPw"
         }
-      ]
+      ],
+      "slug": "shintani_masayoshi"
     },
     {
       "chamber": "衆議院",
@@ -5079,7 +5305,8 @@
           "platform": "youtube",
           "url": "http://www.youtube.com/user/shindoyoshitaka"
         }
-      ]
+      ],
+      "slug": "shindou_yoshitaka"
     },
     {
       "chamber": "衆議院",
@@ -5105,7 +5332,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC30Jbmhvib5vy9bcxX2S0UQ"
         }
-      ]
+      ],
+      "slug": "suematsu_yoshinori"
     },
     {
       "chamber": "衆議院",
@@ -5135,7 +5363,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/suga-yoshihide/"
         }
-      ]
+      ],
+      "slug": "suga_yoshihide"
     },
     {
       "chamber": "衆議院",
@@ -5165,7 +5394,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/sugimurashinji/"
         }
-      ]
+      ],
+      "slug": "sugimura_shinji"
     },
     {
       "chamber": "衆議院",
@@ -5191,7 +5421,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@sugimotokazumi_peacechannel"
         }
-      ]
+      ],
+      "slug": "sugimoto_kazumi"
     },
     {
       "chamber": "衆議院",
@@ -5213,7 +5444,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E8%A1%86%E8%AD%B0%E9%99%A2%E8%AD%B0%E5%93%A1%E9%88%B4%E6%9C%A8%E3%81%82%E3%81%A4%E3%81%97"
         }
-      ]
+      ],
+      "slug": "suzuki_atsushi"
     },
     {
       "chamber": "衆議院",
@@ -5239,7 +5471,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC-4kiUOhdTv0GMJ87l_ENKQ"
         }
-      ]
+      ],
+      "slug": "suzuki_eikei"
     },
     {
       "chamber": "衆議院",
@@ -5265,7 +5498,8 @@
           "platform": "youtube",
           "url": "http://www.youtube.com/Keisukechannel"
         }
-      ]
+      ],
+      "slug": "suzuki_keisuke"
     },
     {
       "chamber": "衆議院",
@@ -5279,7 +5513,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/profile.php?id=100016937237040"
         }
-      ]
+      ],
+      "slug": "suzuki_shunichi"
     },
     {
       "chamber": "衆議院",
@@ -5297,7 +5532,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/_takako.suzuki_/"
         }
-      ]
+      ],
+      "slug": "suzuki_takako"
     },
     {
       "chamber": "衆議院",
@@ -5311,7 +5547,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/takeyuki.suzuki.90"
         }
-      ]
+      ],
+      "slug": "suzuki_takeyuki"
     },
     {
       "chamber": "衆議院",
@@ -5337,7 +5574,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCniXnZPVno1bUD8_X8m5btQ"
         }
-      ]
+      ],
+      "slug": "suzuki_norikazu"
     },
     {
       "chamber": "衆議院",
@@ -5363,7 +5601,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCLypHeK0U7uAYhiPtwgA7Hg"
         }
-      ]
+      ],
+      "slug": "suzuki_hayato"
     },
     {
       "chamber": "衆議院",
@@ -5389,7 +5628,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCJFFy9BPB1vBH3XjJN_G3PA"
         }
-      ]
+      ],
+      "slug": "suzuki_yousuke"
     },
     {
       "chamber": "衆議院",
@@ -5419,7 +5659,8 @@
           "platform": "note_blog",
           "url": "https://note.com/witty_chimp7947"
         }
-      ]
+      ],
+      "slug": "suzuki_yoshihiro"
     },
     {
       "chamber": "衆議院",
@@ -5445,7 +5686,8 @@
           "platform": "youtube",
           "url": "https://youtube.com/channel/UC6yFtqUmbwoJvVQqRFarVBw?si=HKrM7762ko-yiCiX"
         }
-      ]
+      ],
+      "slug": "seki_yoshihiro"
     },
     {
       "chamber": "衆議院",
@@ -5471,7 +5713,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCBjKLx04lNerlTsts2iGbuw"
         }
-      ]
+      ],
+      "slug": "sekou_hiroshige"
     },
     {
       "chamber": "衆議院",
@@ -5497,7 +5740,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@setojapan"
         }
-      ]
+      ],
+      "slug": "seto_takakazu"
     },
     {
       "chamber": "衆議院",
@@ -5515,7 +5759,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/i_am_1000da?utm_source=qr"
         }
-      ]
+      ],
+      "slug": "senda_akihiro"
     },
     {
       "chamber": "衆議院",
@@ -5541,7 +5786,8 @@
           "platform": "youtube",
           "url": "https://youtube.com/@Sohno_Hajime_ch"
         }
-      ]
+      ],
+      "slug": "souno_hajime"
     },
     {
       "chamber": "衆議院",
@@ -5567,7 +5813,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/watch?v=LxUe7azdyHs"
         }
-      ]
+      ],
+      "slug": "soramoto_seiki"
     },
     {
       "chamber": "衆議院",
@@ -5593,7 +5840,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCJ5cObaFlFboDxQ7DMDIJ6Q"
         }
-      ]
+      ],
+      "slug": "taira_masaaki"
     },
     {
       "chamber": "衆議院",
@@ -5619,7 +5867,8 @@
           "platform": "note_blog",
           "url": "https://note.com/t_takai"
         }
-      ]
+      ],
+      "slug": "takai_takashi"
     },
     {
       "chamber": "衆議院",
@@ -5645,7 +5894,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCemj6fzwjj_8C1yJilVKdVQ"
         }
-      ]
+      ],
+      "slug": "takaichi_sanae"
     },
     {
       "chamber": "衆議院",
@@ -5671,7 +5921,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/watch?v=FSAHjJo1yEs"
         }
-      ]
+      ],
+      "slug": "takagi_kei"
     },
     {
       "chamber": "衆議院",
@@ -5697,7 +5948,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/EITAKAHASHI"
         }
-      ]
+      ],
+      "slug": "takahashi_ei"
     },
     {
       "chamber": "衆議院",
@@ -5723,7 +5975,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@ishinhideaki"
         }
-      ]
+      ],
+      "slug": "takahashi_hideaki"
     },
     {
       "chamber": "衆議院",
@@ -5749,7 +6002,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/@takamatsusatoshi"
         }
-      ]
+      ],
+      "slug": "takamatsu_satoshi"
     },
     {
       "chamber": "衆議院",
@@ -5771,7 +6025,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/takami_yasuhiro/"
         }
-      ]
+      ],
+      "slug": "takami_yasuhiro"
     },
     {
       "chamber": "衆議院",
@@ -5797,7 +6052,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/ryotagaya"
         }
-      ]
+      ],
+      "slug": "tagaya_ryou"
     },
     {
       "chamber": "衆議院",
@@ -5823,7 +6079,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCJ36f5QWv63z-XOIduunxBA"
         }
-      ]
+      ],
+      "slug": "takeuchi_chiharu"
     },
     {
       "chamber": "衆議院",
@@ -5837,7 +6094,8 @@
           "platform": "x",
           "url": "https://x.com/takeuchi_yuzuru"
         }
-      ]
+      ],
+      "slug": "takeuchi_yuzuru"
     },
     {
       "chamber": "衆議院",
@@ -5859,7 +6117,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/takegamiyuko1/"
         }
-      ]
+      ],
+      "slug": "takegami_yuuko"
     },
     {
       "chamber": "衆議院",
@@ -5885,7 +6144,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC8v1qZrkAouMkqAKWCtXYqQ"
         }
-      ]
+      ],
+      "slug": "takebe_arata"
     },
     {
       "chamber": "衆議院",
@@ -5915,7 +6175,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/takemasa-koichi/"
         }
-      ]
+      ],
+      "slug": "takemasa_kouichi"
     },
     {
       "chamber": "衆議院",
@@ -5937,7 +6198,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/playlist"
         }
-      ]
+      ],
+      "slug": "takemura_nobuhide"
     },
     {
       "chamber": "衆議院",
@@ -5963,7 +6225,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCib_DPrD_qZ9EM7kaiA9WDg"
         }
-      ]
+      ],
+      "slug": "tajima_kaname"
     },
     {
       "chamber": "衆議院",
@@ -5989,7 +6252,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCO2LrFc6ZeoID9moTtOyd_g"
         }
-      ]
+      ],
+      "slug": "tachibana_keiichirou"
     },
     {
       "chamber": "衆議院",
@@ -6015,7 +6279,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@kotarotatsumi"
         }
-      ]
+      ],
+      "slug": "tatsumi_koutarou"
     },
     {
       "chamber": "衆議院",
@@ -6045,7 +6310,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/tadokoro-y/"
         }
-      ]
+      ],
+      "slug": "tadokoro_yoshinori"
     },
     {
       "chamber": "衆議院",
@@ -6063,7 +6329,8 @@
           "platform": "facebook",
           "url": "http://www.facebook.com/people/Kazunori-Tanaka/100001922287881"
         }
-      ]
+      ],
+      "slug": "tanaka_kazunori"
     },
     {
       "chamber": "衆議院",
@@ -6089,7 +6356,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCRn4NRJ4eb1qukGApi03txQ"
         }
-      ]
+      ],
+      "slug": "tanaka_ken"
     },
     {
       "chamber": "衆議院",
@@ -6111,7 +6379,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E8%89%AF%E7%94%9F%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B%E7%94%B0%E4%B8%AD%E8%89%AF%E7%94%9FYouT"
         }
-      ]
+      ],
+      "slug": "tanaka_ryousei"
     },
     {
       "chamber": "衆議院",
@@ -6120,7 +6389,8 @@
       "party": "自由民主党",
       "profile_url": "https://www.shugiin.go.jp/Internet/itdb_giinprof.nsf/html/profile/262.html",
       "homepage": "https://www.tanahashi-yasufumi.com",
-      "socials": []
+      "socials": [],
+      "slug": "tanahashi_yasufumi"
     },
     {
       "chamber": "衆議院",
@@ -6142,7 +6412,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/kouichi-tani/"
         }
-      ]
+      ],
+      "slug": "tani_kouichi"
     },
     {
       "chamber": "衆議院",
@@ -6156,7 +6427,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/tanose.kashihara"
         }
-      ]
+      ],
+      "slug": "tanose_taidou"
     },
     {
       "chamber": "衆議院",
@@ -6178,7 +6450,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCtERo1PhwSAadcHnybqyEJA"
         }
-      ]
+      ],
+      "slug": "tabata_hiroaki"
     },
     {
       "chamber": "衆議院",
@@ -6208,7 +6481,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/tamakiyuichiro/entry-12859126866.html"
         }
-      ]
+      ],
+      "slug": "tamaki_yuuichirou"
     },
     {
       "chamber": "衆議院",
@@ -6226,7 +6500,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/tamuratakaaki"
         }
-      ]
+      ],
+      "slug": "tamura_takaaki"
     },
     {
       "chamber": "衆議院",
@@ -6252,7 +6527,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC37tb1mDOEQyWKWkRa-zO8g"
         }
-      ]
+      ],
+      "slug": "tamura_tomoko"
     },
     {
       "chamber": "衆議院",
@@ -6270,7 +6546,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCodrC7j29oGdwgmPxtZTIQA"
         }
-      ]
+      ],
+      "slug": "tamura_norihisa"
     },
     {
       "chamber": "衆議院",
@@ -6300,7 +6577,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/tanno-midori/"
         }
-      ]
+      ],
+      "slug": "tanno_midori"
     },
     {
       "chamber": "衆議院",
@@ -6326,7 +6604,8 @@
           "platform": "youtube",
           "url": "https://youtube.com/c/kiyoto0907"
         }
-      ]
+      ],
+      "slug": "tsuji_kiyoto"
     },
     {
       "chamber": "衆議院",
@@ -6352,7 +6631,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCmftVGUd2AIHoCOsYeW6EHQ"
         }
-      ]
+      ],
+      "slug": "tsuji_hideyuki"
     },
     {
       "chamber": "衆議院",
@@ -6366,7 +6646,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/jun.tsushima.5"
         }
-      ]
+      ],
+      "slug": "tsushima_jun"
     },
     {
       "chamber": "衆議院",
@@ -6392,7 +6673,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/watch?v=aHe2GaQ0HTo"
         }
-      ]
+      ],
+      "slug": "tsuchida_shin"
     },
     {
       "chamber": "衆議院",
@@ -6414,7 +6696,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCyQbPPL194MXcd9-AITthGA"
         }
-      ]
+      ],
+      "slug": "tsuchiya_shinako"
     },
     {
       "chamber": "衆議院",
@@ -6423,7 +6706,8 @@
       "party": "公明党",
       "profile_url": "https://www.shugiin.go.jp/Internet/itdb_giinprof.nsf/html/profile/277.html",
       "homepage": null,
-      "socials": []
+      "socials": [],
+      "slug": "tsunoda_hideo"
     },
     {
       "chamber": "衆議院",
@@ -6449,7 +6733,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCYqz19PZTeC88mse7tx0OMQ"
         }
-      ]
+      ],
+      "slug": "tsumura_keisuke"
     },
     {
       "chamber": "衆議院",
@@ -6467,7 +6752,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/t440com"
         }
-      ]
+      ],
+      "slug": "tezuka_yoshio"
     },
     {
       "chamber": "衆議院",
@@ -6489,7 +6775,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/terata_manabu/"
         }
-      ]
+      ],
+      "slug": "terata_manabu"
     },
     {
       "chamber": "衆議院",
@@ -6515,7 +6802,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/minoruterada"
         }
-      ]
+      ],
+      "slug": "terada_minoru"
     },
     {
       "chamber": "衆議院",
@@ -6537,7 +6825,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/watch?v=7sjURbGrJLo&t=1s"
         }
-      ]
+      ],
+      "slug": "tokai_kisaburou"
     },
     {
       "chamber": "衆議院",
@@ -6563,7 +6852,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCPINgwIFBXgZarFuy7xccUA"
         }
-      ]
+      ],
+      "slug": "togashi_hiroyuki"
     },
     {
       "chamber": "衆議院",
@@ -6577,7 +6867,8 @@
           "platform": "x",
           "url": "https://x.com/tokyasujunko"
         }
-      ]
+      ],
+      "slug": "tokuyasu_junko"
     },
     {
       "chamber": "衆議院",
@@ -6603,7 +6894,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCeg3zBFwcG_XmXX7AHUZNFg"
         }
-      ]
+      ],
+      "slug": "nagaoka_keiko"
     },
     {
       "chamber": "衆議院",
@@ -6625,7 +6917,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/nakagawa.hiromasa/"
         }
-      ]
+      ],
+      "slug": "nakagawa_hiromasa"
     },
     {
       "chamber": "衆議院",
@@ -6643,7 +6936,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/nakagawakomei"
         }
-      ]
+      ],
+      "slug": "nakagawa_yasuhiro"
     },
     {
       "chamber": "衆議院",
@@ -6669,7 +6963,8 @@
           "platform": "youtube",
           "url": "https://youtube.com/channel/UCfzx9T5I6IzWcz65XAAnkpg"
         }
-      ]
+      ],
+      "slug": "nagasaka_yasumasa"
     },
     {
       "chamber": "衆議院",
@@ -6695,7 +6990,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@nakajima.katsuhito"
         }
-      ]
+      ],
+      "slug": "nakajima_katsuhito"
     },
     {
       "chamber": "衆議院",
@@ -6725,7 +7021,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/nagashima21/"
         }
-      ]
+      ],
+      "slug": "nagashima_akihisa"
     },
     {
       "chamber": "衆議院",
@@ -6755,7 +7052,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/yasutaka-nakasone"
         }
-      ]
+      ],
+      "slug": "nakasone_yasutaka"
     },
     {
       "chamber": "衆議院",
@@ -6781,7 +7079,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCui38F56oQntB2yqqK1nxlw"
         }
-      ]
+      ],
+      "slug": "nakatani_kazuma"
     },
     {
       "chamber": "衆議院",
@@ -6795,7 +7094,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/gen.nakatani.1/"
         }
-      ]
+      ],
+      "slug": "nakatani_gen"
     },
     {
       "chamber": "衆議院",
@@ -6821,7 +7121,8 @@
           "platform": "youtube",
           "url": "http://www.youtube.com/user/nakatanitv?feature=watch"
         }
-      ]
+      ],
+      "slug": "nakatani_shinichi"
     },
     {
       "chamber": "衆議院",
@@ -6847,7 +7148,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UChHcaMEIl03KYMtLVyGGGEA"
         }
-      ]
+      ],
+      "slug": "nakatsuka_hiroshi"
     },
     {
       "chamber": "衆議院",
@@ -6877,7 +7179,8 @@
           "platform": "note_blog",
           "url": "https://note.com/akira1960"
         }
-      ]
+      ],
+      "slug": "nagatsuma_akira"
     },
     {
       "chamber": "衆議院",
@@ -6903,7 +7206,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC4yP_T0KyIc7OR7nWgPHtAw"
         }
-      ]
+      ],
+      "slug": "nagatomo_shinji"
     },
     {
       "chamber": "衆議院",
@@ -6929,7 +7233,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UClRW_n_FAbhw0epmih2lvTQ"
         }
-      ]
+      ],
+      "slug": "nagatomo_yoshihiro"
     },
     {
       "chamber": "衆議院",
@@ -6955,7 +7260,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/NakanishiKenjiVideo"
         }
-      ]
+      ],
+      "slug": "nakanishi_kenji"
     },
     {
       "chamber": "衆議院",
@@ -6981,7 +7287,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCCr19p6tlETPc1RsX1IgUSw"
         }
-      ]
+      ],
+      "slug": "nakano_hideyuki"
     },
     {
       "chamber": "衆議院",
@@ -7007,7 +7314,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@hiromasa-nakano"
         }
-      ]
+      ],
+      "slug": "nakano_hiromasa"
     },
     {
       "chamber": "衆議院",
@@ -7029,7 +7337,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/hayato.ibaraki/"
         }
-      ]
+      ],
+      "slug": "nakamura_hayato"
     },
     {
       "chamber": "衆議院",
@@ -7055,7 +7364,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCShAseGI8Ncv4oerrH2xfRw"
         }
-      ]
+      ],
+      "slug": "nakamura_hiroyuki"
     },
     {
       "chamber": "衆議院",
@@ -7077,7 +7387,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/niki.supporters/"
         }
-      ]
+      ],
+      "slug": "niki_hirobumi"
     },
     {
       "chamber": "衆議院",
@@ -7099,7 +7410,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/nishioka_hideko"
         }
-      ]
+      ],
+      "slug": "nishioka_hideko"
     },
     {
       "chamber": "衆議院",
@@ -7125,7 +7437,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@nishioka_yoshitaka18"
         }
-      ]
+      ],
+      "slug": "nishioka_yoshitaka"
     },
     {
       "chamber": "衆議院",
@@ -7147,7 +7460,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/nishikawajimusho/"
         }
-      ]
+      ],
+      "slug": "nishikawa_atsushi"
     },
     {
       "chamber": "衆議院",
@@ -7169,7 +7483,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/masahito.nishikawa"
         }
-      ]
+      ],
+      "slug": "nishikawa_masahito"
     },
     {
       "chamber": "衆議院",
@@ -7178,7 +7493,8 @@
       "party": "公明党",
       "profile_url": "https://www.shugiin.go.jp/Internet/itdb_giinprof.nsf/html/profile/309.html",
       "homepage": null,
-      "socials": []
+      "socials": [],
+      "slug": "nishizono_katsuhide"
     },
     {
       "chamber": "衆議院",
@@ -7208,7 +7524,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/go2183west/"
         }
-      ]
+      ],
+      "slug": "nishida_kaoru"
     },
     {
       "chamber": "衆議院",
@@ -7234,7 +7551,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCTAig5wRsRlPbF6d-YkcOGQ"
         }
-      ]
+      ],
+      "slug": "nishida_shouji"
     },
     {
       "chamber": "衆議院",
@@ -7260,7 +7578,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC-qkHc0uT4P_I1rJiK5NCog"
         }
-      ]
+      ],
+      "slug": "nishino_daisuke"
     },
     {
       "chamber": "衆議院",
@@ -7286,7 +7605,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/chinaminet"
         }
-      ]
+      ],
+      "slug": "nishimura_chinami"
     },
     {
       "chamber": "衆議院",
@@ -7312,7 +7632,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/nishyYasutoshi"
         }
-      ]
+      ],
+      "slug": "nishimura_yasutoshi"
     },
     {
       "chamber": "衆議院",
@@ -7334,7 +7655,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCFcxNtiZ3jlwFYpUj6xhjPw"
         }
-      ]
+      ],
+      "slug": "nishime_kousaburou"
     },
     {
       "chamber": "衆議院",
@@ -7360,7 +7682,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/watch?v=Jp3APv0MqbU"
         }
-      ]
+      ],
+      "slug": "niwa_hideki"
     },
     {
       "chamber": "衆議院",
@@ -7374,7 +7697,8 @@
           "platform": "x",
           "url": "https://twitter.com/2946nukaga"
         }
-      ]
+      ],
+      "slug": "nukaga_fukushirou"
     },
     {
       "chamber": "衆議院",
@@ -7396,7 +7720,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/newkomeito"
         }
-      ]
+      ],
+      "slug": "numazaki_mitsuko"
     },
     {
       "chamber": "衆議院",
@@ -7422,7 +7747,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCQsnUoV3_i0Cx1vYLUfS9dw"
         }
-      ]
+      ],
+      "slug": "nemoto_taku"
     },
     {
       "chamber": "衆議院",
@@ -7448,7 +7774,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC9gY8vKQUNjKyUZaEy_udsA"
         }
-      ]
+      ],
+      "slug": "nemoto_yukinori"
     },
     {
       "chamber": "衆議院",
@@ -7474,7 +7801,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCLHEfxSu4s9jolhnGquCcbQ"
         }
-      ]
+      ],
+      "slug": "noda_seiko"
     },
     {
       "chamber": "衆議院",
@@ -7492,7 +7820,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/nodayoshi55/"
         }
-      ]
+      ],
+      "slug": "noda_yoshihiko"
     },
     {
       "chamber": "衆議院",
@@ -7518,7 +7847,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCoUlTwY_Up0AEOEDvDl-RCA"
         }
-      ]
+      ],
+      "slug": "nonaka_atsushi"
     },
     {
       "chamber": "衆議院",
@@ -7540,7 +7870,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/nomat1008/"
         }
-      ]
+      ],
+      "slug": "noma_takeshi"
     },
     {
       "chamber": "衆議院",
@@ -7566,7 +7897,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCKE6Jz4c7xEh9kXQb_x7_rw"
         }
-      ]
+      ],
+      "slug": "hagiuda_kouichi"
     },
     {
       "chamber": "衆議院",
@@ -7588,7 +7920,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC4asr2JB1m02RBpgKBewNaA"
         }
-      ]
+      ],
+      "slug": "hagihara_kei"
     },
     {
       "chamber": "衆議院",
@@ -7614,7 +7947,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@hashimoto_k5"
         }
-      ]
+      ],
+      "slug": "hashimoto_keigo"
     },
     {
       "chamber": "衆議院",
@@ -7644,7 +7978,8 @@
           "platform": "note_blog",
           "url": "https://note.com/hashimotomkhk/"
         }
-      ]
+      ],
+      "slug": "hashimoto_mikihiko"
     },
     {
       "chamber": "衆議院",
@@ -7670,7 +8005,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCa-HeGXABBaKmpgw5t8xNUw"
         }
-      ]
+      ],
+      "slug": "hasegawa_kaichi"
     },
     {
       "chamber": "衆議院",
@@ -7696,7 +8032,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCC6-wkdhkbsV9BDL5vaQe9g"
         }
-      ]
+      ],
+      "slug": "hasegawa_junji"
     },
     {
       "chamber": "衆議院",
@@ -7718,7 +8055,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCxs6Q9UqEmycxZPteECts8w"
         }
-      ]
+      ],
+      "slug": "hatano_tsubasa"
     },
     {
       "chamber": "衆議院",
@@ -7736,7 +8074,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/hatoyama_kii/"
         }
-      ]
+      ],
+      "slug": "hatoyama_kiichirou"
     },
     {
       "chamber": "衆議院",
@@ -7762,7 +8101,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@hatoyamajiro/shorts"
         }
-      ]
+      ],
+      "slug": "hatoyama_jirou"
     },
     {
       "chamber": "衆議院",
@@ -7784,7 +8124,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UClGIE786LWcb1upEgA1wcog"
         }
-      ]
+      ],
+      "slug": "hanashi_yasuhiro"
     },
     {
       "chamber": "衆議院",
@@ -7810,7 +8151,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC1DnhwIzR7t8xu9TsvdJ68g"
         }
-      ]
+      ],
+      "slug": "baba_nobuyuki"
     },
     {
       "chamber": "衆議院",
@@ -7824,7 +8166,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCsTJxJTu1gpcpo0P2ipGCsw"
         }
-      ]
+      ],
+      "slug": "hamada_yasukazu"
     },
     {
       "chamber": "衆議院",
@@ -7842,7 +8185,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/hamachi.masakazu/"
         }
-      ]
+      ],
+      "slug": "hamachi_masakazu"
     },
     {
       "chamber": "衆議院",
@@ -7864,7 +8208,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCQ8hTDtklelR4ywmIcXTiWQ"
         }
-      ]
+      ],
+      "slug": "hayashi_yumi"
     },
     {
       "chamber": "衆議院",
@@ -7890,7 +8235,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/hayashiyoshimasa"
         }
-      ]
+      ],
+      "slug": "hayashi_yoshimasa"
     },
     {
       "chamber": "衆議院",
@@ -7920,7 +8266,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/kharaguchi/"
         }
-      ]
+      ],
+      "slug": "haraguchi_kazuhiro"
     },
     {
       "chamber": "衆議院",
@@ -7946,7 +8293,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCcnMmSn8q1t8dGydLz-85NA"
         }
-      ]
+      ],
+      "slug": "harada_masahiro"
     },
     {
       "chamber": "衆議院",
@@ -7968,7 +8316,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCYic2SF84AolqVAArKLUBPg"
         }
-      ]
+      ],
+      "slug": "banno_yutaka"
     },
     {
       "chamber": "衆議院",
@@ -7994,7 +8343,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC2z2VDOBZAgWogPsthObavw"
         }
-      ]
+      ],
+      "slug": "hino_saria"
     },
     {
       "chamber": "衆議院",
@@ -8020,7 +8370,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/hiratakuyt"
         }
-      ]
+      ],
+      "slug": "hirai_takuya"
     },
     {
       "chamber": "衆議院",
@@ -8046,7 +8397,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@masakihiraiwa"
         }
-      ]
+      ],
+      "slug": "hiraiwa_masaki"
     },
     {
       "chamber": "衆議院",
@@ -8072,7 +8424,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCICiorZaptWXObts6CVZmPA"
         }
-      ]
+      ],
+      "slug": "hiraoka_hideo"
     },
     {
       "chamber": "衆議院",
@@ -8090,7 +8443,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/hiraguchihiroshi/"
         }
-      ]
+      ],
+      "slug": "hiraguchi_hiroshi"
     },
     {
       "chamber": "衆議院",
@@ -8112,7 +8466,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/katsueihirasawa/"
         }
-      ]
+      ],
+      "slug": "hirasawa_katsuei"
     },
     {
       "chamber": "衆議院",
@@ -8138,7 +8493,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCQbUs8UOeFmoWfTFlZdyKlA"
         }
-      ]
+      ],
+      "slug": "hiranuma_shoujirou"
     },
     {
       "chamber": "衆議院",
@@ -8147,7 +8503,8 @@
       "party": "公明党",
       "profile_url": "https://www.shugiin.go.jp/Internet/itdb_giinprof.nsf/html/profile/349.html",
       "homepage": null,
-      "socials": []
+      "socials": [],
+      "slug": "hirabayashi_akira"
     },
     {
       "chamber": "衆議院",
@@ -8173,7 +8530,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@hiroseken"
         }
-      ]
+      ],
+      "slug": "hirose_ken"
     },
     {
       "chamber": "衆議院",
@@ -8199,7 +8557,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@TeamFukasaku/videos"
         }
-      ]
+      ],
+      "slug": "fukasaku_hesusu"
     },
     {
       "chamber": "衆議院",
@@ -8225,7 +8584,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCLnnKqcGSEyaX2mrfCnMkWg"
         }
-      ]
+      ],
+      "slug": "fukazawa_youichi"
     },
     {
       "chamber": "衆議院",
@@ -8239,7 +8599,8 @@
           "platform": "x",
           "url": "https://x.com/komeifukushige"
         }
-      ]
+      ],
+      "slug": "fukushige_takahiro"
     },
     {
       "chamber": "衆議院",
@@ -8265,7 +8626,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCqx5TvX_WSpfHTr6jliZMlg"
         }
-      ]
+      ],
+      "slug": "fukushima_nobuyuki"
     },
     {
       "chamber": "衆議院",
@@ -8291,7 +8653,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCn99ji8uiM1rMZTVrb2IaJw"
         }
-      ]
+      ],
+      "slug": "fukuta_tooru"
     },
     {
       "chamber": "衆議院",
@@ -8317,7 +8680,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCcsGI2O7I8P8MANf_CExG-w"
         }
-      ]
+      ],
+      "slug": "fukuda_akio"
     },
     {
       "chamber": "衆議院",
@@ -8343,7 +8707,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@fukuda-kaoru"
         }
-      ]
+      ],
+      "slug": "fukuda_kaoru"
     },
     {
       "chamber": "衆議院",
@@ -8361,7 +8726,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@fukuda_gen1027"
         }
-      ]
+      ],
+      "slug": "fukuda_gen"
     },
     {
       "chamber": "衆議院",
@@ -8375,7 +8741,8 @@
           "platform": "x",
           "url": "https://twitter.com/fukuda_junta"
         }
-      ]
+      ],
+      "slug": "fukuda_junta"
     },
     {
       "chamber": "衆議院",
@@ -8405,7 +8772,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/tatsuo-f/"
         }
-      ]
+      ],
+      "slug": "fukuda_tatsuo"
     },
     {
       "chamber": "衆議院",
@@ -8431,7 +8799,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E7%A6%8F%E5%8E%9F%E3%81%98%E3%82%85%E3%82%93%E3%81%98/videos"
         }
-      ]
+      ],
+      "slug": "fukuhara_junji"
     },
     {
       "chamber": "衆議院",
@@ -8445,7 +8814,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/wakako_fukumori/"
         }
-      ]
+      ],
+      "slug": "fukumori_wakako"
     },
     {
       "chamber": "衆議院",
@@ -8471,7 +8841,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCSAU-pjGTwavMylzWJbPVgw"
         }
-      ]
+      ],
+      "slug": "fujii_hisayuki"
     },
     {
       "chamber": "衆議院",
@@ -8501,7 +8872,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/takao-fujioka/"
         }
-      ]
+      ],
+      "slug": "fujioka_takao"
     },
     {
       "chamber": "衆議院",
@@ -8527,7 +8899,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCo0F-XzXsvy-J14kuVlBGRQ"
         }
-      ]
+      ],
+      "slug": "fujita_fumitake"
     },
     {
       "chamber": "衆議院",
@@ -8541,7 +8914,8 @@
           "platform": "x",
           "url": "https://x.com/fujimaki-kenta.com"
         }
-      ]
+      ],
+      "slug": "fujimaki_kenta"
     },
     {
       "chamber": "衆議院",
@@ -8559,7 +8933,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCm-rx0y5XXb_kz_jElSuhbQ/featured"
         }
-      ]
+      ],
+      "slug": "fujimaru_satoshi"
     },
     {
       "chamber": "衆議院",
@@ -8585,7 +8960,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCrau6QQX2KxFF0obmoS100g"
         }
-      ]
+      ],
+      "slug": "fujiwara_norimasa"
     },
     {
       "chamber": "衆議院",
@@ -8611,7 +8987,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCwsZWM5e7XkQ-uH6umr6XHA"
         }
-      ]
+      ],
+      "slug": "futori_hideshi"
     },
     {
       "chamber": "衆議院",
@@ -8629,7 +9006,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCizwHmTRHSJp8U9YBQVXP2w"
         }
-      ]
+      ],
+      "slug": "funada_hajime"
     },
     {
       "chamber": "衆議院",
@@ -8659,7 +9037,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/naokifurukawa/"
         }
-      ]
+      ],
+      "slug": "furukawa_naoki"
     },
     {
       "chamber": "衆議院",
@@ -8689,7 +9068,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/furukawa-motohisa/"
         }
-      ]
+      ],
+      "slug": "furukawa_motohisa"
     },
     {
       "chamber": "衆議院",
@@ -8715,7 +9095,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC1AYIeWtdfH9ut04PPJuO-A"
         }
-      ]
+      ],
+      "slug": "furukawa_yasushi"
     },
     {
       "chamber": "衆議院",
@@ -8724,7 +9105,8 @@
       "party": "自由民主党",
       "profile_url": "https://www.shugiin.go.jp/Internet/itdb_giinprof.nsf/html/profile/374.html",
       "homepage": "http://www.furukawa-yoshihisa.com/",
-      "socials": []
+      "socials": [],
+      "slug": "furukawa_yoshihisa"
     },
     {
       "chamber": "衆議院",
@@ -8746,7 +9128,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCBO1OJASeKzSGVpcdlQAKoA"
         }
-      ]
+      ],
+      "slug": "furuya_keiji"
     },
     {
       "chamber": "衆議院",
@@ -8772,7 +9155,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCWBQzbcoXW0NoKhX0CN6wOg"
         }
-      ]
+      ],
+      "slug": "hosaka_yasushi"
     },
     {
       "chamber": "衆議院",
@@ -8798,7 +9182,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/hosinovideo"
         }
-      ]
+      ],
+      "slug": "hoshino_tsuyoshi"
     },
     {
       "chamber": "衆議院",
@@ -8828,7 +9213,8 @@
           "platform": "note_blog",
           "url": "https://note.com/hosono_54"
         }
-      ]
+      ],
+      "slug": "hosono_goushi"
     },
     {
       "chamber": "衆議院",
@@ -8854,7 +9240,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/4cloversociety"
         }
-      ]
+      ],
+      "slug": "horiuchi_noriko"
     },
     {
       "chamber": "衆議院",
@@ -8880,7 +9267,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/playlist"
         }
-      ]
+      ],
+      "slug": "horikawa_akiko"
     },
     {
       "chamber": "衆議院",
@@ -8906,7 +9294,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCoVxJvG_YesaFPgziiU--VA"
         }
-      ]
+      ],
+      "slug": "honjou_satoshi"
     },
     {
       "chamber": "衆議院",
@@ -8920,7 +9309,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/taro.honda.90"
         }
-      ]
+      ],
+      "slug": "honda_tarou"
     },
     {
       "chamber": "衆議院",
@@ -8946,7 +9336,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@official-dj1tp"
         }
-      ]
+      ],
+      "slug": "maehara_seiji"
     },
     {
       "chamber": "衆議院",
@@ -8972,7 +9363,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC5-FoAnI9Xa6X0sDpElhXKA"
         }
-      ]
+      ],
+      "slug": "maki_yoshio"
     },
     {
       "chamber": "衆議院",
@@ -9002,7 +9394,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/makishimakaren/"
         }
-      ]
+      ],
+      "slug": "makishima_karen"
     },
     {
       "chamber": "衆議院",
@@ -9020,7 +9413,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCcG0z91GVUZXsfu057w5OKg"
         }
-      ]
+      ],
+      "slug": "masuta_sekio"
     },
     {
       "chamber": "衆議院",
@@ -9046,7 +9440,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCMJWLuqh_3swzwm62qgwsHg"
         }
-      ]
+      ],
+      "slug": "matsuo_akihiro"
     },
     {
       "chamber": "衆議院",
@@ -9072,7 +9467,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCVpweUko60I5K7ZvAdl2l-Q"
         }
-      ]
+      ],
+      "slug": "matsuki_kenkou"
     },
     {
       "chamber": "衆議院",
@@ -9098,7 +9494,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC-H61mOEqITpVGbRAGCqrUw"
         }
-      ]
+      ],
+      "slug": "matsushita_reiko"
     },
     {
       "chamber": "衆議院",
@@ -9128,7 +9525,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/midori-matsusima/"
         }
-      ]
+      ],
+      "slug": "matsushima_midori"
     },
     {
       "chamber": "衆議院",
@@ -9137,7 +9535,8 @@
       "party": "立憲民主党",
       "profile_url": "https://www.shugiin.go.jp/Internet/itdb_giinprof.nsf/html/profile/391.html",
       "homepage": null,
-      "socials": []
+      "socials": [],
+      "slug": "matsuda_isao"
     },
     {
       "chamber": "衆議院",
@@ -9155,7 +9554,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/pages/%E6%9D%BE%E9%87%8E%E5%8D%9A%E4%B8%80/326565974070639"
         }
-      ]
+      ],
+      "slug": "matsuno_hirokazu"
     },
     {
       "chamber": "衆議院",
@@ -9181,7 +9581,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCjUxxFx0tV4a9msYxVar1zQ"
         }
-      ]
+      ],
+      "slug": "matsubara_jin"
     },
     {
       "chamber": "衆議院",
@@ -9199,7 +9600,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCswPCTtqFTWGrb5QKeKWQ3g"
         }
-      ]
+      ],
+      "slug": "matsumoto_takeaki"
     },
     {
       "chamber": "衆議院",
@@ -9225,7 +9627,8 @@
           "platform": "note_blog",
           "url": "https://chibahokusoh.blog.fc2.com/"
         }
-      ]
+      ],
+      "slug": "matsumoto_hisashi"
     },
     {
       "chamber": "衆議院",
@@ -9251,7 +9654,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCTiGTrx6AYJe2hqokCbk12g/featured"
         }
-      ]
+      ],
+      "slug": "matsumoto_youhei"
     },
     {
       "chamber": "衆議院",
@@ -9273,7 +9677,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/madokayoriko"
         }
-      ]
+      ],
+      "slug": "madoka_yoriko"
     },
     {
       "chamber": "衆議院",
@@ -9299,7 +9704,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@manosatoshi-tono/videos"
         }
-      ]
+      ],
+      "slug": "mano_satoshi"
     },
     {
       "chamber": "衆議院",
@@ -9321,7 +9727,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCOnp6NLHK7ZjA3rlImUJkXw"
         }
-      ]
+      ],
+      "slug": "mabuchi_sumio"
     },
     {
       "chamber": "衆議院",
@@ -9343,7 +9750,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/maruokeisuke/"
         }
-      ]
+      ],
+      "slug": "maruo_keisuke"
     },
     {
       "chamber": "衆議院",
@@ -9365,7 +9773,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@mikikeechannel"
         }
-      ]
+      ],
+      "slug": "miki_kee"
     },
     {
       "chamber": "衆議院",
@@ -9395,7 +9804,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/mizunuma4"
         }
-      ]
+      ],
+      "slug": "mizunuma_hideyuki"
     },
     {
       "chamber": "衆議院",
@@ -9417,7 +9827,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/sotamisumi/"
         }
-      ]
+      ],
+      "slug": "misumi_souta"
     },
     {
       "chamber": "衆議院",
@@ -9443,7 +9854,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCV1Twfj80eYSSxeiOVq9I7A"
         }
-      ]
+      ],
+      "slug": "mitazono_satoshi"
     },
     {
       "chamber": "衆議院",
@@ -9469,7 +9881,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCEU_YoRv6VQTJuusQfNE5kw"
         }
-      ]
+      ],
+      "slug": "mitani_hidehiro"
     },
     {
       "chamber": "衆議院",
@@ -9491,7 +9904,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/daikimichishita/"
         }
-      ]
+      ],
+      "slug": "michishita_daiki"
     },
     {
       "chamber": "衆議院",
@@ -9509,7 +9923,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/pages/緑川たかし/353651984803963"
         }
-      ]
+      ],
+      "slug": "midorikawa_takashi"
     },
     {
       "chamber": "衆議院",
@@ -9527,7 +9942,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/minobeteruo0523"
         }
-      ]
+      ],
+      "slug": "minobe_teruo"
     },
     {
       "chamber": "衆議院",
@@ -9549,7 +9965,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/minorikawa.nobu/"
         }
-      ]
+      ],
+      "slug": "minorikawa_nobuhide"
     },
     {
       "chamber": "衆議院",
@@ -9575,7 +9992,8 @@
           "platform": "youtube",
           "url": "http://www.youtube.com/MiyauchiHideki"
         }
-      ]
+      ],
+      "slug": "miyauchi_hideki"
     },
     {
       "chamber": "衆議院",
@@ -9605,7 +10023,8 @@
           "platform": "note_blog",
           "url": "https://i0.wp.com/smiyakawa.com/images/nicochan_setsumei.png"
         }
-      ]
+      ],
+      "slug": "miyakawa_shin"
     },
     {
       "chamber": "衆議院",
@@ -9631,7 +10050,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCNGhDUBYb1CI-5loiV-qvKA"
         }
-      ]
+      ],
+      "slug": "miyazaki_masahisa"
     },
     {
       "chamber": "衆議院",
@@ -9653,7 +10073,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/miyajitakuma/"
         }
-      ]
+      ],
+      "slug": "miyaji_takuma"
     },
     {
       "chamber": "衆議院",
@@ -9679,7 +10100,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/miyashitaichiro"
         }
-      ]
+      ],
+      "slug": "miyashita_ichirou"
     },
     {
       "chamber": "衆議院",
@@ -9709,7 +10131,8 @@
           "platform": "note_blog",
           "url": "https://note.com/junemukoyama/n/nc5ec9d212cd6"
         }
-      ]
+      ],
+      "slug": "mukouyama_jun"
     },
     {
       "chamber": "衆議院",
@@ -9731,7 +10154,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@mukoyama-dpfp"
         }
-      ]
+      ],
+      "slug": "mukoyama_kouichi"
     },
     {
       "chamber": "衆議院",
@@ -9753,7 +10177,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/mutou.youji/"
         }
-      ]
+      ],
+      "slug": "mutou_youji"
     },
     {
       "chamber": "衆議院",
@@ -9783,7 +10208,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/murai-hideki/"
         }
-      ]
+      ],
+      "slug": "murai_hideki"
     },
     {
       "chamber": "衆議院",
@@ -9809,7 +10235,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCQ0plcASzKxJFI5D0J4VG-g"
         }
-      ]
+      ],
+      "slug": "muraoka_toshihide"
     },
     {
       "chamber": "衆議院",
@@ -9827,7 +10254,8 @@
           "platform": "youtube",
           "url": "https://youtu.be/sqlIdPNzhXc"
         }
-      ]
+      ],
+      "slug": "murakami_seiichirou"
     },
     {
       "chamber": "衆議院",
@@ -9849,7 +10277,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/murakami_tomonobu?igshid=MzMyNGUyNmU2YQ=="
         }
-      ]
+      ],
+      "slug": "murakami_tomonobu"
     },
     {
       "chamber": "衆議院",
@@ -9875,7 +10304,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@moteging"
         }
-      ]
+      ],
+      "slug": "motegi_toshimitsu"
     },
     {
       "chamber": "衆議院",
@@ -9901,7 +10331,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/MotomuraNobuko"
         }
-      ]
+      ],
+      "slug": "motomura_nobuko"
     },
     {
       "chamber": "衆議院",
@@ -9910,7 +10341,8 @@
       "party": "自由民主党",
       "profile_url": "https://www.shugiin.go.jp/Internet/itdb_giinprof.nsf/html/profile/423.html",
       "homepage": "http://www.morieisuke.com/",
-      "socials": []
+      "socials": [],
+      "slug": "mori_eisuke"
     },
     {
       "chamber": "衆議院",
@@ -9936,7 +10368,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCtddZo9oH5aBAW_Ax26WBew"
         }
-      ]
+      ],
+      "slug": "mori_yousuke"
     },
     {
       "chamber": "衆議院",
@@ -9962,7 +10395,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCwhewy298qAmbcRImfiufPQ/featured"
         }
-      ]
+      ],
+      "slug": "morishita_chisato"
     },
     {
       "chamber": "衆議院",
@@ -9980,7 +10414,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/tadashi_morishima/"
         }
-      ]
+      ],
+      "slug": "morishima_tadashi"
     },
     {
       "chamber": "衆議院",
@@ -10002,7 +10437,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/morita_toshikazu/"
         }
-      ]
+      ],
+      "slug": "morita_toshikazu"
     },
     {
       "chamber": "衆議院",
@@ -10016,7 +10452,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/kagoshimajimin"
         }
-      ]
+      ],
+      "slug": "moriyama_hiroshi"
     },
     {
       "chamber": "衆議院",
@@ -10042,7 +10479,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCPVfzOukP0xvgcgdk344G9Q"
         }
-      ]
+      ],
+      "slug": "moriyama_hiroyuki"
     },
     {
       "chamber": "衆議院",
@@ -10068,7 +10506,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@user-dx3wv8fz3k"
         }
-      ]
+      ],
+      "slug": "yazaki_kentarou"
     },
     {
       "chamber": "衆議院",
@@ -10090,7 +10529,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCksN5p-Mt2TkugDVJoPsTsw"
         }
-      ]
+      ],
+      "slug": "yatagawa_hajime"
     },
     {
       "chamber": "衆議院",
@@ -10112,7 +10552,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/yanakazuo/"
         }
-      ]
+      ],
+      "slug": "yana_kazuo"
     },
     {
       "chamber": "衆議院",
@@ -10134,7 +10575,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/yanagisawa.tsuyoshi/"
         }
-      ]
+      ],
+      "slug": "yanagisawa_tsuyoshi"
     },
     {
       "chamber": "衆議院",
@@ -10164,7 +10606,8 @@
           "platform": "note_blog",
           "url": "https://note.com/aiainstein721"
         }
-      ]
+      ],
+      "slug": "yahata_ai"
     },
     {
       "chamber": "衆議院",
@@ -10190,7 +10633,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCZmF-TY3V8HLTQWtzuQAaNw"
         }
-      ]
+      ],
+      "slug": "yama_toshihiro"
     },
     {
       "chamber": "衆議院",
@@ -10220,7 +10664,8 @@
           "platform": "note_blog",
           "url": "https://tatumaru1979.blog.jp/"
         }
-      ]
+      ],
+      "slug": "yamaoka_tatsumaru"
     },
     {
       "chamber": "衆議院",
@@ -10242,7 +10687,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@season2984"
         }
-      ]
+      ],
+      "slug": "yamakawa_hitoshi"
     },
     {
       "chamber": "衆議院",
@@ -10264,7 +10710,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E3%81%84%E3%81%A3%E3%81%9B%E3%81%84%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E5%B1%B1%E5%B2%B8%E4%B8%80%E7%94%9F%E7%AB%8B"
         }
-      ]
+      ],
+      "slug": "yamagishi_issei"
     },
     {
       "chamber": "衆議院",
@@ -10286,7 +10733,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/yamagiwadaishiro001"
         }
-      ]
+      ],
+      "slug": "yamagiwa_daishirou"
     },
     {
       "chamber": "衆議院",
@@ -10308,7 +10756,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/tokushima.yamaguchi/"
         }
-      ]
+      ],
+      "slug": "yamaguchi_shunichi"
     },
     {
       "chamber": "衆議院",
@@ -10334,7 +10783,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCFSRLcbnX2ulP57RM9S_HUQ"
         }
-      ]
+      ],
+      "slug": "yamaguchi_tsuyoshi"
     },
     {
       "chamber": "衆議院",
@@ -10343,7 +10793,8 @@
       "party": "公明党",
       "profile_url": "https://www.shugiin.go.jp/Internet/itdb_giinprof.nsf/html/profile/442.html",
       "homepage": null,
-      "socials": []
+      "socials": [],
+      "slug": "yamaguchi_ryouji"
     },
     {
       "chamber": "衆議院",
@@ -10352,7 +10803,8 @@
       "party": "公明党",
       "profile_url": "https://www.shugiin.go.jp/Internet/itdb_giinprof.nsf/html/profile/443.html",
       "homepage": null,
-      "socials": []
+      "socials": [],
+      "slug": "yamasaki_masayasu"
     },
     {
       "chamber": "衆議院",
@@ -10378,7 +10830,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCcaHV6AM5tHzmTDi-jkTm_A"
         }
-      ]
+      ],
+      "slug": "yamazaki_makoto"
     },
     {
       "chamber": "衆議院",
@@ -10404,7 +10857,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCjrJ2y7MmoUDvzJRghSq2dg"
         }
-      ]
+      ],
+      "slug": "yamashita_takashi"
     },
     {
       "chamber": "衆議院",
@@ -10430,7 +10884,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCTAvCT65HrUy4Dg1Bv5fGUg"
         }
-      ]
+      ],
+      "slug": "yamada_katsuhiko"
     },
     {
       "chamber": "衆議院",
@@ -10456,7 +10911,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/yamadakenji0798"
         }
-      ]
+      ],
+      "slug": "yamada_kenji"
     },
     {
       "chamber": "衆議院",
@@ -10482,7 +10938,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCgawpjeIV6SyAoT7V8sLreQ"
         }
-      ]
+      ],
+      "slug": "yamanoi_kazunori"
     },
     {
       "chamber": "衆議院",
@@ -10512,7 +10969,8 @@
           "platform": "note_blog",
           "url": "https://note.com/yamahanaikuo/"
         }
-      ]
+      ],
+      "slug": "yamahana_ikuo"
     },
     {
       "chamber": "衆議院",
@@ -10530,7 +10988,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/daichi_yamamoto_official"
         }
-      ]
+      ],
+      "slug": "yamamoto_daichi"
     },
     {
       "chamber": "衆議院",
@@ -10556,7 +11015,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCKboPDOtcbgElBhGWVUWqRg/videos"
         }
-      ]
+      ],
+      "slug": "yara_tomohiro"
     },
     {
       "chamber": "衆議院",
@@ -10582,7 +11042,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCx9MiyWIBN4vPrO0W5lW2AQ"
         }
-      ]
+      ],
+      "slug": "yunoki_michiyoshi"
     },
     {
       "chamber": "衆議院",
@@ -10604,7 +11065,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC-Durm6sgiGLxolzOZJxu4A"
         }
-      ]
+      ],
+      "slug": "yoshikawa_hajime"
     },
     {
       "chamber": "衆議院",
@@ -10626,7 +11088,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@yoshikawarina"
         }
-      ]
+      ],
+      "slug": "yoshikawa_rina"
     },
     {
       "chamber": "衆議院",
@@ -10656,7 +11119,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/s-yoshida706/"
         }
-      ]
+      ],
+      "slug": "yoshida_shinji"
     },
     {
       "chamber": "衆議院",
@@ -10670,7 +11134,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/nobuhiro.yoshida.940"
         }
-      ]
+      ],
+      "slug": "yoshida_nobuhiro"
     },
     {
       "chamber": "衆議院",
@@ -10692,7 +11157,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/yoshida_harumi/"
         }
-      ]
+      ],
+      "slug": "yoshida_harumi"
     },
     {
       "chamber": "衆議院",
@@ -10722,7 +11188,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/yoneyone00/"
         }
-      ]
+      ],
+      "slug": "yoneyama_ryuuichi"
     },
     {
       "chamber": "衆議院",
@@ -10740,7 +11207,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/103hirofumiryu/"
         }
-      ]
+      ],
+      "slug": "ryuu_hirofumi"
     },
     {
       "chamber": "衆議院",
@@ -10766,7 +11234,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCkqDBzFNRK-Qj3ktaoRg2GQ"
         }
-      ]
+      ],
+      "slug": "wakayama_shinji"
     },
     {
       "chamber": "衆議院",
@@ -10792,7 +11261,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCi8sqpHZbcyjS21BfnTpPcQ/"
         }
-      ]
+      ],
+      "slug": "waseda_yuki"
     },
     {
       "chamber": "衆議院",
@@ -10814,7 +11284,8 @@
           "platform": "youtube",
           "url": "https://youtu.be/Vp4ua8AH2Og"
         }
-      ]
+      ],
+      "slug": "wada_yuuichirou"
     },
     {
       "chamber": "衆議院",
@@ -10828,7 +11299,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/watanabeshugiin"
         }
-      ]
+      ],
+      "slug": "watanabe_shuu"
     },
     {
       "chamber": "衆議院",
@@ -10850,7 +11322,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCzBUvwLYvnKPRI3-glTI7Fg"
         }
-      ]
+      ],
+      "slug": "watanabe_sou"
     },
     {
       "chamber": "衆議院",
@@ -10868,7 +11341,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/yoko.wanibuchi/"
         }
-      ]
+      ],
+      "slug": "wanibuchi_youko"
     },
     {
       "chamber": "参議院",
@@ -10894,7 +11368,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCy8ULS0qTA9w5JVedRLAfWQ"
         }
-      ]
+      ],
+      "slug": "aoki_ai"
     },
     {
       "chamber": "参議院",
@@ -10916,7 +11391,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/kazuhiko__aoki/"
         }
-      ]
+      ],
+      "slug": "aoki_kazuhiko"
     },
     {
       "chamber": "参議院",
@@ -10942,7 +11418,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@stayblue-aoshima"
         }
-      ]
+      ],
+      "slug": "aoshima_kenta"
     },
     {
       "chamber": "参議院",
@@ -10968,7 +11445,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCueFlCvu9XJI3EbK5s5ocWA"
         }
-      ]
+      ],
+      "slug": "aoyama_shigeharu"
     },
     {
       "chamber": "参議院",
@@ -10990,7 +11468,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC-Y8SkiaiMISZbm7ac2sXug"
         }
-      ]
+      ],
+      "slug": "akamatsu_ken"
     },
     {
       "chamber": "参議院",
@@ -11016,7 +11495,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCxGJ3rd_VHdzsTmgVeBrfEA"
         }
-      ]
+      ],
+      "slug": "akino_kouzou"
     },
     {
       "chamber": "参議院",
@@ -11038,7 +11518,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/c/asaokeiichiro"
         }
-      ]
+      ],
+      "slug": "asao_keiichirou"
     },
     {
       "chamber": "参議院",
@@ -11052,7 +11533,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/profile.php?id=100064170064021"
         }
-      ]
+      ],
+      "slug": "asada_hitoshi"
     },
     {
       "chamber": "参議院",
@@ -11078,7 +11560,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCV2SMGbw-i9bz_g620jhCTA"
         }
-      ]
+      ],
+      "slug": "asahi_kentarou"
     },
     {
       "chamber": "参議院",
@@ -11092,7 +11575,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/masashi.adachi.jimin/"
         }
-      ]
+      ],
+      "slug": "adachi_masashi"
     },
     {
       "chamber": "参議院",
@@ -11122,7 +11606,8 @@
           "platform": "note_blog",
           "url": "https://note.com/adachiyasushi/"
         }
-      ]
+      ],
+      "slug": "adachi_yasushi"
     },
     {
       "chamber": "参議院",
@@ -11144,7 +11629,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E5%AE%89%E9%81%94%E3%81%82%E3%81%A0%E3%81%A1%E6%82%A0%E5%8F%B8%E3%82%86%E3%81%86%E3%81%98"
         }
-      ]
+      ],
+      "slug": "adachi_yuuji"
     },
     {
       "chamber": "参議院",
@@ -11170,7 +11656,8 @@
           "platform": "youtube",
           "url": "http://www.youtube.com/user/harukoarimura1"
         }
-      ]
+      ],
+      "slug": "arimura_haruko"
     },
     {
       "chamber": "参議院",
@@ -11192,7 +11679,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@andouhiroshi"
         }
-      ]
+      ],
+      "slug": "andou_hiroshi"
     },
     {
       "chamber": "参議院",
@@ -11214,7 +11702,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E5%AE%89%E9%87%8E%E8%B2%B4%E5%8D%9A"
         }
-      ]
+      ],
+      "slug": "anno_takahiro"
     },
     {
       "chamber": "参議院",
@@ -11240,7 +11729,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCShNLTLgtYQmL9bz63-aoaw"
         }
-      ]
+      ],
+      "slug": "ikuina_akiko"
     },
     {
       "chamber": "参議院",
@@ -11266,7 +11756,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCj0wSW_Db7HjjHHWBNW7DFQ"
         }
-      ]
+      ],
+      "slug": "ishii_junichi"
     },
     {
       "chamber": "参議院",
@@ -11288,7 +11779,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/hirooishii6/"
         }
-      ]
+      ],
+      "slug": "ishii_hiroo"
     },
     {
       "chamber": "参議院",
@@ -11314,7 +11806,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCLzB7qI557x_jOQ8v28QeYg"
         }
-      ]
+      ],
+      "slug": "ishii_mitsuko"
     },
     {
       "chamber": "参議院",
@@ -11340,7 +11833,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp"
         }
-      ]
+      ],
+      "slug": "ishii_megumi"
     },
     {
       "chamber": "参議院",
@@ -11366,7 +11860,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC-uJ9TMQusn-cpIklh-S-5A"
         }
-      ]
+      ],
+      "slug": "ishigaki_noriko"
     },
     {
       "chamber": "参議院",
@@ -11388,7 +11883,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/hiroishikawa1973"
         }
-      ]
+      ],
+      "slug": "ishikawa_hirotaka"
     },
     {
       "chamber": "参議院",
@@ -11414,7 +11910,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCPbDq1u2_Y6BwlbgX3-7__A"
         }
-      ]
+      ],
+      "slug": "ishida_masahiro"
     },
     {
       "chamber": "参議院",
@@ -11436,7 +11933,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCB7uhC9lyPEX8WCtNpQp45w"
         }
-      ]
+      ],
+      "slug": "ishibashi_michihiro"
     },
     {
       "chamber": "参議院",
@@ -11462,7 +11960,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCHSB712SMXG9H60FLXfCTdg"
         }
-      ]
+      ],
+      "slug": "izumi_fusaho"
     },
     {
       "chamber": "参議院",
@@ -11480,7 +11979,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/kenji.isezaki.jazz/"
         }
-      ]
+      ],
+      "slug": "isezaki_kenji"
     },
     {
       "chamber": "参議院",
@@ -11506,7 +12006,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC29Vz-CJneDCQZHlcxAit-A"
         }
-      ]
+      ],
+      "slug": "isozaki_tetsuji"
     },
     {
       "chamber": "参議院",
@@ -11532,7 +12033,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UClqDFG2OEPFpKy9yhrLOXgw"
         }
-      ]
+      ],
+      "slug": "isozaki_yoshihiko"
     },
     {
       "chamber": "参議院",
@@ -11558,7 +12060,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCu2ALwHLOwgbtGVd3Ol9Emw"
         }
-      ]
+      ],
+      "slug": "itou_takae"
     },
     {
       "chamber": "参議院",
@@ -11584,7 +12087,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCMG5j9U1wI2m_fH3ThLhVZw"
         }
-      ]
+      ],
+      "slug": "itou_takae"
     },
     {
       "chamber": "参議院",
@@ -11606,7 +12110,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/itoh-tatsuo"
         }
-      ]
+      ],
+      "slug": "itou_tatsuo"
     },
     {
       "chamber": "参議院",
@@ -11628,7 +12133,8 @@
           "platform": "youtube",
           "url": "https://youtube.com/channel/UCCLV-71PhIKV4VzVvZoHqYQ"
         }
-      ]
+      ],
+      "slug": "inoue_yoshiyuki"
     },
     {
       "chamber": "参議院",
@@ -11650,7 +12156,8 @@
           "platform": "youtube",
           "url": "http://www.youtube.com/user/kunikoinoguchi"
         }
-      ]
+      ],
+      "slug": "inoguchi_kuniko"
     },
     {
       "chamber": "参議院",
@@ -11672,7 +12179,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCk2O7Un4RoighU0g9jP321g/"
         }
-      ]
+      ],
+      "slug": "inose_naoki"
     },
     {
       "chamber": "参議院",
@@ -11698,7 +12206,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCTuPJuhjbrfNyz8nLPXNTeQ"
         }
-      ]
+      ],
+      "slug": "iha_youichi"
     },
     {
       "chamber": "参議院",
@@ -11724,7 +12233,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCj4v0XqY8OTywUmYX7RysSA"
         }
-      ]
+      ],
+      "slug": "imai_eriko"
     },
     {
       "chamber": "参議院",
@@ -11750,7 +12260,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCl4ByOhwQpA293Skd1y-cXA"
         }
-      ]
+      ],
+      "slug": "iwabuchi_tomo"
     },
     {
       "chamber": "参議院",
@@ -11776,7 +12287,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCxWxn7wkN_2USYdHho44q3g"
         }
-      ]
+      ],
+      "slug": "iwamoto_tsuyohito"
     },
     {
       "chamber": "参議院",
@@ -11802,7 +12314,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/dr-mana/"
         }
-      ]
+      ],
+      "slug": "iwamoto_mana"
     },
     {
       "chamber": "参議院",
@@ -11820,7 +12333,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCSDtb8dMVOJ1AiLrkOuMRXg"
         }
-      ]
+      ],
+      "slug": "indou_shuusaku"
     },
     {
       "chamber": "参議院",
@@ -11842,7 +12356,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/ueda_isamu/"
         }
-      ]
+      ],
+      "slug": "ueda_isamu"
     },
     {
       "chamber": "参議院",
@@ -11860,7 +12375,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UChqvAF0OZIvdzUaxqLH6Epg"
         }
-      ]
+      ],
+      "slug": "ueda_kiyoshi"
     },
     {
       "chamber": "参議院",
@@ -11886,7 +12402,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@上野ほたる公式"
         }
-      ]
+      ],
+      "slug": "ueno_hotaru"
     },
     {
       "chamber": "参議院",
@@ -11908,7 +12425,8 @@
           "platform": "youtube",
           "url": "http://www.youtube.com/channel/UCdTizLhRQtZAaCvhJtXmUmA"
         }
-      ]
+      ],
+      "slug": "ueno_michiko"
     },
     {
       "chamber": "参議院",
@@ -11930,7 +12448,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@ushida-channel"
         }
-      ]
+      ],
+      "slug": "ushida_mayu"
     },
     {
       "chamber": "参議院",
@@ -11960,7 +12479,8 @@
           "platform": "note_blog",
           "url": "https://usuishoich.exblog.jp/"
         }
-      ]
+      ],
+      "slug": "usui_shouichi"
     },
     {
       "chamber": "参議院",
@@ -11990,7 +12510,8 @@
           "platform": "note_blog",
           "url": "https://note.com/sakurauchikoshi"
         }
-      ]
+      ],
+      "slug": "uchikoshi_sakura"
     },
     {
       "chamber": "参議院",
@@ -12016,7 +12537,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCgT4cadhDNmvOPMyICglacA"
         }
-      ]
+      ],
+      "slug": "umemura_mizuho"
     },
     {
       "chamber": "参議院",
@@ -12034,7 +12556,8 @@
           "platform": "youtube",
           "url": "https://m.youtube.com/channel/UCq9wx_Hi1NzZN80Ckpq6SbA"
         }
-      ]
+      ],
+      "slug": "ejima_kiyoshi"
     },
     {
       "chamber": "参議院",
@@ -12060,7 +12583,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@eharakumiko"
         }
-      ]
+      ],
+      "slug": "ehara_kumiko"
     },
     {
       "chamber": "参議院",
@@ -12086,7 +12610,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCVsPCdLf_QpuvufqPTBxPvQ"
         }
-      ]
+      ],
+      "slug": "ooie_satoshi"
     },
     {
       "chamber": "参議院",
@@ -12112,7 +12637,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCs99lcV2F10gxxVDmUz2UhQ"
         }
-      ]
+      ],
+      "slug": "ooshima_kusuo"
     },
     {
       "chamber": "参議院",
@@ -12134,7 +12660,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/tsutomuohtsu/"
         }
-      ]
+      ],
+      "slug": "ootsu_tsutomu"
     },
     {
       "chamber": "参議院",
@@ -12156,7 +12683,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E5%B2%A1%E5%B4%8E%E3%81%B5%E3%81%A8%E3%81%97"
         }
-      ]
+      ],
+      "slug": "okazaki_futoshi"
     },
     {
       "chamber": "参議院",
@@ -12182,7 +12710,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCJYx2STJmUS_LAp6dFTrBdQ/featured"
         }
-      ]
+      ],
+      "slug": "okada_naoki"
     },
     {
       "chamber": "参議院",
@@ -12208,7 +12737,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCZfXQ8gCv8jPySdh74zHh7g"
         }
-      ]
+      ],
+      "slug": "ogawa_katsumi"
     },
     {
       "chamber": "参議院",
@@ -12234,7 +12764,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E5%A5%A5%E7%94%B0%E3%81%B5%E3%81%BF%E3%82%88%E3%82%8C%E3%81%84%E3%82%8F%E6%96%B0%E9%81%B8%E7%B5%84"
         }
-      ]
+      ],
+      "slug": "okuda_fumiyo"
     },
     {
       "chamber": "参議院",
@@ -12256,7 +12787,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCENJ_oZXbaU0ovsl7uTd7Sw"
         }
-      ]
+      ],
+      "slug": "okumura_yoshihiro"
     },
     {
       "chamber": "参議院",
@@ -12282,7 +12814,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@masahitoozawa"
         }
-      ]
+      ],
+      "slug": "ozawa_masahito"
     },
     {
       "chamber": "参議院",
@@ -12300,7 +12833,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/groups/3240792366140882"
         }
-      ]
+      ],
+      "slug": "ochi_toshiyuki"
     },
     {
       "chamber": "参議院",
@@ -12326,7 +12860,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@otsujitomomi"
         }
-      ]
+      ],
+      "slug": "otsuji_tomomi"
     },
     {
       "chamber": "参議院",
@@ -12348,7 +12883,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCbRphdkkjWDqnLu6zwjd4Rw"
         }
-      ]
+      ],
+      "slug": "oniki_makoto"
     },
     {
       "chamber": "参議院",
@@ -12374,7 +12910,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCf2-uCwaTM0nv3xWjlnXo6w"
         }
-      ]
+      ],
+      "slug": "onoda_kimi"
     },
     {
       "chamber": "参議院",
@@ -12400,7 +12937,8 @@
           "platform": "youtube",
           "url": "https://youtube.com/@kagoshimammoth?si=RUpBWlt5Ew1HYmgr"
         }
-      ]
+      ],
+      "slug": "kagoshima_akihiro"
     },
     {
       "chamber": "参議院",
@@ -12409,7 +12947,8 @@
       "party": "自由民主党",
       "profile_url": "https://www.sangiin.go.jp/japanese/joho1/kousei/giin/profile/7022012.htm",
       "homepage": "https://www.kajihara-daisuke.com/",
-      "socials": []
+      "socials": [],
+      "slug": "kajihara_daisuke"
     },
     {
       "chamber": "参議院",
@@ -12435,7 +12974,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@kadahiroyuki_ch"
         }
-      ]
+      ],
+      "slug": "kada_hiroyuki"
     },
     {
       "chamber": "参議院",
@@ -12461,7 +13001,8 @@
           "platform": "youtube",
           "url": "https://youtube.com/channel/UCXTtnz9W5ZrWGzk76mURypQ?si=g9KhzYOaDA0xtjOi"
         }
-      ]
+      ],
+      "slug": "kada_yukiko"
     },
     {
       "chamber": "参議院",
@@ -12483,7 +13024,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCcLDPsTg7cMSwbqK9KSgZCw"
         }
-      ]
+      ],
+      "slug": "katayama_satsuki"
     },
     {
       "chamber": "参議院",
@@ -12509,7 +13051,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCLU2ZwySv0ebBfqJZO8Oaug"
         }
-      ]
+      ],
+      "slug": "katayama_daisuke"
     },
     {
       "chamber": "参議院",
@@ -12535,7 +13078,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC91CXQtdk73_oiUNwBpPwig"
         }
-      ]
+      ],
+      "slug": "katsube_kenji"
     },
     {
       "chamber": "参議院",
@@ -12565,7 +13109,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/katoakiyoshi/entry-12941525988.html"
         }
-      ]
+      ],
+      "slug": "katou_akiyoshi"
     },
     {
       "chamber": "参議院",
@@ -12591,7 +13136,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@kanekomichihito"
         }
-      ]
+      ],
+      "slug": "kaneko_michihito"
     },
     {
       "chamber": "参議院",
@@ -12605,7 +13151,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/nihonishirenmei"
         }
-      ]
+      ],
+      "slug": "kamayachi_satoshi"
     },
     {
       "chamber": "参議院",
@@ -12627,7 +13174,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/ChGrandStrategy"
         }
-      ]
+      ],
+      "slug": "kamiya_souhei"
     },
     {
       "chamber": "参議院",
@@ -12645,7 +13193,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/kamiya.masayukilog"
         }
-      ]
+      ],
+      "slug": "kamiya_masayuki"
     },
     {
       "chamber": "参議院",
@@ -12671,7 +13220,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC2iT6lhfuIEK23R1LFuLbkw"
         }
-      ]
+      ],
+      "slug": "kawai_takanori"
     },
     {
       "chamber": "参議院",
@@ -12689,7 +13239,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/kawamura_yudai/"
         }
-      ]
+      ],
+      "slug": "kawamura_yuudai"
     },
     {
       "chamber": "参議院",
@@ -12715,7 +13266,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCa8ejrnPGVkX042nFWhdvaQ"
         }
-      ]
+      ],
+      "slug": "kishi_makiko"
     },
     {
       "chamber": "参議院",
@@ -12741,7 +13293,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC9hPq5YERKL10TBD-2C8D1A"
         }
-      ]
+      ],
+      "slug": "kitamura_tsuneo"
     },
     {
       "chamber": "参議院",
@@ -12759,7 +13312,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E5%BC%81%E8%AD%B7%E5%A3%AB%E5%8C%97%E6%9D%91%E6%99%B4%E7%94%B7%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B"
         }
-      ]
+      ],
+      "slug": "kitamura_haruo"
     },
     {
       "chamber": "参議院",
@@ -12785,7 +13339,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@kidoguchi-eiji"
         }
-      ]
+      ],
+      "slug": "kidoguchi_eiji"
     },
     {
       "chamber": "参議院",
@@ -12815,7 +13370,8 @@
           "platform": "note_blog",
           "url": "https://www.premiumwp.com/"
         }
-      ]
+      ],
+      "slug": "kimura_eiko"
     },
     {
       "chamber": "参議院",
@@ -12841,7 +13397,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@yossikira1982"
         }
-      ]
+      ],
+      "slug": "kira_yoshiko"
     },
     {
       "chamber": "参議院",
@@ -12859,7 +13416,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/kushida_seiichi"
         }
-      ]
+      ],
+      "slug": "kushida_seiichi"
     },
     {
       "chamber": "参議院",
@@ -12868,7 +13426,8 @@
       "party": "公明党",
       "profile_url": "https://www.sangiin.go.jp/japanese/joho1/kousei/giin/profile/7022017.htm",
       "homepage": null,
-      "socials": []
+      "socials": [],
+      "slug": "kubota_tetsuya"
     },
     {
       "chamber": "参議院",
@@ -12894,7 +13453,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC0IgMVlpoxvOFOuRYYphliw/featured"
         }
-      ]
+      ],
+      "slug": "kumagai_hiroto"
     },
     {
       "chamber": "参議院",
@@ -12916,7 +13476,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@kenzakashigenorichannel-x7o/videos"
         }
-      ]
+      ],
+      "slug": "kenzaka_shigenori"
     },
     {
       "chamber": "参議院",
@@ -12934,7 +13495,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCx2Tkf3KuB8BzdDNp9t2bzA"
         }
-      ]
+      ],
+      "slug": "koike_akira"
     },
     {
       "chamber": "参議院",
@@ -12964,7 +13526,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/kouzuki-r/"
         }
-      ]
+      ],
+      "slug": "kouzuki_ryousuke"
     },
     {
       "chamber": "参議院",
@@ -12990,7 +13553,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCuK56O1edd6hgjaiT9gbeng"
         }
-      ]
+      ],
+      "slug": "kooriyama_ryou"
     },
     {
       "chamber": "参議院",
@@ -13008,7 +13572,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCAnqIsCdLURr4auLlyQr4bA"
         }
-      ]
+      ],
+      "slug": "koga_chikage"
     },
     {
       "chamber": "参議院",
@@ -13034,7 +13599,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC7XHEnZF8TmiLUQT0T6ybww"
         }
-      ]
+      ],
+      "slug": "koga_yuuichirou"
     },
     {
       "chamber": "参議院",
@@ -13060,7 +13626,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCD8zC6kMUl4JWb8oqHqCReA"
         }
-      ]
+      ],
+      "slug": "koga_yukihito"
     },
     {
       "chamber": "参議院",
@@ -13078,7 +13645,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/tomokokjm/"
         }
-      ]
+      ],
+      "slug": "kojima_tomoko"
     },
     {
       "chamber": "参議院",
@@ -13104,7 +13672,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC3rBn99ZS8i7bIprw1o-FBg"
         }
-      ]
+      ],
+      "slug": "koshou_harutomo"
     },
     {
       "chamber": "参議院",
@@ -13130,7 +13699,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@thinkof8798"
         }
-      ]
+      ],
+      "slug": "gotou_shouta"
     },
     {
       "chamber": "参議院",
@@ -13156,7 +13726,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@go510"
         }
-      ]
+      ],
+      "slug": "gotou_hitoshi"
     },
     {
       "chamber": "参議院",
@@ -13182,7 +13753,8 @@
           "platform": "note_blog",
           "url": "https://note.com/konishi_hiroyuki/"
         }
-      ]
+      ],
+      "slug": "konishi_hiroyuki"
     },
     {
       "chamber": "参議院",
@@ -13208,7 +13780,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCd5X___d6ohT2WYxb3I3Wfg"
         }
-      ]
+      ],
+      "slug": "kobayashi_kazuhiro"
     },
     {
       "chamber": "参議院",
@@ -13234,7 +13807,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@kobayashi-office"
         }
-      ]
+      ],
+      "slug": "kobayashi_kouichirou"
     },
     {
       "chamber": "参議院",
@@ -13260,7 +13834,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCz4EuwJ6UQvjHuGR5wpJL-w"
         }
-      ]
+      ],
+      "slug": "kobayashi_sayaka"
     },
     {
       "chamber": "参議院",
@@ -13286,7 +13861,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/koyaritakashi"
         }
-      ]
+      ],
+      "slug": "koyari_takashi"
     },
     {
       "chamber": "参議院",
@@ -13312,7 +13888,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@Kenichiro.saito.thankyou"
         }
-      ]
+      ],
+      "slug": "saitou_kenichirou"
     },
     {
       "chamber": "参議院",
@@ -13334,7 +13911,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/saito_yoshitaka3110/"
         }
-      ]
+      ],
+      "slug": "saitou_yoshitaka"
     },
     {
       "chamber": "参議院",
@@ -13360,7 +13938,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@sakaiyasuyuki"
         }
-      ]
+      ],
+      "slug": "sakai_yasuyuki"
     },
     {
       "chamber": "参議院",
@@ -13386,7 +13965,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@sakurai-shoko"
         }
-      ]
+      ],
+      "slug": "sakurai_shouko"
     },
     {
       "chamber": "参議院",
@@ -13412,7 +13992,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCDnj0etcxHigXKsC2NM2SSg"
         }
-      ]
+      ],
+      "slug": "sakurai_mitsuru"
     },
     {
       "chamber": "参議院",
@@ -13421,7 +14002,8 @@
       "party": "公明党",
       "profile_url": "https://www.sangiin.go.jp/japanese/joho1/kousei/giin/profile/7025029.htm",
       "homepage": null,
-      "socials": []
+      "socials": [],
+      "slug": "sasaki_masafumi"
     },
     {
       "chamber": "参議院",
@@ -13451,7 +14033,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/sasaki-rie/"
         }
-      ]
+      ],
+      "slug": "sasaki_rie"
     },
     {
       "chamber": "参議院",
@@ -13477,7 +14060,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCIMgGi5oxMfZn6nqNyrwPdQ/"
         }
-      ]
+      ],
+      "slug": "satou_kei"
     },
     {
       "chamber": "参議院",
@@ -13503,7 +14087,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@sub_komei"
         }
-      ]
+      ],
+      "slug": "satomi_ryuuji"
     },
     {
       "chamber": "参議院",
@@ -13525,7 +14110,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@saya%E5%BF%9C%E6%8F%B4%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB"
         }
-      ]
+      ],
+      "slug": "shioiri_sayaka"
     },
     {
       "chamber": "参議院",
@@ -13551,7 +14137,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCnrWLnUaT7iXM2jr_QnVjTQ"
         }
-      ]
+      ],
+      "slug": "shiomura_ayaka"
     },
     {
       "chamber": "参議院",
@@ -13569,7 +14156,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/shinshin.s1964"
         }
-      ]
+      ],
+      "slug": "shiba_shinichi"
     },
     {
       "chamber": "参議院",
@@ -13599,7 +14187,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/shibatatakumi/"
         }
-      ]
+      ],
+      "slug": "shibata_takumi"
     },
     {
       "chamber": "参議院",
@@ -13625,7 +14214,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC6iIvNSJhRtMs1_NkD_wuPw"
         }
-      ]
+      ],
+      "slug": "jimi_hanako"
     },
     {
       "chamber": "参議院",
@@ -13647,7 +14237,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCEX9o93a-0QX9mxKVSTiQmA"
         }
-      ]
+      ],
+      "slug": "shimizu_masato"
     },
     {
       "chamber": "参議院",
@@ -13673,7 +14264,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@shimonorokuta"
         }
-      ]
+      ],
+      "slug": "shimono_rokuta"
     },
     {
       "chamber": "参議院",
@@ -13699,7 +14291,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCJ9P-4OFDAVgVOHIomuCo8w"
         }
-      ]
+      ],
+      "slug": "shirakawa_youko"
     },
     {
       "chamber": "参議院",
@@ -13721,7 +14314,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCaxW0k43Ru0vX6QfKQSVwAg"
         }
-      ]
+      ],
+      "slug": "shindou_kanehiko"
     },
     {
       "chamber": "参議院",
@@ -13747,7 +14341,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC88peYfCbtZD_J1DnkV57Rw"
         }
-      ]
+      ],
+      "slug": "shinba_kazuya"
     },
     {
       "chamber": "参議院",
@@ -13765,7 +14360,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/people/%E6%9C%AB%E6%9D%BE%E4%BF%A1%E4%BB%8B/100025040000966/"
         }
-      ]
+      ],
+      "slug": "suematsu_shinsuke"
     },
     {
       "chamber": "参議院",
@@ -13791,7 +14387,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/sugihisatake"
         }
-      ]
+      ],
+      "slug": "sugi_hisatake"
     },
     {
       "chamber": "参議院",
@@ -13813,7 +14410,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCH1YY4C6uDu-AjhYsumjDRg"
         }
-      ]
+      ],
+      "slug": "sugio_hideya"
     },
     {
       "chamber": "参議院",
@@ -13835,7 +14433,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/junko.aichi3/"
         }
-      ]
+      ],
+      "slug": "sugimoto_junko"
     },
     {
       "chamber": "参議院",
@@ -13861,7 +14460,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@daichi5505"
         }
-      ]
+      ],
+      "slug": "suzuki_daichi"
     },
     {
       "chamber": "参議院",
@@ -13875,7 +14475,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@suzukimuneo"
         }
-      ]
+      ],
+      "slug": "suzuki_muneo"
     },
     {
       "chamber": "参議院",
@@ -13893,7 +14494,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC9zwG9Q30cX20gWQorSVr3w"
         }
-      ]
+      ],
+      "slug": "seki_hei"
     },
     {
       "chamber": "参議院",
@@ -13915,7 +14517,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC3zUAIMAzkwOgYOvyZ09vrg"
         }
-      ]
+      ],
+      "slug": "sekiguchi_masakazu"
     },
     {
       "chamber": "参議院",
@@ -13941,7 +14544,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC5s4kIdKMjeM0I9sOgJMNbw"
         }
-      ]
+      ],
+      "slug": "daimon_mikishi"
     },
     {
       "chamber": "参議院",
@@ -13971,7 +14575,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/takagikaori1010/"
         }
-      ]
+      ],
+      "slug": "takagi_kaori"
     },
     {
       "chamber": "参議院",
@@ -13997,7 +14602,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCjKLZ1iDBKSGV4XDQIRPq0w"
         }
-      ]
+      ],
+      "slug": "takagi_mari"
     },
     {
       "chamber": "参議院",
@@ -14019,7 +14625,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCExKhGliuOkiIUirLOJIulQ"
         }
-      ]
+      ],
+      "slug": "takahashi_katsunori"
     },
     {
       "chamber": "参議院",
@@ -14041,7 +14648,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/harumi_takahashi5/"
         }
-      ]
+      ],
+      "slug": "takahashi_harumi"
     },
     {
       "chamber": "参議院",
@@ -14067,7 +14675,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCMFcZKKur1mJgP7VgwrVC7g"
         }
-      ]
+      ],
+      "slug": "takahashi_mitsuo"
     },
     {
       "chamber": "参議院",
@@ -14093,7 +14702,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCgon_hUIs3IrhuEcvN0VyRg"
         }
-      ]
+      ],
+      "slug": "takara_sachika"
     },
     {
       "chamber": "参議院",
@@ -14119,7 +14729,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCilKkuZK2BQMt4nZOVpHjtw"
         }
-      ]
+      ],
+      "slug": "takinami_hirofumi"
     },
     {
       "chamber": "参議院",
@@ -14137,7 +14748,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/TakeuchiShinji2"
         }
-      ]
+      ],
+      "slug": "takeuchi_shinji"
     },
     {
       "chamber": "参議院",
@@ -14163,7 +14775,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCuXrocorVtSXcodJ8P0aHrQ"
         }
-      ]
+      ],
+      "slug": "takezume_hitoshi"
     },
     {
       "chamber": "参議院",
@@ -14193,7 +14806,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/t-takeya/"
         }
-      ]
+      ],
+      "slug": "takeya_toshiko"
     },
     {
       "chamber": "参議院",
@@ -14219,7 +14833,8 @@
           "platform": "youtube",
           "url": "https://youtu.be/5FF1jWdq-7M"
         }
-      ]
+      ],
+      "slug": "tajima_maiko"
     },
     {
       "chamber": "参議院",
@@ -14245,7 +14860,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCiK18OyM3bqRNCmX1GVkJJw"
         }
-      ]
+      ],
+      "slug": "tanabu_masayo"
     },
     {
       "chamber": "参議院",
@@ -14271,7 +14887,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCaCrXmsAQb_w4Z32gaapE3Q"
         }
-      ]
+      ],
+      "slug": "taniai_masaaki"
     },
     {
       "chamber": "参議院",
@@ -14297,7 +14914,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCdeZ9kSZBi38z_BgWCFbx3w/featured"
         }
-      ]
+      ],
+      "slug": "tamura_mami"
     },
     {
       "chamber": "参議院",
@@ -14319,7 +14937,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/tsukasa.takashi_h/"
         }
-      ]
+      ],
+      "slug": "tsukasa_takashi"
     },
     {
       "chamber": "参議院",
@@ -14345,7 +14964,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC-84sDq7sDPeRhG_W9vH8VQ"
         }
-      ]
+      ],
+      "slug": "tsujimoto_kiyomi"
     },
     {
       "chamber": "参議院",
@@ -14367,7 +14987,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC9tG6e-d-ma6utGc-sh70KQ/"
         }
-      ]
+      ],
+      "slug": "tsuruho_yousuke"
     },
     {
       "chamber": "参議院",
@@ -14393,7 +15014,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC-wPxiV-DNYoXaD3iL_Br5w"
         }
-      ]
+      ],
+      "slug": "degawa_momoko"
     },
     {
       "chamber": "参議院",
@@ -14419,7 +15041,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@teratashizuka0323"
         }
-      ]
+      ],
+      "slug": "terata_shizuka"
     },
     {
       "chamber": "参議院",
@@ -14437,7 +15060,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCt5bBMUctBewXP4KdfgFNgQ"
         }
-      ]
+      ],
+      "slug": "tenbata_daisuke"
     },
     {
       "chamber": "参議院",
@@ -14459,7 +15083,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/dougomi_makiko/"
         }
-      ]
+      ],
+      "slug": "dougomi_makiko"
     },
     {
       "chamber": "参議院",
@@ -14485,7 +15110,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC60wdbNaJzr6_-ox_SCWs0g"
         }
-      ]
+      ],
+      "slug": "tokunaga_eri"
     },
     {
       "chamber": "参議院",
@@ -14511,7 +15137,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCwaWLEGvguH03Wi91A3HUjQ"
         }
-      ]
+      ],
+      "slug": "tomonou_rio"
     },
     {
       "chamber": "参議院",
@@ -14533,7 +15160,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/nagai.manabu?igshid=YmMyMTA2M2Y="
         }
-      ]
+      ],
+      "slug": "nagai_manabu"
     },
     {
       "chamber": "参議院",
@@ -14559,7 +15187,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@nagae-takako"
         }
-      ]
+      ],
+      "slug": "nagae_takako"
     },
     {
       "chamber": "参議院",
@@ -14573,7 +15202,8 @@
           "platform": "youtube",
           "url": "https://youtu.be/uDbjj_BLXus"
         }
-      ]
+      ],
+      "slug": "nakajou_kiyoshi"
     },
     {
       "chamber": "参議院",
@@ -14595,7 +15225,8 @@
           "platform": "note_blog",
           "url": "https://nakasone-family.blog.ss-blog.jp/"
         }
-      ]
+      ],
+      "slug": "nakasone_hirofumi"
     },
     {
       "chamber": "参議院",
@@ -14613,7 +15244,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/3yuko_nakada3/"
         }
-      ]
+      ],
+      "slug": "nakada_yuuko"
     },
     {
       "chamber": "参議院",
@@ -14635,7 +15267,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCiJ-yI9OgIJ_vKYDdzw6bOQ/videos"
         }
-      ]
+      ],
+      "slug": "nakanishi_yuusuke"
     },
     {
       "chamber": "参議院",
@@ -14657,7 +15290,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCpbggSIYtRm9_OKwbzh8jWw"
         }
-      ]
+      ],
+      "slug": "nagahama_hiroyuki"
     },
     {
       "chamber": "参議院",
@@ -14679,7 +15313,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCMzBYPNkOCjXxuRysBkd63A"
         }
-      ]
+      ],
+      "slug": "niimi_shouhei"
     },
     {
       "chamber": "参議院",
@@ -14709,7 +15344,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/j-shoujinishida/entry-12942100976.html"
         }
-      ]
+      ],
+      "slug": "nishida_shouji"
     },
     {
       "chamber": "参議院",
@@ -14735,7 +15371,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCWprPo-YdDeqDWwDAf04RzQ"
         }
-      ]
+      ],
+      "slug": "nishita_hidenori"
     },
     {
       "chamber": "参議院",
@@ -14757,7 +15394,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/makotochannel"
         }
-      ]
+      ],
+      "slug": "nishida_makoto"
     },
     {
       "chamber": "参議院",
@@ -14775,7 +15413,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/souhei.nihi"
         }
-      ]
+      ],
+      "slug": "nihi_souhei"
     },
     {
       "chamber": "参議院",
@@ -14801,7 +15440,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCAxj_RFxlsX4EnaXuKDnRFw"
         }
-      ]
+      ],
+      "slug": "niwata_yukie"
     },
     {
       "chamber": "参議院",
@@ -14819,7 +15459,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/nogamikotaro.net/"
         }
-      ]
+      ],
+      "slug": "nogami_koutarou"
     },
     {
       "chamber": "参議院",
@@ -14841,7 +15482,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/nomura_tetsuro_koho/"
         }
-      ]
+      ],
+      "slug": "nomura_tetsurou"
     },
     {
       "chamber": "参議院",
@@ -14867,7 +15509,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E3%81%AF%E3%81%8C%E9%81%93%E4%B9%9F-i3r"
         }
-      ]
+      ],
+      "slug": "haga_michiya"
     },
     {
       "chamber": "参議院",
@@ -14893,7 +15536,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@hajikano-sanseito"
         }
-      ]
+      ],
+      "slug": "hajikano_hiroki"
     },
     {
       "chamber": "参議院",
@@ -14915,7 +15559,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@seikohashimoto-yt"
         }
-      ]
+      ],
+      "slug": "hashimoto_seiko"
     },
     {
       "chamber": "参議院",
@@ -14945,7 +15590,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/hasegawa-gaku/"
         }
-      ]
+      ],
+      "slug": "hasegawa_gaku"
     },
     {
       "chamber": "参議院",
@@ -14967,7 +15613,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCxiI45zno4saZ5eNSd_OSrw"
         }
-      ]
+      ],
+      "slug": "hasegawa_hideharu"
     },
     {
       "chamber": "参議院",
@@ -14985,7 +15632,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/hata.kouenkai"
         }
-      ]
+      ],
+      "slug": "hata_jirou"
     },
     {
       "chamber": "参議院",
@@ -15007,7 +15655,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E9%A6%AC%E5%A0%B4%E3%81%9B%E3%81%84%E3%81%97%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB88"
         }
-      ]
+      ],
+      "slug": "baba_seishi"
     },
     {
       "chamber": "参議院",
@@ -15033,7 +15682,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/playlist?list=UUJcZR68Yjs6JLIxiGdCDlkA"
         }
-      ]
+      ],
+      "slug": "hamaguchi_makoto"
     },
     {
       "chamber": "参議院",
@@ -15059,7 +15709,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/c/%E6%B5%9C%E9%87%8E%E3%82%88%E3%81%97%E3%81%B5%E3%81%BF%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB"
         }
-      ]
+      ],
+      "slug": "hamano_yoshifumi"
     },
     {
       "chamber": "参議院",
@@ -15085,7 +15736,8 @@
           "platform": "youtube",
           "url": "https://youtube.com/@haradadaijiro"
         }
-      ]
+      ],
+      "slug": "harada_daijirou"
     },
     {
       "chamber": "参議院",
@@ -15093,7 +15745,7 @@
       "kana": "はらだ ひでかず",
       "party": "国民民主党",
       "profile_url": "https://www.sangiin.go.jp/japanese/joho1/kousei/giin/profile/7025048.htm",
-      "homepage": null,
+      "homepage": "https://harada-hidekazu.jp/",
       "socials": [
         {
           "platform": "x",
@@ -15107,7 +15759,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/haradhid/"
         }
-      ]
+      ],
+      "slug": "harada_hidekazu"
     },
     {
       "chamber": "参議院",
@@ -15129,7 +15782,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E6%9D%B1%E9%87%8E%E3%81%B2%E3%81%A7%E3%81%8D"
         }
-      ]
+      ],
+      "slug": "higashino_hideki"
     },
     {
       "chamber": "参議院",
@@ -15155,7 +15809,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E7%99%BE%E7%94%B0%E5%B0%9A%E6%A8%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB"
         }
-      ]
+      ],
+      "slug": "hyakuta_naoki"
     },
     {
       "chamber": "参議院",
@@ -15181,7 +15836,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/hirakichannel/featured"
         }
-      ]
+      ],
+      "slug": "hiraki_daisaku"
     },
     {
       "chamber": "参議院",
@@ -15207,7 +15863,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@KoutaHirado"
         }
-      ]
+      ],
+      "slug": "hirado_kouta"
     },
     {
       "chamber": "参議院",
@@ -15237,7 +15894,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/wawawanwan13/"
         }
-      ]
+      ],
+      "slug": "hirayama_sachiko"
     },
     {
       "chamber": "参議院",
@@ -15263,7 +15921,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E5%BA%83%E7%94%B0%E4%B8%80%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB"
         }
-      ]
+      ],
+      "slug": "hirota_hajime"
     },
     {
       "chamber": "参議院",
@@ -15293,7 +15952,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/fukuoka-takamaro/entry-12942384526.html"
         }
-      ]
+      ],
+      "slug": "fukuoka_takamaro"
     },
     {
       "chamber": "参議院",
@@ -15319,7 +15979,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@fukushi_masumi"
         }
-      ]
+      ],
+      "slug": "fukushi_masumi"
     },
     {
       "chamber": "参議院",
@@ -15349,7 +16010,8 @@
           "platform": "note_blog",
           "url": "http://mizuhofukushima.blog83.fc2.com/"
         }
-      ]
+      ],
+      "slug": "fukushima_mizuho"
     },
     {
       "chamber": "参議院",
@@ -15375,7 +16037,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC_2CzsdagS3nOABRqWUcPQA"
         }
-      ]
+      ],
+      "slug": "fukuyama_tetsurou"
     },
     {
       "chamber": "参議院",
@@ -15384,7 +16047,8 @@
       "party": "自由民主党",
       "profile_url": "https://www.sangiin.go.jp/japanese/joho1/kousei/giin/profile/7025053.htm",
       "homepage": null,
-      "socials": []
+      "socials": [],
+      "slug": "fukuyama_mamoru"
     },
     {
       "chamber": "参議院",
@@ -15393,7 +16057,8 @@
       "party": "自由民主党",
       "profile_url": "https://www.sangiin.go.jp/japanese/joho1/kousei/giin/profile/7022033.htm",
       "homepage": "https://www.fujiikazuhiro.jp/",
-      "socials": []
+      "socials": [],
+      "slug": "fujii_kazuhiro"
     },
     {
       "chamber": "参議院",
@@ -15423,7 +16088,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/f-masahito/"
         }
-      ]
+      ],
+      "slug": "fujikawa_masahito"
     },
     {
       "chamber": "参議院",
@@ -15445,7 +16111,8 @@
           "platform": "note_blog",
           "url": "https://ek21.asp.cuenote.jp/mypage/regist/TbRbbRRgT33TRb1mQ"
         }
-      ]
+      ],
+      "slug": "fujiki_shinya"
     },
     {
       "chamber": "参議院",
@@ -15471,7 +16138,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCEBKDHy4W2-M3bHayMPEZ6w"
         }
-      ]
+      ],
+      "slug": "funahashi_toshimitsu"
     },
     {
       "chamber": "参議院",
@@ -15497,7 +16165,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCgX_iJmfXY8H8q803NTqWKA/featured"
         }
-      ]
+      ],
+      "slug": "funayama_yasue"
     },
     {
       "chamber": "参議院",
@@ -15519,7 +16188,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC6Et4_9bdVeg3CynVTMQjiw"
         }
-      ]
+      ],
+      "slug": "furukawa_toshiharu"
     },
     {
       "chamber": "参議院",
@@ -15545,7 +16215,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCTrItuUnzc0c24GCfyEpE_A"
         }
-      ]
+      ],
+      "slug": "hoshi_hokuto"
     },
     {
       "chamber": "参議院",
@@ -15571,7 +16242,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E5%8F%82%E8%AD%B0%E9%99%A2%E8%AD%B0%E5%93%A1%E5%A0%80%E4%BA%95%E5%B7%8C"
         }
-      ]
+      ],
+      "slug": "horii_iwao"
     },
     {
       "chamber": "参議院",
@@ -15593,7 +16265,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCCpubav46rzHTe2FdMryo2A"
         }
-      ]
+      ],
+      "slug": "honda_akiko"
     },
     {
       "chamber": "参議院",
@@ -15619,7 +16292,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/maitachi/"
         }
-      ]
+      ],
+      "slug": "maitachi_shouji"
     },
     {
       "chamber": "参議院",
@@ -15645,7 +16319,8 @@
           "platform": "youtube",
           "url": "http://www.youtube.com/channel/UCNEteH0o7jBsfNvg7JoNcBQ"
         }
-      ]
+      ],
+      "slug": "makino_takao"
     },
     {
       "chamber": "参議院",
@@ -15671,7 +16346,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/makiyama1192/"
         }
-      ]
+      ],
+      "slug": "makiyama_hiroe"
     },
     {
       "chamber": "参議院",
@@ -15701,7 +16377,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/matsukawa-rui/"
         }
-      ]
+      ],
+      "slug": "matsukawa_rui"
     },
     {
       "chamber": "参議院",
@@ -15727,7 +16404,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/matsuzawachannel"
         }
-      ]
+      ],
+      "slug": "matsuzawa_shigefumi"
     },
     {
       "chamber": "参議院",
@@ -15745,7 +16423,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC7u9awOXXx5TcN6CuuFk3cw"
         }
-      ]
+      ],
+      "slug": "matsushita_shinpei"
     },
     {
       "chamber": "参議院",
@@ -15775,7 +16454,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/matsuda-manabu/"
         }
-      ]
+      ],
+      "slug": "matsuda_manabu"
     },
     {
       "chamber": "参議院",
@@ -15793,7 +16473,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/akemi1212333/"
         }
-      ]
+      ],
+      "slug": "matsuno_akemi"
     },
     {
       "chamber": "参議院",
@@ -15811,7 +16492,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/yoshifumi_matsumura_jimusho/"
         }
-      ]
+      ],
+      "slug": "matsumura_yoshifumi"
     },
     {
       "chamber": "参議院",
@@ -15829,7 +16511,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/matsuyama_jimusho/"
         }
-      ]
+      ],
+      "slug": "matsuyama_masaji"
     },
     {
       "chamber": "参議院",
@@ -15851,7 +16534,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/c/Miuranobuhiro_ch"
         }
-      ]
+      ],
+      "slug": "miura_nobuhiro"
     },
     {
       "chamber": "参議院",
@@ -15877,7 +16561,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC1XPW5wLd83x1E2af4idrbw"
         }
-      ]
+      ],
+      "slug": "mikami_eri"
     },
     {
       "chamber": "参議院",
@@ -15903,7 +16588,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCYFj5gNXprvyeJiRfeoIILA"
         }
-      ]
+      ],
+      "slug": "mizuoka_shunichi"
     },
     {
       "chamber": "参議院",
@@ -15929,7 +16615,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@mizunokoichi-channel"
         }
-      ]
+      ],
+      "slug": "mizuno_kouichi"
     },
     {
       "chamber": "参議院",
@@ -15955,7 +16642,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCDIKWq1sGVfK5DO8ky3Hkzg"
         }
-      ]
+      ],
+      "slug": "mihara_junko"
     },
     {
       "chamber": "参議院",
@@ -15973,7 +16661,8 @@
           "platform": "facebook",
           "url": "https://www.facebook.com/masaru.miyazaki.127"
         }
-      ]
+      ],
+      "slug": "miyazaki_masaru"
     },
     {
       "chamber": "参議院",
@@ -15995,7 +16684,8 @@
           "platform": "instagram",
           "url": "https://z-p15.www.instagram.com/miyazawa_yoichi/"
         }
-      ]
+      ],
+      "slug": "miyazawa_youichi"
     },
     {
       "chamber": "参議院",
@@ -16009,7 +16699,8 @@
           "platform": "x",
           "url": "https://x.com/chisato_miyade"
         }
-      ]
+      ],
+      "slug": "miyade_chisato"
     },
     {
       "chamber": "参議院",
@@ -16035,7 +16726,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@55miyamoto"
         }
-      ]
+      ],
+      "slug": "miyamoto_kazuhiro"
     },
     {
       "chamber": "参議院",
@@ -16061,7 +16753,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/shuji-miyamoto/"
         }
-      ]
+      ],
+      "slug": "miyamoto_shuuji"
     },
     {
       "chamber": "参議院",
@@ -16087,7 +16780,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCRwXnLbzUGTW2lTH0gk2IhA/featured"
         }
-      ]
+      ],
+      "slug": "murata_kyouko"
     },
     {
       "chamber": "参議院",
@@ -16113,7 +16807,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@%E5%8F%82%E8%AD%B0%E9%99%A2%E6%9C%9B%E6%9C%88%E8%89%AF%E7%94%B7"
         }
-      ]
+      ],
+      "slug": "mochizuki_yoshio"
     },
     {
       "chamber": "参議院",
@@ -16139,7 +16834,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/morimasakotv/"
         }
-      ]
+      ],
+      "slug": "mori_masako"
     },
     {
       "chamber": "参議院",
@@ -16169,7 +16865,8 @@
           "platform": "note_blog",
           "url": "https://note.com/2maimenamoriyuko"
         }
-      ]
+      ],
+      "slug": "mori_yuuko"
     },
     {
       "chamber": "参議院",
@@ -16191,7 +16888,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCrIhTTSJIlp0HaJ-Tk8u-RA"
         }
-      ]
+      ],
+      "slug": "morimoto_shinji"
     },
     {
       "chamber": "参議院",
@@ -16217,7 +16915,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC0DK9j1ge7XlYHf0nTm8XsQ"
         }
-      ]
+      ],
+      "slug": "yamauchi_kanako"
     },
     {
       "chamber": "参議院",
@@ -16243,7 +16942,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCrDFKDCv6RPK1Rs7ZOaVoMQ"
         }
-      ]
+      ],
+      "slug": "yamazaki_masaaki"
     },
     {
       "chamber": "参議院",
@@ -16273,7 +16973,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/yuhey-yamashita/"
         }
-      ]
+      ],
+      "slug": "yamashita_yuuhei"
     },
     {
       "chamber": "参議院",
@@ -16299,7 +17000,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UChy6Aa_oCqo2PgtddUky6fQ"
         }
-      ]
+      ],
+      "slug": "yamazoe_taku"
     },
     {
       "chamber": "参議院",
@@ -16325,7 +17027,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/youryamadataro"
         }
-      ]
+      ],
+      "slug": "yamada_tarou"
     },
     {
       "chamber": "参議院",
@@ -16351,7 +17054,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/user/YamadaHiroshiCom/"
         }
-      ]
+      ],
+      "slug": "yamada_hiroshi"
     },
     {
       "chamber": "参議院",
@@ -16377,7 +17081,8 @@
           "platform": "youtube",
           "url": "https://youtube.com/channel/UCtcleTqYfCEzp6rR002Qo4A"
         }
-      ]
+      ],
+      "slug": "yamada_yoshihiko"
     },
     {
       "chamber": "参議院",
@@ -16399,7 +17104,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCHYnnlBcOgacoTMmCQZLPWA"
         }
-      ]
+      ],
+      "slug": "yamatani_eriko"
     },
     {
       "chamber": "参議院",
@@ -16421,7 +17127,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/@sanseito-tohoku-ikki"
         }
-      ]
+      ],
+      "slug": "yamanaka_sen"
     },
     {
       "chamber": "参議院",
@@ -16439,7 +17146,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/keisuke21japan/"
         }
-      ]
+      ],
+      "slug": "yamamoto_keisuke"
     },
     {
       "chamber": "参議院",
@@ -16461,7 +17169,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCH2d-W7XcqMlR1xmP_C4Iiw"
         }
-      ]
+      ],
+      "slug": "yamamoto_sachiko"
     },
     {
       "chamber": "参議院",
@@ -16483,7 +17192,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/yamamoto_junzo?igshid=YmMyMTA2M2Y="
         }
-      ]
+      ],
+      "slug": "yamamoto_junzou"
     },
     {
       "chamber": "参議院",
@@ -16509,7 +17219,8 @@
           "platform": "note_blog",
           "url": "https://ameblo.jp/yamamototaro1124/"
         }
-      ]
+      ],
+      "slug": "yamamoto_tarou"
     },
     {
       "chamber": "参議院",
@@ -16535,7 +17246,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCnVrQdtniTxNAoDUKDJlnyA"
         }
-      ]
+      ],
+      "slug": "yokosawa_takanori"
     },
     {
       "chamber": "参議院",
@@ -16553,7 +17265,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCdNYMHIoZ7dxbeHOopcxSGw"
         }
-      ]
+      ],
+      "slug": "yokoyama_shinichi"
     },
     {
       "chamber": "参議院",
@@ -16579,7 +17292,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCsxKeZz6sowzvveYdaJtK4w"
         }
-      ]
+      ],
+      "slug": "yoshii_akira"
     },
     {
       "chamber": "参議院",
@@ -16605,7 +17319,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UC25sSO3TYx05jJI0K7Uw8Sg"
         }
-      ]
+      ],
+      "slug": "yoshikawa_saori"
     },
     {
       "chamber": "参議院",
@@ -16631,7 +17346,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UChNN1hV2HxPKVZagSsbsATQ"
         }
-      ]
+      ],
+      "slug": "yoshida_tadatomo"
     },
     {
       "chamber": "参議院",
@@ -16649,7 +17365,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/l_ishii_office/?igsh=MTc2MGxrZDNkZm5obw%3D%3D"
         }
-      ]
+      ],
+      "slug": "rasaaruishii"
     },
     {
       "chamber": "参議院",
@@ -16671,7 +17388,8 @@
           "platform": "instagram",
           "url": "https://instagram.com/renho.sha"
         }
-      ]
+      ],
+      "slug": "renhou"
     },
     {
       "chamber": "参議院",
@@ -16697,7 +17415,8 @@
           "platform": "youtube",
           "url": "https://m.youtube.com/@atsukowakai1764"
         }
-      ]
+      ],
+      "slug": "wakai_atsuko"
     },
     {
       "chamber": "参議院",
@@ -16719,7 +17438,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/youhei.wakabayashi/"
         }
-      ]
+      ],
+      "slug": "wakabayashi_youhei"
     },
     {
       "chamber": "参議院",
@@ -16741,7 +17461,8 @@
           "platform": "instagram",
           "url": "https://www.instagram.com/masaakiwaki/"
         }
-      ]
+      ],
+      "slug": "waki_masaaki"
     },
     {
       "chamber": "参議院",
@@ -16767,7 +17488,8 @@
           "platform": "youtube",
           "url": "https://www.youtube.com/channel/UCbS91eXl5Bq9wxBoeiavLyA"
         }
-      ]
+      ],
+      "slug": "watanabe_takeyuki"
     }
   ]
 }

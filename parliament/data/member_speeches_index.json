@@ -1,0 +1,1517 @@
+{
+  "generated_at": "2025-11-03T15:10:24.697811+00:00",
+  "index": {
+    "abe_hiroki": {
+      "meetings": 7,
+      "speeches": 9
+    },
+    "abe_tomoko": {
+      "meetings": 45,
+      "speeches": 70
+    },
+    "abe_toshiko": {
+      "meetings": 5,
+      "speeches": 5
+    },
+    "abe_tsukasa": {
+      "meetings": 1,
+      "speeches": 10
+    },
+    "adachi_masashi": {
+      "meetings": 2,
+      "speeches": 3
+    },
+    "adachi_yasushi": {
+      "meetings": 15,
+      "speeches": 24
+    },
+    "aisawa_ichirou": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "akaba_kazuyoshi": {
+      "meetings": 18,
+      "speeches": 20
+    },
+    "akazawa_ryousei": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "akino_kouzou": {
+      "meetings": 8,
+      "speeches": 10
+    },
+    "andou_takao": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "aoki_ai": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "aoshima_kenta": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "aoyagi_youichirou": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "aoyama_shigeharu": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "arakaki_kunio": {
+      "meetings": 3,
+      "speeches": 5
+    },
+    "arimura_haruko": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "asano_satoshi": {
+      "meetings": 4,
+      "speeches": 8
+    },
+    "asao_keiichirou": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "asou_tarou": {
+      "meetings": 8,
+      "speeches": 8
+    },
+    "azuma_katsuya": {
+      "meetings": 3,
+      "speeches": 6
+    },
+    "azuma_tooru": {
+      "meetings": 13,
+      "speeches": 21
+    },
+    "azumi_jun": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "baba_nobuyuki": {
+      "meetings": 0,
+      "speeches": 0
+    },
+    "baba_seishi": {
+      "meetings": 0,
+      "speeches": 0
+    },
+    "daimon_mikishi": {
+      "meetings": 4,
+      "speeches": 5
+    },
+    "edano_yukio": {
+      "meetings": 4,
+      "speeches": 6
+    },
+    "endou_toshiaki": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "eto_akinori": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "etou_taku": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "fujioka_takao": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "fujita_fumitake": {
+      "meetings": 10,
+      "speeches": 15
+    },
+    "fukuda_akio": {
+      "meetings": 5,
+      "speeches": 5
+    },
+    "fukumori_wakako": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "fukuoka_takamaro": {
+      "meetings": 7,
+      "speeches": 11
+    },
+    "fukushima_mizuho": {
+      "meetings": 52,
+      "speeches": 86
+    },
+    "fukushima_nobuyuki": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "fukuyama_tetsurou": {
+      "meetings": 4,
+      "speeches": 4
+    },
+    "funada_hajime": {
+      "meetings": 1,
+      "speeches": 2
+    },
+    "funahashi_toshimitsu": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "funayama_yasue": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "furukawa_motohisa": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "futori_hideshi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "genma_kentarou": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "gotou_hitoshi": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "gotou_shigeyuki": {
+      "meetings": 28,
+      "speeches": 47
+    },
+    "gotou_yuuichi": {
+      "meetings": 4,
+      "speeches": 4
+    },
+    "haga_michiya": {
+      "meetings": 9,
+      "speeches": 12
+    },
+    "hagiuda_kouichi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "hamachi_masakazu": {
+      "meetings": 1,
+      "speeches": 3
+    },
+    "hamaguchi_makoto": {
+      "meetings": 8,
+      "speeches": 9
+    },
+    "haraguchi_kazuhiro": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "hasegawa_kaichi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "hashimoto_keigo": {
+      "meetings": 1,
+      "speeches": 4
+    },
+    "hashimoto_seiko": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "hata_jirou": {
+      "meetings": 2,
+      "speeches": 3
+    },
+    "hatoyama_kiichirou": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "hayashi_yumi": {
+      "meetings": 0,
+      "speeches": 0
+    },
+    "hino_saria": {
+      "meetings": 5,
+      "speeches": 10
+    },
+    "hirabayashi_akira": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "hiraki_daisaku": {
+      "meetings": 6,
+      "speeches": 7
+    },
+    "hiraoka_hideo": {
+      "meetings": 6,
+      "speeches": 9
+    },
+    "hirayama_sachiko": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "hirota_hajime": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "honjou_satoshi": {
+      "meetings": 0,
+      "speeches": 0
+    },
+    "horii_iwao": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "horikawa_akiko": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "horiuchi_noriko": {
+      "meetings": 2,
+      "speeches": 3
+    },
+    "hosaka_yasushi": {
+      "meetings": 1,
+      "speeches": 2
+    },
+    "ichimura_kouichirou": {
+      "meetings": 4,
+      "speeches": 5
+    },
+    "ide_yousei": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "igarashi_eri": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "ikeda_maki": {
+      "meetings": 15,
+      "speeches": 24
+    },
+    "ikehata_koutarou": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "ikeshita_taku": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "imaeda_souichirou": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "imai_eriko": {
+      "meetings": 7,
+      "speeches": 15
+    },
+    "inatomi_shuuji": {
+      "meetings": 1,
+      "speeches": 2
+    },
+    "ino_toshirou": {
+      "meetings": 0,
+      "speeches": 0
+    },
+    "inoguchi_kuniko": {
+      "meetings": 1,
+      "speeches": 4
+    },
+    "inose_naoki": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "inoue_hidetaka": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "inoue_shinji": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "inoue_takahiro": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "isaka_nobuhiko": {
+      "meetings": 22,
+      "speeches": 35
+    },
+    "ishiba_shigeru": {
+      "meetings": 6,
+      "speeches": 8
+    },
+    "ishibashi_michihiro": {
+      "meetings": 7,
+      "speeches": 10
+    },
+    "ishida_masahiro": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "ishigaki_noriko": {
+      "meetings": 4,
+      "speeches": 9
+    },
+    "ishii_hiroo": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "ishii_junichi": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "ishii_mitsuko": {
+      "meetings": 2,
+      "speeches": 4
+    },
+    "ishii_tomoe": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "ishikawa_hirotaka": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "ishikawa_kaori": {
+      "meetings": 2,
+      "speeches": 3
+    },
+    "isozaki_yoshihiko": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "itou_nobuhisa": {
+      "meetings": 1,
+      "speeches": 3
+    },
+    "itou_tadahiko": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "itou_takae": {
+      "meetings": 11,
+      "speeches": 12
+    },
+    "itou_tatsuya": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "itou_yoshitaka": {
+      "meetings": 2,
+      "speeches": 3
+    },
+    "iwabuchi_tomo": {
+      "meetings": 3,
+      "speeches": 4
+    },
+    "iwaya_takeshi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "izumi_fusaho": {
+      "meetings": 11,
+      "speeches": 27
+    },
+    "izumi_kenta": {
+      "meetings": 6,
+      "speeches": 10
+    },
+    "jimi_hanako": {
+      "meetings": 13,
+      "speeches": 23
+    },
+    "kada_hiroyuki": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "kaieda_banri": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "kamata_sayuri": {
+      "meetings": 4,
+      "speeches": 6
+    },
+    "kamikawa_youko": {
+      "meetings": 19,
+      "speeches": 20
+    },
+    "kamiya_hiroshi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "kamiya_masayuki": {
+      "meetings": 1,
+      "speeches": 3
+    },
+    "kaneko_emi": {
+      "meetings": 13,
+      "speeches": 27
+    },
+    "kaneko_michihito": {
+      "meetings": 1,
+      "speeches": 2
+    },
+    "kaneko_yasushi": {
+      "meetings": 2,
+      "speeches": 3
+    },
+    "kanemura_ryuuna": {
+      "meetings": 14,
+      "speeches": 27
+    },
+    "kasai_kouichi": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "katayama_daisuke": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "katou_ayuko": {
+      "meetings": 15,
+      "speeches": 23
+    },
+    "katou_katsunobu": {
+      "meetings": 102,
+      "speeches": 185
+    },
+    "katsube_kenji": {
+      "meetings": 0,
+      "speeches": 0
+    },
+    "katsumata_takaaki": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "katsume_yasushi": {
+      "meetings": 3,
+      "speeches": 4
+    },
+    "kawai_takanori": {
+      "meetings": 4,
+      "speeches": 6
+    },
+    "kawasaki_hideto": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "kawauchi_hiroshi": {
+      "meetings": 7,
+      "speeches": 9
+    },
+    "kihara_seiji": {
+      "meetings": 1,
+      "speeches": 6
+    },
+    "kii_takashi": {
+      "meetings": 4,
+      "speeches": 5
+    },
+    "kikawada_hitoshi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "kikuta_makiko": {
+      "meetings": 4,
+      "speeches": 7
+    },
+    "kimura_eiko": {
+      "meetings": 30,
+      "speeches": 47
+    },
+    "kinjou_yasukuni": {
+      "meetings": 4,
+      "speeches": 6
+    },
+    "kira_yoshiko": {
+      "meetings": 4,
+      "speeches": 4
+    },
+    "kishi_makiko": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "kishida_fumio": {
+      "meetings": 26,
+      "speeches": 33
+    },
+    "koga_atsushi": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "koga_chikage": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "koga_yuuichirou": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "koike_akira": {
+      "meetings": 43,
+      "speeches": 92
+    },
+    "koizumi_ryuuji": {
+      "meetings": 3,
+      "speeches": 4
+    },
+    "komiyama_yasuko": {
+      "meetings": 13,
+      "speeches": 18
+    },
+    "komori_takuo": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "kondou_shouichi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "konishi_hiroyuki": {
+      "meetings": 5,
+      "speeches": 13
+    },
+    "koshimizu_keiichi": {
+      "meetings": 4,
+      "speeches": 7
+    },
+    "koshou_harutomo": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "kotera_hiroo": {
+      "meetings": 4,
+      "speeches": 4
+    },
+    "kouno_tarou": {
+      "meetings": 5,
+      "speeches": 5
+    },
+    "kouzu_takeshi": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "kouzuki_ryousuke": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "koyama_chiho": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "koyama_nobuhiro": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "koyari_takashi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "kubota_tetsuya": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "kudou_shouzou": {
+      "meetings": 2,
+      "speeches": 4
+    },
+    "kumagai_hiroto": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "kunimitsu_ayano": {
+      "meetings": 2,
+      "speeches": 3
+    },
+    "kuroiwa_takahiro": {
+      "meetings": 5,
+      "speeches": 8
+    },
+    "kushibuchi_mari": {
+      "meetings": 2,
+      "speeches": 3
+    },
+    "mabuchi_sumio": {
+      "meetings": 4,
+      "speeches": 5
+    },
+    "madoka_yoriko": {
+      "meetings": 5,
+      "speeches": 5
+    },
+    "maehara_seiji": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "maki_yoshio": {
+      "meetings": 4,
+      "speeches": 5
+    },
+    "makino_takao": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "makishima_karen": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "makiyama_hiroe": {
+      "meetings": 7,
+      "speeches": 17
+    },
+    "matsuda_isao": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "matsuno_akemi": {
+      "meetings": 7,
+      "speeches": 12
+    },
+    "matsuo_akihiro": {
+      "meetings": 0,
+      "speeches": 0
+    },
+    "matsushima_midori": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "matsushita_shinpei": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "matsuyama_masaji": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "michishita_daiki": {
+      "meetings": 4,
+      "speeches": 4
+    },
+    "midorikawa_takashi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "mihara_junko": {
+      "meetings": 4,
+      "speeches": 4
+    },
+    "mikami_eri": {
+      "meetings": 1,
+      "speeches": 2
+    },
+    "miki_kee": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "minobe_teruo": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "miura_nobuhiro": {
+      "meetings": 5,
+      "speeches": 5
+    },
+    "miyaji_takuma": {
+      "meetings": 6,
+      "speeches": 8
+    },
+    "miyakawa_shin": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "miyashita_ichirou": {
+      "meetings": 3,
+      "speeches": 8
+    },
+    "miyazaki_masahisa": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "miyazaki_masaru": {
+      "meetings": 9,
+      "speeches": 10
+    },
+    "mizuoka_shunichi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "mori_eisuke": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "mori_yousuke": {
+      "meetings": 2,
+      "speeches": 7
+    },
+    "mori_yuuko": {
+      "meetings": 7,
+      "speeches": 13
+    },
+    "morimoto_shinji": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "morita_toshikazu": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "moriyama_hiroyuki": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "motomura_nobuko": {
+      "meetings": 11,
+      "speeches": 29
+    },
+    "murai_hideki": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "nagae_takako": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "nagahama_hiroyuki": {
+      "meetings": 4,
+      "speeches": 4
+    },
+    "nagai_manabu": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "nagaoka_keiko": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "nagatomo_shinji": {
+      "meetings": 4,
+      "speeches": 11
+    },
+    "nagatsuma_akira": {
+      "meetings": 6,
+      "speeches": 7
+    },
+    "nakagawa_hiromasa": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "nakagawa_yasuhiro": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "nakajima_katsuhito": {
+      "meetings": 52,
+      "speeches": 94
+    },
+    "nakajou_kiyoshi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "nakanishi_kenji": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "nakanishi_yuusuke": {
+      "meetings": 1,
+      "speeches": 2
+    },
+    "nakano_hiromasa": {
+      "meetings": 7,
+      "speeches": 10
+    },
+    "nakatani_gen": {
+      "meetings": 2,
+      "speeches": 3
+    },
+    "nakatani_kazuma": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "nakatsuka_hiroshi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "nemoto_taku": {
+      "meetings": 10,
+      "speeches": 18
+    },
+    "nemoto_yukinori": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "nihi_souhei": {
+      "meetings": 15,
+      "speeches": 21
+    },
+    "niki_hirobumi": {
+      "meetings": 6,
+      "speeches": 11
+    },
+    "nishida_makoto": {
+      "meetings": 11,
+      "speeches": 12
+    },
+    "nishimura_chinami": {
+      "meetings": 14,
+      "speeches": 17
+    },
+    "nishioka_hideko": {
+      "meetings": 5,
+      "speeches": 6
+    },
+    "nishioka_yoshitaka": {
+      "meetings": 1,
+      "speeches": 2
+    },
+    "nishizono_katsuhide": {
+      "meetings": 2,
+      "speeches": 3
+    },
+    "niwa_hideki": {
+      "meetings": 0,
+      "speeches": 0
+    },
+    "noda_seiko": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "noda_yoshihiko": {
+      "meetings": 3,
+      "speeches": 5
+    },
+    "noma_takeshi": {
+      "meetings": 2,
+      "speeches": 5
+    },
+    "nonaka_atsushi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "nukaga_fukushirou": {
+      "meetings": 0,
+      "speeches": 0
+    },
+    "numazaki_mitsuko": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "ogata_rintarou": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "ogawa_junya": {
+      "meetings": 4,
+      "speeches": 6
+    },
+    "ogawa_katsumi": {
+      "meetings": 9,
+      "speeches": 14
+    },
+    "okada_hanako": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "okada_katsuya": {
+      "meetings": 2,
+      "speeches": 5
+    },
+    "okada_naoki": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "okamoto_akiko": {
+      "meetings": 8,
+      "speeches": 9
+    },
+    "okamoto_mitsunari": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "okamoto_mitsunori": {
+      "meetings": 10,
+      "speeches": 21
+    },
+    "okuno_souichirou": {
+      "meetings": 4,
+      "speeches": 5
+    },
+    "oniki_makoto": {
+      "meetings": 2,
+      "speeches": 3
+    },
+    "ooie_satoshi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "ooishi_akiko": {
+      "meetings": 0,
+      "speeches": 0
+    },
+    "ookawara_masako": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "oomori_eriko": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "oonishi_kensuke": {
+      "meetings": 21,
+      "speeches": 32
+    },
+    "oonishi_youhei": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "oono_keitarou": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "oooka_toshitaka": {
+      "meetings": 2,
+      "speeches": 4
+    },
+    "oosaka_seiji": {
+      "meetings": 4,
+      "speeches": 4
+    },
+    "ooshima_atsushi": {
+      "meetings": 4,
+      "speeches": 9
+    },
+    "ooshima_kusuo": {
+      "meetings": 4,
+      "speeches": 7
+    },
+    "ootake_rie": {
+      "meetings": 3,
+      "speeches": 5
+    },
+    "ootsuka_sayuri": {
+      "meetings": 2,
+      "speeches": 4
+    },
+    "ootsuki_kureha": {
+      "meetings": 1,
+      "speeches": 2
+    },
+    "otsuji_kanako": {
+      "meetings": 10,
+      "speeches": 14
+    },
+    "ozaki_masanao": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "ozawa_ichirou": {
+      "meetings": 0,
+      "speeches": 0
+    },
+    "renhou": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "ryuu_hirofumi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "saitou_arekkusu": {
+      "meetings": 1,
+      "speeches": 3
+    },
+    "saitou_ken": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "saitou_tetsuo": {
+      "meetings": 16,
+      "speeches": 22
+    },
+    "saitou_yuuki": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "sakai_natsumi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "sakamoto_tetsushi": {
+      "meetings": 7,
+      "speeches": 8
+    },
+    "sakamoto_yuunosuke": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "sakurai_mitsuru": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "sakurai_shuu": {
+      "meetings": 2,
+      "speeches": 4
+    },
+    "satomi_ryuuji": {
+      "meetings": 8,
+      "speeches": 9
+    },
+    "satou_hidemichi": {
+      "meetings": 7,
+      "speeches": 7
+    },
+    "satou_kei": {
+      "meetings": 6,
+      "speeches": 6
+    },
+    "satou_kouji": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "satou_tsutomu": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "shiba_shinichi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "shibata_takumi": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "shibayama_masahiko": {
+      "meetings": 7,
+      "speeches": 7
+    },
+    "shigetoku_kazuhiko": {
+      "meetings": 3,
+      "speeches": 6
+    },
+    "shii_kazuo": {
+      "meetings": 1,
+      "speeches": 2
+    },
+    "shimajiri_aiko": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "shimizu_masato": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "shimojou_mitsu": {
+      "meetings": 1,
+      "speeches": 2
+    },
+    "shimono_rokuta": {
+      "meetings": 6,
+      "speeches": 9
+    },
+    "shina_takeshi": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "shinba_kazuya": {
+      "meetings": 2,
+      "speeches": 4
+    },
+    "shindou_kanehiko": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "shindou_yoshitaka": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "shinoda_naoko": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "shinohara_takashi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "shintani_masayoshi": {
+      "meetings": 5,
+      "speeches": 8
+    },
+    "shiokawa_tetsuya": {
+      "meetings": 17,
+      "speeches": 23
+    },
+    "shiomura_ayaka": {
+      "meetings": 3,
+      "speeches": 4
+    },
+    "shiozaki_akihisa": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "shiraishi_youichi": {
+      "meetings": 4,
+      "speeches": 7
+    },
+    "souno_hajime": {
+      "meetings": 0,
+      "speeches": 0
+    },
+    "suematsu_shinsuke": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "suematsu_yoshinori": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "suga_yoshihide": {
+      "meetings": 0,
+      "speeches": 0
+    },
+    "sugi_hisatake": {
+      "meetings": 6,
+      "speeches": 7
+    },
+    "sugio_hideya": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "suzuki_muneo": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "suzuki_norikazu": {
+      "meetings": 2,
+      "speeches": 3
+    },
+    "suzuki_shunichi": {
+      "meetings": 8,
+      "speeches": 14
+    },
+    "suzuki_yoshihiro": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "tabata_hiroaki": {
+      "meetings": 4,
+      "speeches": 4
+    },
+    "tachibana_keiichirou": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "taira_masaaki": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "tajima_kaname": {
+      "meetings": 5,
+      "speeches": 6
+    },
+    "tajima_maiko": {
+      "meetings": 4,
+      "speeches": 6
+    },
+    "takagi_mari": {
+      "meetings": 8,
+      "speeches": 13
+    },
+    "takahashi_hideaki": {
+      "meetings": 1,
+      "speeches": 3
+    },
+    "takahashi_mitsuo": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "takai_takashi": {
+      "meetings": 1,
+      "speeches": 4
+    },
+    "takaichi_sanae": {
+      "meetings": 16,
+      "speeches": 18
+    },
+    "takemasa_kouichi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "takeuchi_chiharu": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "takeuchi_shinji": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "takeuchi_yuzuru": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "takeya_toshiko": {
+      "meetings": 9,
+      "speeches": 11
+    },
+    "takezume_hitoshi": {
+      "meetings": 1,
+      "speeches": 2
+    },
+    "takinami_hirofumi": {
+      "meetings": 2,
+      "speeches": 3
+    },
+    "tamaki_yuuichirou": {
+      "meetings": 2,
+      "speeches": 3
+    },
+    "tamura_mami": {
+      "meetings": 6,
+      "speeches": 13
+    },
+    "tamura_norihisa": {
+      "meetings": 12,
+      "speeches": 17
+    },
+    "tamura_takaaki": {
+      "meetings": 12,
+      "speeches": 15
+    },
+    "tamura_tomoko": {
+      "meetings": 22,
+      "speeches": 36
+    },
+    "tanabu_masayo": {
+      "meetings": 7,
+      "speeches": 10
+    },
+    "tanahashi_yasufumi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "tanaka_kazunori": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "tanaka_ken": {
+      "meetings": 14,
+      "speeches": 39
+    },
+    "tanaka_ryousei": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "tani_kouichi": {
+      "meetings": 3,
+      "speeches": 4
+    },
+    "taniai_masaaki": {
+      "meetings": 7,
+      "speeches": 12
+    },
+    "tatsumi_koutarou": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "tenbata_daisuke": {
+      "meetings": 37,
+      "speeches": 67
+    },
+    "tokunaga_eri": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "tomonou_rio": {
+      "meetings": 1,
+      "speeches": 4
+    },
+    "tsujimoto_kiyomi": {
+      "meetings": 0,
+      "speeches": 0
+    },
+    "tsumura_keisuke": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "tsunoda_hideo": {
+      "meetings": 12,
+      "speeches": 19
+    },
+    "tsuruho_yousuke": {
+      "meetings": 0,
+      "speeches": 0
+    },
+    "tsushima_jun": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "uchikoshi_sakura": {
+      "meetings": 10,
+      "speeches": 22
+    },
+    "ueda_eishun": {
+      "meetings": 1,
+      "speeches": 5
+    },
+    "ueda_isamu": {
+      "meetings": 3,
+      "speeches": 5
+    },
+    "ueda_kiyoshi": {
+      "meetings": 3,
+      "speeches": 4
+    },
+    "ueno_kenichirou": {
+      "meetings": 0,
+      "speeches": 0
+    },
+    "ueno_michiko": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "ukishima_tomoko": {
+      "meetings": 5,
+      "speeches": 5
+    },
+    "umemura_mizuho": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "umemura_satoshi": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "umetani_mamoru": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "urano_yasuto": {
+      "meetings": 5,
+      "speeches": 5
+    },
+    "uruma_jouji": {
+      "meetings": 1,
+      "speeches": 2
+    },
+    "usui_shouichi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "wakabayashi_youhei": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "wanibuchi_youko": {
+      "meetings": 6,
+      "speeches": 7
+    },
+    "waseda_yuki": {
+      "meetings": 27,
+      "speeches": 38
+    },
+    "yahata_ai": {
+      "meetings": 3,
+      "speeches": 5
+    },
+    "yamada_katsuhiko": {
+      "meetings": 6,
+      "speeches": 14
+    },
+    "yamada_kenji": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "yamada_tarou": {
+      "meetings": 6,
+      "speeches": 9
+    },
+    "yamagishi_issei": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "yamaguchi_shunichi": {
+      "meetings": 2,
+      "speeches": 7
+    },
+    "yamahana_ikuo": {
+      "meetings": 5,
+      "speeches": 5
+    },
+    "yamamoto_tarou": {
+      "meetings": 4,
+      "speeches": 4
+    },
+    "yamanoi_kazunori": {
+      "meetings": 83,
+      "speeches": 189
+    },
+    "yamasaki_masayasu": {
+      "meetings": 2,
+      "speeches": 3
+    },
+    "yamashita_takashi": {
+      "meetings": 4,
+      "speeches": 4
+    },
+    "yamashita_yuuhei": {
+      "meetings": 4,
+      "speeches": 5
+    },
+    "yamazaki_makoto": {
+      "meetings": 2,
+      "speeches": 4
+    },
+    "yamazoe_taku": {
+      "meetings": 6,
+      "speeches": 6
+    },
+    "yanagisawa_tsuyoshi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "yatagawa_hajime": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "yokosawa_takanori": {
+      "meetings": 6,
+      "speeches": 13
+    },
+    "yokoyama_shinichi": {
+      "meetings": 3,
+      "speeches": 3
+    },
+    "yoshida_harumi": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "yoshida_nobuhiro": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "yoshida_shinji": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "yoshida_tadatomo": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "yoshikawa_hajime": {
+      "meetings": 2,
+      "speeches": 2
+    },
+    "yoshikawa_saori": {
+      "meetings": 1,
+      "speeches": 1
+    },
+    "yunoki_michiyoshi": {
+      "meetings": 15,
+      "speeches": 22
+    }
+  }
+}

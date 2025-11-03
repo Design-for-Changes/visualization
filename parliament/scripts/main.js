@@ -1,8 +1,8 @@
 const searchInput = document.querySelector('#search');
-const chamberSelect = document.querySelector('#chamber');
 const resultsContainer = document.querySelector('#results');
 
 let members = [];
+let speechStats = {};
 
 const SOCIAL_LABELS = {
   x: 'X',
@@ -13,14 +13,21 @@ const SOCIAL_LABELS = {
 };
 
 const TABLE_STRUCTURE = [
-  { key: 'name', label: '議員', icon: null },
-  { key: 'homepage', label: '公式サイト', icon: '🏠' },
-  { key: 'profile', label: '国会プロフィール', icon: '🏛️' },
-  { key: 'x', label: 'X', icon: '✕' },
-  { key: 'facebook', label: 'Facebook', icon: 'f' },
-  { key: 'instagram', label: 'Instagram', icon: '📷' },
-  { key: 'youtube', label: 'YouTube', icon: '▶' },
-  { key: 'note_blog', label: 'note/blog', icon: '✎' }
+  { key: 'name', label: '議員', iconClass: null },
+  {
+    key: 'speech_count',
+    label: '発',
+    iconClass: null,
+    headerClass: 'col-speech',
+    cellClass: 'speech-count'
+  },
+  { key: 'profile', label: '国会プロフィール', iconClass: 'fa-solid fa-landmark' },
+  { key: 'homepage', label: '公式サイト', iconClass: 'fa-solid fa-house' },
+  { key: 'x', label: 'X', iconClass: 'fa-brands fa-x-twitter' },
+  { key: 'facebook', label: 'Facebook', iconClass: 'fa-brands fa-facebook-f' },
+  { key: 'instagram', label: 'Instagram', iconClass: 'fa-brands fa-instagram' },
+  { key: 'youtube', label: 'YouTube', iconClass: 'fa-brands fa-youtube' },
+  { key: 'note_blog', label: 'note/blog', iconClass: 'fa-solid fa-pen-to-square' }
 ];
 
 const DEFAULT_PARTY = '所属未確認';
@@ -28,11 +35,23 @@ const collator = new Intl.Collator('ja');
 
 async function loadMembers() {
   try {
-    const response = await fetch('data/diet_members_socials_enriched.json');
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const [membersRes, indexRes] = await Promise.all([
+      fetch('data/diet_members_socials_enriched.json'),
+      fetch('data/member_speeches_index.json').catch(() => null)
+    ]);
 
-    const payload = await response.json();
+    if (!membersRes.ok) throw new Error(`HTTP ${membersRes.status}`);
+
+    const payload = await membersRes.json();
     members = Array.isArray(payload) ? payload : payload.members ?? [];
+
+    if (indexRes && indexRes.ok) {
+      const indexPayload = await indexRes.json();
+      speechStats = indexPayload?.index ?? {};
+    } else {
+      speechStats = {};
+    }
+
     renderMembers(members);
   } catch (error) {
     console.error(error);
@@ -42,17 +61,15 @@ async function loadMembers() {
 
 function filterMembers() {
   const term = searchInput.value.trim().toLowerCase();
-  const chamber = chamberSelect.value;
-
   const filtered = members.filter((member) => {
-    if (chamber && member.chamber !== chamber) return false;
     if (!term) return true;
 
     const haystack = [
       member.member_name,
       member.kana,
       member.party,
-      member.profile_url
+      member.profile_url,
+      member.slug
     ]
       .filter(Boolean)
       .join(' ')
@@ -72,6 +89,7 @@ function renderMembers(list) {
   }
 
   const grouped = groupByPartyAndChamber(list);
+  const hasSearchTerm = Boolean(searchInput?.value.trim());
   const sections = grouped
     .map(([partyName, chamberMap, partyCount]) => {
       const chamberSections = sortChambers(Array.from(chamberMap.entries()))
@@ -98,11 +116,17 @@ function renderMembers(list) {
         })
         .join('');
 
+      const openAttr = hasSearchTerm ? ' open' : '';
+
       return `
-        <section class="party-group">
-          <h2 class="party-header">${partyName}（${partyCount}名）</h2>
-          ${chamberSections}
-        </section>
+        <details class="party-group"${openAttr}>
+          <summary class="party-summary">
+            <span class="party-title">${partyName}</span>
+            <span class="party-count">${partyCount}名</span>
+            <i class="fa-solid fa-chevron-down party-toggle" aria-hidden="true"></i>
+          </summary>
+          <div class="party-content">${chamberSections}</div>
+        </details>
       `;
     })
     .join('');
@@ -155,7 +179,18 @@ function renderMemberRow(member) {
 
   const cells = TABLE_STRUCTURE.map((column) => {
     if (column.key === 'name') {
-      return `<td class="cell-name">${member.member_name ?? '氏名不明'}</td>`;
+      const name = member.member_name ?? '氏名不明';
+      if (member.slug) {
+        const href = `member.html?slug=${encodeURIComponent(member.slug)}`;
+        return `<td class="cell-name"><a href="${href}">${name}</a></td>`;
+      }
+      return `<td class="cell-name">${name}</td>`;
+    }
+
+    if (column.key === 'speech_count') {
+      const stats = member.slug ? speechStats[member.slug] : undefined;
+      const count = stats?.speeches ?? 0;
+      return `<td class="link-cell speech-count">${count ? count : '—'}</td>`;
     }
 
     let url;
@@ -167,39 +202,39 @@ function renderMemberRow(member) {
       url = socials[column.key];
     }
 
-    return `<td class="link-cell">${renderLink(url, column)}</td>`;
+    const extraClass = column.cellClass ? ` ${column.cellClass}` : '';
+    return `<td class="link-cell${extraClass}">${renderLink(url, column)}</td>`;
   });
 
   return `<tr>${cells.join('')}</tr>`;
 }
 
 function renderLink(url, column) {
-  const icon = column.icon ?? '';
-  const label = column.label;
+  const { iconClass, label } = column;
   if (!url) {
     return '<span>—</span>';
   }
   return `
     <a href="${url}" target="_blank" rel="noreferrer noopener" class="icon-link">
-      <span class="icon" aria-hidden="true">${icon}</span>
+      ${iconClass ? `<i class="${iconClass} icon" aria-hidden="true"></i>` : ''}
       <span class="sr-only">${label}を開く</span>
     </a>
   `;
 }
 
 function renderHeaderCell(column) {
-  if (!column.icon) {
-    return `<th>${column.label}</th>`;
+  const classAttr = column.headerClass ? ` class="${column.headerClass}"` : '';
+  if (!column.iconClass) {
+    return `<th${classAttr}>${column.label}</th>`;
   }
   return `
-    <th>
-      <span class="icon" aria-hidden="true">${column.icon}</span>
+    <th${classAttr}>
+      <i class="${column.iconClass} icon" aria-hidden="true"></i>
       <span class="sr-only">${column.label}</span>
     </th>
   `;
 }
 
 searchInput?.addEventListener('input', filterMembers);
-chamberSelect?.addEventListener('change', filterMembers);
 
 loadMembers();

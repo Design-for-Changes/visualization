@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>議員発言サマリー</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="styles/styles.css" />
+    <link rel="stylesheet" href="styles/hino.css" />
+  </head>
+  <body>
+    <header class="member-header">
+      <a class="back-link" href="index.html">← 一覧ページに戻る</a>
+      <h1 data-member-name>議員発言サマリー</h1>
+      <p class="note" data-member-meta></p>
+    </header>
+
+    <main>
+      <section id="summary">
+        <p class="placeholder">データを読み込み中...</p>
+        <div class="speech-list" hidden></div>
+        <button type="button" class="load-more" hidden>もっと読む</button>
+      </section>
+    </main>
+
+    <footer>
+      <small>
+        取得元:
+        <a href="https://kokkai.ndl.go.jp/" target="_blank" rel="noreferrer noopener"
+          >国会会議録検索システム</a
+        >
+      </small>
+    </footer>
+
+    <script src="scripts/member.js" type="module"></script>
+  </body>
+</html>
