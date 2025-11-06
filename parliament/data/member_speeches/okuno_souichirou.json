@@ -88,5 +88,25 @@
         }
       ]
     }
-  ]
+  ],
+  "written_questions": [
+    {
+      "session": 211,
+      "number": 122,
+      "title": "特別児童扶養手当の所得制限撤廃に関する質問主意書",
+      "submitter": "奥野総一郎君",
+      "status": "答弁受理",
+      "matched_keywords": [
+        "特別児童扶養手当"
+      ],
+      "source_listing_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/kaiji211_l.htm",
+      "question_id": "a211122",
+      "history_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/211122.htm",
+      "question_html_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a211122.htm",
+      "question_pdf_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon_pdf_s.nsf/html/shitsumon/pdfS/a211122.pdf/$File/a211122.pdf",
+      "answer_html_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/b211122.htm",
+      "answer_pdf_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon_pdf_t.nsf/html/shitsumon/pdfT/b211122.pdf/$File/b211122.pdf"
+    }
+  ],
+  "written_questions_merged_at": "2025-11-06T08:11:47.454946+00:00"
 }

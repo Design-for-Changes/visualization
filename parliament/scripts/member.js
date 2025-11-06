@@ -3,6 +3,9 @@ const loadMoreButton = document.querySelector(".load-more");
 const placeholder = document.querySelector("#summary .placeholder");
 const memberNameEl = document.querySelector('[data-member-name]');
 const memberMetaEl = document.querySelector('[data-member-meta]');
+const questionsSection = document.querySelector('#questions');
+const questionsPlaceholder = questionsSection?.querySelector('.placeholder');
+const questionsList = document.querySelector('.question-list');
 
 const params = new URLSearchParams(window.location.search);
 const slug = params.get('slug');
@@ -53,15 +56,27 @@ function render(records) {
       const speeches = Array.isArray(meeting?.speeches) ? meeting.speeches.length : 0;
       return sum + speeches;
     }, 0);
+    const writtenQuestions = Array.isArray(records.written_questions)
+      ? records.written_questions
+      : [];
+    const questionCount = writtenQuestions.length;
     if (memberMetaEl) {
-      memberMetaEl.textContent = `発言数: ${speechCount} / 会議: ${meetingCount}`;
+      const metaParts = [
+        `主意書: ${questionCount}`,
+        `発言数: ${speechCount}`,
+        `会議: ${meetingCount}`
+      ];
+      memberMetaEl.textContent = metaParts.join(' / ');
     }
+    renderWrittenQuestions(writtenQuestions);
   } else if (memberNameEl && slug) {
     memberNameEl.textContent = slug;
   }
 
   if (!Array.isArray(groupData) || groupData.length === 0) {
     if (placeholder) placeholder.textContent = "該当する発言がありませんでした。";
+    meetingGroups = [];
+    if (loadMoreButton) loadMoreButton.hidden = true;
     return;
   }
   placeholder?.remove();
@@ -76,6 +91,33 @@ function render(records) {
   visibleCount = Math.min(PAGE_SIZE, meetingGroups.length);
   renderVisibleGroups();
   updateLoadMoreButton();
+}
+
+function renderWrittenQuestions(list) {
+  if (!questionsSection || !questionsList) return;
+
+  const items = Array.isArray(list) ? [...list] : [];
+  if (!items.length) {
+    questionsPlaceholder && (questionsPlaceholder.textContent = '該当する質問主意書はありません。');
+    questionsSection.hidden = false;
+    questionsList.hidden = true;
+    return;
+  }
+
+  const sorted = items.sort((a, b) => {
+    const sessionDiff = (b.session ?? 0) - (a.session ?? 0);
+    if (sessionDiff !== 0) return sessionDiff;
+    return (b.number ?? 0) - (a.number ?? 0);
+  });
+
+  const markup = sorted
+    .map((question) => renderQuestionItem(question))
+    .join('');
+
+  questionsPlaceholder?.remove();
+  questionsList.hidden = false;
+  questionsSection.hidden = false;
+  questionsList.innerHTML = markup;
 }
 
 loadData();
@@ -143,6 +185,10 @@ function renderVisibleGroups() {
 
 function updateLoadMoreButton() {
   if (!loadMoreButton) return;
+  if (meetingGroups.length <= PAGE_SIZE) {
+    loadMoreButton.hidden = true;
+    return;
+  }
   const hasMore = visibleCount < meetingGroups.length;
   loadMoreButton.hidden = !hasMore;
   if (hasMore) {
@@ -169,6 +215,51 @@ function renderSpeechItem(speech) {
     <li class="speech-card__item">
       ${order ? `<a class="speech-card__order-link" href="${speech.speechURL}" target="_blank" rel="noreferrer noopener" aria-label="発言番号">${order}</a>` : ""}
       <div class="speech-card__summary">${content}</div>
+    </li>
+  `;
+}
+
+function renderQuestionItem(question) {
+  const {
+    title,
+    session,
+    number,
+    status,
+    question_html_url,
+    question_pdf_url,
+    answer_html_url,
+    answer_pdf_url,
+    matched_keywords = []
+  } = question ?? {};
+
+  const sessionLabel = session ? `第${session}回` : '';
+  const numberLabel = typeof number === 'number' ? `第${number}号` : '';
+  const metaParts = [sessionLabel, numberLabel, status].filter(Boolean);
+  const keywordTags = Array.isArray(matched_keywords) && matched_keywords.length
+    ? `<ul class="question-tags">${matched_keywords.map((kw) => `<li>${kw}</li>`).join('')}</ul>`
+    : '';
+
+  const linkItems = [
+    question_html_url && `<a href="${question_html_url}" target="_blank" rel="noreferrer noopener">質問 (HTML)</a>`,
+    question_pdf_url && `<a href="${question_pdf_url}" target="_blank" rel="noreferrer noopener">質問PDF</a>`,
+    answer_html_url && `<a href="${answer_html_url}" target="_blank" rel="noreferrer noopener">答弁 (HTML)</a>`,
+    answer_pdf_url && `<a href="${answer_pdf_url}" target="_blank" rel="noreferrer noopener">答弁PDF</a>`
+  ].filter(Boolean);
+
+  const links = linkItems.length
+    ? `<div class="question-links">${linkItems.map((item) => `<span>${item}</span>`).join('')}</div>`
+    : '';
+
+  return `
+    <li class="question-item">
+      <h3>
+        ${question_html_url
+          ? `<a href="${question_html_url}" target="_blank" rel="noreferrer noopener">${title ?? 'タイトル不明'}</a>`
+          : (title ?? 'タイトル不明')}
+      </h3>
+      ${metaParts.length ? `<p class="question-meta">${metaParts.join(' / ')}</p>` : ''}
+      ${links}
+      ${keywordTags}
     </li>
   `;
 }

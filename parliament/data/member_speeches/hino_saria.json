@@ -132,5 +132,26 @@
         }
       ]
     }
-  ]
+  ],
+  "written_questions": [
+    {
+      "session": 219,
+      "number": 1,
+      "title": "就労系障害福祉サービスにおける在宅支援に関する質問主意書",
+      "submitter": "日野紗里亜君",
+      "status": "答弁受理",
+      "matched_keywords": [
+        "障害福祉",
+        "障害 福祉"
+      ],
+      "source_listing_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/kaiji219_l.htm",
+      "question_id": "a219001",
+      "history_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/219001.htm",
+      "question_html_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a219001.htm",
+      "question_pdf_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon_pdf_s.nsf/html/shitsumon/pdfS/a219001.pdf/$File/a219001.pdf",
+      "answer_html_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/b219001.htm",
+      "answer_pdf_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon_pdf_t.nsf/html/shitsumon/pdfT/b219001.pdf/$File/b219001.pdf"
+    }
+  ],
+  "written_questions_merged_at": "2025-11-06T08:11:47.452048+00:00"
 }

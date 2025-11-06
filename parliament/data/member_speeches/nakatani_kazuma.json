@@ -33,5 +33,25 @@
         }
       ]
     }
-  ]
+  ],
+  "written_questions": [
+    {
+      "session": 217,
+      "number": 318,
+      "title": "保育所等における医療的ケア児の支援のための看護師配置等に関する質問主意書",
+      "submitter": "中谷一馬君",
+      "status": "答弁受理",
+      "matched_keywords": [
+        "医療的ケア児"
+      ],
+      "source_listing_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/kaiji217_l.htm",
+      "question_id": "a217318",
+      "history_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/217318.htm",
+      "question_html_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a217318.htm",
+      "question_pdf_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon_pdf_s.nsf/html/shitsumon/pdfS/a217318.pdf/$File/a217318.pdf",
+      "answer_html_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/b217318.htm",
+      "answer_pdf_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon_pdf_t.nsf/html/shitsumon/pdfT/b217318.pdf/$File/b217318.pdf"
+    }
+  ],
+  "written_questions_merged_at": "2025-11-06T08:11:47.454549+00:00"
 }

@@ -34,5 +34,25 @@
       ]
     }
   ],
-  "postprocessed_at": "2025-11-03T15:10:12.664288+00:00"
+  "postprocessed_at": "2025-11-03T15:10:12.664288+00:00",
+  "written_questions": [
+    {
+      "session": 217,
+      "number": 309,
+      "title": "医療的ケア児の入院差額ベッド代に関する質問主意書",
+      "submitter": "吉田はるみ君",
+      "status": "答弁受理",
+      "matched_keywords": [
+        "医療的ケア児"
+      ],
+      "source_listing_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/kaiji217_l.htm",
+      "question_id": "a217309",
+      "history_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/217309.htm",
+      "question_html_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/a217309.htm",
+      "question_pdf_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon_pdf_s.nsf/html/shitsumon/pdfS/a217309.pdf/$File/a217309.pdf",
+      "answer_html_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon.nsf/html/shitsumon/b217309.htm",
+      "answer_pdf_url": "https://www.shugiin.go.jp/internet/itdb_shitsumon_pdf_t.nsf/html/shitsumon/pdfT/b217309.pdf/$File/b217309.pdf"
+    }
+  ],
+  "written_questions_merged_at": "2025-11-06T08:11:47.454107+00:00"
 }

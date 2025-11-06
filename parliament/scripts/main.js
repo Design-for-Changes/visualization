@@ -15,6 +15,13 @@ const SOCIAL_LABELS = {
 const TABLE_STRUCTURE = [
   { key: 'name', label: '議員', iconClass: null },
   {
+    key: 'question_count',
+    label: '主意',
+    iconClass: null,
+    headerClass: 'col-questions',
+    cellClass: 'question-count'
+  },
+  {
     key: 'speech_count',
     label: '発',
     iconClass: null,
@@ -191,6 +198,12 @@ function renderMemberRow(member) {
       const stats = member.slug ? speechStats[member.slug] : undefined;
       const count = stats?.speeches ?? 0;
       return `<td class="link-cell speech-count">${count ? count : '—'}</td>`;
+    }
+
+    if (column.key === 'question_count') {
+      const stats = member.slug ? speechStats[member.slug] : undefined;
+      const count = stats?.written_questions ?? 0;
+      return `<td class="link-cell question-count">${count ? count : '—'}</td>`;
     }
 
     let url;

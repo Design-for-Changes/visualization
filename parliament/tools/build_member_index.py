@@ -24,9 +24,13 @@ def main() -> None:
                 speeches = meeting.get('speeches') if isinstance(meeting, dict) else []
                 if isinstance(speeches, list):
                     speech_count += len(speeches)
+        written_questions = data.get('written_questions')
+        question_count = len(written_questions) if isinstance(written_questions, list) else 0
+
         index[slug] = {
             'meetings': meeting_count,
             'speeches': speech_count,
+            'written_questions': question_count,
         }
     payload = {
         'generated_at': datetime.now(timezone.utc).isoformat(),
