@@ -28,6 +28,13 @@ const TABLE_STRUCTURE = [
     headerClass: 'col-speech',
     cellClass: 'speech-count'
   },
+  {
+    key: 'disability_signal',
+    label: 'HP',
+    iconClass: null,
+    headerClass: 'col-disability',
+    cellClass: 'disability-flag-cell'
+  },
   { key: 'profile', label: '国会プロフィール', iconClass: 'fa-solid fa-landmark' },
   { key: 'homepage', label: '公式サイト', iconClass: 'fa-solid fa-house' },
   { key: 'x', label: 'X', iconClass: 'fa-brands fa-x-twitter' },
@@ -206,6 +213,12 @@ function renderMemberRow(member) {
       return `<td class="link-cell question-count">${count ? count : '—'}</td>`;
     }
 
+    if (column.key === 'disability_signal') {
+      const stats = member.slug ? speechStats[member.slug] : undefined;
+      const signal = stats?.has_disability_welfare_signal;
+      return `<td class="disability-flag-cell">${renderDisabilitySignal(signal)}</td>`;
+    }
+
     let url;
     if (column.key === 'homepage') {
       url = member.homepage;
@@ -220,6 +233,13 @@ function renderMemberRow(member) {
   });
 
   return `<tr>${cells.join('')}</tr>`;
+}
+
+function renderDisabilitySignal(value) {
+  if (value === true) {
+    return '<span class="signal-pill signal-pill--yes" title="障害福祉関連の情報を公式サイトで確認済み">あり</span>';
+  }
+  return '<span class="signal-pill signal-pill--unknown" title="未確認・関連情報なし・サイト未取得">-</span>';
 }
 
 function renderLink(url, column) {

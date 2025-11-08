@@ -204,6 +204,45 @@ header h1 {
   color: #12b76a;
 }
 
+.member-table th.col-disability {
+  color: #026aa2;
+  font-weight: 600;
+  text-align: center;
+}
+
+.member-table .disability-flag-cell {
+  text-align: center;
+}
+
+.signal-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  border: 1px solid transparent;
+}
+
+.signal-pill--yes {
+  background: #ecfdf3;
+  color: #047857;
+  border-color: #a6f4c5;
+}
+
+.signal-pill--no {
+  background: #fef3f2;
+  color: #b42318;
+  border-color: #fdd8d3;
+}
+
+.signal-pill--unknown {
+  background: #f2f4f7;
+  color: #475467;
+  border-color: #e4e7ec;
+}
+
 #questions {
   margin-top: 2rem;
   padding-top: 1.5rem;
