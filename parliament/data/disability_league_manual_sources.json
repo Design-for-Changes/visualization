@@ -1,0 +1,1601 @@
+{
+  "generated_at": "2025-11-09T08:43:40.532083+00:00",
+  "leagues": {
+    "policy_promotion": {
+      "league_id": "policy_promotion",
+      "league_name": "障がい者政策推進議員連盟",
+      "members": [
+        {
+          "name": "枝野幸男",
+          "slug": "edano_yukio",
+          "source": "https://ja.wikipedia.org/wiki/%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E6%94%BF%E7%AD%96%E6%8E%A8%E9%80%B2%E8%AD%B0%E5%93%A1%E9%80%A3%E7%9B%9F"
+        },
+        {
+          "name": "逢坂誠二",
+          "slug": "oosaka_seiji",
+          "source": "https://ja.wikipedia.org/wiki/%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E6%94%BF%E7%AD%96%E6%8E%A8%E9%80%B2%E8%AD%B0%E5%93%A1%E9%80%A3%E7%9B%9F"
+        },
+        {
+          "name": "玄葉光一郎",
+          "slug": "genba_kouichirou",
+          "source": "https://ja.wikipedia.org/wiki/%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E6%94%BF%E7%AD%96%E6%8E%A8%E9%80%B2%E8%AD%B0%E5%93%A1%E9%80%A3%E7%9B%9F"
+        },
+        {
+          "name": "階猛",
+          "slug": "shina_takeshi",
+          "source": "https://ja.wikipedia.org/wiki/%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E6%94%BF%E7%AD%96%E6%8E%A8%E9%80%B2%E8%AD%B0%E5%93%A1%E9%80%A3%E7%9B%9F"
+        },
+        {
+          "name": "寺田学",
+          "slug": "terata_manabu",
+          "source": "https://ja.wikipedia.org/wiki/%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E6%94%BF%E7%AD%96%E6%8E%A8%E9%80%B2%E8%AD%B0%E5%93%A1%E9%80%A3%E7%9B%9F"
+        },
+        {
+          "name": "松木謙公",
+          "slug": "matsuki_kenkou",
+          "source": "https://ja.wikipedia.org/wiki/%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E6%94%BF%E7%AD%96%E6%8E%A8%E9%80%B2%E8%AD%B0%E5%93%A1%E9%80%A3%E7%9B%9F"
+        },
+        {
+          "name": "田名部匡代",
+          "slug": "tanabu_masayo",
+          "source": "https://ja.wikipedia.org/wiki/%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E6%94%BF%E7%AD%96%E6%8E%A8%E9%80%B2%E8%AD%B0%E5%93%A1%E9%80%A3%E7%9B%9F"
+        }
+      ],
+      "unmatched": [
+        {
+          "name": "朝日俊弘",
+          "party": null
+        },
+        {
+          "name": "金田誠一",
+          "party": null
+        },
+        {
+          "name": "鳩山由紀夫",
+          "party": null
+        },
+        {
+          "name": "三井辨雄",
+          "party": null
+        },
+        {
+          "name": "園田康博",
+          "party": null
+        },
+        {
+          "name": "仙谷由人",
+          "party": null
+        },
+        {
+          "name": "谷博之",
+          "party": null
+        },
+        {
+          "name": "岡崎トミ子",
+          "party": null
+        },
+        {
+          "name": "吉田泉",
+          "party": null
+        },
+        {
+          "name": "郡和子",
+          "party": null
+        },
+        {
+          "name": "川端達夫",
+          "party": null
+        },
+        {
+          "name": "大畠章宏",
+          "party": null
+        },
+        {
+          "name": "太田和美",
+          "party": null
+        },
+        {
+          "name": "佐々木隆博",
+          "party": null
+        },
+        {
+          "name": "障がい者政策推進議員連盟",
+          "party": null
+        }
+      ]
+    },
+    "income_improvement": {
+      "league_id": "income_improvement",
+      "league_name": "障がい者の自立のために所得向上をめざす議員連盟",
+      "members": [
+        {
+          "name": "福島 みずほ",
+          "slug": "fukushima_mizuho",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "山井 和則",
+          "slug": "yamanoi_kazunori",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "小宮山 泰子",
+          "slug": "komiyama_yasuko",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "森 ゆうこ",
+          "slug": "mori_yuuko",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "田村 智子",
+          "slug": "tamura_tomoko",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "安藤 裕",
+          "slug": "andou_hiroshi",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "石橋 通宏",
+          "slug": "ishibashi_michihiro",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "笹川 博義",
+          "slug": "sasagawa_hiroyoshi",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "田畑 裕明",
+          "slug": "tabata_hiroaki",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "玉木 雄一郎",
+          "slug": "tamaki_yuuichirou",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "寺田 静",
+          "slug": "terata_shizuka",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "冨樫 博之",
+          "slug": "togashi_hiroyuki",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "中谷 真一",
+          "slug": "nakatani_shinichi",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "芳賀 道也",
+          "slug": "haga_michiya",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "馬場 成志",
+          "slug": "baba_seishi",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "平木 大作",
+          "slug": "hiraki_daisaku",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "平口 洋",
+          "slug": "hiraguchi_hiroshi",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "平山 佐知子",
+          "slug": "hirayama_sachiko",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "藤井 比早之",
+          "slug": "fujii_hisayuki",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "山田 太郎",
+          "slug": "yamada_tarou",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "赤澤 亮正",
+          "slug": "akazawa_ryousei",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "足立 康史",
+          "slug": "adachi_yasushi",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "池田 真紀",
+          "slug": "ikeda_maki",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "石破 茂",
+          "slug": "ishiba_shigeru",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "岩田 和親",
+          "slug": "iwata_kazuchika",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "遠藤 利明",
+          "slug": "endou_toshiaki",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "逢坂 誠二",
+          "slug": "oosaka_seiji",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "大岡 敏孝",
+          "slug": "oooka_toshitaka",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "奥野 総一郎",
+          "slug": "okuno_souichirou",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "海江田 万里",
+          "slug": "kaieda_banri",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "勝俣 孝明",
+          "slug": "katsumata_takaaki",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "金子 恵美",
+          "slug": "kaneko_emi",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "上川 陽子",
+          "slug": "kamikawa_youko",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "木原 誠二",
+          "slug": "kihara_seiji",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "工藤 彰三",
+          "slug": "kudou_shouzou",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "黒岩 宇洋",
+          "slug": "kuroiwa_takahiro",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "源馬 謙太郎",
+          "slug": "genma_kentarou",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "國場 幸之助",
+          "slug": "kokuba_kounosuke",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "後藤 茂之",
+          "slug": "gotou_shigeyuki",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "斎藤 洋明",
+          "slug": "saitou_hiroaki",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "末松 義規",
+          "slug": "suematsu_yoshinori",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "高井 崇志",
+          "slug": "takai_takashi",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "田嶋 要",
+          "slug": "tajima_kaname",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "田村 憲久",
+          "slug": "tamura_norihisa",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "中村 裕之",
+          "slug": "nakamura_hiroyuki",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "福山 守",
+          "slug": "fukuyama_mamoru",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "藤丸 敏",
+          "slug": "fujimaru_satoshi",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "細野 豪志",
+          "slug": "hosono_goushi",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "堀内 詔子",
+          "slug": "horiuchi_noriko",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "前原 誠司",
+          "slug": "maehara_seiji",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "松本 洋平",
+          "slug": "matsumoto_youhei",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "道下 大樹",
+          "slug": "michishita_daiki",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "御法川 信英",
+          "slug": "minorikawa_nobuhide",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "宮内 秀樹",
+          "slug": "miyauchi_hideki",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "武藤 容治",
+          "slug": "mutou_youji",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "村井 英樹",
+          "slug": "murai_hideki",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "山口 俊一",
+          "slug": "yamaguchi_shunichi",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "屋良 朝博",
+          "slug": "yara_tomohiro",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "笠 浩史",
+          "slug": "ryuu_hirofumi",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "朝日 健太郎",
+          "slug": "asahi_kentarou",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "猪口 邦子",
+          "slug": "inoguchi_kuniko",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "今井 絵理子",
+          "slug": "imai_eriko",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "嘉田 由紀子",
+          "slug": "kada_yukiko",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "北村 経夫",
+          "slug": "kitamura_tsuneo",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "小西 洋之",
+          "slug": "konishi_hiroyuki",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "榛葉 賀津也",
+          "slug": "shinba_kazuya",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "滝波 宏文",
+          "slug": "takinami_hirofumi",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "竹谷 とし子",
+          "slug": "takeya_toshiko",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "宮崎 勝",
+          "slug": "miyazaki_masaru",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "森本 真治",
+          "slug": "morimoto_shinji",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "横山 信一",
+          "slug": "yokoyama_shinichi",
+          "source": "https://www.alon-alon.org/about/parliamentarians.html"
+        },
+        {
+          "name": "福島みずほ",
+          "slug": "fukushima_mizuho",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "山井和則",
+          "slug": "yamanoi_kazunori",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "小宮山泰子",
+          "slug": "komiyama_yasuko",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "森ゆうこ",
+          "slug": "mori_yuuko",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "田村智子",
+          "slug": "tamura_tomoko",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "安藤裕",
+          "slug": "andou_hiroshi",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "石橋通宏",
+          "slug": "ishibashi_michihiro",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "笹川博義",
+          "slug": "sasagawa_hiroyoshi",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "田畑裕明",
+          "slug": "tabata_hiroaki",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "玉木雄一郎",
+          "slug": "tamaki_yuuichirou",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "寺田静",
+          "slug": "terata_shizuka",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "冨樫博之",
+          "slug": "togashi_hiroyuki",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "中谷真一",
+          "slug": "nakatani_shinichi",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "芳賀道也",
+          "slug": "haga_michiya",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "馬場成志",
+          "slug": "baba_seishi",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "平木大作",
+          "slug": "hiraki_daisaku",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "平口洋",
+          "slug": "hiraguchi_hiroshi",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "平山佐知子",
+          "slug": "hirayama_sachiko",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "藤井比早之",
+          "slug": "fujii_hisayuki",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "山田太郎",
+          "slug": "yamada_tarou",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "赤澤亮正",
+          "slug": "akazawa_ryousei",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "足立康史",
+          "slug": "adachi_yasushi",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "池田真紀",
+          "slug": "ikeda_maki",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "石破茂",
+          "slug": "ishiba_shigeru",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "岩田和親",
+          "slug": "iwata_kazuchika",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "遠藤利明",
+          "slug": "endou_toshiaki",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "逢坂誠二",
+          "slug": "oosaka_seiji",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "大岡敏孝",
+          "slug": "oooka_toshitaka",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "奥野総一郎",
+          "slug": "okuno_souichirou",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "海江田万里",
+          "slug": "kaieda_banri",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "勝俣孝明",
+          "slug": "katsumata_takaaki",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "金子恵美",
+          "slug": "kaneko_emi",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "上川陽子",
+          "slug": "kamikawa_youko",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "木原誠二",
+          "slug": "kihara_seiji",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "工藤彰三",
+          "slug": "kudou_shouzou",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "黒岩宇洋",
+          "slug": "kuroiwa_takahiro",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "源馬謙太郎",
+          "slug": "genma_kentarou",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "國場幸之助",
+          "slug": "kokuba_kounosuke",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "後藤茂之",
+          "slug": "gotou_shigeyuki",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "斎藤洋明",
+          "slug": "saitou_hiroaki",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "末松義規",
+          "slug": "suematsu_yoshinori",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "高井崇志",
+          "slug": "takai_takashi",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        },
+        {
+          "name": "田嶋要",
+          "slug": "tajima_kaname",
+          "source": "https://www.sks-center.co.jp/cms/wp-content/uploads/2025/07/250715.pdf"
+        }
+      ],
+      "unmatched": [
+        {
+          "name": "塩崎 恭久",
+          "party": "自由民主党"
+        },
+        {
+          "name": "鴨下 一郎",
+          "party": "自由民主党"
+        },
+        {
+          "name": "高木 美智代",
+          "party": "公明党"
+        },
+        {
+          "name": "水落 敏栄",
+          "party": "自由民主党"
+        },
+        {
+          "name": "山本 博司",
+          "party": "公明党"
+        },
+        {
+          "name": "藤末 健三",
+          "party": "自由民主党"
+        },
+        {
+          "name": "柿沢 未途",
+          "party": "立憲民主党"
+        },
+        {
+          "name": "神山 佐市",
+          "party": "自由民主党"
+        },
+        {
+          "name": "初鹿 明博",
+          "party": "無所属"
+        },
+        {
+          "name": "野田 国義",
+          "party": "立憲民主党"
+        },
+        {
+          "name": "安達 澄",
+          "party": "無所属"
+        },
+        {
+          "name": "穴見 陽一",
+          "party": "自由民主党"
+        },
+        {
+          "name": "井上 一徳",
+          "party": "希望の党"
+        },
+        {
+          "name": "音喜多 駿",
+          "party": "日本維新の会"
+        },
+        {
+          "name": "北村 誠吾",
+          "party": "自由民主党"
+        },
+        {
+          "name": "左藤 章",
+          "party": "自由民主党"
+        },
+        {
+          "name": "塩田 博昭",
+          "party": "公明党"
+        },
+        {
+          "name": "冨岡 勉",
+          "party": "自由民主党"
+        },
+        {
+          "name": "舩後 靖彦",
+          "party": "れいわ"
+        },
+        {
+          "name": "八木 哲也",
+          "party": "自由民主党"
+        },
+        {
+          "name": "秋元 司",
+          "party": "自由民主党"
+        },
+        {
+          "name": "安藤 高夫",
+          "party": "自由民主党"
+        },
+        {
+          "name": "伊佐 進一",
+          "party": "公明党"
+        },
+        {
+          "name": "石田 祝稔",
+          "party": "公明党"
+        },
+        {
+          "name": "今村 雅弘",
+          "party": "自由民主党"
+        },
+        {
+          "name": "大隈 和英",
+          "party": "自由民主党"
+        },
+        {
+          "name": "大口 善徳",
+          "party": "公明党"
+        },
+        {
+          "name": "小倉 将信",
+          "party": "自由民主党"
+        },
+        {
+          "name": "神田 憲次",
+          "party": "自由民主党"
+        },
+        {
+          "name": "小島 敏文",
+          "party": "自由民主党"
+        },
+        {
+          "name": "櫻田 義孝",
+          "party": "自由民主党"
+        },
+        {
+          "name": "白須賀 貴樹",
+          "party": "自由民主党"
+        },
+        {
+          "name": "田中 英之",
+          "party": "自由民主党"
+        },
+        {
+          "name": "とかしきなおみ",
+          "party": "自由民主党"
+        },
+        {
+          "name": "中川 正春",
+          "party": "立憲民主党"
+        },
+        {
+          "name": "馳  浩",
+          "party": "自由民主党"
+        },
+        {
+          "name": "濱村 進",
+          "party": "公明党"
+        },
+        {
+          "name": "日吉 雄太",
+          "party": "立憲民主党"
+        },
+        {
+          "name": "山川 百合子",
+          "party": "立憲民主党"
+        },
+        {
+          "name": "川田 龍平",
+          "party": "立憲民主党"
+        },
+        {
+          "name": "高良 鉄美",
+          "party": "沖縄"
+        },
+        {
+          "name": "羽田 雄一郎",
+          "party": "立憲民主党"
+        },
+        {
+          "name": "三宅 伸吾",
+          "party": "自由民主党"
+        },
+        {
+          "name": "山田 修路",
+          "party": "自由民主党"
+        },
+        {
+          "name": "和田 政宗",
+          "party": "自由民主党"
+        },
+        {
+          "name": "塩崎恭久",
+          "party": null
+        },
+        {
+          "name": "鴨下一郎",
+          "party": null
+        },
+        {
+          "name": "高木美智代",
+          "party": null
+        },
+        {
+          "name": "水落敏栄",
+          "party": null
+        },
+        {
+          "name": "山本博司",
+          "party": null
+        },
+        {
+          "name": "藤末健三",
+          "party": null
+        },
+        {
+          "name": "柿沢未途",
+          "party": null
+        },
+        {
+          "name": "神山佐市",
+          "party": null
+        },
+        {
+          "name": "初鹿明博",
+          "party": null
+        },
+        {
+          "name": "野田国義",
+          "party": null
+        },
+        {
+          "name": "安達澄",
+          "party": null
+        },
+        {
+          "name": "穴見陽一",
+          "party": null
+        },
+        {
+          "name": "井上一徳",
+          "party": null
+        },
+        {
+          "name": "音喜多駿",
+          "party": null
+        },
+        {
+          "name": "北村誠吾",
+          "party": null
+        },
+        {
+          "name": "左藤章",
+          "party": null
+        },
+        {
+          "name": "塩田博昭",
+          "party": null
+        },
+        {
+          "name": "冨岡勉",
+          "party": null
+        },
+        {
+          "name": "舩後靖彦",
+          "party": null
+        },
+        {
+          "name": "八木哲也",
+          "party": null
+        },
+        {
+          "name": "秋元司",
+          "party": null
+        },
+        {
+          "name": "安藤高夫",
+          "party": null
+        },
+        {
+          "name": "伊佐進一",
+          "party": null
+        },
+        {
+          "name": "石田祝稔",
+          "party": null
+        },
+        {
+          "name": "今村雅弘",
+          "party": null
+        },
+        {
+          "name": "大隈和英",
+          "party": null
+        },
+        {
+          "name": "大口善徳",
+          "party": null
+        },
+        {
+          "name": "小倉将信",
+          "party": null
+        },
+        {
+          "name": "神田憲次",
+          "party": null
+        },
+        {
+          "name": "小島敏文",
+          "party": null
+        },
+        {
+          "name": "櫻田義孝",
+          "party": null
+        },
+        {
+          "name": "白須賀貴樹",
+          "party": null
+        },
+        {
+          "name": "田中英之",
+          "party": null
+        }
+      ]
+    },
+    "intellectual_future": {
+      "league_id": "intellectual_future",
+      "league_name": "知的障がい者の明日を考える議員連盟",
+      "members": [
+        {
+          "name": "勝目康",
+          "slug": "katsume_yasushi",
+          "source": "https://www.future-welfare.com/document/%E7%AC%AC11%E5%9B%9E-%E7%9F%A5%E7%9A%84%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E3%81%AE%E6%98%8E%E6%97%A5%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%E8%AD%B0%E5%93%A1%E9%80%A3%E7%9B%9F/"
+        },
+        {
+          "name": "三原じゅん子",
+          "slug": "mihara_junko",
+          "source": "https://www.future-welfare.com/document/%E7%AC%AC11%E5%9B%9E-%E7%9F%A5%E7%9A%84%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E3%81%AE%E6%98%8E%E6%97%A5%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%E8%AD%B0%E5%93%A1%E9%80%A3%E7%9B%9F/"
+        },
+        {
+          "name": "野田聖子",
+          "slug": "noda_seiko",
+          "source": "https://www.future-welfare.com/document/%E7%AC%AC11%E5%9B%9E-%E7%9F%A5%E7%9A%84%E9%9A%9C%E3%81%8C%E3%81%84%E8%80%85%E3%81%AE%E6%98%8E%E6%97%A5%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%E8%AD%B0%E5%93%A1%E9%80%A3%E7%9B%9F/"
+        }
+      ],
+      "unmatched": [
+        {
+          "name": "山本左近",
+          "party": null
+        },
+        {
+          "name": "三ツ林裕巳",
+          "party": null
+        }
+      ]
+    },
+    "developmental_support": {
+      "league_id": "developmental_support",
+      "league_name": "発達障害の支援を考える議員連盟",
+      "members": [
+        {
+          "name": "武藤 容治",
+          "slug": "mutou_youji",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "加藤 勝信",
+          "slug": "katou_katsunobu",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "河野 太郎",
+          "slug": "kouno_tarou",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "國場 幸之助",
+          "slug": "kokuba_kounosuke",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "大西 健介",
+          "slug": "oonishi_kensuke",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "榛葉 賀津也",
+          "slug": "shinba_kazuya",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "泉 健太",
+          "slug": "izumi_kenta",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "中川 康洋",
+          "slug": "nakagawa_yasuhiro",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "山井 和則",
+          "slug": "yamanoi_kazunori",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "上野 通子",
+          "slug": "ueno_michiko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "後藤 茂之",
+          "slug": "gotou_shigeyuki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "佐藤 公治",
+          "slug": "satou_kouji",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "細野 豪志",
+          "slug": "hosono_goushi",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "平山 佐知子",
+          "slug": "hirayama_sachiko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "野田 聖子",
+          "slug": "noda_seiko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "小渕 優子",
+          "slug": "obuchi_yuuko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "三原 じゅんこ",
+          "slug": "mihara_junko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "阿部 知子",
+          "slug": "abe_tomoko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "佐藤 英道",
+          "slug": "satou_hidemichi",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "古川 康",
+          "slug": "furukawa_yasushi",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "奥野 総一郎",
+          "slug": "okuno_souichirou",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "岸田 文雄",
+          "slug": "kishida_fumio",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "田嶋 要",
+          "slug": "tajima_kaname",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "森 英介",
+          "slug": "mori_eisuke",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "小林 史明",
+          "slug": "kobayashi_fumiaki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "橋本 幹彦",
+          "slug": "hashimoto_mikihiko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "福田 玄",
+          "slug": "fukuda_gen",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "本村 伸子",
+          "slug": "motomura_nobuko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "松本 洋平",
+          "slug": "matsumoto_youhei",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "田村 憲久",
+          "slug": "tamura_norihisa",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "水沼 秀幸",
+          "slug": "mizunuma_hideyuki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "黒岩 宇洋",
+          "slug": "kuroiwa_takahiro",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "篠原 孝",
+          "slug": "shinohara_takashi",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "松本 剛明",
+          "slug": "matsumoto_takeaki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "遠藤 利明",
+          "slug": "endou_toshiaki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "大岡 敏孝",
+          "slug": "oooka_toshitaka",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "大串 正樹",
+          "slug": "oogushi_masaki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "藤井 比早之",
+          "slug": "fujii_hisayuki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "西村 康稔",
+          "slug": "nishimura_yasutoshi",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "池田 真紀",
+          "slug": "ikeda_maki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "逢沢 一郎",
+          "slug": "aisawa_ichirou",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "今枝 宗一郎",
+          "slug": "imaeda_souichirou",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "あかま 二郎",
+          "slug": "akama_jirou",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "沼崎 満子",
+          "slug": "numazaki_mitsuko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "笠 浩史",
+          "slug": "ryuu_hirofumi",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "斎藤 洋明",
+          "slug": "saitou_hiroaki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "牧島 かれん",
+          "slug": "makishima_karen",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "林 佑美",
+          "slug": "hayashi_yumi",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "宮路 拓馬",
+          "slug": "miyaji_takuma",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "竹内 譲",
+          "slug": "takeuchi_yuzuru",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "川原田 英世",
+          "slug": "kawaharada_eisei",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "長谷川 淳二",
+          "slug": "hasegawa_junji",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "東 克哉",
+          "slug": "azuma_katsuya",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "岡田 華子",
+          "slug": "okada_hanako",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "勝目 康",
+          "slug": "katsume_yasushi",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "宗野 創",
+          "slug": "souno_hajime",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "篠原 豪",
+          "slug": "shinohara_gou",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "落合 貴之",
+          "slug": "ochiai_takayuki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "船田 元",
+          "slug": "funada_hajime",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "道下 大樹",
+          "slug": "michishita_daiki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "石破 茂",
+          "slug": "ishiba_shigeru",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "松田 功",
+          "slug": "matsuda_isao",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "金村 龍那",
+          "slug": "kanemura_ryuuna",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "山口 俊一",
+          "slug": "yamaguchi_shunichi",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "金子 恭之",
+          "slug": "kaneko_yasushi",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "櫻井 周",
+          "slug": "sakurai_shuu",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "堀内 詔子",
+          "slug": "horiuchi_noriko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "中村 裕之",
+          "slug": "nakamura_hiroyuki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "山田 勝彦",
+          "slug": "yamada_katsuhiko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "福田 淳太",
+          "slug": "fukuda_junta",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "笹川 博義",
+          "slug": "sasagawa_hiroyoshi",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "浜田 靖一",
+          "slug": "hamada_yasukazu",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "橋本 慧悟",
+          "slug": "hashimoto_keigo",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "上川 陽子",
+          "slug": "kamikawa_youko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "辻 秀之",
+          "slug": "tsuji_hideyuki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "岡野 純子",
+          "slug": "okano_junko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "古賀 篤",
+          "slug": "koga_atsushi",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "西岡 義高",
+          "slug": "nishioka_yoshitaka",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "岩田 和親",
+          "slug": "iwata_kazuchika",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "柴田 勝之",
+          "slug": "shibata_katsuyuki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "青山 大人",
+          "slug": "aoyama_yamato",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "牧山 ひろえ",
+          "slug": "makiyama_hiroe",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "西田 実仁",
+          "slug": "nishida_makoto",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "谷合 正明",
+          "slug": "taniai_masaaki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "小西 洋之",
+          "slug": "konishi_hiroyuki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "福山 哲郎",
+          "slug": "fukuyama_tetsurou",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "三浦 信祐",
+          "slug": "miura_nobuhiro",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "橋本 聖子",
+          "slug": "hashimoto_seiko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "朝日 健太郎",
+          "slug": "asahi_kentarou",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "竹谷 とし子",
+          "slug": "takeya_toshiko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "堂込 真紀子",
+          "slug": "dougomi_makiko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "今井 絵理子",
+          "slug": "imai_eriko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "鶴保 庸介",
+          "slug": "tsuruho_yousuke",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "滝波 宏文",
+          "slug": "takinami_hirofumi",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "平木 大作",
+          "slug": "hiraki_daisaku",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "宮崎 勝",
+          "slug": "miyazaki_masaru",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "福田 徹",
+          "slug": "fukuta_tooru",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "古川 元久",
+          "slug": "furukawa_motohisa",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "小川 淳也",
+          "slug": "ogawa_junya",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "稲富 修二",
+          "slug": "inatomi_shuuji",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "鈴木 岳幸",
+          "slug": "suzuki_takeyuki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "丹羽 秀樹",
+          "slug": "niwa_hideki",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "重徳 和彦",
+          "slug": "shigetoku_kazuhiko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "穂坂 泰",
+          "slug": "hosaka_yasushi",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "田村 智子",
+          "slug": "tamura_tomoko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "佐藤 勉",
+          "slug": "satou_tsutomu",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "浮島 智子",
+          "slug": "ukishima_tomoko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "大塚 小百合",
+          "slug": "ootsuka_sayuri",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "後藤 祐一",
+          "slug": "gotou_yuuichi",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "猪口 幸子",
+          "slug": "inokuchi_sachiko",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "小山 千帆",
+          "slug": "koyama_chiho",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "中島 克仁",
+          "slug": "nakajima_katsuhito",
+          "source": "20250423 議員連盟資料.pdf"
+        },
+        {
+          "name": "福島 みずほ",
+          "slug": "fukushima_mizuho",
+          "source": "20250423 議員連盟資料.pdf"
+        }
+      ],
+      "unmatched": []
+    }
+  }
+}

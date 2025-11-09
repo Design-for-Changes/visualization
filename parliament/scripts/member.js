@@ -3,6 +3,9 @@ const loadMoreButton = document.querySelector(".load-more");
 const placeholder = document.querySelector("#summary .placeholder");
 const memberNameEl = document.querySelector('[data-member-name]');
 const memberMetaEl = document.querySelector('[data-member-meta]');
+const leagueSection = document.querySelector('#leagues');
+const leagueList = leagueSection?.querySelector('.league-list');
+const leaguePlaceholder = leagueSection?.querySelector('.placeholder');
 const questionsSection = document.querySelector('#questions');
 const questionsPlaceholder = questionsSection?.querySelector('.placeholder');
 const questionsList = document.querySelector('.question-list');
@@ -28,27 +31,39 @@ async function loadData() {
     }
 
     const path = `data/member_speeches/${slug}.json`;
-    const res = await fetch(path);
-    if (res.status === 404) {
-      if (placeholder) placeholder.textContent = "データが見つかりませんでした。";
+    const [speechRes, rosterRes] = await Promise.all([
+      fetch(path),
+      fetch('data/diet_members_socials_enriched.json').catch(() => null)
+    ]);
+
+    let memberProfile = null;
+    if (rosterRes && rosterRes.ok) {
+      const rosterPayload = await rosterRes.json();
+      const rosterList = Array.isArray(rosterPayload) ? rosterPayload : rosterPayload.members ?? [];
+      memberProfile = rosterList.find((entry) => entry.slug === slug) ?? null;
+    }
+
+    if (speechRes.status === 404) {
+      renderFallback(memberProfile);
       return;
     }
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const payload = await res.json();
-    render(payload);
+    if (!speechRes.ok) throw new Error(`HTTP ${speechRes.status}`);
+
+    const payload = await speechRes.json();
+    render(payload, memberProfile);
   } catch (error) {
     console.error(error);
     if (placeholder) placeholder.textContent = `読み込みに失敗しました: ${error.message}`;
   }
 }
 
-function render(records) {
+function render(records, profile) {
   const groupData = Array.isArray(records)
     ? records
     : records.meetings ?? [];
 
   if (records && !Array.isArray(records)) {
-    const memberName = records.member_name ?? slug ?? "議員";
+    const memberName = records.member_name ?? profile?.member_name ?? slug ?? "議員";
     if (memberNameEl) memberNameEl.textContent = memberName;
     document.title = `${memberName} 障害福祉関連発言サマリー`;
     const meetingCount = groupData.length;
@@ -66,8 +81,12 @@ function render(records) {
         `発言数: ${speechCount}`,
         `会議: ${meetingCount}`
       ];
+      if (typeof profile?.disability_league_count === 'number') {
+        metaParts.push(`議連: ${profile.disability_league_count}`);
+      }
       memberMetaEl.textContent = metaParts.join(' / ');
     }
+    renderDisabilityLeagues(profile?.disability_leagues ?? []);
     renderWrittenQuestions(writtenQuestions);
   } else if (memberNameEl && slug) {
     memberNameEl.textContent = slug;
@@ -120,6 +139,20 @@ function renderWrittenQuestions(list) {
   questionsList.innerHTML = markup;
 }
 
+function renderDisabilityLeagues(leagues) {
+  if (!leagueSection || !leagueList) return;
+  const items = Array.isArray(leagues) ? leagues : [];
+  leagueSection.hidden = false;
+  if (!items.length) {
+    if (leaguePlaceholder) leaguePlaceholder.textContent = '該当する議連はありません。';
+    leagueList.hidden = true;
+    return;
+  }
+  leaguePlaceholder?.remove();
+  leagueList.hidden = false;
+  leagueList.innerHTML = items.map((name) => `<li>${name}</li>`).join('');
+}
+
 loadData();
 
 loadMoreButton?.addEventListener("click", () => {
@@ -127,6 +160,30 @@ loadMoreButton?.addEventListener("click", () => {
   renderVisibleGroups();
   updateLoadMoreButton();
 });
+
+function renderFallback(profile) {
+  const memberName = profile?.member_name ?? slug ?? "議員";
+  if (memberNameEl) memberNameEl.textContent = memberName;
+  document.title = `${memberName} 障害福祉関連サマリー`;
+  if (memberMetaEl) {
+    const parts = [];
+    if (typeof profile?.disability_league_count === "number") {
+      parts.push(`議連: ${profile.disability_league_count}`);
+    }
+    memberMetaEl.textContent = parts.length ? parts.join(" / ") : "国会発言データが未登録です。";
+  }
+  renderDisabilityLeagues(profile?.disability_leagues ?? []);
+  if (questionsSection) {
+    questionsSection.hidden = true;
+  }
+  const summarySection = document.querySelector("#summary");
+  if (summarySection) {
+    summarySection.innerHTML =
+      '<p class="placeholder">この議員の障害福祉関連発言データはまだ登録されていません。</p>';
+  }
+  placeholder?.remove();
+  loadMoreButton?.setAttribute("hidden", "hidden");
+}
 
 function groupByMeeting(records) {
   const map = new Map();

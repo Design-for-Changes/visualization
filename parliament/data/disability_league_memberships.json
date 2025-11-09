@@ -1,0 +1,791 @@
+{
+  "generated_at": "2025-11-09T08:50:14.452217+00:00",
+  "source": "giinrenmei_mentions.json",
+  "manual_source": "disability_league_manual_sources.json",
+  "league_count": 7,
+  "leagues": [
+    {
+      "id": "un_crpd",
+      "name": "国連障害者の権利条約推進議員連盟",
+      "aliases": [
+        "国連障害者権利条約推進議員連盟",
+        "国連障がい者の権利条約推進議員連盟",
+        "国連・障害者の権利条約推進議員連盟",
+        "障害者国際会議推進議員連盟"
+      ],
+      "member_count": 1,
+      "member_slugs": [
+        "yokosawa_takanori"
+      ]
+    },
+    {
+      "id": "policy_promotion",
+      "name": "障がい者政策推進議員連盟",
+      "aliases": [
+        "障害者政策推進議員連盟"
+      ],
+      "member_count": 7,
+      "member_slugs": [
+        "edano_yukio",
+        "genba_kouichirou",
+        "matsuki_kenkou",
+        "oosaka_seiji",
+        "shina_takeshi",
+        "tanabu_masayo",
+        "terata_manabu"
+      ]
+    },
+    {
+      "id": "income_improvement",
+      "name": "障がい者の自立のために所得向上をめざす議員連盟",
+      "aliases": [
+        "障害者の自立のために所得向上をめざす議員連盟",
+        "障がい者の自立のために所得向上を目指す議員連盟"
+      ],
+      "member_count": 72,
+      "member_slugs": [
+        "adachi_yasushi",
+        "akazawa_ryousei",
+        "andou_hiroshi",
+        "asahi_kentarou",
+        "baba_seishi",
+        "endou_toshiaki",
+        "fujii_hisayuki",
+        "fujimaru_satoshi",
+        "fukushima_mizuho",
+        "fukuyama_mamoru",
+        "genma_kentarou",
+        "gotou_shigeyuki",
+        "haga_michiya",
+        "hiraguchi_hiroshi",
+        "hiraki_daisaku",
+        "hirayama_sachiko",
+        "horiuchi_noriko",
+        "hosono_goushi",
+        "ikeda_maki",
+        "imai_eriko",
+        "inoguchi_kuniko",
+        "ishiba_shigeru",
+        "ishibashi_michihiro",
+        "iwata_kazuchika",
+        "kada_yukiko",
+        "kaieda_banri",
+        "kamikawa_youko",
+        "kaneko_emi",
+        "katsumata_takaaki",
+        "kihara_seiji",
+        "kitamura_tsuneo",
+        "kokuba_kounosuke",
+        "komiyama_yasuko",
+        "konishi_hiroyuki",
+        "kudou_shouzou",
+        "kuroiwa_takahiro",
+        "maehara_seiji",
+        "matsumoto_youhei",
+        "michishita_daiki",
+        "minorikawa_nobuhide",
+        "miyauchi_hideki",
+        "miyazaki_masaru",
+        "mori_yuuko",
+        "morimoto_shinji",
+        "murai_hideki",
+        "mutou_youji",
+        "nakamura_hiroyuki",
+        "nakatani_shinichi",
+        "okuno_souichirou",
+        "oooka_toshitaka",
+        "oosaka_seiji",
+        "ryuu_hirofumi",
+        "saitou_hiroaki",
+        "sasagawa_hiroyoshi",
+        "shinba_kazuya",
+        "suematsu_yoshinori",
+        "tabata_hiroaki",
+        "tajima_kaname",
+        "takai_takashi",
+        "takeya_toshiko",
+        "takinami_hirofumi",
+        "tamaki_yuuichirou",
+        "tamura_norihisa",
+        "tamura_tomoko",
+        "terata_shizuka",
+        "togashi_hiroyuki",
+        "yamada_tarou",
+        "yamaguchi_shunichi",
+        "yamanoi_kazunori",
+        "yara_tomohiro",
+        "yokosawa_takanori",
+        "yokoyama_shinichi"
+      ]
+    },
+    {
+      "id": "rare_disease_alliance",
+      "name": "障がい・難病政策推進有志議員連盟",
+      "aliases": [
+        "障害・難病政策推進有志議員連盟"
+      ],
+      "member_count": 1,
+      "member_slugs": [
+        "yokosawa_takanori"
+      ]
+    },
+    {
+      "id": "intellectual_future",
+      "name": "知的障がい者の明日を考える議員連盟",
+      "aliases": [
+        "知的障害者の明日を考える議員連盟"
+      ],
+      "member_count": 3,
+      "member_slugs": [
+        "katsume_yasushi",
+        "mihara_junko",
+        "noda_seiko"
+      ]
+    },
+    {
+      "id": "developmental_support",
+      "name": "発達障害の支援を考える議員連盟",
+      "aliases": [
+        "発達障がいの支援を考える議員連盟"
+      ],
+      "member_count": 114,
+      "member_slugs": [
+        "abe_tomoko",
+        "aisawa_ichirou",
+        "akama_jirou",
+        "aoyama_yamato",
+        "asahi_kentarou",
+        "azuma_katsuya",
+        "dougomi_makiko",
+        "endou_toshiaki",
+        "fujii_hisayuki",
+        "fukuda_gen",
+        "fukuda_junta",
+        "fukushima_mizuho",
+        "fukuta_tooru",
+        "fukuyama_tetsurou",
+        "funada_hajime",
+        "furukawa_motohisa",
+        "furukawa_yasushi",
+        "gotou_shigeyuki",
+        "gotou_yuuichi",
+        "hamada_yasukazu",
+        "hasegawa_junji",
+        "hashimoto_keigo",
+        "hashimoto_mikihiko",
+        "hashimoto_seiko",
+        "hayashi_yumi",
+        "hiraki_daisaku",
+        "hirayama_sachiko",
+        "horiuchi_noriko",
+        "hosaka_yasushi",
+        "hosono_goushi",
+        "ikeda_maki",
+        "imaeda_souichirou",
+        "imai_eriko",
+        "inatomi_shuuji",
+        "inokuchi_sachiko",
+        "ishiba_shigeru",
+        "iwata_kazuchika",
+        "izumi_kenta",
+        "kamikawa_youko",
+        "kaneko_yasushi",
+        "kanemura_ryuuna",
+        "katou_katsunobu",
+        "katsume_yasushi",
+        "kawaharada_eisei",
+        "kishida_fumio",
+        "kobayashi_fumiaki",
+        "koga_atsushi",
+        "kokuba_kounosuke",
+        "konishi_hiroyuki",
+        "kouno_tarou",
+        "koyama_chiho",
+        "kuroiwa_takahiro",
+        "makishima_karen",
+        "makiyama_hiroe",
+        "matsuda_isao",
+        "matsumoto_takeaki",
+        "matsumoto_youhei",
+        "michishita_daiki",
+        "mihara_junko",
+        "miura_nobuhiro",
+        "miyaji_takuma",
+        "miyazaki_masaru",
+        "mizunuma_hideyuki",
+        "mori_eisuke",
+        "motomura_nobuko",
+        "mutou_youji",
+        "nakagawa_yasuhiro",
+        "nakajima_katsuhito",
+        "nakamura_hiroyuki",
+        "nishida_makoto",
+        "nishimura_yasutoshi",
+        "nishioka_yoshitaka",
+        "niwa_hideki",
+        "noda_seiko",
+        "numazaki_mitsuko",
+        "obuchi_yuuko",
+        "ochiai_takayuki",
+        "ogawa_junya",
+        "okada_hanako",
+        "okano_junko",
+        "okuno_souichirou",
+        "oogushi_masaki",
+        "oonishi_kensuke",
+        "oooka_toshitaka",
+        "ootsuka_sayuri",
+        "ryuu_hirofumi",
+        "saitou_hiroaki",
+        "sakurai_shuu",
+        "sasagawa_hiroyoshi",
+        "satou_hidemichi",
+        "satou_kouji",
+        "satou_tsutomu",
+        "shibata_katsuyuki",
+        "shigetoku_kazuhiko",
+        "shinba_kazuya",
+        "shinohara_gou",
+        "shinohara_takashi",
+        "souno_hajime",
+        "suzuki_takeyuki",
+        "tajima_kaname",
+        "takeuchi_yuzuru",
+        "takeya_toshiko",
+        "takinami_hirofumi",
+        "tamura_norihisa",
+        "tamura_tomoko",
+        "taniai_masaaki",
+        "tsuji_hideyuki",
+        "tsuruho_yousuke",
+        "ueno_michiko",
+        "ukishima_tomoko",
+        "yamada_katsuhiko",
+        "yamaguchi_shunichi",
+        "yamanoi_kazunori",
+        "yokosawa_takanori"
+      ]
+    },
+    {
+      "id": "no_pension",
+      "name": "無年金障害者問題を考える議員連盟",
+      "aliases": [
+        "無年金の障害者問題を考える議員連盟"
+      ],
+      "member_count": 0,
+      "member_slugs": []
+    }
+  ],
+  "memberships": {
+    "abe_tomoko": [
+      "developmental_support"
+    ],
+    "adachi_yasushi": [
+      "income_improvement"
+    ],
+    "aisawa_ichirou": [
+      "developmental_support"
+    ],
+    "akama_jirou": [
+      "developmental_support"
+    ],
+    "akazawa_ryousei": [
+      "income_improvement"
+    ],
+    "andou_hiroshi": [
+      "income_improvement"
+    ],
+    "aoyama_yamato": [
+      "developmental_support"
+    ],
+    "asahi_kentarou": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "azuma_katsuya": [
+      "developmental_support"
+    ],
+    "baba_seishi": [
+      "income_improvement"
+    ],
+    "dougomi_makiko": [
+      "developmental_support"
+    ],
+    "edano_yukio": [
+      "policy_promotion"
+    ],
+    "endou_toshiaki": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "fujii_hisayuki": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "fujimaru_satoshi": [
+      "income_improvement"
+    ],
+    "fukuda_gen": [
+      "developmental_support"
+    ],
+    "fukuda_junta": [
+      "developmental_support"
+    ],
+    "fukushima_mizuho": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "fukuta_tooru": [
+      "developmental_support"
+    ],
+    "fukuyama_mamoru": [
+      "income_improvement"
+    ],
+    "fukuyama_tetsurou": [
+      "developmental_support"
+    ],
+    "funada_hajime": [
+      "developmental_support"
+    ],
+    "furukawa_motohisa": [
+      "developmental_support"
+    ],
+    "furukawa_yasushi": [
+      "developmental_support"
+    ],
+    "genba_kouichirou": [
+      "policy_promotion"
+    ],
+    "genma_kentarou": [
+      "income_improvement"
+    ],
+    "gotou_shigeyuki": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "gotou_yuuichi": [
+      "developmental_support"
+    ],
+    "haga_michiya": [
+      "income_improvement"
+    ],
+    "hamada_yasukazu": [
+      "developmental_support"
+    ],
+    "hasegawa_junji": [
+      "developmental_support"
+    ],
+    "hashimoto_keigo": [
+      "developmental_support"
+    ],
+    "hashimoto_mikihiko": [
+      "developmental_support"
+    ],
+    "hashimoto_seiko": [
+      "developmental_support"
+    ],
+    "hayashi_yumi": [
+      "developmental_support"
+    ],
+    "hiraguchi_hiroshi": [
+      "income_improvement"
+    ],
+    "hiraki_daisaku": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "hirayama_sachiko": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "horiuchi_noriko": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "hosaka_yasushi": [
+      "developmental_support"
+    ],
+    "hosono_goushi": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "ikeda_maki": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "imaeda_souichirou": [
+      "developmental_support"
+    ],
+    "imai_eriko": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "inatomi_shuuji": [
+      "developmental_support"
+    ],
+    "inoguchi_kuniko": [
+      "income_improvement"
+    ],
+    "inokuchi_sachiko": [
+      "developmental_support"
+    ],
+    "ishiba_shigeru": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "ishibashi_michihiro": [
+      "income_improvement"
+    ],
+    "iwata_kazuchika": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "izumi_kenta": [
+      "developmental_support"
+    ],
+    "kada_yukiko": [
+      "income_improvement"
+    ],
+    "kaieda_banri": [
+      "income_improvement"
+    ],
+    "kamikawa_youko": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "kaneko_emi": [
+      "income_improvement"
+    ],
+    "kaneko_yasushi": [
+      "developmental_support"
+    ],
+    "kanemura_ryuuna": [
+      "developmental_support"
+    ],
+    "katou_katsunobu": [
+      "developmental_support"
+    ],
+    "katsumata_takaaki": [
+      "income_improvement"
+    ],
+    "katsume_yasushi": [
+      "developmental_support",
+      "intellectual_future"
+    ],
+    "kawaharada_eisei": [
+      "developmental_support"
+    ],
+    "kihara_seiji": [
+      "income_improvement"
+    ],
+    "kishida_fumio": [
+      "developmental_support"
+    ],
+    "kitamura_tsuneo": [
+      "income_improvement"
+    ],
+    "kobayashi_fumiaki": [
+      "developmental_support"
+    ],
+    "koga_atsushi": [
+      "developmental_support"
+    ],
+    "kokuba_kounosuke": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "komiyama_yasuko": [
+      "income_improvement"
+    ],
+    "konishi_hiroyuki": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "kouno_tarou": [
+      "developmental_support"
+    ],
+    "koyama_chiho": [
+      "developmental_support"
+    ],
+    "kudou_shouzou": [
+      "income_improvement"
+    ],
+    "kuroiwa_takahiro": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "maehara_seiji": [
+      "income_improvement"
+    ],
+    "makishima_karen": [
+      "developmental_support"
+    ],
+    "makiyama_hiroe": [
+      "developmental_support"
+    ],
+    "matsuda_isao": [
+      "developmental_support"
+    ],
+    "matsuki_kenkou": [
+      "policy_promotion"
+    ],
+    "matsumoto_takeaki": [
+      "developmental_support"
+    ],
+    "matsumoto_youhei": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "michishita_daiki": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "mihara_junko": [
+      "developmental_support",
+      "intellectual_future"
+    ],
+    "minorikawa_nobuhide": [
+      "income_improvement"
+    ],
+    "miura_nobuhiro": [
+      "developmental_support"
+    ],
+    "miyaji_takuma": [
+      "developmental_support"
+    ],
+    "miyauchi_hideki": [
+      "income_improvement"
+    ],
+    "miyazaki_masaru": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "mizunuma_hideyuki": [
+      "developmental_support"
+    ],
+    "mori_eisuke": [
+      "developmental_support"
+    ],
+    "mori_yuuko": [
+      "income_improvement"
+    ],
+    "morimoto_shinji": [
+      "income_improvement"
+    ],
+    "motomura_nobuko": [
+      "developmental_support"
+    ],
+    "murai_hideki": [
+      "income_improvement"
+    ],
+    "mutou_youji": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "nakagawa_yasuhiro": [
+      "developmental_support"
+    ],
+    "nakajima_katsuhito": [
+      "developmental_support"
+    ],
+    "nakamura_hiroyuki": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "nakatani_shinichi": [
+      "income_improvement"
+    ],
+    "nishida_makoto": [
+      "developmental_support"
+    ],
+    "nishimura_yasutoshi": [
+      "developmental_support"
+    ],
+    "nishioka_yoshitaka": [
+      "developmental_support"
+    ],
+    "niwa_hideki": [
+      "developmental_support"
+    ],
+    "noda_seiko": [
+      "developmental_support",
+      "intellectual_future"
+    ],
+    "numazaki_mitsuko": [
+      "developmental_support"
+    ],
+    "obuchi_yuuko": [
+      "developmental_support"
+    ],
+    "ochiai_takayuki": [
+      "developmental_support"
+    ],
+    "ogawa_junya": [
+      "developmental_support"
+    ],
+    "okada_hanako": [
+      "developmental_support"
+    ],
+    "okano_junko": [
+      "developmental_support"
+    ],
+    "okuno_souichirou": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "oogushi_masaki": [
+      "developmental_support"
+    ],
+    "oonishi_kensuke": [
+      "developmental_support"
+    ],
+    "oooka_toshitaka": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "oosaka_seiji": [
+      "income_improvement",
+      "policy_promotion"
+    ],
+    "ootsuka_sayuri": [
+      "developmental_support"
+    ],
+    "ryuu_hirofumi": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "saitou_hiroaki": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "sakurai_shuu": [
+      "developmental_support"
+    ],
+    "sasagawa_hiroyoshi": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "satou_hidemichi": [
+      "developmental_support"
+    ],
+    "satou_kouji": [
+      "developmental_support"
+    ],
+    "satou_tsutomu": [
+      "developmental_support"
+    ],
+    "shibata_katsuyuki": [
+      "developmental_support"
+    ],
+    "shigetoku_kazuhiko": [
+      "developmental_support"
+    ],
+    "shina_takeshi": [
+      "policy_promotion"
+    ],
+    "shinba_kazuya": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "shinohara_gou": [
+      "developmental_support"
+    ],
+    "shinohara_takashi": [
+      "developmental_support"
+    ],
+    "souno_hajime": [
+      "developmental_support"
+    ],
+    "suematsu_yoshinori": [
+      "income_improvement"
+    ],
+    "suzuki_takeyuki": [
+      "developmental_support"
+    ],
+    "tabata_hiroaki": [
+      "income_improvement"
+    ],
+    "tajima_kaname": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "takai_takashi": [
+      "income_improvement"
+    ],
+    "takeuchi_yuzuru": [
+      "developmental_support"
+    ],
+    "takeya_toshiko": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "takinami_hirofumi": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "tamaki_yuuichirou": [
+      "income_improvement"
+    ],
+    "tamura_norihisa": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "tamura_tomoko": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "tanabu_masayo": [
+      "policy_promotion"
+    ],
+    "taniai_masaaki": [
+      "developmental_support"
+    ],
+    "terata_manabu": [
+      "policy_promotion"
+    ],
+    "terata_shizuka": [
+      "income_improvement"
+    ],
+    "togashi_hiroyuki": [
+      "income_improvement"
+    ],
+    "tsuji_hideyuki": [
+      "developmental_support"
+    ],
+    "tsuruho_yousuke": [
+      "developmental_support"
+    ],
+    "ueno_michiko": [
+      "developmental_support"
+    ],
+    "ukishima_tomoko": [
+      "developmental_support"
+    ],
+    "yamada_katsuhiko": [
+      "developmental_support"
+    ],
+    "yamada_tarou": [
+      "income_improvement"
+    ],
+    "yamaguchi_shunichi": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "yamanoi_kazunori": [
+      "developmental_support",
+      "income_improvement"
+    ],
+    "yara_tomohiro": [
+      "income_improvement"
+    ],
+    "yokosawa_takanori": [
+      "developmental_support",
+      "income_improvement",
+      "rare_disease_alliance",
+      "un_crpd"
+    ],
+    "yokoyama_shinichi": [
+      "income_improvement"
+    ]
+  }
+}

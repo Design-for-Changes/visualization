@@ -1,0 +1,682 @@
+{
+  "rows": [
+    {
+      "page": 1,
+      "column": 1,
+      "room": "1205",
+      "name_raw": "糯苯韩彦",
+      "party": "国民民主党"
+    },
+    {
+      "page": 1,
+      "column": 1,
+      "room": "1106",
+      "name_raw": "伸字",
+      "party": "日本共産党"
+    },
+    {
+      "page": 1,
+      "column": 1,
+      "room": "902",
+      "name_raw": "田村",
+      "party": "自由民主党"
+    },
+    {
+      "page": 1,
+      "column": 1,
+      "room": "704",
+      "name_raw": "茂芝",
+      "party": "自由民主党"
+    },
+    {
+      "page": 1,
+      "column": 1,
+      "room": "615",
+      "name_raw": "藤井比早之",
+      "party": "自由民主党"
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "1104",
+      "name_raw": "勝信",
+      "party": "自由民主党"
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "1016",
+      "name_raw": "國场幸之助",
+      "party": "自由民主党"
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "1015",
+      "name_raw": "升宙世喜勇",
+      "party": "立憲民主党"
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "1012",
+      "name_raw": "草稻由老",
+      "party": "立憲民主党"
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "1007",
+      "name_raw": "完发",
+      "party": "国民民主党"
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "606",
+      "name_raw": "穗坂",
+      "party": "自由民主党"
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "902",
+      "name_raw": "小浏",
+      "party": "自由民主党"
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "820",
+      "name_raw": "後藤祐一",
+      "party": "立憲民主党"
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "813",
+      "name_raw": "古川",
+      "party": "自由民主党"
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "608",
+      "name_raw": "猪口",
+      "party": "日本維新の会"
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "room": "1118",
+      "name_raw": "宫崎",
+      "party": "公明党"
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "room": "1107",
+      "name_raw": "山容字",
+      "party": "自由民主党"
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "room": "1106",
+      "name_raw": "由名部匡代",
+      "party": "立憲民主党"
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "room": "1105",
+      "name_raw": "猪口",
+      "party": "自由民主党"
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "room": "1021",
+      "name_raw": "治字",
+      "party": "自由民主党"
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "room": "1005",
+      "name_raw": "西田",
+      "party": "公明党"
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "room": "911",
+      "name_raw": "山苯",
+      "party": "公明党"
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "room": "823",
+      "name_raw": "兰原字",
+      "party": "自由民主党"
+    },
+    {
+      "page": 2,
+      "column": 1,
+      "room": "504",
+      "name_raw": "野田",
+      "party": "自由民主党"
+    },
+    {
+      "page": 2,
+      "column": 1,
+      "room": "412",
+      "name_raw": "齐藤铁夫",
+      "party": "公明党"
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "713",
+      "name_raw": "棚橋泰文",
+      "party": "自由民主党"
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "705",
+      "name_raw": "川原苗英世",
+      "party": "立憲民主党"
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "615",
+      "name_raw": "勝目",
+      "party": "自由民主党"
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "605",
+      "name_raw": "逢坂",
+      "party": "立憲民主党"
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "516",
+      "name_raw": "石破",
+      "party": "自由民主党"
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "513",
+      "name_raw": "松田",
+      "party": "立憲民主党"
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "412",
+      "name_raw": "俊一",
+      "party": "自由民主党"
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "407",
+      "name_raw": "堀内",
+      "party": "自由民主党"
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "322",
+      "name_raw": "淳太",
+      "party": "立憲民主党"
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "316",
+      "name_raw": "博羲",
+      "party": "自由民主党"
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "302",
+      "name_raw": "英芝",
+      "party": "立憲民主党"
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "201",
+      "name_raw": "青山",
+      "party": "立憲民主党"
+    },
+    {
+      "page": 2,
+      "column": 3,
+      "room": "508",
+      "name_raw": "龍平",
+      "party": "立憲民主党"
+    },
+    {
+      "page": 2,
+      "column": 3,
+      "room": "505",
+      "name_raw": "昌史",
+      "party": "自由民主党"
+    },
+    {
+      "page": 2,
+      "column": 3,
+      "room": "504",
+      "name_raw": "自竟",
+      "party": "自由民主党"
+    },
+    {
+      "page": 2,
+      "column": 3,
+      "room": "313",
+      "name_raw": "鶴保",
+      "party": "自由民主党"
+    },
+    {
+      "page": 2,
+      "column": 3,
+      "room": "808",
+      "name_raw": "房江",
+      "party": "自由民主党"
+    }
+  ],
+  "matches": [
+    {
+      "page": 1,
+      "column": 1,
+      "room": "902",
+      "name_raw": "田村",
+      "party": "自由民主党",
+      "matched_name": "田村 貴昭",
+      "slug": "tamura_takaaki",
+      "score": 90.0
+    },
+    {
+      "page": 1,
+      "column": 1,
+      "room": "615",
+      "name_raw": "藤井比早之",
+      "party": "自由民主党",
+      "matched_name": "藤井 比早之",
+      "slug": "fujii_hisayuki",
+      "score": 100.0
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "1104",
+      "name_raw": "勝信",
+      "party": "自由民主党",
+      "matched_name": "加藤 勝信",
+      "slug": "katou_katsunobu",
+      "score": 90.0
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "1016",
+      "name_raw": "國场幸之助",
+      "party": "自由民主党",
+      "matched_name": "國場 幸之助",
+      "slug": "kokuba_kounosuke",
+      "score": 80.0
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "820",
+      "name_raw": "後藤祐一",
+      "party": "立憲民主党",
+      "matched_name": "後藤 祐一",
+      "slug": "gotou_yuuichi",
+      "score": 100.0
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "813",
+      "name_raw": "古川",
+      "party": "自由民主党",
+      "matched_name": "古川 直季",
+      "slug": "furukawa_naoki",
+      "score": 90.0
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "608",
+      "name_raw": "猪口",
+      "party": "日本維新の会",
+      "matched_name": "猪口 幸子",
+      "slug": "inokuchi_sachiko",
+      "score": 90.0
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "room": "1106",
+      "name_raw": "由名部匡代",
+      "party": "立憲民主党",
+      "matched_name": "田名部 匡代",
+      "slug": "tanabu_masayo",
+      "score": 80.0
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "room": "1105",
+      "name_raw": "猪口",
+      "party": "自由民主党",
+      "matched_name": "猪口 幸子",
+      "slug": "inokuchi_sachiko",
+      "score": 90.0
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "room": "1005",
+      "name_raw": "西田",
+      "party": "公明党",
+      "matched_name": "西田 薫",
+      "slug": "nishida_kaoru",
+      "score": 90.0
+    },
+    {
+      "page": 2,
+      "column": 1,
+      "room": "504",
+      "name_raw": "野田",
+      "party": "自由民主党",
+      "matched_name": "野田 聖子",
+      "slug": "noda_seiko",
+      "score": 90.0
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "713",
+      "name_raw": "棚橋泰文",
+      "party": "自由民主党",
+      "matched_name": "棚橋 泰文",
+      "slug": "tanahashi_yasufumi",
+      "score": 100.0
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "705",
+      "name_raw": "川原苗英世",
+      "party": "立憲民主党",
+      "matched_name": "川原田 英世",
+      "slug": "kawaharada_eisei",
+      "score": 80.0
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "615",
+      "name_raw": "勝目",
+      "party": "自由民主党",
+      "matched_name": "勝目 康",
+      "slug": "katsume_yasushi",
+      "score": 90.0
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "605",
+      "name_raw": "逢坂",
+      "party": "立憲民主党",
+      "matched_name": "逢坂 誠二",
+      "slug": "oosaka_seiji",
+      "score": 90.0
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "516",
+      "name_raw": "石破",
+      "party": "自由民主党",
+      "matched_name": "石破 茂",
+      "slug": "ishiba_shigeru",
+      "score": 90.0
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "513",
+      "name_raw": "松田",
+      "party": "立憲民主党",
+      "matched_name": "松田 功",
+      "slug": "matsuda_isao",
+      "score": 90.0
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "412",
+      "name_raw": "俊一",
+      "party": "自由民主党",
+      "matched_name": "鈴木 俊一",
+      "slug": "suzuki_shunichi",
+      "score": 90.0
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "407",
+      "name_raw": "堀内",
+      "party": "自由民主党",
+      "matched_name": "堀内 詔子",
+      "slug": "horiuchi_noriko",
+      "score": 90.0
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "322",
+      "name_raw": "淳太",
+      "party": "立憲民主党",
+      "matched_name": "福田 淳太",
+      "slug": "fukuda_junta",
+      "score": 90.0
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "201",
+      "name_raw": "青山",
+      "party": "立憲民主党",
+      "matched_name": "青山 大人",
+      "slug": "aoyama_yamato",
+      "score": 90.0
+    },
+    {
+      "page": 2,
+      "column": 3,
+      "room": "313",
+      "name_raw": "鶴保",
+      "party": "自由民主党",
+      "matched_name": "鶴保 庸介",
+      "slug": "tsuruho_yousuke",
+      "score": 90.0
+    }
+  ],
+  "unmatched": [
+    {
+      "page": 1,
+      "column": 1,
+      "room": "1205",
+      "name_raw": "糯苯韩彦",
+      "party": "国民民主党",
+      "score": 25.0
+    },
+    {
+      "page": 1,
+      "column": 1,
+      "room": "1106",
+      "name_raw": "伸字",
+      "party": "日本共産党",
+      "score": 60.00000000000001
+    },
+    {
+      "page": 1,
+      "column": 1,
+      "room": "704",
+      "name_raw": "茂芝",
+      "party": "自由民主党",
+      "score": 60.00000000000001
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "1015",
+      "name_raw": "升宙世喜勇",
+      "party": "立憲民主党",
+      "score": 60.0
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "1012",
+      "name_raw": "草稻由老",
+      "party": "立憲民主党",
+      "score": 28.57142857142857
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "1007",
+      "name_raw": "完发",
+      "party": "国民民主党",
+      "score": 0.0
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "606",
+      "name_raw": "穗坂",
+      "party": "自由民主党",
+      "score": 60.00000000000001
+    },
+    {
+      "page": 1,
+      "column": 2,
+      "room": "902",
+      "name_raw": "小浏",
+      "party": "自由民主党",
+      "score": 60.00000000000001
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "room": "1118",
+      "name_raw": "宫崎",
+      "party": "公明党",
+      "score": 45.0
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "room": "1107",
+      "name_raw": "山容字",
+      "party": "自由民主党",
+      "score": 45.0
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "room": "1021",
+      "name_raw": "治字",
+      "party": "自由民主党",
+      "score": 60.00000000000001
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "room": "911",
+      "name_raw": "山苯",
+      "party": "公明党",
+      "score": 60.00000000000001
+    },
+    {
+      "page": 1,
+      "column": 3,
+      "room": "823",
+      "name_raw": "兰原字",
+      "party": "自由民主党",
+      "score": 45.0
+    },
+    {
+      "page": 2,
+      "column": 1,
+      "room": "412",
+      "name_raw": "齐藤铁夫",
+      "party": "公明党",
+      "score": 50.0
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "316",
+      "name_raw": "博羲",
+      "party": "自由民主党",
+      "score": 60.00000000000001
+    },
+    {
+      "page": 2,
+      "column": 2,
+      "room": "302",
+      "name_raw": "英芝",
+      "party": "立憲民主党",
+      "score": 60.00000000000001
+    },
+    {
+      "page": 2,
+      "column": 3,
+      "room": "508",
+      "name_raw": "龍平",
+      "party": "立憲民主党",
+      "score": 60.00000000000001
+    },
+    {
+      "page": 2,
+      "column": 3,
+      "room": "505",
+      "name_raw": "昌史",
+      "party": "自由民主党",
+      "score": 60.00000000000001
+    },
+    {
+      "page": 2,
+      "column": 3,
+      "room": "504",
+      "name_raw": "自竟",
+      "party": "自由民主党",
+      "score": 60.00000000000001
+    },
+    {
+      "page": 2,
+      "column": 3,
+      "room": "808",
+      "name_raw": "房江",
+      "party": "自由民主党",
+      "score": 60.00000000000001
+    }
+  ]
+}

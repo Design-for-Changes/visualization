@@ -35,6 +35,13 @@ const TABLE_STRUCTURE = [
     headerClass: 'col-disability',
     cellClass: 'disability-flag-cell'
   },
+  {
+    key: 'league_count',
+    label: '議連',
+    iconClass: null,
+    headerClass: 'col-league',
+    cellClass: 'league-count'
+  },
   { key: 'profile', label: '国会プロフィール', iconClass: 'fa-solid fa-landmark' },
   { key: 'homepage', label: '公式サイト', iconClass: 'fa-solid fa-house' },
   { key: 'x', label: 'X', iconClass: 'fa-brands fa-x-twitter' },
@@ -217,6 +224,19 @@ function renderMemberRow(member) {
       const stats = member.slug ? speechStats[member.slug] : undefined;
       const signal = stats?.has_disability_welfare_signal;
       return `<td class="disability-flag-cell">${renderDisabilitySignal(signal)}</td>`;
+    }
+    if (column.key === 'league_count') {
+      const stats = member.slug ? speechStats[member.slug] : undefined;
+      const count =
+        member.disability_league_count ??
+        stats?.disability_league_count ??
+        0;
+      const leagues = member.disability_leagues ?? [];
+      if (count > 0) {
+        const tooltip = leagues.length ? leagues.join(' / ') : '詳細未設定';
+        return `<td class="league-count"><span class="league-badge" title="${tooltip}">${count}</span></td>`;
+      }
+      return `<td class="league-count"><span class="league-badge league-badge--empty" title="該当なし">—</span></td>`;
     }
 
     let url;

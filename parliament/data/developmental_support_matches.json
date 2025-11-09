@@ -1,0 +1,1141 @@
+{
+  "matches": [
+    {
+      "ocr": "小浏優子",
+      "normalized": "小浏優子",
+      "frequency": 2,
+      "matched_name": "小渕 優子",
+      "score": 75.0,
+      "slug": "obuchi_yuuko"
+    },
+    {
+      "ocr": "野田聖子",
+      "normalized": "野田聖子",
+      "frequency": 1,
+      "matched_name": "野田 聖子",
+      "score": 100.0,
+      "slug": "noda_seiko"
+    },
+    {
+      "ocr": "岸宙文雄",
+      "normalized": "岸宙文雄",
+      "frequency": 1,
+      "matched_name": "岸田 文雄",
+      "score": 75.0,
+      "slug": "kishida_fumio"
+    },
+    {
+      "ocr": "武藤蓉治",
+      "normalized": "武藤蓉治",
+      "frequency": 1,
+      "matched_name": "武藤 容治",
+      "score": 75.0,
+      "slug": "mutou_youji"
+    },
+    {
+      "ocr": "加藤腾信",
+      "normalized": "加藤腾信",
+      "frequency": 1,
+      "matched_name": "加藤 勝信",
+      "score": 75.0,
+      "slug": "katou_katsunobu"
+    },
+    {
+      "ocr": "河野太郎",
+      "normalized": "河野太郎",
+      "frequency": 1,
+      "matched_name": "河野 太郎",
+      "score": 100.0,
+      "slug": "kouno_tarou"
+    },
+    {
+      "ocr": "奥野一郎",
+      "normalized": "奥野一郎",
+      "frequency": 1,
+      "matched_name": "奥野 総一郎",
+      "score": 88.88888888888889,
+      "slug": "okuno_souichirou"
+    },
+    {
+      "ocr": "國场幸之助",
+      "normalized": "國场幸之助",
+      "frequency": 1,
+      "matched_name": "國場 幸之助",
+      "score": 80.0,
+      "slug": "kokuba_kounosuke"
+    },
+    {
+      "ocr": "健介",
+      "normalized": "健介",
+      "frequency": 1,
+      "matched_name": "大西 健介",
+      "score": 90.0,
+      "slug": "oonishi_kensuke"
+    },
+    {
+      "ocr": "贺津也",
+      "normalized": "贺津也",
+      "frequency": 1,
+      "matched_name": "榛葉 賀津也",
+      "score": 72.0,
+      "slug": "shinba_kazuya"
+    },
+    {
+      "ocr": "健太",
+      "normalized": "健太",
+      "frequency": 1,
+      "matched_name": "泉 健太",
+      "score": 90.0,
+      "slug": "izumi_kenta"
+    },
+    {
+      "ocr": "伊藤孝惠",
+      "normalized": "伊藤孝惠",
+      "frequency": 1,
+      "matched_name": "伊藤 孝江",
+      "score": 75.0,
+      "slug": "itou_takae"
+    },
+    {
+      "ocr": "中价康洋",
+      "normalized": "中价康洋",
+      "frequency": 1,
+      "matched_name": "中川 康洋",
+      "score": 75.0,
+      "slug": "nakagawa_yasuhiro"
+    },
+    {
+      "ocr": "山井",
+      "normalized": "山井",
+      "frequency": 1,
+      "matched_name": "山井 和則",
+      "score": 90.0,
+      "slug": "yamanoi_kazunori"
+    },
+    {
+      "ocr": "上野通",
+      "normalized": "上野通",
+      "frequency": 1,
+      "matched_name": "上野 通子",
+      "score": 85.71428571428572,
+      "slug": "ueno_michiko"
+    },
+    {
+      "ocr": "後藤茂之",
+      "normalized": "後藤茂之",
+      "frequency": 1,
+      "matched_name": "後藤 茂之",
+      "score": 100.0,
+      "slug": "gotou_shigeyuki"
+    },
+    {
+      "ocr": "佐藤",
+      "normalized": "佐藤",
+      "frequency": 1,
+      "matched_name": "佐藤 公治",
+      "score": 90.0,
+      "slug": "satou_kouji"
+    },
+    {
+      "ocr": "细野豪志",
+      "normalized": "细野豪志",
+      "frequency": 1,
+      "matched_name": "細野 豪志",
+      "score": 75.0,
+      "slug": "hosono_goushi"
+    },
+    {
+      "ocr": "平佐知子",
+      "normalized": "平佐知子",
+      "frequency": 1,
+      "matched_name": "平山 佐知子",
+      "score": 88.88888888888889,
+      "slug": "hirayama_sachiko"
+    },
+    {
+      "ocr": "福山暂郎",
+      "normalized": "福山暂郎",
+      "frequency": 1,
+      "matched_name": "福山 哲郎",
+      "score": 75.0,
+      "slug": "fukuyama_tetsurou"
+    },
+    {
+      "ocr": "後藤",
+      "normalized": "後藤",
+      "frequency": 1,
+      "matched_name": "後藤 茂之",
+      "score": 90.0,
+      "slug": "gotou_shigeyuki"
+    },
+    {
+      "ocr": "朝白健太郎",
+      "normalized": "朝白健太郎",
+      "frequency": 1,
+      "matched_name": "朝日 健太郎",
+      "score": 80.0,
+      "slug": "asahi_kentarou"
+    },
+    {
+      "ocr": "佐藤英道",
+      "normalized": "佐藤英道",
+      "frequency": 1,
+      "matched_name": "佐藤 英道",
+      "score": 100.0,
+      "slug": "satou_hidemichi"
+    },
+    {
+      "ocr": "阿部知字",
+      "normalized": "阿部知字",
+      "frequency": 1,
+      "matched_name": "阿部 知子",
+      "score": 75.0,
+      "slug": "abe_tomoko"
+    },
+    {
+      "ocr": "末三郎",
+      "normalized": "末三郎",
+      "frequency": 1,
+      "matched_name": "西銘 恒三郎",
+      "score": 72.0,
+      "slug": "nishime_kousaburou"
+    },
+    {
+      "ocr": "東克哉",
+      "normalized": "東克哉",
+      "frequency": 1,
+      "matched_name": "東 克哉",
+      "score": 100.0,
+      "slug": "azuma_katsuya"
+    },
+    {
+      "ocr": "田中",
+      "normalized": "田中",
+      "frequency": 1,
+      "matched_name": "田中 和徳",
+      "score": 90.0,
+      "slug": "tanaka_kazunori"
+    },
+    {
+      "ocr": "自見",
+      "normalized": "自見",
+      "frequency": 1,
+      "matched_name": "自見 はなこ",
+      "score": 90.0,
+      "slug": "jimi_hanako"
+    },
+    {
+      "ocr": "今井理子",
+      "normalized": "今井理子",
+      "frequency": 1,
+      "matched_name": "今井 絵理子",
+      "score": 88.88888888888889,
+      "slug": "imai_eriko"
+    },
+    {
+      "ocr": "上川",
+      "normalized": "上川",
+      "frequency": 1,
+      "matched_name": "上川 陽子",
+      "score": 90.0,
+      "slug": "kamikawa_youko"
+    }
+  ],
+  "unmatched": [
+    {
+      "ocr": "参院員会館",
+      "normalized": "参院員会館",
+      "frequency": 2,
+      "matched_name": "逢沢 一郎",
+      "score": 0.0,
+      "slug": "aisawa_ichirou"
+    },
+    {
+      "ocr": "名簿",
+      "normalized": "名簿",
+      "frequency": 1,
+      "matched_name": "田名部 匡代",
+      "score": 45.0,
+      "slug": "tanabu_masayo"
+    },
+    {
+      "ocr": "履問",
+      "normalized": "履問",
+      "frequency": 1,
+      "matched_name": "逢沢 一郎",
+      "score": 0.0,
+      "slug": "aisawa_ichirou"
+    },
+    {
+      "ocr": "尾迁秀久",
+      "normalized": "尾迁秀久",
+      "frequency": 1,
+      "matched_name": "杉尾 秀哉",
+      "score": 50.0,
+      "slug": "sugio_hideya"
+    },
+    {
+      "ocr": "会長",
+      "normalized": "会長",
+      "frequency": 1,
+      "matched_name": "長坂 康正",
+      "score": 60.00000000000001,
+      "slug": "nagasaka_yasumasa"
+    },
+    {
+      "ocr": "副会長",
+      "normalized": "副会長",
+      "frequency": 1,
+      "matched_name": "長友 よしひろ",
+      "score": 45.0,
+      "slug": "nagatomo_yoshihiro"
+    },
+    {
+      "ocr": "事務局長",
+      "normalized": "事務局長",
+      "frequency": 1,
+      "matched_name": "長友 よしひろ",
+      "score": 36.0,
+      "slug": "nagatomo_yoshihiro"
+    },
+    {
+      "ocr": "山本博司",
+      "normalized": "山本博司",
+      "frequency": 1,
+      "matched_name": "山下 貴司",
+      "score": 50.0,
+      "slug": "yamashita_takashi"
+    },
+    {
+      "ocr": "事務局次長",
+      "normalized": "事務局次長",
+      "frequency": 1,
+      "matched_name": "長妻 昭",
+      "score": 45.0,
+      "slug": "nagatsuma_akira"
+    },
+    {
+      "ocr": "部屋春号",
+      "normalized": "部屋春号",
+      "frequency": 1,
+      "matched_name": "阿部 司",
+      "score": 28.57142857142857,
+      "slug": "abe_tsukasa"
+    },
+    {
+      "ocr": "部屋誉号",
+      "normalized": "部屋誉号",
+      "frequency": 1,
+      "matched_name": "阿部 司",
+      "score": 28.57142857142857,
+      "slug": "abe_tsukasa"
+    },
+    {
+      "ocr": "柠芮",
+      "normalized": "柠芮",
+      "frequency": 1,
+      "matched_name": "逢沢 一郎",
+      "score": 0.0,
+      "slug": "aisawa_ichirou"
+    },
+    {
+      "ocr": "衡藤",
+      "normalized": "衡藤",
+      "frequency": 1,
+      "matched_name": "藤井 比早之",
+      "score": 60.00000000000001,
+      "slug": "fujii_hisayuki"
+    },
+    {
+      "ocr": "小池凳",
+      "normalized": "小池凳",
+      "frequency": 1,
+      "matched_name": "小池 晃",
+      "score": 66.66666666666667,
+      "slug": "koike_akira"
+    },
+    {
+      "ocr": "示森萌",
+      "normalized": "示森萌",
+      "frequency": 1,
+      "matched_name": "森 ようすけ",
+      "score": 45.0,
+      "slug": "mori_yousuke"
+    },
+    {
+      "ocr": "糯苯韩彦",
+      "normalized": "糯苯韩彦",
+      "frequency": 1,
+      "matched_name": "井坂 信彦",
+      "score": 25.0,
+      "slug": "isaka_nobuhiko"
+    },
+    {
+      "ocr": "津莞正",
+      "normalized": "津莞正",
+      "frequency": 1,
+      "matched_name": "神津 たけし",
+      "score": 36.0,
+      "slug": "kouzu_takeshi"
+    },
+    {
+      "ocr": "福为",
+      "normalized": "福为",
+      "frequency": 1,
+      "matched_name": "福重 隆浩",
+      "score": 60.00000000000001,
+      "slug": "fukushige_takahiro"
+    },
+    {
+      "ocr": "社民",
+      "normalized": "社民",
+      "frequency": 1,
+      "matched_name": "逢沢 一郎",
+      "score": 0.0,
+      "slug": "aisawa_ichirou"
+    },
+    {
+      "ocr": "北籽释夫",
+      "normalized": "北籽释夫",
+      "frequency": 1,
+      "matched_name": "北村 経夫",
+      "score": 50.0,
+      "slug": "kitamura_tsuneo"
+    },
+    {
+      "ocr": "福曲",
+      "normalized": "福曲",
+      "frequency": 1,
+      "matched_name": "福重 隆浩",
+      "score": 60.00000000000001,
+      "slug": "fukushige_takahiro"
+    },
+    {
+      "ocr": "升由世喜勇",
+      "normalized": "升由世喜勇",
+      "frequency": 1,
+      "matched_name": "升田 世喜男",
+      "score": 60.0,
+      "slug": "masuta_sekio"
+    },
+    {
+      "ocr": "容元字",
+      "normalized": "容元字",
+      "frequency": 1,
+      "matched_name": "中谷 元",
+      "score": 33.333333333333336,
+      "slug": "nakatani_gen"
+    },
+    {
+      "ocr": "笨籽神学",
+      "normalized": "笨籽神学",
+      "frequency": 1,
+      "matched_name": "神谷 裕",
+      "score": 28.57142857142857,
+      "slug": "kamiya_hiroshi"
+    },
+    {
+      "ocr": "草稻由中吉",
+      "normalized": "草稻由中吉",
+      "frequency": 1,
+      "matched_name": "草間 剛",
+      "score": 45.0,
+      "slug": "kusama_tsuyoshi"
+    },
+    {
+      "ocr": "立寮",
+      "normalized": "立寮",
+      "frequency": 1,
+      "matched_name": "足立 康史",
+      "score": 45.0,
+      "slug": "adachi_yasushi"
+    },
+    {
+      "ocr": "由名部代",
+      "normalized": "由名部代",
+      "frequency": 1,
+      "matched_name": "田名部 匡代",
+      "score": 66.66666666666667,
+      "slug": "tanabu_masayo"
+    },
+    {
+      "ocr": "松苯洋苹",
+      "normalized": "松苯洋苹",
+      "frequency": 1,
+      "matched_name": "松本 洋平",
+      "score": 50.0,
+      "slug": "matsumoto_youhei"
+    },
+    {
+      "ocr": "福由澈",
+      "normalized": "福由澈",
+      "frequency": 1,
+      "matched_name": "福田 かおる",
+      "score": 45.0,
+      "slug": "fukuda_kaoru"
+    },
+    {
+      "ocr": "猪台邦学",
+      "normalized": "猪台邦学",
+      "frequency": 1,
+      "matched_name": "猪口 邦子",
+      "score": 50.0,
+      "slug": "inoguchi_kuniko"
+    },
+    {
+      "ocr": "萌字",
+      "normalized": "萌字",
+      "frequency": 1,
+      "matched_name": "逢沢 一郎",
+      "score": 0.0,
+      "slug": "aisawa_ichirou"
+    },
+    {
+      "ocr": "共產",
+      "normalized": "共產",
+      "frequency": 1,
+      "matched_name": "逢沢 一郎",
+      "score": 0.0,
+      "slug": "aisawa_ichirou"
+    },
+    {
+      "ocr": "由特",
+      "normalized": "由特",
+      "frequency": 1,
+      "matched_name": "嘉田 由紀子",
+      "score": 45.0,
+      "slug": "kada_yukiko"
+    },
+    {
+      "ocr": "智村治字",
+      "normalized": "智村治字",
+      "frequency": 1,
+      "matched_name": "杉村 慎治",
+      "score": 50.0,
+      "slug": "sugimura_shinji"
+    },
+    {
+      "ocr": "小川薄书",
+      "normalized": "小川薄书",
+      "frequency": 1,
+      "matched_name": "小川 淳也",
+      "score": 50.0,
+      "slug": "ogawa_junya"
+    },
+    {
+      "ocr": "箱修兰",
+      "normalized": "箱修兰",
+      "frequency": 1,
+      "matched_name": "稲富 修二",
+      "score": 28.57142857142857,
+      "slug": "inatomi_shuuji"
+    },
+    {
+      "ocr": "学洋",
+      "normalized": "学洋",
+      "frequency": 1,
+      "matched_name": "黒岩 宇洋",
+      "score": 60.00000000000001,
+      "slug": "kuroiwa_takahiro"
+    },
+    {
+      "ocr": "较元",
+      "normalized": "较元",
+      "frequency": 1,
+      "matched_name": "中谷 元",
+      "score": 60.00000000000001,
+      "slug": "nakatani_gen"
+    },
+    {
+      "ocr": "丹翁秀",
+      "normalized": "丹翁秀",
+      "frequency": 1,
+      "matched_name": "丹羽 秀樹",
+      "score": 57.14285714285714,
+      "slug": "niwa_hideki"
+    },
+    {
+      "ocr": "西宙美仁",
+      "normalized": "西宙美仁",
+      "frequency": 1,
+      "matched_name": "西田 実仁",
+      "score": 50.0,
+      "slug": "nishida_makoto"
+    },
+    {
+      "ocr": "和则",
+      "normalized": "和则",
+      "frequency": 1,
+      "matched_name": "鈴木 憲和",
+      "score": 60.00000000000001,
+      "slug": "suzuki_norikazu"
+    },
+    {
+      "ocr": "量德和",
+      "normalized": "量德和",
+      "frequency": 1,
+      "matched_name": "和田 有一朗",
+      "score": 45.0,
+      "slug": "wada_yuuichirou"
+    },
+    {
+      "ocr": "簡苯吉字",
+      "normalized": "簡苯吉字",
+      "frequency": 1,
+      "matched_name": "吉川 元",
+      "score": 28.57142857142857,
+      "slug": "yoshikawa_hajime"
+    },
+    {
+      "ocr": "穗城暴",
+      "normalized": "穗城暴",
+      "frequency": 1,
+      "matched_name": "城井 崇",
+      "score": 33.333333333333336,
+      "slug": "kii_takashi"
+    },
+    {
+      "ocr": "松苯萌",
+      "normalized": "松苯萌",
+      "frequency": 1,
+      "matched_name": "松木 けんこう",
+      "score": 45.0,
+      "slug": "matsuki_kenkou"
+    },
+    {
+      "ocr": "茜洋芝",
+      "normalized": "茜洋芝",
+      "frequency": 1,
+      "matched_name": "平口 洋",
+      "score": 33.333333333333336,
+      "slug": "hiraguchi_hiroshi"
+    },
+    {
+      "ocr": "山苯博司",
+      "normalized": "山苯博司",
+      "frequency": 1,
+      "matched_name": "山下 貴司",
+      "score": 50.0,
+      "slug": "yamashita_takashi"
+    },
+    {
+      "ocr": "德藤",
+      "normalized": "德藤",
+      "frequency": 1,
+      "matched_name": "藤井 比早之",
+      "score": 60.00000000000001,
+      "slug": "fujii_hisayuki"
+    },
+    {
+      "ocr": "莉萌",
+      "normalized": "莉萌",
+      "frequency": 1,
+      "matched_name": "逢沢 一郎",
+      "score": 0.0,
+      "slug": "aisawa_ichirou"
+    },
+    {
+      "ocr": "兰原",
+      "normalized": "兰原",
+      "frequency": 1,
+      "matched_name": "原口 一博",
+      "score": 60.00000000000001,
+      "slug": "haraguchi_kazuhiro"
+    },
+    {
+      "ocr": "淳智字",
+      "normalized": "淳智字",
+      "frequency": 1,
+      "matched_name": "長谷川 淳二",
+      "score": 36.0,
+      "slug": "hasegawa_junji"
+    },
+    {
+      "ocr": "笑敏孝",
+      "normalized": "笑敏孝",
+      "frequency": 1,
+      "matched_name": "大岡 敏孝",
+      "score": 57.14285714285714,
+      "slug": "oooka_toshitaka"
+    },
+    {
+      "ocr": "关壕小音谷",
+      "normalized": "关壕小音谷",
+      "frequency": 1,
+      "matched_name": "梅谷 守",
+      "score": 45.0,
+      "slug": "umetani_mamoru"
+    },
+    {
+      "ocr": "笑串正树",
+      "normalized": "笑串正树",
+      "frequency": 1,
+      "matched_name": "大串 正樹",
+      "score": 50.0,
+      "slug": "oogushi_masaki"
+    },
+    {
+      "ocr": "兰蒲信诺",
+      "normalized": "兰蒲信诺",
+      "frequency": 1,
+      "matched_name": "井坂 信彦",
+      "score": 25.0,
+      "slug": "isaka_nobuhiko"
+    },
+    {
+      "ocr": "井比草芝",
+      "normalized": "井比草芝",
+      "frequency": 1,
+      "matched_name": "藤井 比早之",
+      "score": 44.44444444444444,
+      "slug": "fujii_hisayuki"
+    },
+    {
+      "ocr": "苦价康",
+      "normalized": "苦价康",
+      "frequency": 1,
+      "matched_name": "中曽根 康隆",
+      "score": 36.0,
+      "slug": "nakasone_yasutaka"
+    },
+    {
+      "ocr": "苯学",
+      "normalized": "苯学",
+      "frequency": 1,
+      "matched_name": "坂井 学",
+      "score": 60.00000000000001,
+      "slug": "sakai_manabu"
+    },
+    {
+      "ocr": "猪華字",
+      "normalized": "猪華字",
+      "frequency": 1,
+      "matched_name": "猪口 幸子",
+      "score": 28.57142857142857,
+      "slug": "inokuchi_sachiko"
+    },
+    {
+      "ocr": "苏俊字",
+      "normalized": "苏俊字",
+      "frequency": 1,
+      "matched_name": "あべ 俊子",
+      "score": 28.57142857142857,
+      "slug": "abe_toshiko"
+    },
+    {
+      "ocr": "小辛帆",
+      "normalized": "小辛帆",
+      "frequency": 1,
+      "matched_name": "小山 千帆",
+      "score": 57.14285714285714,
+      "slug": "koyama_chiho"
+    },
+    {
+      "ocr": "壁这麻稳字",
+      "normalized": "壁这麻稳字",
+      "frequency": 1,
+      "matched_name": "麻生 太郎",
+      "score": 22.22222222222222,
+      "slug": "asou_tarou"
+    },
+    {
+      "ocr": "池苗真起",
+      "normalized": "池苗真起",
+      "frequency": 1,
+      "matched_name": "池田 真紀",
+      "score": 50.0,
+      "slug": "ikeda_maki"
+    },
+    {
+      "ocr": "针容比字",
+      "normalized": "针容比字",
+      "frequency": 1,
+      "matched_name": "金子 容三",
+      "score": 25.0,
+      "slug": "kaneko_youzou"
+    },
+    {
+      "ocr": "蓬茨一郎",
+      "normalized": "蓬茨一郎",
+      "frequency": 1,
+      "matched_name": "逢沢 一郎",
+      "score": 50.0,
+      "slug": "aisawa_ichirou"
+    },
+    {
+      "ocr": "尾迁",
+      "normalized": "尾迁",
+      "frequency": 1,
+      "matched_name": "尾崎 正直",
+      "score": 60.00000000000001,
+      "slug": "ozaki_masanao"
+    },
+    {
+      "ocr": "棚暴艾",
+      "normalized": "棚暴艾",
+      "frequency": 1,
+      "matched_name": "棚橋 泰文",
+      "score": 28.57142857142857,
+      "slug": "tanahashi_yasufumi"
+    },
+    {
+      "ocr": "野由聖字",
+      "normalized": "野由聖字",
+      "frequency": 1,
+      "matched_name": "野田 聖子",
+      "score": 50.0,
+      "slug": "noda_seiko"
+    },
+    {
+      "ocr": "答枝崇一郎",
+      "normalized": "答枝崇一郎",
+      "frequency": 1,
+      "matched_name": "今枝 宗一郎",
+      "score": 60.0,
+      "slug": "imaeda_souichirou"
+    },
+    {
+      "ocr": "長容漳",
+      "normalized": "長容漳",
+      "frequency": 1,
+      "matched_name": "長友 よしひろ",
+      "score": 45.0,
+      "slug": "nagatomo_yoshihiro"
+    },
+    {
+      "ocr": "川由龍平",
+      "normalized": "川由龍平",
+      "frequency": 1,
+      "matched_name": "石 平",
+      "score": 60.00000000000001,
+      "slug": "seki_hei"
+    },
+    {
+      "ocr": "昌更",
+      "normalized": "昌更",
+      "frequency": 1,
+      "matched_name": "中川 宏昌",
+      "score": 60.00000000000001,
+      "slug": "nakagawa_hiromasa"
+    },
+    {
+      "ocr": "菁藤夫",
+      "normalized": "菁藤夫",
+      "frequency": 1,
+      "matched_name": "斉藤 鉄夫",
+      "score": 57.14285714285714,
+      "slug": "saitou_tetsuo"
+    },
+    {
+      "ocr": "网田",
+      "normalized": "网田",
+      "frequency": 1,
+      "matched_name": "田嶋 要",
+      "score": 60.00000000000001,
+      "slug": "tajima_kaname"
+    },
+    {
+      "ocr": "崎满子",
+      "normalized": "崎满子",
+      "frequency": 1,
+      "matched_name": "沼崎 満子",
+      "score": 57.14285714285714,
+      "slug": "numazaki_mitsuko"
+    },
+    {
+      "ocr": "解首",
+      "normalized": "解首",
+      "frequency": 1,
+      "matched_name": "逢沢 一郎",
+      "score": 0.0,
+      "slug": "aisawa_ichirou"
+    },
+    {
+      "ocr": "苹果笑榨",
+      "normalized": "苹果笑榨",
+      "frequency": 1,
+      "matched_name": "逢沢 一郎",
+      "score": 0.0,
+      "slug": "aisawa_ichirou"
+    },
+    {
+      "ocr": "崇野",
+      "normalized": "崇野",
+      "frequency": 1,
+      "matched_name": "城井 崇",
+      "score": 60.00000000000001,
+      "slug": "kii_takashi"
+    },
+    {
+      "ocr": "横信",
+      "normalized": "横信",
+      "frequency": 1,
+      "matched_name": "横山 信一",
+      "score": 66.66666666666667,
+      "slug": "yokoyama_shinichi"
+    },
+    {
+      "ocr": "新藤洋萌",
+      "normalized": "新藤洋萌",
+      "frequency": 1,
+      "matched_name": "斎藤 洋明",
+      "score": 50.0,
+      "slug": "saitou_hiroaki"
+    },
+    {
+      "ocr": "山台和芝",
+      "normalized": "山台和芝",
+      "frequency": 1,
+      "matched_name": "山井 和則",
+      "score": 50.0,
+      "slug": "yamanoi_kazunori"
+    },
+    {
+      "ocr": "落答",
+      "normalized": "落答",
+      "frequency": 1,
+      "matched_name": "落合 貴之",
+      "score": 60.00000000000001,
+      "slug": "ochiai_takayuki"
+    },
+    {
+      "ocr": "棵佑美",
+      "normalized": "棵佑美",
+      "frequency": 1,
+      "matched_name": "林 佑美",
+      "score": 66.66666666666667,
+      "slug": "hayashi_yumi"
+    },
+    {
+      "ocr": "船苗",
+      "normalized": "船苗",
+      "frequency": 1,
+      "matched_name": "高市 早苗",
+      "score": 60.00000000000001,
+      "slug": "takaichi_sanae"
+    },
+    {
+      "ocr": "保蒲介",
+      "normalized": "保蒲介",
+      "frequency": 1,
+      "matched_name": "鶴保 庸介",
+      "score": 57.14285714285714,
+      "slug": "tsuruho_yousuke"
+    },
+    {
+      "ocr": "营路拓属",
+      "normalized": "营路拓属",
+      "frequency": 1,
+      "matched_name": "宮路 拓馬",
+      "score": 50.0,
+      "slug": "miyaji_takuma"
+    },
+    {
+      "ocr": "减二",
+      "normalized": "减二",
+      "frequency": 1,
+      "matched_name": "稲富 修二",
+      "score": 60.00000000000001,
+      "slug": "inatomi_shuuji"
+    },
+    {
+      "ocr": "太由房泾",
+      "normalized": "太由房泾",
+      "frequency": 1,
+      "matched_name": "泉 健太",
+      "score": 28.57142857142857,
+      "slug": "izumi_kenta"
+    },
+    {
+      "ocr": "道卡",
+      "normalized": "道卡",
+      "frequency": 1,
+      "matched_name": "佐藤 英道",
+      "score": 60.00000000000001,
+      "slug": "satou_hidemichi"
+    },
+    {
+      "ocr": "灌波宏安",
+      "normalized": "灌波宏安",
+      "frequency": 1,
+      "matched_name": "滝波 宏文",
+      "score": 50.0,
+      "slug": "takinami_hirofumi"
+    },
+    {
+      "ocr": "岩破",
+      "normalized": "岩破",
+      "frequency": 1,
+      "matched_name": "岩田 和親",
+      "score": 60.00000000000001,
+      "slug": "iwata_kazuchika"
+    },
+    {
+      "ocr": "松苗",
+      "normalized": "松苗",
+      "frequency": 1,
+      "matched_name": "高市 早苗",
+      "score": 60.00000000000001,
+      "slug": "takaichi_sanae"
+    },
+    {
+      "ocr": "金学恭芝",
+      "normalized": "金学恭芝",
+      "frequency": 1,
+      "matched_name": "金子 恭之",
+      "score": 50.0,
+      "slug": "kaneko_yasushi"
+    },
+    {
+      "ocr": "裕芝",
+      "normalized": "裕芝",
+      "frequency": 1,
+      "matched_name": "神谷 裕",
+      "score": 60.00000000000001,
+      "slug": "kamiya_hiroshi"
+    },
+    {
+      "ocr": "腾彦",
+      "normalized": "腾彦",
+      "frequency": 1,
+      "matched_name": "阿久津 幸彦",
+      "score": 60.00000000000001,
+      "slug": "akutsu_yukihiko"
+    },
+    {
+      "ocr": "福苗",
+      "normalized": "福苗",
+      "frequency": 1,
+      "matched_name": "高市 早苗",
+      "score": 60.00000000000001,
+      "slug": "takaichi_sanae"
+    },
+    {
+      "ocr": "滨苗",
+      "normalized": "滨苗",
+      "frequency": 1,
+      "matched_name": "高市 早苗",
+      "score": 60.00000000000001,
+      "slug": "takaichi_sanae"
+    },
+    {
+      "ocr": "糖苯慧悟",
+      "normalized": "糖苯慧悟",
+      "frequency": 1,
+      "matched_name": "橋本 慧悟",
+      "score": 50.0,
+      "slug": "hashimoto_keigo"
+    },
+    {
+      "ocr": "英芝",
+      "normalized": "英芝",
+      "frequency": 1,
+      "matched_name": "英利 アルフィヤ",
+      "score": 60.00000000000001,
+      "slug": "eri_arufuiya"
+    },
+    {
+      "ocr": "疑学",
+      "normalized": "疑学",
+      "frequency": 1,
+      "matched_name": "坂井 学",
+      "score": 60.00000000000001,
+      "slug": "sakai_manabu"
+    },
+    {
+      "ocr": "舌贺",
+      "normalized": "舌贺",
+      "frequency": 1,
+      "matched_name": "逢沢 一郎",
+      "score": 0.0,
+      "slug": "aisawa_ichirou"
+    },
+    {
+      "ocr": "西商",
+      "normalized": "西商",
+      "frequency": 1,
+      "matched_name": "西岡 秀子",
+      "score": 60.00000000000001,
+      "slug": "nishioka_hideko"
+    },
+    {
+      "ocr": "羲高",
+      "normalized": "羲高",
+      "frequency": 1,
+      "matched_name": "石原 宏高",
+      "score": 60.00000000000001,
+      "slug": "ishihara_hirotaka"
+    },
+    {
+      "ocr": "岩笛",
+      "normalized": "岩笛",
+      "frequency": 1,
+      "matched_name": "岩田 和親",
+      "score": 60.00000000000001,
+      "slug": "iwata_kazuchika"
+    },
+    {
+      "ocr": "和巍",
+      "normalized": "和巍",
+      "frequency": 1,
+      "matched_name": "鈴木 憲和",
+      "score": 60.00000000000001,
+      "slug": "suzuki_norikazu"
+    },
+    {
+      "ocr": "柴由",
+      "normalized": "柴由",
+      "frequency": 1,
+      "matched_name": "柴田 勝之",
+      "score": 60.00000000000001,
+      "slug": "shibata_katsuyuki"
+    },
+    {
+      "ocr": "腾芝",
+      "normalized": "腾芝",
+      "frequency": 1,
+      "matched_name": "逢沢 一郎",
+      "score": 0.0,
+      "slug": "aisawa_ichirou"
+    },
+    {
+      "ocr": "请大人",
+      "normalized": "请大人",
+      "frequency": 1,
+      "matched_name": "青山 大人",
+      "score": 57.14285714285714,
+      "slug": "aoyama_yamato"
+    }
+  ],
+  "unique_slugs": [
+    "abe_tomoko",
+    "asahi_kentarou",
+    "azuma_katsuya",
+    "fukuyama_tetsurou",
+    "gotou_shigeyuki",
+    "hirayama_sachiko",
+    "hosono_goushi",
+    "imai_eriko",
+    "itou_takae",
+    "izumi_kenta",
+    "jimi_hanako",
+    "kamikawa_youko",
+    "katou_katsunobu",
+    "kishida_fumio",
+    "kokuba_kounosuke",
+    "kouno_tarou",
+    "mutou_youji",
+    "nakagawa_yasuhiro",
+    "nishime_kousaburou",
+    "noda_seiko",
+    "obuchi_yuuko",
+    "okuno_souichirou",
+    "oonishi_kensuke",
+    "satou_hidemichi",
+    "satou_kouji",
+    "shinba_kazuya",
+    "tanaka_kazunori",
+    "ueno_michiko",
+    "yamanoi_kazunori"
+  ]
+}

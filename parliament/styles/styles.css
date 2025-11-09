@@ -214,6 +214,34 @@ header h1 {
   text-align: center;
 }
 
+.member-table th.col-league {
+  color: #1d3a8a;
+  font-weight: 600;
+  text-align: center;
+}
+
+.member-table .league-count {
+  text-align: center;
+}
+
+.league-badge {
+  display: inline-flex;
+  min-width: 2rem;
+  justify-content: center;
+  align-items: center;
+  padding: 0.15rem 0.4rem;
+  border-radius: 999px;
+  background: #eef2ff;
+  color: #312e81;
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+.league-badge--empty {
+  background: #f2f4f7;
+  color: #475467;
+}
+
 .signal-pill {
   display: inline-flex;
   align-items: center;
@@ -243,20 +271,47 @@ header h1 {
   border-color: #e4e7ec;
 }
 
-#questions {
-  margin-top: 2rem;
+.card-section {
+  margin-top: 1.5rem;
   padding-top: 1.5rem;
   border-top: 1px solid #e0e7ff;
 }
 
-#summary {
-  margin-top: 2rem;
+.card-section:first-of-type {
+  margin-top: 0;
+  border-top: none;
 }
 
-#questions h2 {
-  font-size: 1.4rem;
-  margin-bottom: 1rem;
+.card-section h2 {
+  margin-top: 0;
+  font-size: 1.2rem;
   color: #223a7f;
+}
+
+.card-section .placeholder {
+  margin: 0;
+}
+
+.league-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.league-list li {
+  background: #eef2ff;
+  color: #1d3a8a;
+  border-radius: 999px;
+  padding: 0.25rem 0.9rem;
+  font-size: 0.9rem;
+}
+
+
+#summary h2 {
+  font-size: 1.4rem;
 }
 
 #questions .placeholder {

@@ -1,2272 +1,4981 @@
 {
-  "generated_at": "2025-11-06T09:07:08.760463+00:00",
+  "generated_at": "2025-11-09T12:42:11.756912+00:00",
   "index": {
     "abe_hiroki": {
-      "meetings": 7,
-      "speeches": 9,
-      "written_questions": 0,
-      "has_disability_welfare_signal": true
-    },
-    "abe_tomoko": {
-      "meetings": 45,
-      "speeches": 70,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "abe_toshiko": {
-      "meetings": 2,
-      "speeches": 2,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "abe_tsukasa": {
-      "meetings": 1,
-      "speeches": 10,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "adachi_masashi": {
-      "meetings": 2,
-      "speeches": 3,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "adachi_yasushi": {
       "meetings": 15,
-      "speeches": 24,
+      "speeches": 37,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
-    "aisawa_ichirou": {
-      "meetings": 1,
-      "speeches": 1,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "akaba_kazuyoshi": {
-      "meetings": 7,
-      "speeches": 8,
-      "written_questions": 0,
-      "has_disability_welfare_signal": true
-    },
-    "akazawa_ryousei": {
+    "abe_keishi": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "abe_tomoko": {
+      "meetings": 111,
+      "speeches": 302,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "abe_toshiko": {
+      "meetings": 10,
+      "speeches": 19,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "abe_tsukasa": {
+      "meetings": 3,
+      "speeches": 12,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "abe_yumiko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "adachi_masashi": {
+      "meetings": 3,
+      "speeches": 4,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "adachi_yasushi": {
+      "meetings": 18,
+      "speeches": 31,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": true
+    },
+    "adachi_yuuji": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "aisawa_ichirou": {
+      "meetings": 3,
+      "speeches": 7,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "akaba_kazuyoshi": {
+      "meetings": 26,
+      "speeches": 48,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "akama_jirou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "akamatsu_ken": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "akamine_seiken": {
+      "meetings": 1,
+      "speeches": 5,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "akazawa_ryousei": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "akino_kouzou": {
-      "meetings": 8,
-      "speeches": 10,
+      "meetings": 25,
+      "speeches": 40,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "akutsu_yukihiko": {
+      "meetings": 7,
+      "speeches": 7,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "andou_hiroshi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "andou_junko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "andou_takao": {
-      "meetings": 3,
-      "speeches": 3,
+      "meetings": 4,
+      "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
+    },
+    "anno_takahiro": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
     },
     "aoki_ai": {
-      "meetings": 3,
-      "speeches": 3,
+      "meetings": 9,
+      "speeches": 10,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
-    "aoshima_kenta": {
-      "meetings": 1,
-      "speeches": 1,
+    "aoki_kazuhiko": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "aoshima_kenta": {
+      "meetings": 2,
+      "speeches": 4,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "aoyagi_hitoshi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "aoyagi_youichirou": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 2,
+      "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "aoyama_shigeharu": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "aoyama_yamato": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "arai_yutaka": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "arakaki_kunio": {
       "meetings": 3,
-      "speeches": 5,
+      "speeches": 7,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "arimura_haruko": {
+      "meetings": 9,
+      "speeches": 9,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "arita_yoshifu": {
+      "meetings": 7,
+      "speeches": 8,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "asada_hitoshi": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "asahi_kentarou": {
+      "meetings": 5,
+      "speeches": 9,
+      "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": false
     },
     "asano_satoshi": {
-      "meetings": 4,
-      "speeches": 8,
+      "meetings": 8,
+      "speeches": 19,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "asao_keiichirou": {
-      "meetings": 3,
-      "speeches": 3,
+      "meetings": 13,
+      "speeches": 23,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "asou_tarou": {
-      "meetings": 0,
-      "speeches": 0,
+      "meetings": 2,
+      "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "azuma_katsuya": {
-      "meetings": 3,
-      "speeches": 6,
+      "meetings": 4,
+      "speeches": 7,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": null
+    },
+    "azuma_kuniyoshi": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": null
     },
     "azuma_tooru": {
-      "meetings": 13,
-      "speeches": 21,
+      "meetings": 34,
+      "speeches": 92,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "azumi_jun": {
-      "meetings": 0,
-      "speeches": 0,
+      "meetings": 1,
+      "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "baba_nobuyuki": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "baba_seishi": {
-      "meetings": 0,
-      "speeches": 0,
+      "meetings": 1,
+      "speeches": 9,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
-    "daimon_mikishi": {
-      "meetings": 4,
-      "speeches": 5,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "edano_yukio": {
-      "meetings": 4,
-      "speeches": 6,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "endou_toshiaki": {
+    "banno_yutaka": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "daimon_mikishi": {
+      "meetings": 19,
+      "speeches": 38,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "degawa_momoko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "dougomi_makiko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "eda_kenji": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "edano_yukio": {
+      "meetings": 10,
+      "speeches": 20,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "ehara_kumiko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "ejima_kiyoshi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "endou_takashi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "endou_toshiaki": {
+      "meetings": 4,
+      "speeches": 13,
+      "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": false
+    },
+    "eri_arufuiya": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "eto_akinori": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 4,
+      "speeches": 6,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "etou_taku": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "fujioka_takao": {
+    "fujii_hisayuki": {
+      "meetings": 3,
+      "speeches": 5,
+      "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": false
+    },
+    "fujii_kazuhiro": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "fujikawa_masahito": {
       "meetings": 2,
       "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "fujiki_shinya": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "fujimaki_kenta": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "fujimaru_satoshi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "fujioka_takao": {
+      "meetings": 3,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "fujita_fumitake": {
-      "meetings": 10,
-      "speeches": 15,
+      "meetings": 14,
+      "speeches": 29,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
-    "fukuda_akio": {
-      "meetings": 5,
-      "speeches": 5,
+    "fujiwara_norimasa": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "fukasaku_hesusu": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "fukazawa_youichi": {
+      "meetings": 2,
+      "speeches": 4,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "fukuda_akio": {
+      "meetings": 7,
+      "speeches": 8,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "fukuda_gen": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "fukuda_junta": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "fukuda_kaoru": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "fukuda_tatsuo": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "fukuhara_junji": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "fukumori_wakako": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 2,
+      "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "fukuoka_takamaro": {
-      "meetings": 7,
-      "speeches": 11,
+      "meetings": 9,
+      "speeches": 16,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
-    "fukushima_mizuho": {
-      "meetings": 52,
-      "speeches": 86,
+    "fukushi_masumi": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "fukushima_nobuyuki": {
-      "meetings": 1,
-      "speeches": 1,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "fukuyama_tetsurou": {
+    "fukushige_takahiro": {
       "meetings": 4,
       "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "fukushima_mizuho": {
+      "meetings": 152,
+      "speeches": 396,
+      "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": false
+    },
+    "fukushima_nobuyuki": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "fukuta_tooru": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "fukuyama_mamoru": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": null
+    },
+    "fukuyama_tetsurou": {
+      "meetings": 21,
+      "speeches": 49,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "funada_hajime": {
-      "meetings": 1,
-      "speeches": 2,
+      "meetings": 7,
+      "speeches": 10,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "funahashi_toshimitsu": {
       "meetings": 1,
-      "speeches": 1,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "funayama_yasue": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 6,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "furukawa_motohisa": {
-      "meetings": 3,
-      "speeches": 3,
+      "meetings": 9,
+      "speeches": 16,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "furukawa_naoki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "furukawa_toshiharu": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "furukawa_yasushi": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": true
+    },
+    "furukawa_yoshihisa": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "furuya_keiji": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "futori_hideshi": {
       "meetings": 1,
-      "speeches": 1,
+      "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "genba_kouichirou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "genma_kentarou": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 4,
+      "speeches": 10,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "gotou_hitoshi": {
       "meetings": 2,
       "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "gotou_shigeyuki": {
-      "meetings": 5,
-      "speeches": 7,
+      "meetings": 6,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": false
+    },
+    "gotou_shouta": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "gotou_yuuichi": {
-      "meetings": 4,
-      "speeches": 4,
+      "meetings": 14,
+      "speeches": 21,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "haga_michiya": {
-      "meetings": 9,
-      "speeches": 12,
+      "meetings": 15,
+      "speeches": 31,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "hagihara_kei": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "hagiuda_kouichi": {
-      "meetings": 1,
-      "speeches": 1,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "hamachi_masakazu": {
-      "meetings": 1,
-      "speeches": 3,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "hamaguchi_makoto": {
-      "meetings": 8,
-      "speeches": 9,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "haraguchi_kazuhiro": {
       "meetings": 2,
       "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "hajikano_hiroki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "hamachi_masakazu": {
+      "meetings": 9,
+      "speeches": 12,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "hamada_yasukazu": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "hamaguchi_makoto": {
+      "meetings": 22,
+      "speeches": 45,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "hamano_yoshifumi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "hanashi_yasuhiro": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "harada_daijirou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "harada_hidekazu": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "harada_masahiro": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "haraguchi_kazuhiro": {
+      "meetings": 13,
+      "speeches": 19,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "hasegawa_gaku": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "hasegawa_hideharu": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "hasegawa_junji": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "hasegawa_kaichi": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "hashimoto_keigo": {
-      "meetings": 1,
-      "speeches": 4,
+      "meetings": 2,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": true
     },
-    "hashimoto_seiko": {
-      "meetings": 3,
-      "speeches": 3,
+    "hashimoto_mikihiko": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "hashimoto_seiko": {
+      "meetings": 9,
+      "speeches": 19,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "hata_jirou": {
       "meetings": 2,
-      "speeches": 3,
+      "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "hatoyama_kiichirou": {
-      "meetings": 1,
-      "speeches": 1,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "hayashi_yumi": {
+    "hatano_tsubasa": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "hatoyama_jirou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "hatoyama_kiichirou": {
+      "meetings": 2,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "hayashi_yoshimasa": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "hayashi_yumi": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": true
+    },
+    "higashino_hideki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
     },
     "hino_saria": {
       "meetings": 5,
-      "speeches": 10,
-      "written_questions": 1,
-      "has_disability_welfare_signal": true
+      "speeches": 12,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
     },
     "hirabayashi_akira": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": null
     },
-    "hiraki_daisaku": {
-      "meetings": 6,
-      "speeches": 7,
+    "hirado_kouta": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "hiraguchi_hiroshi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "hirai_takuya": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "hiraiwa_masaki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "hiraki_daisaku": {
+      "meetings": 8,
+      "speeches": 9,
+      "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": false
+    },
+    "hiranuma_shoujirou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "hiraoka_hideo": {
-      "meetings": 6,
-      "speeches": 9,
+      "meetings": 10,
+      "speeches": 32,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "hirasawa_katsuei": {
+      "meetings": 5,
+      "speeches": 6,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "hirayama_sachiko": {
-      "meetings": 3,
-      "speeches": 3,
+      "meetings": 11,
+      "speeches": 17,
       "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": false
     },
-    "hirota_hajime": {
-      "meetings": 2,
-      "speeches": 2,
+    "hirose_ken": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "hirota_hajime": {
+      "meetings": 9,
+      "speeches": 14,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "honda_akiko": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "honda_tarou": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "honjou_satoshi": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "horii_iwao": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "horikawa_akiko": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 3,
+      "speeches": 6,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "horiuchi_noriko": {
       "meetings": 2,
       "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": true
     },
     "hosaka_yasushi": {
-      "meetings": 1,
-      "speeches": 2,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "ichimura_kouichirou": {
       "meetings": 3,
-      "speeches": 4,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
-    "ide_yousei": {
+    "hoshi_hokuto": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "hoshino_tsuyoshi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "hosono_goushi": {
       "meetings": 2,
       "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": false
+    },
+    "hyakuta_naoki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "ibayashi_tatsunori": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "ichiki_tomoko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "ichimura_kouichirou": {
+      "meetings": 12,
+      "speeches": 27,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "ide_yousei": {
+      "meetings": 5,
+      "speeches": 7,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "igarashi_eri": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "igarashi_kiyoshi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "iha_youichi": {
+      "meetings": 1,
+      "speeches": 6,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "ikeda_maki": {
-      "meetings": 15,
-      "speeches": 24,
+      "meetings": 25,
+      "speeches": 43,
       "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": false
     },
     "ikehata_koutarou": {
       "meetings": 2,
       "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "ikeshita_taku": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 3,
+      "speeches": 6,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "ikuina_akiko": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "imaeda_souichirou": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 3,
+      "speeches": 5,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": true
     },
     "imai_eriko": {
-      "meetings": 7,
-      "speeches": 15,
+      "meetings": 14,
+      "speeches": 47,
       "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": true
     },
-    "inatomi_shuuji": {
-      "meetings": 1,
-      "speeches": 2,
+    "imai_masato": {
+      "meetings": 4,
+      "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "inada_tomomi": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "inatomi_shuuji": {
+      "meetings": 5,
+      "speeches": 10,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "indou_shuusaku": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "ino_toshirou": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "inoguchi_kuniko": {
-      "meetings": 1,
-      "speeches": 4,
+      "meetings": 5,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": true
     },
-    "inose_naoki": {
-      "meetings": 3,
-      "speeches": 3,
-      "written_questions": 0,
-      "has_disability_welfare_signal": true
-    },
-    "inoue_hidetaka": {
-      "meetings": 2,
-      "speeches": 2,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "inoue_shinji": {
+    "inokuchi_sachiko": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "inose_naoki": {
+      "meetings": 5,
+      "speeches": 9,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "inoue_hidetaka": {
+      "meetings": 6,
+      "speeches": 13,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "inoue_shinji": {
+      "meetings": 2,
+      "speeches": 5,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "inoue_takahiro": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
-    "isaka_nobuhiko": {
-      "meetings": 22,
-      "speeches": 35,
+    "inoue_yoshiyuki": {
+      "meetings": 6,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "ishiba_shigeru": {
+    "isaka_nobuhiko": {
+      "meetings": 31,
+      "speeches": 69,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "isezaki_kenji": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "ishiba_shigeru": {
+      "meetings": 3,
+      "speeches": 4,
+      "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": false
     },
     "ishibashi_michihiro": {
-      "meetings": 7,
-      "speeches": 10,
+      "meetings": 25,
+      "speeches": 69,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "ishibashi_rintarou": {
+      "meetings": 2,
+      "speeches": 5,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "ishida_masahiro": {
       "meetings": 2,
-      "speeches": 2,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "ishigaki_noriko": {
-      "meetings": 4,
-      "speeches": 9,
+    "ishida_masatoshi": {
+      "meetings": 2,
+      "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "ishigaki_noriko": {
+      "meetings": 6,
+      "speeches": 12,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "ishihara_hirotaka": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "ishii_hiroo": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 3,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "ishii_junichi": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 3,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "ishii_megumi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "ishii_mitsuko": {
-      "meetings": 2,
-      "speeches": 4,
+      "meetings": 7,
+      "speeches": 13,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "ishii_tomoe": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "ishikawa_hirotaka": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 11,
+      "speeches": 18,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "ishikawa_kaori": {
-      "meetings": 2,
-      "speeches": 3,
+      "meetings": 6,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
-    "isozaki_yoshihiko": {
-      "meetings": 1,
-      "speeches": 1,
+    "isozaki_tetsuji": {
+      "meetings": 8,
+      "speeches": 24,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "isozaki_yoshihiko": {
+      "meetings": 2,
+      "speeches": 4,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "itou_nobuhisa": {
-      "meetings": 1,
-      "speeches": 3,
+      "meetings": 4,
+      "speeches": 10,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "itou_shunsuke": {
+      "meetings": 4,
+      "speeches": 21,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "itou_tadahiko": {
-      "meetings": 0,
-      "speeches": 0,
+      "meetings": 1,
+      "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "itou_takae": {
       "meetings": 11,
-      "speeches": 12,
+      "speeches": 24,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "itou_takae2": {
+      "meetings": 18,
+      "speeches": 26,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "itou_tatsuo": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "itou_tatsuya": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "itou_yoshitaka": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 11,
+      "speeches": 12,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "iwabuchi_tomo": {
-      "meetings": 3,
-      "speeches": 4,
+      "meetings": 6,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "iwamoto_mana": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "iwamoto_tsuyohito": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "iwata_kazuchika": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": false
+    },
+    "iwatani_ryouhei": {
+      "meetings": 1,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "iwaya_takeshi": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "izumi_fusaho": {
-      "meetings": 11,
-      "speeches": 27,
+      "meetings": 19,
+      "speeches": 82,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "izumi_kenta": {
-      "meetings": 5,
-      "speeches": 9,
+      "meetings": 21,
+      "speeches": 49,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "jimi_hanako": {
-      "meetings": 13,
-      "speeches": 23,
+      "meetings": 16,
+      "speeches": 30,
       "written_questions": 0,
-      "has_disability_welfare_signal": true
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
     },
     "kada_hiroyuki": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 3,
+      "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kada_yukiko": {
+      "meetings": 3,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "kagoshima_akihiro": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "kaieda_banri": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
-    "kamata_sayuri": {
-      "meetings": 4,
-      "speeches": 6,
-      "written_questions": 0,
-      "has_disability_welfare_signal": true
-    },
-    "kamikawa_youko": {
+    "kajihara_daisuke": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "kamiya_hiroshi": {
+    "kajiyama_hiroshi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kamata_sayuri": {
+      "meetings": 12,
+      "speeches": 21,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "kamayachi_satoshi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kamei_akiko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kamikawa_youko": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": false
+    },
+    "kamiya_hiroshi": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "kamiya_masayuki": {
       "meetings": 1,
-      "speeches": 3,
+      "speeches": 6,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kamiya_souhei": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kanda_junichi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "kaneko_emi": {
-      "meetings": 13,
-      "speeches": 27,
+      "meetings": 25,
+      "speeches": 95,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "kaneko_michihito": {
       "meetings": 1,
       "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "kaneko_yasushi": {
       "meetings": 2,
-      "speeches": 3,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "kaneko_youzou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "kanemura_ryuuna": {
-      "meetings": 14,
-      "speeches": 27,
+      "meetings": 28,
+      "speeches": 70,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": true
     },
     "kasai_kouichi": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 6,
+      "speeches": 7,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "katayama_daisuke": {
+      "meetings": 5,
+      "speeches": 9,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "katayama_satsuki": {
       "meetings": 2,
       "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "katou_akiyoshi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "katou_ayuko": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "katou_katsunobu": {
-      "meetings": 6,
-      "speeches": 6,
+      "meetings": 13,
+      "speeches": 20,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "katou_ryuushou": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "katsube_kenji": {
-      "meetings": 0,
-      "speeches": 0,
+      "meetings": 2,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "katsumata_takaaki": {
-      "meetings": 0,
-      "speeches": 0,
+      "meetings": 1,
+      "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "katsume_yasushi": {
       "meetings": 3,
-      "speeches": 4,
+      "speeches": 9,
       "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": false
+    },
+    "kawaharada_eisei": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "kawai_takanori": {
-      "meetings": 4,
-      "speeches": 6,
+      "meetings": 8,
+      "speeches": 41,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "kawasaki_hideto": {
-      "meetings": 1,
-      "speeches": 1,
+    "kawamura_takashi": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "kawamura_yuudai": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "kawasaki_hideto": {
+      "meetings": 2,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "kawauchi_hiroshi": {
-      "meetings": 7,
-      "speeches": 9,
+      "meetings": 19,
+      "speeches": 48,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kenzaka_shigenori": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kidoguchi_eiji": {
+      "meetings": 7,
+      "speeches": 11,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kihara_minoru": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "kihara_seiji": {
-      "meetings": 1,
-      "speeches": 6,
+      "meetings": 5,
+      "speeches": 13,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": true
     },
     "kii_takashi": {
-      "meetings": 3,
-      "speeches": 4,
+      "meetings": 8,
+      "speeches": 9,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "kikawada_hitoshi": {
       "meetings": 1,
-      "speeches": 1,
+      "speeches": 6,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kikuchi_daijirou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "kikuta_makiko": {
-      "meetings": 4,
-      "speeches": 7,
+      "meetings": 9,
+      "speeches": 29,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "kimura_eiko": {
-      "meetings": 30,
-      "speeches": 47,
+      "meetings": 96,
+      "speeches": 308,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "kinjou_yasukuni": {
-      "meetings": 2,
-      "speeches": 3,
+      "meetings": 3,
+      "speeches": 6,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
-    "kira_yoshiko": {
-      "meetings": 4,
-      "speeches": 4,
+    "kira_shuuji": {
+      "meetings": 2,
+      "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kira_yoshiko": {
+      "meetings": 10,
+      "speeches": 15,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "kishi_makiko": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 7,
+      "speeches": 11,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kishi_nobuchiyo": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "kishida_fumio": {
-      "meetings": 0,
-      "speeches": 0,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "koga_atsushi": {
-      "meetings": 0,
-      "speeches": 0,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "koga_chikage": {
       "meetings": 2,
       "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "kishida_mitsuhiro": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kitagami_keirou": {
+      "meetings": 2,
+      "speeches": 4,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kitamura_haruo": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "kitamura_tsuneo": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "kitano_yuuko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kiuchi_minoru": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kobayashi_fumiaki": {
+      "meetings": 1,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "kobayashi_kazuhiro": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "kobayashi_kouichirou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kobayashi_sayaka": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kobayashi_shigeki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kobayashi_takayuki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "koga_atsushi": {
+      "meetings": 4,
+      "speeches": 4,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "koga_chikage": {
+      "meetings": 3,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "koga_yukihito": {
+      "meetings": 2,
+      "speeches": 4,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "koga_yuuichirou": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "koike_akira": {
-      "meetings": 43,
-      "speeches": 92,
+      "meetings": 96,
+      "speeches": 337,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "koike_masaaki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "koizumi_ryuuji": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "komiyama_yasuko": {
-      "meetings": 13,
-      "speeches": 18,
+    "koizumi_shinjirou": {
+      "meetings": 1,
+      "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "kojima_tomoko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kokuba_kounosuke": {
+      "meetings": 2,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": true
+    },
+    "komiyama_yasuko": {
+      "meetings": 52,
+      "speeches": 105,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": true
     },
     "komori_takuo": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kondou_kazuya": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "kondou_shouichi": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 5,
+      "speeches": 6,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "konishi_hiroyuki": {
-      "meetings": 5,
-      "speeches": 13,
+      "meetings": 12,
+      "speeches": 26,
       "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": false
+    },
+    "konomi_ryoutarou": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kooriyama_ryou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "koshimizu_keiichi": {
-      "meetings": 4,
-      "speeches": 7,
+      "meetings": 10,
+      "speeches": 24,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "koshou_harutomo": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 3,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "kotera_hiroo": {
-      "meetings": 4,
-      "speeches": 4,
+      "meetings": 5,
+      "speeches": 5,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": null
     },
-    "kouno_tarou": {
+    "koumura_masahiro": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kouno_tarou": {
+      "meetings": 1,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "kouzu_takeshi": {
-      "meetings": 3,
-      "speeches": 3,
+      "meetings": 4,
+      "speeches": 5,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "kouzuki_ryousuke": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 2,
+      "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "koyama_chiho": {
-      "meetings": 3,
-      "speeches": 3,
+      "meetings": 4,
+      "speeches": 5,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": true
     },
     "koyama_nobuhiro": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 4,
+      "speeches": 7,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "koyari_takashi": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 2,
+      "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "kubota_tetsuya": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 5,
+      "speeches": 5,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": null
     },
     "kudou_shouzou": {
-      "meetings": 0,
-      "speeches": 0,
+      "meetings": 1,
+      "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "kumagai_hiroto": {
-      "meetings": 3,
-      "speeches": 3,
+      "meetings": 7,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "kunimitsu_ayano": {
-      "meetings": 2,
-      "speeches": 3,
+      "meetings": 3,
+      "speeches": 6,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kunisada_isato": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kurihara_wataru": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kuroda_masaki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "kuroiwa_takahiro": {
-      "meetings": 5,
-      "speeches": 8,
+      "meetings": 20,
+      "speeches": 56,
       "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": true
     },
-    "kushibuchi_mari": {
-      "meetings": 2,
-      "speeches": 3,
+    "kusama_tsuyoshi": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "mabuchi_sumio": {
-      "meetings": 4,
-      "speeches": 5,
+    "kushibuchi_mari": {
+      "meetings": 6,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "kushida_seiichi": {
+      "meetings": 11,
+      "speeches": 20,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "mabuchi_sumio": {
+      "meetings": 5,
+      "speeches": 13,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "madoka_yoriko": {
-      "meetings": 5,
-      "speeches": 5,
+      "meetings": 8,
+      "speeches": 10,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "maehara_seiji": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 3,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "maitachi_shouji": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "maki_yoshio": {
-      "meetings": 4,
-      "speeches": 5,
+      "meetings": 5,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "makino_takao": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "makishima_karen": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 4,
+      "speeches": 6,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "makiyama_hiroe": {
-      "meetings": 7,
-      "speeches": 17,
+      "meetings": 14,
+      "speeches": 45,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
-    "matsuda_isao": {
+    "mano_satoshi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "maruo_keisuke": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "masuta_sekio": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "matsubara_jin": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "matsuda_isao": {
+      "meetings": 4,
+      "speeches": 11,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": null
     },
-    "matsuno_akemi": {
-      "meetings": 7,
-      "speeches": 12,
+    "matsuda_manabu": {
+      "meetings": 1,
+      "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "matsukawa_rui": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "matsuki_kenkou": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": true
+    },
+    "matsumoto_hisashi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "matsumoto_takeaki": {
+      "meetings": 2,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "matsumoto_youhei": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": false
+    },
+    "matsumura_yoshifumi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "matsuno_akemi": {
+      "meetings": 24,
+      "speeches": 60,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": null
+    },
+    "matsuno_hirokazu": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
     },
     "matsuo_akihiro": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "matsushima_midori": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 4,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "matsushita_reiko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "matsushita_shinpei": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 6,
+      "speeches": 7,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "matsuyama_masaji": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "matsuzawa_shigefumi": {
+      "meetings": 6,
+      "speeches": 8,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "michishita_daiki": {
-      "meetings": 4,
-      "speeches": 4,
+      "meetings": 22,
+      "speeches": 46,
       "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": true
     },
     "midorikawa_takashi": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "mihara_junko": {
-      "meetings": 4,
-      "speeches": 4,
+      "meetings": 5,
+      "speeches": 5,
       "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": true
     },
     "mikami_eri": {
-      "meetings": 1,
-      "speeches": 2,
+      "meetings": 3,
+      "speeches": 10,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "miki_kee": {
       "meetings": 2,
       "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "minobe_teruo": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
+    },
+    "minorikawa_nobuhide": {
+      "meetings": 4,
+      "speeches": 11,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": true
+    },
+    "misumi_souta": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "mitani_hidehiro": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "mitazono_satoshi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
     },
     "miura_nobuhiro": {
       "meetings": 5,
-      "speeches": 5,
+      "speeches": 7,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": true
     },
-    "miyaji_takuma": {
-      "meetings": 6,
-      "speeches": 8,
+    "miyade_chisato": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "miyaji_takuma": {
+      "meetings": 8,
+      "speeches": 21,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": true
     },
     "miyakawa_shin": {
-      "meetings": 3,
-      "speeches": 3,
+      "meetings": 5,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
+    },
+    "miyamoto_kazuhiro": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "miyamoto_shuuji": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
     },
     "miyashita_ichirou": {
       "meetings": 3,
-      "speeches": 8,
+      "speeches": 12,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
-    "miyazaki_masahisa": {
-      "meetings": 2,
-      "speeches": 2,
+    "miyauchi_hideki": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "miyazaki_masahisa": {
+      "meetings": 4,
+      "speeches": 6,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "miyazaki_masaru": {
-      "meetings": 9,
-      "speeches": 10,
+      "meetings": 20,
+      "speeches": 54,
       "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": true
+    },
+    "miyazawa_youichi": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "mizuno_kouichi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "mizunuma_hideyuki": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": true
     },
     "mizuoka_shunichi": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 7,
+      "speeches": 14,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "mochizuki_yoshio": {
+      "meetings": 1,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "mori_eisuke": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 2,
+      "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "mori_masako": {
+      "meetings": 4,
+      "speeches": 4,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "mori_yousuke": {
       "meetings": 2,
-      "speeches": 7,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "mori_yuuko": {
-      "meetings": 7,
-      "speeches": 13,
+      "meetings": 19,
+      "speeches": 53,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "morimoto_shinji": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 11,
+      "speeches": 13,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "morishima_tadashi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "morishita_chisato": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "morita_toshikazu": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 6,
+      "speeches": 6,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "moriyama_hiroshi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "moriyama_hiroyuki": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 11,
+      "speeches": 17,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "motegi_toshimitsu": {
+      "meetings": 5,
+      "speeches": 7,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "motomura_nobuko": {
-      "meetings": 11,
-      "speeches": 29,
+      "meetings": 36,
+      "speeches": 88,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": true
+    },
+    "mukouyama_jun": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "mukoyama_kouichi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
     },
     "murai_hideki": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "murakami_seiichirou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "murakami_tomonobu": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "muraoka_toshihide": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "murata_kyouko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "mutou_youji": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": false
     },
     "nagae_takako": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "nagahama_hiroyuki": {
-      "meetings": 4,
-      "speeches": 4,
+      "meetings": 8,
+      "speeches": 9,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "nagai_manabu": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "nagaoka_keiko": {
+      "meetings": 3,
+      "speeches": 10,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "nagasaka_yasumasa": {
       "meetings": 2,
       "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "nagashima_akihisa": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "nagatomo_shinji": {
-      "meetings": 4,
-      "speeches": 11,
+      "meetings": 5,
+      "speeches": 19,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "nagatomo_yoshihiro": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "nagatsuma_akira": {
-      "meetings": 6,
-      "speeches": 7,
+      "meetings": 22,
+      "speeches": 26,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "nakagawa_hiromasa": {
-      "meetings": 2,
-      "speeches": 2,
+    "nakada_yuuko": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "nakagawa_hiromasa": {
+      "meetings": 3,
+      "speeches": 4,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "nakagawa_yasuhiro": {
-      "meetings": 3,
-      "speeches": 3,
+      "meetings": 9,
+      "speeches": 21,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "nakajima_katsuhito": {
-      "meetings": 52,
-      "speeches": 94,
+      "meetings": 61,
+      "speeches": 141,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "nakajou_kiyoshi": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 4,
+      "speeches": 5,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "nakamura_hayato": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "nakamura_hiroyuki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": false
     },
     "nakanishi_kenji": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 4,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "nakanishi_yuusuke": {
       "meetings": 1,
       "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "nakano_hideyuki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "nakano_hiromasa": {
-      "meetings": 7,
-      "speeches": 10,
+      "meetings": 25,
+      "speeches": 40,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "nakasone_hirofumi": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "nakasone_yasutaka": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "nakatani_gen": {
-      "meetings": 2,
-      "speeches": 3,
+      "meetings": 4,
+      "speeches": 5,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "nakatani_kazuma": {
-      "meetings": 1,
-      "speeches": 1,
-      "written_questions": 1,
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "nakatani_shinichi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "nakatsuka_hiroshi": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 2,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "nemoto_taku": {
       "meetings": 10,
-      "speeches": 18,
+      "speeches": 32,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "nemoto_yukinori": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "nihi_souhei": {
-      "meetings": 15,
-      "speeches": 21,
+      "meetings": 24,
+      "speeches": 40,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
-    "niki_hirobumi": {
-      "meetings": 6,
-      "speeches": 11,
+    "niimi_shouhei": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "niki_hirobumi": {
+      "meetings": 14,
+      "speeches": 27,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "nishida_kaoru": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "nishida_makoto": {
-      "meetings": 11,
-      "speeches": 12,
+      "meetings": 20,
+      "speeches": 32,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
-    "nishimura_chinami": {
-      "meetings": 14,
-      "speeches": 17,
+    "nishida_shouji": {
+      "meetings": 1,
+      "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "nishikawa_atsushi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "nishikawa_masahito": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "nishime_kousaburou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "nishimura_chinami": {
+      "meetings": 26,
+      "speeches": 54,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "nishimura_yasutoshi": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "nishino_daisuke": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "nishioka_hideko": {
-      "meetings": 5,
-      "speeches": 6,
+      "meetings": 11,
+      "speeches": 15,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "nishioka_yoshitaka": {
       "meetings": 1,
       "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "nishita_hidenori": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "nishizono_katsuhide": {
       "meetings": 2,
-      "speeches": 3,
+      "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": null
     },
     "niwa_hideki": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "niwata_yukie": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "noda_seiko": {
-      "meetings": 3,
-      "speeches": 3,
+      "meetings": 7,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": false
     },
     "noda_yoshihiko": {
-      "meetings": 3,
-      "speeches": 5,
+      "meetings": 4,
+      "speeches": 11,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "nogami_koutarou": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "noma_takeshi": {
-      "meetings": 2,
-      "speeches": 5,
+      "meetings": 4,
+      "speeches": 11,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "nonaka_atsushi": {
-      "meetings": 1,
-      "speeches": 1,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "nukaga_fukushirou": {
+    "nomura_tetsurou": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "numazaki_mitsuko": {
-      "meetings": 1,
-      "speeches": 1,
-      "written_questions": 0,
-      "has_disability_welfare_signal": true
-    },
-    "ogata_rintarou": {
+    "nonaka_atsushi": {
       "meetings": 2,
       "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "ogawa_junya": {
-      "meetings": 4,
-      "speeches": 6,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "ogawa_katsumi": {
-      "meetings": 9,
-      "speeches": 14,
-      "written_questions": 0,
-      "has_disability_welfare_signal": true
-    },
-    "okada_hanako": {
+    "nukaga_fukushirou": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "numazaki_mitsuko": {
+      "meetings": 3,
+      "speeches": 5,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": true
+    },
+    "obuchi_yuuko": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "ochi_toshiyuki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "ochiai_takayuki": {
+      "meetings": 3,
+      "speeches": 4,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "odake_kai": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "ogata_rintarou": {
+      "meetings": 10,
+      "speeches": 11,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "ogawa_junya": {
+      "meetings": 13,
+      "speeches": 31,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "ogawa_katsumi": {
+      "meetings": 14,
+      "speeches": 46,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "oguma_shinji": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "okada_hanako": {
+      "meetings": 2,
+      "speeches": 6,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "okada_katsuya": {
-      "meetings": 1,
-      "speeches": 3,
+      "meetings": 3,
+      "speeches": 5,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "okada_naoki": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "okamoto_akiko": {
-      "meetings": 8,
-      "speeches": 9,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "okamoto_mitsunari": {
-      "meetings": 1,
-      "speeches": 1,
-      "written_questions": 0,
-      "has_disability_welfare_signal": true
-    },
-    "okamoto_mitsunori": {
-      "meetings": 5,
-      "speeches": 16,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "okuno_souichirou": {
-      "meetings": 4,
-      "speeches": 5,
-      "written_questions": 1,
-      "has_disability_welfare_signal": false
-    },
-    "oniki_makoto": {
-      "meetings": 2,
-      "speeches": 3,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "ooie_satoshi": {
-      "meetings": 1,
-      "speeches": 1,
-      "written_questions": 0,
-      "has_disability_welfare_signal": true
-    },
-    "ooishi_akiko": {
+    "okada_satoru": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "okajima_kazumasa": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "okamoto_akiko": {
+      "meetings": 13,
+      "speeches": 20,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "okamoto_mitsunari": {
+      "meetings": 7,
+      "speeches": 23,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "okamoto_mitsunori": {
+      "meetings": 15,
+      "speeches": 45,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "okano_junko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "okazaki_futoshi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "okuda_fumiyo": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "okumura_yoshihiro": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "okuno_souichirou": {
+      "meetings": 5,
+      "speeches": 10,
+      "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": false
+    },
+    "okushita_takemitsu": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "oniki_makoto": {
+      "meetings": 3,
+      "speeches": 4,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "onoda_kimi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "onodera_itsunori": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "oogushi_hiroshi": {
+      "meetings": 1,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "oogushi_masaki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "ooie_satoshi": {
+      "meetings": 2,
+      "speeches": 5,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "ooishi_akiko": {
+      "meetings": 4,
+      "speeches": 5,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "ookawara_masako": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 6,
+      "speeches": 11,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "oomori_eriko": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": null
     },
     "oonishi_kensuke": {
-      "meetings": 21,
-      "speeches": 32,
+      "meetings": 28,
+      "speeches": 62,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "oonishi_youhei": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 3,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "oono_keitarou": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "oooka_toshitaka": {
-      "meetings": 2,
-      "speeches": 4,
+      "meetings": 4,
+      "speeches": 19,
       "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": false
     },
     "oosaka_seiji": {
-      "meetings": 3,
-      "speeches": 3,
+      "meetings": 5,
+      "speeches": 6,
       "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": false
     },
     "ooshima_atsushi": {
-      "meetings": 2,
-      "speeches": 5,
+      "meetings": 6,
+      "speeches": 20,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "ooshima_kusuo": {
-      "meetings": 4,
-      "speeches": 7,
+      "meetings": 25,
+      "speeches": 49,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "ootake_rie": {
       "meetings": 3,
       "speeches": 5,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "ootsuka_sayuri": {
-      "meetings": 2,
-      "speeches": 4,
+    "ootsu_tsutomu": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "ootsuka_sayuri": {
+      "meetings": 3,
+      "speeches": 6,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": true
     },
     "ootsuki_kureha": {
-      "meetings": 1,
-      "speeches": 2,
+      "meetings": 2,
+      "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "oozora_kouki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "otsuji_kanako": {
-      "meetings": 10,
-      "speeches": 14,
+      "meetings": 19,
+      "speeches": 46,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
+    },
+    "otsuji_tomomi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
     },
     "ozaki_masanao": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "ozawa_ichirou": {
-      "meetings": 0,
-      "speeches": 0,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "renhou": {
-      "meetings": 2,
-      "speeches": 2,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "ryuu_hirofumi": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "ozawa_masahito": {
+      "meetings": 4,
+      "speeches": 4,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "rasaaruishii": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "renhou": {
+      "meetings": 5,
+      "speeches": 16,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "ryuu_hirofumi": {
+      "meetings": 11,
+      "speeches": 17,
+      "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": false
+    },
+    "saiki_takeshi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "saitou_arekkusu": {
       "meetings": 1,
       "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": null
     },
-    "saitou_ken": {
+    "saitou_hiroaki": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": false
+    },
+    "saitou_ken": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "saitou_kenichirou": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "saitou_tetsuo": {
-      "meetings": 9,
-      "speeches": 15,
+      "meetings": 12,
+      "speeches": 24,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "saitou_yoshitaka": {
+      "meetings": 9,
+      "speeches": 10,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "saitou_yuuki": {
       "meetings": 2,
-      "speeches": 2,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": null
     },
-    "sakai_natsumi": {
-      "meetings": 1,
-      "speeches": 1,
+    "sakaguchi_naoto": {
+      "meetings": 3,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "sakai_manabu": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "sakai_natsumi": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "sakai_yasuyuki": {
+      "meetings": 1,
+      "speeches": 4,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "sakamoto_ryuutarou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "sakamoto_tetsushi": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 3,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "sakamoto_yuunosuke": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 4,
+      "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "sakurai_mitsuru": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 17,
+      "speeches": 21,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
+    },
+    "sakurai_shouko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
     },
     "sakurai_shuu": {
       "meetings": 2,
       "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "sasagawa_hiroyoshi": {
+      "meetings": 3,
+      "speeches": 11,
+      "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": false
+    },
+    "sasaki_hajime": {
+      "meetings": 1,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "sasaki_masafumi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "sasaki_naomi": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "sasaki_rie": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "satomi_ryuuji": {
-      "meetings": 8,
-      "speeches": 9,
+      "meetings": 14,
+      "speeches": 25,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "satou_hidemichi": {
-      "meetings": 5,
-      "speeches": 5,
+      "meetings": 15,
+      "speeches": 20,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "satou_kei": {
-      "meetings": 6,
-      "speeches": 6,
+      "meetings": 7,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "satou_kouji": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 6,
+      "speeches": 27,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "satou_tsutomu": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "sawara_wakako": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "seki_hei": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "seki_yoshihiro": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "sekiguchi_masakazu": {
+      "meetings": 2,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "sekou_hiroshige": {
+      "meetings": 3,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "senda_akihiro": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "seto_takakazu": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "shiba_shinichi": {
+      "meetings": 2,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "shibata_katsuyuki": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
-      "has_disability_welfare_signal": false
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": true
     },
     "shibata_takumi": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 7,
+      "speeches": 12,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "shibayama_masahiko": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 3,
+      "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "shigetoku_kazuhiko": {
-      "meetings": 3,
-      "speeches": 6,
+      "meetings": 8,
+      "speeches": 24,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": true
     },
     "shii_kazuo": {
       "meetings": 1,
       "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "shimajiri_aiko": {
+    "shimada_tomoaki": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "shimada_youichi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "shimajiri_aiko": {
+      "meetings": 5,
+      "speeches": 23,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "shimizu_masato": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 3,
+      "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "shimojou_mitsu": {
-      "meetings": 1,
-      "speeches": 2,
+      "meetings": 4,
+      "speeches": 12,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
-    "shimono_rokuta": {
-      "meetings": 6,
-      "speeches": 9,
+    "shimono_kousuke": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "shimono_rokuta": {
+      "meetings": 7,
+      "speeches": 14,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "shina_takeshi": {
-      "meetings": 3,
-      "speeches": 3,
+      "meetings": 5,
+      "speeches": 7,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "shinba_kazuya": {
       "meetings": 2,
       "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": false
     },
     "shindou_kanehiko": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "shindou_yoshitaka": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "shinoda_naoko": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
-    "shinohara_takashi": {
-      "meetings": 1,
-      "speeches": 1,
+    "shinohara_gou": {
+      "meetings": 4,
+      "speeches": 13,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "shinohara_takashi": {
+      "meetings": 6,
+      "speeches": 6,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "shintani_masayoshi": {
-      "meetings": 2,
-      "speeches": 3,
+      "meetings": 3,
+      "speeches": 5,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "shioiri_sayaka": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "shiokawa_tetsuya": {
-      "meetings": 17,
-      "speeches": 23,
+      "meetings": 57,
+      "speeches": 140,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "shiomura_ayaka": {
       "meetings": 3,
       "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "shiozaki_akihisa": {
-      "meetings": 0,
-      "speeches": 0,
+      "meetings": 1,
+      "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "shiraishi_youichi": {
-      "meetings": 4,
-      "speeches": 7,
+      "meetings": 12,
+      "speeches": 20,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
-    "souno_hajime": {
+    "shirakawa_youko": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "suematsu_shinsuke": {
-      "meetings": 1,
-      "speeches": 1,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "suematsu_yoshinori": {
-      "meetings": 0,
-      "speeches": 0,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "suga_yoshihide": {
-      "meetings": 0,
-      "speeches": 0,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "sugi_hisatake": {
-      "meetings": 6,
-      "speeches": 7,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "sugio_hideya": {
-      "meetings": 2,
-      "speeches": 2,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "suzuki_muneo": {
-      "meetings": 2,
-      "speeches": 2,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "suzuki_norikazu": {
+    "shouji_kenichi": {
       "meetings": 2,
       "speeches": 3,
       "written_questions": 0,
-      "has_disability_welfare_signal": true
-    },
-    "suzuki_shunichi": {
-      "meetings": 3,
-      "speeches": 8,
-      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "suzuki_yoshihiro": {
+    "soramoto_seiki": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "souno_hajime": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "suematsu_shinsuke": {
+      "meetings": 2,
+      "speeches": 6,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "suematsu_yoshinori": {
+      "meetings": 4,
+      "speeches": 7,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "suga_yoshihide": {
       "meetings": 1,
-      "speeches": 1,
+      "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "tabata_hiroaki": {
+    "sugi_hisatake": {
+      "meetings": 8,
+      "speeches": 12,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "sugimoto_junko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "sugimoto_kazumi": {
+      "meetings": 2,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "sugimura_shinji": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "sugio_hideya": {
       "meetings": 4,
       "speeches": 4,
       "written_questions": 0,
-      "has_disability_welfare_signal": true
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
     },
-    "tachibana_keiichirou": {
+    "suzuki_atsushi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "suzuki_daichi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "suzuki_eikei": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "suzuki_hayato": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "suzuki_keisuke": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "suzuki_muneo": {
+      "meetings": 3,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "suzuki_norikazu": {
+      "meetings": 3,
+      "speeches": 7,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "suzuki_shunichi": {
+      "meetings": 5,
+      "speeches": 14,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "suzuki_takako": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "suzuki_takeyuki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "suzuki_yoshihiro": {
+      "meetings": 7,
+      "speeches": 11,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "suzuki_yousuke": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "tabata_hiroaki": {
+      "meetings": 9,
+      "speeches": 18,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": true
+    },
+    "tachibana_keiichirou": {
+      "meetings": 4,
+      "speeches": 4,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "tadokoro_yoshinori": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "tagaya_ryou": {
+      "meetings": 1,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "taira_masaaki": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "tajima_kaname": {
-      "meetings": 5,
-      "speeches": 6,
+      "meetings": 15,
+      "speeches": 29,
       "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": false
     },
     "tajima_maiko": {
-      "meetings": 4,
-      "speeches": 6,
+      "meetings": 7,
+      "speeches": 10,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "takagi_kaori": {
+      "meetings": 7,
+      "speeches": 15,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "takagi_kei": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "takagi_mari": {
-      "meetings": 8,
-      "speeches": 13,
+      "meetings": 11,
+      "speeches": 25,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
+    },
+    "takahashi_ei": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "takahashi_harumi": {
+      "meetings": 1,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
     },
     "takahashi_hideaki": {
       "meetings": 1,
       "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "takahashi_katsunori": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "takahashi_mitsuo": {
-      "meetings": 3,
-      "speeches": 3,
+      "meetings": 7,
+      "speeches": 7,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "takai_takashi": {
-      "meetings": 1,
-      "speeches": 4,
+      "meetings": 4,
+      "speeches": 7,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "takaichi_sanae": {
-      "meetings": 3,
-      "speeches": 3,
+      "meetings": 6,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "takemasa_kouichi": {
-      "meetings": 1,
-      "speeches": 1,
+    "takamatsu_satoshi": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "takami_yasuhiro": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "takara_sachika": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "takebe_arata": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "takegami_yuuko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "takemasa_kouichi": {
+      "meetings": 7,
+      "speeches": 13,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "takemura_nobuhide": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "takeuchi_chiharu": {
-      "meetings": 1,
-      "speeches": 1,
-      "written_questions": 0,
-      "has_disability_welfare_signal": false
-    },
-    "takeuchi_shinji": {
-      "meetings": 1,
-      "speeches": 1,
-      "written_questions": 0,
-      "has_disability_welfare_signal": true
-    },
-    "takeuchi_yuzuru": {
       "meetings": 3,
       "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "takeuchi_shinji": {
+      "meetings": 14,
+      "speeches": 36,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "takeuchi_yuzuru": {
+      "meetings": 8,
+      "speeches": 11,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "takeya_toshiko": {
-      "meetings": 9,
-      "speeches": 11,
+      "meetings": 16,
+      "speeches": 23,
       "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": false
     },
     "takezume_hitoshi": {
-      "meetings": 1,
-      "speeches": 2,
+      "meetings": 2,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "takinami_hirofumi": {
-      "meetings": 2,
-      "speeches": 3,
+      "meetings": 3,
+      "speeches": 10,
       "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": false
     },
     "tamaki_yuuichirou": {
-      "meetings": 2,
-      "speeches": 3,
+      "meetings": 3,
+      "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "tamura_mami": {
-      "meetings": 6,
-      "speeches": 13,
+      "meetings": 10,
+      "speeches": 21,
       "written_questions": 0,
-      "has_disability_welfare_signal": true
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
     },
     "tamura_norihisa": {
-      "meetings": 12,
-      "speeches": 17,
+      "meetings": 16,
+      "speeches": 31,
       "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": false
     },
     "tamura_takaaki": {
-      "meetings": 12,
-      "speeches": 15,
+      "meetings": 23,
+      "speeches": 34,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "tamura_tomoko": {
-      "meetings": 22,
-      "speeches": 36,
+      "meetings": 54,
+      "speeches": 136,
       "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": false
     },
     "tanabu_masayo": {
-      "meetings": 7,
-      "speeches": 10,
+      "meetings": 16,
+      "speeches": 60,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": true
     },
     "tanahashi_yasufumi": {
       "meetings": 1,
-      "speeches": 1,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "tanaka_kazunori": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 3,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "tanaka_ken": {
-      "meetings": 14,
-      "speeches": 39,
+      "meetings": 20,
+      "speeches": 59,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "tanaka_ryousei": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 2,
+      "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "tani_kouichi": {
-      "meetings": 3,
-      "speeches": 4,
+      "meetings": 8,
+      "speeches": 10,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "taniai_masaaki": {
-      "meetings": 7,
-      "speeches": 12,
+      "meetings": 26,
+      "speeches": 50,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "tanno_midori": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "tanose_taidou": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "tatsumi_koutarou": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 8,
+      "speeches": 12,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": null
     },
     "tenbata_daisuke": {
-      "meetings": 37,
-      "speeches": 67,
+      "meetings": 63,
+      "speeches": 229,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
-    "tokunaga_eri": {
+    "terada_minoru": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "terata_manabu": {
+      "meetings": 3,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "terata_shizuka": {
       "meetings": 2,
       "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": true
+    },
+    "tezuka_yoshio": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
+    },
+    "togashi_hiroyuki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": true
+    },
+    "tokai_kisaburou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "tokunaga_eri": {
+      "meetings": 4,
+      "speeches": 7,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "tokuyasu_junko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
     },
     "tomonou_rio": {
       "meetings": 1,
-      "speeches": 4,
+      "speeches": 7,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "tsuchida_shin": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "tsuchiya_shinako": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "tsuji_hideyuki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": true
+    },
+    "tsuji_kiyoto": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "tsujimoto_kiyomi": {
+      "meetings": 6,
+      "speeches": 8,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "tsukasa_takashi": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "tsumura_keisuke": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 3,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "tsunoda_hideo": {
-      "meetings": 12,
-      "speeches": 19,
+      "meetings": 23,
+      "speeches": 50,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": null
     },
     "tsuruho_yousuke": {
-      "meetings": 0,
-      "speeches": 0,
+      "meetings": 2,
+      "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "tsushima_jun": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 2,
+      "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "uchikoshi_sakura": {
-      "meetings": 10,
-      "speeches": 22,
+      "meetings": 15,
+      "speeches": 43,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "ueda_eishun": {
       "meetings": 1,
-      "speeches": 5,
+      "speeches": 7,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "ueda_isamu": {
-      "meetings": 3,
-      "speeches": 5,
+      "meetings": 9,
+      "speeches": 17,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "ueda_kiyoshi": {
       "meetings": 3,
-      "speeches": 4,
+      "speeches": 7,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
+    },
+    "uemura_hideaki": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "ueno_hotaru": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
     },
     "ueno_kenichirou": {
       "meetings": 0,
       "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "ueno_michiko": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 13,
+      "speeches": 24,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "ukishima_tomoko": {
-      "meetings": 3,
-      "speeches": 3,
+      "meetings": 17,
+      "speeches": 36,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "umemura_mizuho": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 4,
+      "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "umemura_satoshi": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 4,
+      "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "umetani_mamoru": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 4,
+      "speeches": 5,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "urano_yasuto": {
-      "meetings": 5,
-      "speeches": 5,
+      "meetings": 9,
+      "speeches": 11,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "uruma_jouji": {
-      "meetings": 1,
-      "speeches": 2,
+      "meetings": 3,
+      "speeches": 6,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
+    },
+    "ushida_mayu": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
     },
     "usui_shouichi": {
       "meetings": 1,
-      "speeches": 1,
+      "speeches": 2,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "usuki_hidetake": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "wada_yuuichirou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "wakabayashi_youhei": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "wakai_atsuko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "wakayama_shinji": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "waki_masaaki": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "wanibuchi_youko": {
-      "meetings": 6,
-      "speeches": 7,
+      "meetings": 19,
+      "speeches": 48,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": null
     },
     "waseda_yuki": {
-      "meetings": 27,
-      "speeches": 38,
+      "meetings": 37,
+      "speeches": 69,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
-    "yahata_ai": {
-      "meetings": 3,
-      "speeches": 5,
+    "watanabe_shuu": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "watanabe_sou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "watanabe_takeyuki": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "yahata_ai": {
+      "meetings": 5,
+      "speeches": 10,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "yama_toshihiro": {
+      "meetings": 2,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "yamada_hiroshi": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "yamada_katsuhiko": {
-      "meetings": 6,
-      "speeches": 14,
+      "meetings": 7,
+      "speeches": 24,
       "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": true
     },
     "yamada_kenji": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "yamada_tarou": {
-      "meetings": 6,
-      "speeches": 9,
+      "meetings": 15,
+      "speeches": 34,
       "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "yamada_yoshihiko": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "yamagishi_issei": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "yamagiwa_daishirou": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
-      "has_disability_welfare_signal": false
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "yamaguchi_ryouji": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
     },
     "yamaguchi_shunichi": {
-      "meetings": 2,
-      "speeches": 7,
+      "meetings": 6,
+      "speeches": 12,
       "written_questions": 0,
+      "disability_league_count": 2,
+      "has_disability_welfare_signal": false
+    },
+    "yamaguchi_tsuyoshi": {
+      "meetings": 2,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "yamahana_ikuo": {
-      "meetings": 5,
-      "speeches": 5,
+      "meetings": 16,
+      "speeches": 33,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "yamakawa_hitoshi": {
+      "meetings": 1,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "yamamoto_daichi": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": null
+    },
+    "yamamoto_junzou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "yamamoto_keisuke": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "yamamoto_sachiko": {
+      "meetings": 1,
+      "speeches": 1,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
     "yamamoto_tarou": {
-      "meetings": 4,
-      "speeches": 4,
+      "meetings": 17,
+      "speeches": 32,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "yamanaka_sen": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "yamanoi_kazunori": {
-      "meetings": 83,
-      "speeches": 189,
-      "written_questions": 5,
+      "meetings": 108,
+      "speeches": 405,
+      "written_questions": 0,
+      "disability_league_count": 2,
       "has_disability_welfare_signal": true
     },
-    "yamasaki_masayasu": {
-      "meetings": 2,
-      "speeches": 3,
+    "yamaoka_tatsumaru": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "yamasaki_masayasu": {
+      "meetings": 6,
+      "speeches": 11,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": null
     },
     "yamashita_takashi": {
-      "meetings": 4,
-      "speeches": 4,
+      "meetings": 5,
+      "speeches": 5,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "yamashita_yuuhei": {
-      "meetings": 4,
-      "speeches": 5,
+      "meetings": 9,
+      "speeches": 14,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
+    },
+    "yamatani_eriko": {
+      "meetings": 7,
+      "speeches": 13,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "yamauchi_kanako": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
     },
     "yamazaki_makoto": {
       "meetings": 2,
-      "speeches": 4,
+      "speeches": 8,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": true
     },
-    "yamazoe_taku": {
-      "meetings": 6,
-      "speeches": 6,
+    "yamazaki_masaaki": {
+      "meetings": 0,
+      "speeches": 0,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "yamazoe_taku": {
+      "meetings": 18,
+      "speeches": 29,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "yana_kazuo": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "yanagisawa_tsuyoshi": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "yara_tomohiro": {
+      "meetings": 1,
+      "speeches": 2,
+      "written_questions": 0,
+      "disability_league_count": 1,
       "has_disability_welfare_signal": false
     },
     "yatagawa_hajime": {
-      "meetings": 1,
-      "speeches": 1,
-      "written_questions": 0,
-      "has_disability_welfare_signal": true
-    },
-    "yokosawa_takanori": {
-      "meetings": 6,
-      "speeches": 13,
-      "written_questions": 0,
-      "has_disability_welfare_signal": true
-    },
-    "yokoyama_shinichi": {
       "meetings": 3,
       "speeches": 3,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "yazaki_kentarou": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": true
+    },
+    "yokosawa_takanori": {
+      "meetings": 26,
+      "speeches": 108,
+      "written_questions": 0,
+      "disability_league_count": 4,
+      "has_disability_welfare_signal": true
+    },
+    "yokoyama_shinichi": {
+      "meetings": 10,
+      "speeches": 12,
+      "written_questions": 0,
+      "disability_league_count": 1,
+      "has_disability_welfare_signal": false
+    },
+    "yoneyama_ryuuichi": {
+      "meetings": 4,
+      "speeches": 5,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "yoshida_harumi": {
-      "meetings": 1,
-      "speeches": 1,
-      "written_questions": 1,
+      "meetings": 3,
+      "speeches": 3,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "yoshida_nobuhiro": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 3,
+      "speeches": 4,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "yoshida_shinji": {
       "meetings": 1,
       "speeches": 1,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "yoshida_tadatomo": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 11,
+      "speeches": 13,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "yoshii_akira": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "yoshikawa_hajime": {
-      "meetings": 2,
-      "speeches": 2,
+      "meetings": 12,
+      "speeches": 19,
       "written_questions": 0,
+      "disability_league_count": 0,
+      "has_disability_welfare_signal": false
+    },
+    "yoshikawa_rina": {
+      "meetings": 0,
+      "speeches": 0,
+      "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "yoshikawa_saori": {
-      "meetings": 1,
-      "speeches": 1,
+      "meetings": 10,
+      "speeches": 11,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     },
     "yunoki_michiyoshi": {
-      "meetings": 15,
-      "speeches": 22,
+      "meetings": 26,
+      "speeches": 47,
       "written_questions": 0,
+      "disability_league_count": 0,
       "has_disability_welfare_signal": false
     }
   }
