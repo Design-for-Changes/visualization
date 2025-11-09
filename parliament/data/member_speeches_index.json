@@ -881,7 +881,7 @@
       "speeches": 12,
       "written_questions": 0,
       "disability_league_count": 0,
-      "has_disability_welfare_signal": false
+      "has_disability_welfare_signal": true
     },
     "hirabayashi_akira": {
       "meetings": 1,
@@ -1378,7 +1378,7 @@
       "speeches": 26,
       "written_questions": 0,
       "disability_league_count": 0,
-      "has_disability_welfare_signal": null
+      "has_disability_welfare_signal": true
     },
     "itou_tatsuo": {
       "meetings": 0,
