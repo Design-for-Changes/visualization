@@ -1,0 +1,3166 @@
+{
+  "keywords": [
+    "特別児童扶養手当",
+    "重度精神薄弱児扶養手当",
+    "障害児福祉手当",
+    "特別障害者手当",
+    "福祉手当"
+  ],
+  "count": 109,
+  "sessions": [
+    {
+      "session": 40,
+      "from": "1962-04-24",
+      "until": "1962-04-24",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 43,
+      "from": "1963-02-20",
+      "until": "1963-02-20",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "本会議",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 46,
+      "from": "1964-01-25",
+      "until": "1964-10-01",
+      "count": 56,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 42
+        },
+        {
+          "name": "本会議",
+          "count": 8
+        },
+        {
+          "name": "予算委員会",
+          "count": 2
+        },
+        {
+          "name": "議院運営委員会",
+          "count": 2
+        },
+        {
+          "name": "予算委員会公聴会",
+          "count": 1
+        },
+        {
+          "name": "予算委員会第二分科会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 43
+        },
+        {
+          "name": "参議院",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "session": 47,
+      "from": "1964-12-16",
+      "until": "1964-12-17",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 2
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 48,
+      "from": "1965-02-22",
+      "until": "1965-05-24",
+      "count": 15,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 9
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 3
+        },
+        {
+          "name": "本会議",
+          "count": 2
+        },
+        {
+          "name": "予算委員会第四分科会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 10
+        },
+        {
+          "name": "参議院",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "session": 49,
+      "from": "1965-08-10",
+      "until": "1965-08-10",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 51,
+      "from": "1966-02-04",
+      "until": "1966-06-27",
+      "count": 102,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 75
+        },
+        {
+          "name": "本会議",
+          "count": 14
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 4
+        },
+        {
+          "name": "予算委員会",
+          "count": 3
+        },
+        {
+          "name": "議院運営委員会",
+          "count": 3
+        },
+        {
+          "name": "文教委員会",
+          "count": 2
+        },
+        {
+          "name": "予算委員会第四分科会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 61
+        },
+        {
+          "name": "参議院",
+          "count": 41
+        }
+      ]
+    },
+    {
+      "session": 52,
+      "from": "1966-11-16",
+      "until": "1966-11-16",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 55,
+      "from": "1967-04-19",
+      "until": "1967-07-21",
+      "count": 45,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 23
+        },
+        {
+          "name": "本会議",
+          "count": 10
+        },
+        {
+          "name": "予算委員会",
+          "count": 3
+        },
+        {
+          "name": "文教委員会",
+          "count": 3
+        },
+        {
+          "name": "決算委員会",
+          "count": 2
+        },
+        {
+          "name": "予算委員会第二分科会",
+          "count": 1
+        },
+        {
+          "name": "地方行政委員会",
+          "count": 1
+        },
+        {
+          "name": "予算委員会第四分科会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 27
+        },
+        {
+          "name": "参議院",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "session": 57,
+      "from": "1967-12-12",
+      "until": "1967-12-14",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 1
+        },
+        {
+          "name": "予算委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 1
+        },
+        {
+          "name": "衆議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 58,
+      "from": "1968-02-07",
+      "until": "1968-05-22",
+      "count": 28,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 14
+        },
+        {
+          "name": "本会議",
+          "count": 7
+        },
+        {
+          "name": "予算委員会",
+          "count": 3
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 2
+        },
+        {
+          "name": "決算委員会",
+          "count": 2
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 17
+        },
+        {
+          "name": "衆議院",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "session": 59,
+      "from": "1968-08-08",
+      "until": "1968-11-29",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 1
+        },
+        {
+          "name": "決算委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 61,
+      "from": "1969-02-24",
+      "until": "1969-07-30",
+      "count": 121,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 100
+        },
+        {
+          "name": "本会議",
+          "count": 12
+        },
+        {
+          "name": "内閣委員会",
+          "count": 4
+        },
+        {
+          "name": "地方行政委員会",
+          "count": 2
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 1
+        },
+        {
+          "name": "予算委員会",
+          "count": 1
+        },
+        {
+          "name": "逓信委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 92
+        },
+        {
+          "name": "参議院",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "session": 62,
+      "from": "1969-12-01",
+      "until": "1969-12-02",
+      "count": 19,
+      "topMeetings": [
+        {
+          "name": "本会議",
+          "count": 10
+        },
+        {
+          "name": "社会労働委員会",
+          "count": 9
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 10
+        },
+        {
+          "name": "参議院",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "session": 63,
+      "from": "1970-02-16",
+      "until": "1970-11-09",
+      "count": 34,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 28
+        },
+        {
+          "name": "本会議",
+          "count": 3
+        },
+        {
+          "name": "決算委員会",
+          "count": 2
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 20
+        },
+        {
+          "name": "衆議院",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "session": 65,
+      "from": "1971-02-17",
+      "until": "1971-05-20",
+      "count": 45,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 28
+        },
+        {
+          "name": "予算委員会第二分科会",
+          "count": 7
+        },
+        {
+          "name": "本会議",
+          "count": 7
+        },
+        {
+          "name": "予算委員会",
+          "count": 2
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 34
+        },
+        {
+          "name": "参議院",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "session": 66,
+      "from": "1971-10-12",
+      "until": "1971-10-12",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 67,
+      "from": "1971-10-23",
+      "until": "1971-12-07",
+      "count": 4,
+      "topMeetings": [
+        {
+          "name": "予算委員会",
+          "count": 2
+        },
+        {
+          "name": "社会労働委員会",
+          "count": 2
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 3
+        },
+        {
+          "name": "衆議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 68,
+      "from": "1972-03-02",
+      "until": "1972-06-16",
+      "count": 17,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 11
+        },
+        {
+          "name": "本会議",
+          "count": 3
+        },
+        {
+          "name": "運輸委員会地方行政委員会大蔵委員会社会労働委員会農林水産委員会物価問題等に関する特別委員会連合審査会",
+          "count": 2
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 12
+        },
+        {
+          "name": "参議院",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "session": 69,
+      "from": "1972-08-08",
+      "until": "1972-10-11",
+      "count": 7,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 7
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 6
+        },
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 70,
+      "from": "1972-11-01",
+      "until": "1972-11-01",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "予算委員会",
+          "count": 2
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 1
+        },
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 71,
+      "from": "1973-01-30",
+      "until": "1973-11-15",
+      "count": 70,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 56
+        },
+        {
+          "name": "本会議",
+          "count": 9
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 1
+        },
+        {
+          "name": "大蔵委員会",
+          "count": 1
+        },
+        {
+          "name": "運輸委員会公聴会",
+          "count": 1
+        },
+        {
+          "name": "内閣委員会",
+          "count": 1
+        },
+        {
+          "name": "運輸委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 37
+        },
+        {
+          "name": "衆議院",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "session": 72,
+      "from": "1974-01-26",
+      "until": "1974-05-27",
+      "count": 72,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 44
+        },
+        {
+          "name": "予算委員会",
+          "count": 9
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 4
+        },
+        {
+          "name": "予算委員会第四分科会",
+          "count": 3
+        },
+        {
+          "name": "大蔵委員会",
+          "count": 3
+        },
+        {
+          "name": "文教委員会",
+          "count": 2
+        },
+        {
+          "name": "本会議",
+          "count": 2
+        },
+        {
+          "name": "予算委員会第五分科会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 48
+        },
+        {
+          "name": "参議院",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "session": 74,
+      "from": "1974-12-20",
+      "until": "1974-12-20",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "予算委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 75,
+      "from": "1975-01-24",
+      "until": "1975-07-01",
+      "count": 174,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 130
+        },
+        {
+          "name": "本会議",
+          "count": 15
+        },
+        {
+          "name": "予算委員会",
+          "count": 14
+        },
+        {
+          "name": "大蔵委員会",
+          "count": 6
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 5
+        },
+        {
+          "name": "予算委員会公聴会",
+          "count": 1
+        },
+        {
+          "name": "予算委員会第二分科会",
+          "count": 1
+        },
+        {
+          "name": "内閣委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 91
+        },
+        {
+          "name": "衆議院",
+          "count": 83
+        }
+      ]
+    },
+    {
+      "session": 76,
+      "from": "1975-09-19",
+      "until": "1975-12-17",
+      "count": 9,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 6
+        },
+        {
+          "name": "本会議",
+          "count": 1
+        },
+        {
+          "name": "交通安全対策特別委員会",
+          "count": 1
+        },
+        {
+          "name": "沖縄及び北方問題に関する特別委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 7
+        },
+        {
+          "name": "参議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 77,
+      "from": "1976-01-28",
+      "until": "1976-05-21",
+      "count": 32,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 23
+        },
+        {
+          "name": "予算委員会",
+          "count": 6
+        },
+        {
+          "name": "本会議",
+          "count": 2
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 23
+        },
+        {
+          "name": "参議院",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "session": 78,
+      "from": "1976-10-05",
+      "until": "1976-10-28",
+      "count": 3,
+      "topMeetings": [
+        {
+          "name": "運輸委員会",
+          "count": 1
+        },
+        {
+          "name": "社会労働委員会",
+          "count": 1
+        },
+        {
+          "name": "法務委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 2
+        },
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 80,
+      "from": "1977-02-22",
+      "until": "1977-05-20",
+      "count": 23,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 11
+        },
+        {
+          "name": "予算委員会",
+          "count": 6
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 3
+        },
+        {
+          "name": "本会議",
+          "count": 3
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 17
+        },
+        {
+          "name": "参議院",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "session": 82,
+      "from": "1977-10-12",
+      "until": "1977-10-12",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "予算委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 83,
+      "from": "1977-12-15",
+      "until": "1977-12-15",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "決算委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 84,
+      "from": "1978-01-26",
+      "until": "1978-07-17",
+      "count": 31,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 16
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 6
+        },
+        {
+          "name": "予算委員会",
+          "count": 3
+        },
+        {
+          "name": "内閣委員会",
+          "count": 3
+        },
+        {
+          "name": "本会議",
+          "count": 2
+        },
+        {
+          "name": "逓信委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 18
+        },
+        {
+          "name": "参議院",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "session": 85,
+      "from": "1978-10-17",
+      "until": "1978-10-17",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 2
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 87,
+      "from": "1979-02-08",
+      "until": "1979-08-08",
+      "count": 42,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 19
+        },
+        {
+          "name": "外務委員会",
+          "count": 9
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 7
+        },
+        {
+          "name": "予算委員会",
+          "count": 3
+        },
+        {
+          "name": "本会議",
+          "count": 2
+        },
+        {
+          "name": "予算委員会第四分科会",
+          "count": 1
+        },
+        {
+          "name": "大蔵委員会税制及び税の執行に関する小委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 22
+        },
+        {
+          "name": "参議院",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "session": 91,
+      "from": "1980-01-29",
+      "until": "1980-05-07",
+      "count": 21,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 5
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 5
+        },
+        {
+          "name": "決算委員会",
+          "count": 4
+        },
+        {
+          "name": "本会議",
+          "count": 3
+        },
+        {
+          "name": "予算委員会",
+          "count": 3
+        },
+        {
+          "name": "予算委員会第四分科会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 14
+        },
+        {
+          "name": "参議院",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "session": 93,
+      "from": "1980-10-09",
+      "until": "1980-11-05",
+      "count": 14,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 10
+        },
+        {
+          "name": "本会議",
+          "count": 2
+        },
+        {
+          "name": "予算委員会",
+          "count": 1
+        },
+        {
+          "name": "法務委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 9
+        },
+        {
+          "name": "衆議院",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "session": 94,
+      "from": "1981-01-30",
+      "until": "1981-09-18",
+      "count": 91,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 31
+        },
+        {
+          "name": "予算委員会",
+          "count": 15
+        },
+        {
+          "name": "決算委員会",
+          "count": 14
+        },
+        {
+          "name": "法務委員会",
+          "count": 8
+        },
+        {
+          "name": "本会議",
+          "count": 6
+        },
+        {
+          "name": "法務委員会外務委員会社会労働委員会連合審査会",
+          "count": 6
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 5
+        },
+        {
+          "name": "予算委員会第二分科会",
+          "count": 2
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 63
+        },
+        {
+          "name": "参議院",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "session": 95,
+      "from": "1981-09-30",
+      "until": "1981-11-27",
+      "count": 46,
+      "topMeetings": [
+        {
+          "name": "行財政改革に関する特別委員会",
+          "count": 14
+        },
+        {
+          "name": "本会議",
+          "count": 13
+        },
+        {
+          "name": "地方行政委員会",
+          "count": 9
+        },
+        {
+          "name": "行財政改革に関する特別委員会地方行政委員会大蔵委員会文教委員会社会労働委員会農林水産委員会運輸委員会建設委員会連合審査会",
+          "count": 5
+        },
+        {
+          "name": "予算委員会",
+          "count": 3
+        },
+        {
+          "name": "社会労働委員会",
+          "count": 1
+        },
+        {
+          "name": "行財政改革に関する特別委員会公聴会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 28
+        },
+        {
+          "name": "参議院",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "session": 96,
+      "from": "1982-01-29",
+      "until": "1982-09-29",
+      "count": 31,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 16
+        },
+        {
+          "name": "本会議",
+          "count": 4
+        },
+        {
+          "name": "地方行政委員会",
+          "count": 3
+        },
+        {
+          "name": "逓信委員会",
+          "count": 2
+        },
+        {
+          "name": "予算委員会",
+          "count": 1
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 1
+        },
+        {
+          "name": "大蔵委員会",
+          "count": 1
+        },
+        {
+          "name": "法務委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 19
+        },
+        {
+          "name": "参議院",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "session": 97,
+      "from": "1982-12-16",
+      "until": "1982-12-16",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "予算委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 98,
+      "from": "1983-02-10",
+      "until": "1983-07-07",
+      "count": 16,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 9
+        },
+        {
+          "name": "大蔵委員会",
+          "count": 2
+        },
+        {
+          "name": "決算委員会",
+          "count": 2
+        },
+        {
+          "name": "予算委員会第一分科会",
+          "count": 1
+        },
+        {
+          "name": "地方行政委員会",
+          "count": 1
+        },
+        {
+          "name": "本会議",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 9
+        },
+        {
+          "name": "参議院",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "session": 100,
+      "from": "1983-09-22",
+      "until": "1983-09-22",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "予算委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 101,
+      "from": "1984-02-10",
+      "until": "1984-11-20",
+      "count": 42,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 26
+        },
+        {
+          "name": "予算委員会第四分科会",
+          "count": 5
+        },
+        {
+          "name": "本会議",
+          "count": 4
+        },
+        {
+          "name": "予算委員会",
+          "count": 3
+        },
+        {
+          "name": "法務委員会",
+          "count": 1
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 1
+        },
+        {
+          "name": "地方行政委員会",
+          "count": 1
+        },
+        {
+          "name": "議院運営委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 34
+        },
+        {
+          "name": "参議院",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "session": 102,
+      "from": "1984-12-04",
+      "until": "1985-06-18",
+      "count": 133,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 81
+        },
+        {
+          "name": "本会議",
+          "count": 27
+        },
+        {
+          "name": "社会労働委員会内閣委員会地方行政委員会大蔵委員会文教委員会農林水産委員会連合審査会",
+          "count": 7
+        },
+        {
+          "name": "議院運営委員会",
+          "count": 6
+        },
+        {
+          "name": "農林水産委員会",
+          "count": 3
+        },
+        {
+          "name": "大蔵委員会",
+          "count": 2
+        },
+        {
+          "name": "予算委員会",
+          "count": 2
+        },
+        {
+          "name": "地方行政委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 71
+        },
+        {
+          "name": "参議院",
+          "count": 62
+        }
+      ]
+    },
+    {
+      "session": 103,
+      "from": "1985-11-27",
+      "until": "1985-12-19",
+      "count": 6,
+      "topMeetings": [
+        {
+          "name": "農林水産委員会",
+          "count": 6
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 4
+        },
+        {
+          "name": "衆議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 104,
+      "from": "1986-02-20",
+      "until": "1986-05-21",
+      "count": 74,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 49
+        },
+        {
+          "name": "本会議",
+          "count": 12
+        },
+        {
+          "name": "議院運営委員会",
+          "count": 3
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 2
+        },
+        {
+          "name": "大蔵委員会内閣委員会地方行政委員会社会労働委員会農林水産委員会連合審査会",
+          "count": 2
+        },
+        {
+          "name": "予算委員会第四分科会",
+          "count": 1
+        },
+        {
+          "name": "大蔵委員会内閣委員会地方行政委員会文教委員会社会労働委員会農林水産委員会運輸委員会建設委員会連合審査会",
+          "count": 1
+        },
+        {
+          "name": "大蔵委員会内閣委員会地方行政委員会社会労働委員会運輸委員会連合審査会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 44
+        },
+        {
+          "name": "参議院",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "session": 108,
+      "from": "1987-05-14",
+      "until": "1987-05-27",
+      "count": 8,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 6
+        },
+        {
+          "name": "本会議",
+          "count": 2
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 5
+        },
+        {
+          "name": "参議院",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "session": 109,
+      "from": "1987-07-29",
+      "until": "1987-08-21",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "決算委員会",
+          "count": 1
+        },
+        {
+          "name": "地方行政委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 112,
+      "from": "1988-03-22",
+      "until": "1988-05-27",
+      "count": 10,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 7
+        },
+        {
+          "name": "本会議",
+          "count": 2
+        },
+        {
+          "name": "決算委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 7
+        },
+        {
+          "name": "衆議院",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "session": 113,
+      "from": "1988-12-13",
+      "until": "1988-12-20",
+      "count": 3,
+      "topMeetings": [
+        {
+          "name": "税制問題等に関する調査特別委員会",
+          "count": 3
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "session": 114,
+      "from": "1989-02-15",
+      "until": "1989-06-19",
+      "count": 17,
+      "topMeetings": [
+        {
+          "name": "大蔵委員会",
+          "count": 6
+        },
+        {
+          "name": "予算委員会",
+          "count": 6
+        },
+        {
+          "name": "本会議",
+          "count": 3
+        },
+        {
+          "name": "社会労働委員会",
+          "count": 2
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 9
+        },
+        {
+          "name": "衆議院",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "session": 116,
+      "from": "1989-10-27",
+      "until": "1989-12-15",
+      "count": 12,
+      "topMeetings": [
+        {
+          "name": "社会労働委員会",
+          "count": 6
+        },
+        {
+          "name": "本会議",
+          "count": 2
+        },
+        {
+          "name": "予算委員会",
+          "count": 1
+        },
+        {
+          "name": "決算委員会",
+          "count": 1
+        },
+        {
+          "name": "交通安全対策特別委員会",
+          "count": 1
+        },
+        {
+          "name": "内閣委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 7
+        },
+        {
+          "name": "衆議院",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "session": 118,
+      "from": "1990-03-26",
+      "until": "1990-05-30",
+      "count": 5,
+      "topMeetings": [
+        {
+          "name": "公職選挙法改正に関する調査特別委員会",
+          "count": 2
+        },
+        {
+          "name": "予算委員会",
+          "count": 1
+        },
+        {
+          "name": "予算委員会第三分科会",
+          "count": 1
+        },
+        {
+          "name": "予算委員会第四分科会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 4
+        },
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 120,
+      "from": "1990-12-17",
+      "until": "1991-06-04",
+      "count": 4,
+      "topMeetings": [
+        {
+          "name": "決算委員会",
+          "count": 3
+        },
+        {
+          "name": "予算委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 3
+        },
+        {
+          "name": "衆議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 122,
+      "from": "1991-12-17",
+      "until": "1991-12-17",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "決算委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 123,
+      "from": "1992-03-12",
+      "until": "1992-04-14",
+      "count": 5,
+      "topMeetings": [
+        {
+          "name": "厚生委員会",
+          "count": 3
+        },
+        {
+          "name": "予算委員会第二分科会",
+          "count": 1
+        },
+        {
+          "name": "地方行政委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 3
+        },
+        {
+          "name": "衆議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 126,
+      "from": "1993-04-16",
+      "until": "1993-04-26",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "厚生委員会",
+          "count": 1
+        },
+        {
+          "name": "決算委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 128,
+      "from": "1994-01-14",
+      "until": "1994-01-14",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "政治改革に関する特別委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 129,
+      "from": "1994-05-27",
+      "until": "1994-06-07",
+      "count": 3,
+      "topMeetings": [
+        {
+          "name": "決算委員会第二分科会",
+          "count": 1
+        },
+        {
+          "name": "予算委員会",
+          "count": 1
+        },
+        {
+          "name": "予算委員会第四分科会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "session": 130,
+      "from": "1994-09-16",
+      "until": "1994-09-16",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "決算委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 131,
+      "from": "1994-10-14",
+      "until": "1994-12-09",
+      "count": 12,
+      "topMeetings": [
+        {
+          "name": "厚生委員会",
+          "count": 8
+        },
+        {
+          "name": "税制改革に関する特別委員会",
+          "count": 2
+        },
+        {
+          "name": "予算委員会",
+          "count": 1
+        },
+        {
+          "name": "逓信委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 7
+        },
+        {
+          "name": "参議院",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "session": 132,
+      "from": "1995-03-10",
+      "until": "1995-06-15",
+      "count": 6,
+      "topMeetings": [
+        {
+          "name": "厚生委員会",
+          "count": 6
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 5
+        },
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 134,
+      "from": "1995-11-08",
+      "until": "1995-12-14",
+      "count": 3,
+      "topMeetings": [
+        {
+          "name": "厚生委員会",
+          "count": 3
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 2
+        },
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 136,
+      "from": "1996-03-25",
+      "until": "1996-06-18",
+      "count": 8,
+      "topMeetings": [
+        {
+          "name": "厚生委員会",
+          "count": 6
+        },
+        {
+          "name": "本会議",
+          "count": 1
+        },
+        {
+          "name": "決算委員会第二分科会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 6
+        },
+        {
+          "name": "参議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 139,
+      "from": "1996-12-04",
+      "until": "1996-12-17",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "本会議",
+          "count": 1
+        },
+        {
+          "name": "厚生委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 1
+        },
+        {
+          "name": "衆議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 140,
+      "from": "1997-04-04",
+      "until": "1997-05-26",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "厚生委員会",
+          "count": 1
+        },
+        {
+          "name": "決算委員会第二分科会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 142,
+      "from": "1998-02-26",
+      "until": "1998-06-17",
+      "count": 7,
+      "topMeetings": [
+        {
+          "name": "予算委員会第四分科会",
+          "count": 3
+        },
+        {
+          "name": "予算委員会",
+          "count": 2
+        },
+        {
+          "name": "予算委員会公聴会",
+          "count": 1
+        },
+        {
+          "name": "法務委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 6
+        },
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 144,
+      "from": "1998-12-04",
+      "until": "1998-12-04",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "本会議",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 145,
+      "from": "1999-02-18",
+      "until": "1999-08-05",
+      "count": 9,
+      "topMeetings": [
+        {
+          "name": "国民福祉委員会",
+          "count": 3
+        },
+        {
+          "name": "厚生委員会",
+          "count": 2
+        },
+        {
+          "name": "地方行政・警察委員会",
+          "count": 2
+        },
+        {
+          "name": "予算委員会第二分科会",
+          "count": 1
+        },
+        {
+          "name": "決算行政監視委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 5
+        },
+        {
+          "name": "衆議院",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "session": 146,
+      "from": "1999-11-24",
+      "until": "1999-12-10",
+      "count": 4,
+      "topMeetings": [
+        {
+          "name": "厚生委員会",
+          "count": 3
+        },
+        {
+          "name": "本会議",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 3
+        },
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 147,
+      "from": "2000-02-22",
+      "until": "2000-05-25",
+      "count": 14,
+      "topMeetings": [
+        {
+          "name": "国民福祉委員会",
+          "count": 6
+        },
+        {
+          "name": "厚生委員会",
+          "count": 6
+        },
+        {
+          "name": "予算委員会",
+          "count": 2
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 7
+        },
+        {
+          "name": "参議院",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "session": 150,
+      "from": "2000-11-29",
+      "until": "2000-11-29",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "政治倫理の確立及び公職選挙法改正に関する特別委員会",
+          "count": 2
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 153,
+      "from": "2001-10-31",
+      "until": "2001-10-31",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 154,
+      "from": "2002-02-27",
+      "until": "2002-03-20",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 2
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 1
+        },
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 155,
+      "from": "2002-11-06",
+      "until": "2002-12-06",
+      "count": 4,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 2
+        },
+        {
+          "name": "共生社会に関する調査会",
+          "count": 1
+        },
+        {
+          "name": "決算行政監視委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 2
+        },
+        {
+          "name": "参議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 156,
+      "from": "2003-02-18",
+      "until": "2003-05-19",
+      "count": 7,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 3
+        },
+        {
+          "name": "予算委員会第八分科会",
+          "count": 2
+        },
+        {
+          "name": "本会議",
+          "count": 1
+        },
+        {
+          "name": "決算行政監視委員会第三分科会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 6
+        },
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 157,
+      "from": "2003-10-07",
+      "until": "2003-10-07",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "総務委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 159,
+      "from": "2004-01-23",
+      "until": "2004-05-26",
+      "count": 9,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 4
+        },
+        {
+          "name": "予算委員会第五分科会",
+          "count": 2
+        },
+        {
+          "name": "財務金融委員会",
+          "count": 2
+        },
+        {
+          "name": "本会議",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 6
+        },
+        {
+          "name": "参議院",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "session": 161,
+      "from": "2004-11-04",
+      "until": "2004-12-01",
+      "count": 6,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 6
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 4
+        },
+        {
+          "name": "参議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 162,
+      "from": "2005-03-09",
+      "until": "2005-07-28",
+      "count": 11,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 10
+        },
+        {
+          "name": "郵政民営化に関する特別委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 10
+        },
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 163,
+      "from": "2005-10-18",
+      "until": "2005-10-26",
+      "count": 3,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 2
+        },
+        {
+          "name": "本会議",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "session": 164,
+      "from": "2006-03-24",
+      "until": "2006-03-29",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "予算委員会",
+          "count": 1
+        },
+        {
+          "name": "厚生労働委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 165,
+      "from": "2006-10-25",
+      "until": "2006-11-01",
+      "count": 4,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 4
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 3
+        },
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 166,
+      "from": "2007-03-20",
+      "until": "2007-03-20",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 169,
+      "from": "2008-03-21",
+      "until": "2008-03-21",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "予算委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 171,
+      "from": "2009-06-22",
+      "until": "2009-06-22",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "決算委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 174,
+      "from": "2010-02-10",
+      "until": "2010-05-25",
+      "count": 10,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 9
+        },
+        {
+          "name": "国民生活・経済に関する調査会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "session": 177,
+      "from": "2011-06-01",
+      "until": "2011-06-01",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 180,
+      "from": "2012-05-30",
+      "until": "2012-08-02",
+      "count": 4,
+      "topMeetings": [
+        {
+          "name": "社会保障と税の一体改革に関する特別委員会",
+          "count": 4
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 2
+        },
+        {
+          "name": "参議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 183,
+      "from": "2013-04-15",
+      "until": "2013-06-21",
+      "count": 3,
+      "topMeetings": [
+        {
+          "name": "予算委員会第二分科会",
+          "count": 1
+        },
+        {
+          "name": "憲法審査会",
+          "count": 1
+        },
+        {
+          "name": "決算行政監視委員会第三分科会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "session": 186,
+      "from": "2014-02-06",
+      "until": "2014-04-11",
+      "count": 5,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 2
+        },
+        {
+          "name": "予算委員会",
+          "count": 1
+        },
+        {
+          "name": "予算委員会第五分科会",
+          "count": 1
+        },
+        {
+          "name": "内閣委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 3
+        },
+        {
+          "name": "参議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 187,
+      "from": "2014-11-06",
+      "until": "2014-11-06",
+      "count": 1,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 189,
+      "from": "2015-04-15",
+      "until": "2015-08-04",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "国民生活のためのデフレ脱却及び財政再建に関する調査会",
+          "count": 1
+        },
+        {
+          "name": "内閣委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 190,
+      "from": "2016-04-06",
+      "until": "2016-05-24",
+      "count": 12,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 9
+        },
+        {
+          "name": "決算委員会",
+          "count": 3
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 8
+        },
+        {
+          "name": "衆議院",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "session": 192,
+      "from": "2016-11-04",
+      "until": "2016-11-18",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 2
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 193,
+      "from": "2017-03-31",
+      "until": "2017-05-16",
+      "count": 4,
+      "topMeetings": [
+        {
+          "name": "決算行政監視委員会",
+          "count": 2
+        },
+        {
+          "name": "厚生労働委員会",
+          "count": 1
+        },
+        {
+          "name": "総務委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 3
+        },
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 196,
+      "from": "2018-05-22",
+      "until": "2018-07-13",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 1
+        },
+        {
+          "name": "内閣委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 198,
+      "from": "2019-03-12",
+      "until": "2019-05-21",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "内閣委員会",
+          "count": 1
+        },
+        {
+          "name": "文教科学委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 201,
+      "from": "2020-04-06",
+      "until": "2020-04-13",
+      "count": 5,
+      "topMeetings": [
+        {
+          "name": "決算行政監視委員会第三分科会",
+          "count": 4
+        },
+        {
+          "name": "決算委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 4
+        },
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 203,
+      "from": "2020-12-02",
+      "until": "2020-12-02",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 2
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 204,
+      "from": "2021-04-13",
+      "until": "2021-04-22",
+      "count": 2,
+      "topMeetings": [
+        {
+          "name": "財政金融委員会",
+          "count": 1
+        },
+        {
+          "name": "厚生労働委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "session": 208,
+      "from": "2022-02-25",
+      "until": "2022-06-15",
+      "count": 13,
+      "topMeetings": [
+        {
+          "name": "内閣委員会",
+          "count": 6
+        },
+        {
+          "name": "予算委員会",
+          "count": 3
+        },
+        {
+          "name": "本会議",
+          "count": 3
+        },
+        {
+          "name": "厚生労働委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 7
+        },
+        {
+          "name": "衆議院",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "session": 210,
+      "from": "2022-11-18",
+      "until": "2022-12-01",
+      "count": 6,
+      "topMeetings": [
+        {
+          "name": "予算委員会",
+          "count": 5
+        },
+        {
+          "name": "厚生労働委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 3
+        },
+        {
+          "name": "参議院",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "session": 211,
+      "from": "2023-01-26",
+      "until": "2023-06-01",
+      "count": 26,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 10
+        },
+        {
+          "name": "予算委員会第五分科会",
+          "count": 4
+        },
+        {
+          "name": "予算委員会",
+          "count": 3
+        },
+        {
+          "name": "地域活性化・こども政策・デジタル社会形成に関する特別委員会",
+          "count": 3
+        },
+        {
+          "name": "本会議",
+          "count": 2
+        },
+        {
+          "name": "内閣委員会",
+          "count": 2
+        },
+        {
+          "name": "決算行政監視委員会第三分科会",
+          "count": 1
+        },
+        {
+          "name": "決算委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 20
+        },
+        {
+          "name": "参議院",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "session": 212,
+      "from": "2023-11-14",
+      "until": "2023-12-13",
+      "count": 3,
+      "topMeetings": [
+        {
+          "name": "地域活性化・こども政策・デジタル社会形成に関する特別委員会",
+          "count": 1
+        },
+        {
+          "name": "予算委員会",
+          "count": 1
+        },
+        {
+          "name": "国民生活・経済及び地方に関する調査会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 2
+        },
+        {
+          "name": "衆議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 213,
+      "from": "2024-02-01",
+      "until": "2024-06-11",
+      "count": 8,
+      "topMeetings": [
+        {
+          "name": "本会議",
+          "count": 2
+        },
+        {
+          "name": "法務委員会",
+          "count": 2
+        },
+        {
+          "name": "地域活性化・こども政策・デジタル社会形成に関する特別委員会",
+          "count": 1
+        },
+        {
+          "name": "国土交通委員会",
+          "count": 1
+        },
+        {
+          "name": "内閣委員会",
+          "count": 1
+        },
+        {
+          "name": "厚生労働委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "参議院",
+          "count": 5
+        },
+        {
+          "name": "衆議院",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "session": 216,
+      "from": "2024-12-02",
+      "until": "2024-12-18",
+      "count": 3,
+      "topMeetings": [
+        {
+          "name": "本会議",
+          "count": 2
+        },
+        {
+          "name": "厚生労働委員会",
+          "count": 1
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "session": 217,
+      "from": "2025-04-08",
+      "until": "2025-06-10",
+      "count": 24,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 14
+        },
+        {
+          "name": "地域活性化・こども政策・デジタル社会形成に関する特別委員会",
+          "count": 10
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 23
+        },
+        {
+          "name": "参議院",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "session": 219,
+      "from": "2025-11-05",
+      "until": "2025-12-17",
+      "count": 45,
+      "topMeetings": [
+        {
+          "name": "厚生労働委員会",
+          "count": 13
+        },
+        {
+          "name": "予算委員会",
+          "count": 10
+        },
+        {
+          "name": "こども・子育て・若者活躍に関する特別委員会",
+          "count": 10
+        },
+        {
+          "name": "本会議",
+          "count": 5
+        },
+        {
+          "name": "内閣委員会",
+          "count": 3
+        },
+        {
+          "name": "地域活性化・こども政策・デジタル社会形成に関する特別委員会",
+          "count": 2
+        },
+        {
+          "name": "議院運営委員会",
+          "count": 2
+        }
+      ],
+      "topHouses": [
+        {
+          "name": "衆議院",
+          "count": 31
+        },
+        {
+          "name": "参議院",
+          "count": 14
+        }
+      ]
+    }
+  ]
+}

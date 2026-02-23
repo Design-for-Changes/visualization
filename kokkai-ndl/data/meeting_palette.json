@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "id": "plenary",
+      "label": "本会議",
+      "match": ["本会議"],
+      "color": "rgba(161, 138, 52, 0.22)"
+    },
+    {
+      "id": "budget",
+      "label": "予算",
+      "match": ["予算"],
+      "color": "rgba(90, 120, 170, 0.22)"
+    },
+    {
+      "id": "welfare",
+      "label": "厚生・社会",
+      "match": ["厚生", "社会"],
+      "color": "rgba(156, 85, 85, 0.22)"
+    },
+    {
+      "id": "labor",
+      "label": "労働",
+      "match": ["労働"],
+      "color": "rgba(78, 140, 106, 0.22)"
+    },
+    {
+      "id": "cabinet",
+      "label": "内閣",
+      "match": ["内閣"],
+      "color": "rgba(88, 110, 140, 0.22)"
+    },
+    {
+      "id": "justice",
+      "label": "法務",
+      "match": ["法務"],
+      "color": "rgba(120, 92, 165, 0.22)"
+    },
+    {
+      "id": "education",
+      "label": "文教",
+      "match": ["文教"],
+      "color": "rgba(60, 125, 120, 0.22)"
+    },
+    {
+      "id": "audit",
+      "label": "決算",
+      "match": ["決算"],
+      "color": "rgba(140, 110, 70, 0.22)"
+    }
+  ],
+  "default": {
+    "id": "other",
+    "label": "その他",
+    "color": "rgba(255, 255, 255, 0.10)"
+  }
+}
