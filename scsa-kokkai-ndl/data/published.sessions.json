@@ -1,6 +1,6 @@
 {
   "source": "published.speeches.json (derived)",
-  "generatedAt": "2026-02-24T08:36:17.676Z",
+  "generatedAt": "2026-02-24T09:08:40.276Z",
   "keywords": [
     "特別児童扶養手当",
     "重度精神薄弱児扶養手当",
@@ -28,8 +28,8 @@
       "session": 46,
       "from": "1964-01-25",
       "until": "1964-10-01",
-      "countAll": 61,
-      "countVisible": 37
+      "countAll": 65,
+      "countVisible": 41
     },
     {
       "session": 47,

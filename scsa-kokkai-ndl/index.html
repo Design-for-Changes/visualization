@@ -8,7 +8,48 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet" />
     <title>Kokkai NDL</title>
-    <script type="module" crossorigin src="/visualization/scsa-kokkai-ndl/assets/index-oKKzlT-C.js"></script>
+    <script>
+      // Cache-bust for GitHub Pages (Chrome can keep old index/assets aggressively).
+      // We fetch build.meta.json with no-store and, if it changed, redirect with ?v=....
+      (function () {
+        try {
+          var key = "kokkai-ndl:buildV";
+          var base = location.pathname.endsWith("/")
+            ? location.pathname
+            : location.pathname.replace(/\/[^/]*$/, "/");
+          var metaUrl = base + "data/build.meta.json";
+          fetch(metaUrl, { cache: "no-store" })
+            .then(function (r) {
+              if (!r.ok) throw new Error("HTTP " + r.status);
+              return r.json();
+            })
+            .then(function (meta) {
+              var v = String((meta && (meta.v || meta.generatedAt)) || "").trim();
+              if (!v) return;
+              var u = new URL(location.href);
+              var current = u.searchParams.get("v") || "";
+              if (current === v) {
+                try {
+                  localStorage.setItem(key, v);
+                } catch {}
+                return;
+              }
+              var prev = "";
+              try {
+                prev = localStorage.getItem(key) || "";
+              } catch {}
+              if (prev && prev === v) return;
+              try {
+                localStorage.setItem(key, v);
+              } catch {}
+              u.searchParams.set("v", v);
+              location.replace(u.toString());
+            })
+            .catch(function () {});
+        } catch {}
+      })();
+    </script>
+    <script type="module" crossorigin src="/visualization/scsa-kokkai-ndl/assets/index-DTiVxlGG.js"></script>
     <link rel="stylesheet" crossorigin href="/visualization/scsa-kokkai-ndl/assets/index-I7FFsoPL.css">
   </head>
   <body>
