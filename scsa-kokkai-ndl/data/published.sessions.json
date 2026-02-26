@@ -1,6 +1,6 @@
 {
   "source": "published.speeches.json (derived)",
-  "generatedAt": "2026-02-25T13:51:47.220Z",
+  "generatedAt": "2026-02-26T13:29:41.475Z",
   "keywords": [
     "特別児童扶養手当",
     "重度精神薄弱児扶養手当",
@@ -64,63 +64,63 @@
       "from": "1966-11-16",
       "until": "1966-11-16",
       "countAll": 1,
-      "countVisible": 1
+      "countVisible": 0
     },
     {
       "session": 55,
       "from": "1967-04-19",
       "until": "1967-07-21",
       "countAll": 45,
-      "countVisible": 38
+      "countVisible": 3
     },
     {
       "session": 57,
       "from": "1967-12-12",
       "until": "1967-12-14",
       "countAll": 2,
-      "countVisible": 2
+      "countVisible": 0
     },
     {
       "session": 58,
       "from": "1968-02-07",
       "until": "1968-05-22",
-      "countAll": 28,
-      "countVisible": 28
+      "countAll": 29,
+      "countVisible": 7
     },
     {
       "session": 59,
       "from": "1968-08-08",
       "until": "1968-11-29",
       "countAll": 2,
-      "countVisible": 2
+      "countVisible": 0
     },
     {
       "session": 61,
       "from": "1969-02-24",
       "until": "1969-07-30",
-      "countAll": 121,
-      "countVisible": 109
+      "countAll": 123,
+      "countVisible": 19
     },
     {
       "session": 62,
       "from": "1969-12-01",
       "until": "1969-12-02",
       "countAll": 19,
-      "countVisible": 15
+      "countVisible": 0
     },
     {
       "session": 63,
       "from": "1970-02-16",
       "until": "1970-11-09",
-      "countAll": 34,
-      "countVisible": 34
+      "countAll": 36,
+      "countVisible": 10
     },
     {
       "session": 65,
       "from": "1971-02-17",
       "until": "1971-05-20",
       "countAll": 45,
-      "countVisible": 45
+      "countVisible": 44
     },
     {
       "session": 66,
